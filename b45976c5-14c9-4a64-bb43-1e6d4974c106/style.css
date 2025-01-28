@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.head{
+    color: #000000;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.sp{
+    color: #ff6b6b;
+}
+.i:hover{
+    text-decoration: underline;
+    text-decoration-color: #ff6b6b;
+    color: #ff6b6b;
+}
+.cou{
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg");
+    background-size: cover;
+    text-align: center;
+    width: 100vw;
+    height: 50vh;
+}
+.sec{
+    color: #ff6b6b;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+.sec1{
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 40px;
+}
+.products{
+    margin-top: 30px;
+    padding: 30px;
+}
+.para{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+.view{
+    font-size: 15px;
+    font-weight: bold;
+    color: #ff6b6b;
+}
+.card{
+    width: 30vw;
+    padding: 20px;
+}
+.l{
+    font-weight: bold;
+    font-family: Roboto;
+}
+.about{
+    margin-top: 30px;
+    padding: 30px;
+}
+.ap{
+    font-family: Roboto;
+    color: #00bcd4;
+    font-size: 30px;
+    font-weight: bold;
+}
+.lowe{
+    margin-top: 30px;
+}
+.lowp{
+    color: #f4f4f4;
+}
+li{
+    color: #f4f4f4;
+}
+.b{
+    color: #ffffff;
+    background-color: #ff6b6b;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+.foh{
+    color: #00bcd4;
+}
+.last{
+    font-weight: 900;
+}
+.dash{
+    background-color: #f4f4f4;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.foot{
+    text-align: center;
+    padding: 30px;
+}

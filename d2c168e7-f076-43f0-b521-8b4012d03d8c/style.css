@@ -1,0 +1,415 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.input-para{
+    color: #1b998b;
+}
+.contact-us-button{
+    background-color: #1b998b;
+}
+@media (max-width: 767px){
+    .first-bg{
+        background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642096/atlas/assets/img/banner-bk.jpg');
+        height: 60vh;
+        padding: 50px;
+        background-size: cover;
+    }
+    .first-align{
+        display: flex;
+        justify-content: space-between;
+    }
+    .first-logo{
+        height: 80px;
+        width: 80px;
+    }
+    .first-matter{
+        text-align: center;
+    }
+    .first-head{
+        color: #ffffff;
+        font-size: 55px;
+    }
+    .first-para{
+        color: #ffffff;
+        margin-top: 25px;
+    }
+    .first-matter-para{
+        color: #ffffff;
+    }
+    .first-button{
+        width: 130px;
+        height: 40px;
+        border-radius: 20px;
+        background-color: #1b998b;
+    }
+    .protection-section{
+        padding: 40px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .protect-card{
+        margin-bottom: 20px;
+    }
+    .tali-section{
+        text-align: center;
+        padding: 40px;
+    }
+    .tali-button,
+    .sar-button{
+        width: 130px;
+        height: 40px;
+        border-radius: 20px;
+        background-color: #162447;
+        color: #ffffff;
+    }
+    .tali-laptop-image{
+        width: 70vw;
+        margin-bottom: 70px;
+    }
+    .sar-section{
+        background-color: #1b998b;
+        height: 100vh;
+        text-align: center;
+        padding: 40px;
+    }
+    .sar-tab-image{
+        width: 70vw;
+        margin-bottom: 70px;
+        margin-top: 20px;
+    }
+    .cop-section{
+        padding: 40px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .cop-card1{
+        padding: 40px;
+    }
+    .cop-card1-price{
+        font-weight: bold;
+    }
+    .price{
+        font-size: 40px;
+    }
+    .cop1-button{
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #000000;
+        color: #000000;
+        font-weight: bold;
+    }
+    .cop-paras{
+        margin-bottom: 30px;
+    }
+    .cop-card2{
+        padding: 40px;
+        background-color: #162447;
+    }
+    .cop-card2-head{
+        color: #ffffff;
+    }
+    .cop2-paras{
+        color: #ffffff;
+    }
+    .cop-card2-price{
+        color: #ffffff;
+    }
+    .cop2-button{
+        background-color: #1b998b;
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #000000;
+        color: #000000;
+        font-weight: bold;
+    }
+    .cop-card3{
+        padding: 40px;
+    }
+    .cop-card3-price{
+        font-weight: bold;
+    }
+    .cop3-button{
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #000000;
+        color: #000000;
+        font-weight: bold;
+    }
+    .company-logos{
+        background-color: #d9edf7;
+        padding: 50px;
+        text-align: center;
+    }
+    .company-logo{
+        display: flex;
+        margin-bottom: 20px;
+    }
+    .company-logo-image{
+        margin-right: 40px;
+        width: 120px;
+    }
+    .contact-us-section{
+        padding: 40px;
+        background-color: #162447;
+    }
+    .contact-head{
+        color: #ffffff;
+        margin-bottom: 20px;
+    }
+    .contact-para{
+        color: #ffffff;
+        margin-bottom: 30px;
+    }
+    .contact-para-details{
+        color: #ffffff;
+    }
+    .footer{
+        padding: 50px;
+        background-color: #1f4068;
+        text-align: center;
+    }
+    .footer-para{
+        color: #ffffff;
+    }
+    .social-media{
+        display: flex;
+    }
+    .social-matter{
+        display: flex;
+        justify-content: center;
+    }
+    .fab{
+        background-color: #ffffff;
+        height: 50px;
+        width: 50px;
+        border-radius: 25px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-right: 15px;
+        font-size: 25px;
+    }
+}
+@media (min-width: 768px){
+    .first-bg{
+        background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642105/atlas/assets/img/contact-bk.jpg');
+        background-size: cover;
+        height: 55vh;
+        padding: 80px;
+    }
+    .first-logo{
+        width: 120px;
+    }
+    .first-para{
+        color: #ffffff;
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .first-align{
+        display: flex;
+        justify-content: space-between;
+    }
+    .first-head{
+        color: #ffffff;
+        font-size: 50px;
+    }
+    .first-button{
+        width: 150px;
+        height: 50px;
+        border-radius: 30px;
+        background-color: #1b998b;
+    }
+    .first-matter-para{
+        color: #ffffff;
+        margin-bottom: 40px;
+    }
+    .protection-section{
+        padding: 40px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .protect-card{
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+    .protect-cards{
+        display: flex;
+    }
+    .tali-section{
+        padding: 40px;
+    }
+    .tali-button,
+    .sar-button{
+        width: 130px;
+        height: 40px;
+        border-radius: 20px;
+        background-color: #162447;
+        color: #ffffff;
+    }
+    .tali-align{
+        display: flex;
+    }
+    .tali-laptop-image{
+        height: 250px;
+        width: 350px;
+    }
+    .sar-section{
+        background-color: #1b998b;
+        padding: 40px;
+    }
+    .sar-tab-image{
+        width: 30vw;
+        margin-bottom: 70px;
+        margin-top: 20px;
+        order: 1;
+    }
+    .sar-matter{
+        order: 2;
+    }
+    .sar-align{
+        display: flex;
+    }
+    .cop-section{
+        padding: 40px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .cop-card1{
+        padding: 40px;
+        width: 300px;
+    }
+    .cop-card1-price{
+        font-weight: bold;
+    }
+    .price{
+        font-size: 40px;
+    }
+    .cop-head{
+        margin-bottom: 40px;
+    }
+    .cop1-button{
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #000000;
+        color: #000000;
+        font-weight: bold;
+    }
+    .cop-paras{
+        margin-bottom: 30px;
+    }
+    .cop-card2{
+        padding: 40px;
+        background-color: #162447;
+        width: 300px;
+    }
+    .cop-card2-head{
+        color: #ffffff;
+    }
+    .cop2-paras{
+        color: #ffffff;
+    }
+    .cop-card2-price{
+        color: #ffffff;
+    }
+    .cop2-button{
+        background-color: #1b998b;
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #000000;
+        color: #000000;
+        font-weight: bold;
+    }
+    .cop-card3{
+        padding: 40px;
+    }
+    .cop-card3-price{
+        font-weight: bold;
+    }
+    .cop3-button{
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #000000;
+        color: #000000;
+        font-weight: bold;
+    }
+    .cop-cards{
+        display: flex;
+    }
+    .company-logos{
+        background-color: #d9edf7;
+        padding: 40px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+    }
+    .company-logo{
+        display: flex;
+        margin-bottom: 20px;
+    }
+    .company-logo-image{
+        margin-right: 40px;
+        width: 80px;
+    }
+    .contact-us-section{
+        padding: 40px;
+        background-color: #162447;
+    }
+    .contact-head{
+        color: #ffffff;
+        margin-bottom: 20px;
+    }
+    .contact-para{
+        color: #ffffff;
+        margin-bottom: 30px;
+    }
+    .contact-para-details{
+        color: #ffffff;
+    }
+    .footer{
+        padding: 50px;
+        background-color: #1f4068;
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+    }
+    .footer-para{
+        color: #ffffff;
+        margin-top: 20px;
+    }
+    .social-media{
+        display: flex;
+    }
+    .social-matter{
+        display: flex;
+        justify-content: center;
+    }
+    .fab{
+        background-color: #ffffff;
+        height: 50px;
+        width: 50px;
+        border-radius: 25px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-right: 15px;
+        font-size: 25px;
+    }
+}

@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.con1 {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697121/speed/assets/images/banner-bg.jpg");
+    height: 94vh;
+    width: 100vw;
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.navbar-first {
+    width: 80px;
+}
+
+.header-con1-align {
+    display: flex;
+    justify-content: space-around;
+}
+
+.con1-content {
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+.col1-second-head-1 {
+    font-size: 50px;
+    color: orange;
+}
+
+.col1-second-head-2 {
+    font-size: 50px;
+    color: white;
+}
+
+.col1-second-para {
+    color: white;
+
+}
+
+.col1-second-button-1 {
+    background-color: orange;
+    height: 60px;
+    color: white;
+    width: 160px;
+    margin-right: 20px;
+}
+
+.col1-second-button-2 {
+    background-color: black;
+    height: 60px;
+    color: white;
+    width: 160px;
+}
+
+.col1-img {
+    height: 25vh;
+    margin-top: 10px;
+}
+
+.con2 {}
+
+.con2-image {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697119/speed/assets/images/about-img1.jpg");
+    margin-left: 15vw;
+    background-size: cover;
+    height: 30vh;
+    width: 70%;
+}
+
+.con2-head {
+    font-size: 25px;
+}
+
+.con2-con2 {
+    text-align: center;
+    margin-top: 23vh;
+}
+
+.con2-con2-button {
+    color: white;
+    background-color: blue;
+    height: 30px;
+    width: 60px;
+}
+
+.con3 {
+    padding-top: 4vh;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+.con3-head {
+    margin-bottom: 30px;
+}
+
+.con3 {}
+
+.con3-img {
+    height: 40vh;
+    width: 70vw;
+    padding-left: 15vw;
+}
+
+.con4 {
+    text-align: center;
+}
+
+.con4-button {
+    margin-top: 20px;
+}
+
+.con4-para {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.con5 {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697122/speed/assets/images/contact-bg.jpg");
+    background-size: cover;
+    height: 90vh;
+    margin-top: 10vh;
+}
+
+.name-input {
+    width: 60vw;
+    height: 50px;
+    margin-left: 15vw;
+    margin-top: 15vh;
+}
+
+.email-input {
+    width: 60vw;
+    height: 50px;
+    margin-left: 15vw;
+    margin-top: 5vh;
+}
+
+.phone-input {
+    width: 60vw;
+    height: 50px;
+    margin-left: 15vw;
+    margin-top: 5vh;
+}
+
+.last-input {
+    margin-top: 5vh;
+    height: 140px;
+    width: 60vw;
+    margin-left: 15vw;
+}
+
+.con5-button {
+    margin-top: 5vh;
+    margin-left: 35vw;
+    height: 60px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    width: 120px;
+}
+
+.con6-1 {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.con6 {
+    text-align: center;
+    padding-bottom: 10vw;
+    padding-left: 10vh;
+    padding-right: 10vw;
+}
+
+.last-con {
+    color: white;
+}
+
+.con6-1-imae {
+    margin-left: 73vw;
+}
+
+.head-con7-1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.last-con {
+    background-color: blue;
+    padding: 10vw;
+}

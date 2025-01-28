@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.mainpage {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821262/technology/assets/images/slider.jpg"), linear-gradient(black, black);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+    width: 100vw;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.h2 {
+    color: #0056b3;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.h3 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.timebox {
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0056b3;
+    padding: 3px;
+    height: 85px;
+    width: 85px;
+    margin: 12px;
+}
+
+.timeh1 {
+    color: white;
+    font-family: "Sans-Serif";
+    margin-bottom: 0px;
+}
+
+.timepara {
+    color: #0056b3;
+}
+
+.emailbox {
+    height: 40px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0056b3;
+}
+
+.email {
+    color: lightgrey;
+}
+
+.subscribe {
+    background-color: #0056b3;
+    height: 100%;
+    color: white;
+}
+
+i {
+    color: #0056b3;
+}
+
+.iconbox {
+    border-width: 2px;
+    border-color: #0056b3;
+    border-style: solid;
+    padding: 4px;
+    text-align: center;
+    margin: 5px;
+    height: 36px;
+    width: 36px;
+}
+
+/*secondpage*/
+.h21 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.h22 {
+    font-size: 32px;
+    color: grey;
+}
+
+.line {
+    width: 120px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00bcd4;
+    height: 0px;
+}
+
+.gift {
+    align-items: center;
+}
+
+.iconbox2 {
+    border-color: #00bcd4;
+    border-width: 2px;
+    border-style: solid;
+    padding: 4px;
+    text-align: center;
+    margin: 5px;
+    height: 36px;
+    width: 36px;
+}
+
+.i2 {
+    color: #00bcd4;
+
+}
+
+.iconbox3 {
+    border-color: #00bcd4;
+    border-width: 2px;
+    border-style: solid;
+    padding: 8px;
+    text-align: center;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+}
+
+.featureh {
+    font-size: 18px;
+}
+
+.featurep {
+    font-size: 13px;
+    color: grey;
+}
+
+/*thirdpage*/
+.aboutus {
+    background-color: black;
+}
+
+.h31 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 34px;
+    color: white;
+}
+
+.h32 {
+    font-size: 32px;
+    color: grey;
+}
+
+.p31 {
+    color: grey;
+}
+
+.imgg {
+    height: 200px;
+    width: 200px;
+    border-color: #00bcd4;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.writerh {
+    font-size: 18px;
+    color: white;
+    margin: 0;
+    font-weight: bold;
+}
+
+.writerp {
+    font-size: 18px;
+    color: #00bcd4;
+}
+/*contact*/
+.contactusbox{
+    text-align: left;
+    border-color: #00bcd4;
+    border-width: 2px;
+    border-style: solid;
+    height: 50px;
+    margin: 8px;
+    font-size: 14px;
+}
+.contactusbox2{
+    text-align: left;
+    border-color: #00bcd4;
+    border-width: 2px;
+    border-style: solid;
+    height: 180px;
+    margin: 8px;
+    font-size: 14px;
+}
+.bbb{
+    color: white;
+    background-color: #00bcd4;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    height: 60px;
+}
+span{
+  color: #00bcd4;
+  font-weight: 600;
+}

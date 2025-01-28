@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.landpage {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641277/entro/assets/images/gallery1.jpg');
+    background-size: cover;
+    text-align: center;
+}
+
+.headertext {
+    color: white;
+    font-weight: bold;
+}
+
+.lndcont {
+    color: white;
+}
+
+.cont1 {
+    padding: 15px;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.button2 {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.nav {
+    background-color: #e4e6e5;
+}
+
+.page {
+    margin: 0px;
+}
+
+.aboutuscont {
+    padding: 30px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.abtimg {
+    height: 50vh;
+    width: 50vh;
+}
+
+.aboutus {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641274/entro/assets/images/about_bg.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.upimg {
+    width: 100vw;
+}
+
+.gallery {
+    width: 100vw;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.logo {
+    height: 50px;
+    width: 100px;
+}
+.web{
+    margin:0px;
+    padding:0px;
+}
+.gallerycont {
+  padding-left: 200px;
+}
+
+.footer {
+    background-color: #161616;
+    text-align: center;
+}

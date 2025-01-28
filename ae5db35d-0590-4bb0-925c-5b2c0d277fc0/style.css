@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #f4f4f4;
+}
+
+.logo-color {
+    color: #ff6b6b;
+}
+
+.nav-bar-logo-container {
+    font-weight: bold;
+}
+
+#nav-item1 {
+    color: #ff6b6b;
+    text-decoration: underline;
+}
+
+#nav-item2,
+#nav-item3,
+#nav-item4 {
+    color: #000000;
+}
+
+.banner-image-heading {
+    color: #ffffff;
+}
+
+.banner-image-para {
+    color: #ff6b6b;
+    font-weight: 500;
+}
+
+.section-container {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg');
+    height: 100%;
+    width: 100%;
+}
+
+.container-card {
+    border-color: #f4f4f4;
+    border-radius: 2px;
+    border-style: solid;
+    height: 100%;
+
+}
+
+.card-image {
+    height: 60%;
+    width: 100%;
+}
+
+.rating-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.price {
+    color: #000000;
+    font-weight: bold;
+}
+
+.product-name {
+    color: #00bcd4;
+}
+
+.about-section {
+    margin: 10px;
+}
+
+.list-items {
+    list-style-type: square;
+}
+
+.about-button {
+    background-color: #ff6b6b;
+    color: #ffffff;
+    border-width: 0px;
+    height: 40px;
+    width: 100px;
+    border-radius: 2px;
+}

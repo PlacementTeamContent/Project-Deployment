@@ -1,0 +1,305 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642096/atlas/assets/img/banner-bk.jpg");
+    background-size: cover;
+}
+
+.logo {
+    height: 50px;
+    margin: 60px;
+}
+
+.logo-text {
+    color: #ffffff;
+    font-family: "Roboto";
+    margin: 60px;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-content {
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+    font-family: "Roboto";
+}
+
+.content-heading {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.content-para {
+    font-size: 25px;
+}
+
+.content-button {
+    background-color: #1b998b;
+    border-width: 0px;
+    font-family: "Roboto";
+    height: 40px;
+    width: 120px;
+    font-weight: 600;
+    border-radius: 25px;
+}
+
+@media all and (min-width:768px) {
+    .logo-content {
+        text-align: left;
+        padding-left: 80px;
+    }
+
+    .logo {
+        padding-left: 40px;
+    }
+}
+
+.smart-protection {
+    text-align: center;
+    margin: 80px;
+    font-family: "Roboto";
+}
+
+.smart-heading {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.smart-head {
+    font-size: 40px;
+}
+
+.smart-para {
+    font-size: 25px;
+}
+
+@media all and (min-width:768px) {
+    .smart-container {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .smart-card {
+        padding: 20px;
+    }
+}
+
+.look {
+    text-align: center;
+    margin: 40px;
+}
+
+.look-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.look-para {
+    font-size: 20px;
+}
+
+.look-button {
+    background-color: #162447;
+    border-width: 0px;
+    color: #ffffff;
+    height: 40px;
+    width: 120px;
+    border-radius: 25px;
+    font-weight: 600;
+}
+
+@media all and (min-width:768px) {
+    .look {
+        text-align: left;
+        padding-left: 60px;
+
+    }
+}
+
+.safe {
+    background-color: lightgreen;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.laptop-ig {
+    height: 140px;
+}
+
+.safe-container {
+    padding-top: 140px;
+    padding-bottom: 30px;
+}
+
+.safe-heading {
+    font-weight: 600;
+}
+
+.safe-para {
+    font-size: 25px;
+}
+
+.tab-ig {
+    height: 300px;
+}
+
+@media all and (min-width:768px) {
+    .safes {
+        display: flex;
+    }
+
+    .safe-container {
+        order: 1;
+    }
+
+    .tab-ig {
+        margin-top: 150px;
+    }
+}
+
+.check {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.check-head {
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.check-container {
+    margin: 40px;
+    width: 300px;
+    padding: 25px;
+}
+
+.check-container1 {
+    background-color: #162447;
+    color: white;
+    width: 300px;
+    padding: 25px;
+}
+
+.head {
+    font-size: 30px;
+}
+
+.he {
+    font-size: 10px;
+}
+
+.span {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.span1 {
+    font-weight: bold;
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.li {
+    padding: 2px;
+}
+
+.check-button {
+    background-color: #ffffff;
+    color: #162447;
+    border: 2px solid #162447;
+    height: 40px;
+    width: 100px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+@media all and (min-width:768px) {
+    .check {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+
+.ig-container {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+}
+
+.img {
+    height: 60px;
+    width: 120px;
+    margin: 10px;
+}
+
+.ad {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642105/atlas/assets/img/contact-bk.jpg");
+    background-size: cover;
+    color: white;
+    font-family: "Roboto";
+}
+
+.adress {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.ad-head {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.ad-para {
+    font-size: 20px;
+}
+
+.mail {
+    padding-left: 50px;
+}
+
+.info {
+    color: lightgreen;
+    background-color: transparent;
+}
+
+.search {
+    background-color: transparent;
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+    width: 80vw;
+    height: 40px;
+}
+
+.search1 {
+    background-color: transparent;
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+    width: 80vw;
+    height: 60px;
+}
+
+.sub {
+    background-color: lightgreen;
+    color: #162447;
+    margin-top: 20px;
+    border-width: 0px;
+    height: 50px;
+    width: 80vw;
+    border-radius: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 24px;
+}

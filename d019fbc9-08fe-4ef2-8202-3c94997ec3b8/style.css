@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top_background {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642096/atlas/assets/img/banner-bk.jpg");
+    
+    background-size: cover;
+}
+
+.top_logo_acess_section {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.logo_img {
+    height: 140px;
+    padding: 30px;
+}
+
+.GEA-heading {
+    color: white;
+    font-size: 25px;
+    font-weight: normal;
+    padding: 50px;
+}
+
+.main_context_section {
+    text-align: center;
+    padding-left: 110px;
+    padding-right: 110px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main_context_heading {
+    color: #ffffff;
+    font-size: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.main_content_para {
+    color: #ffffff;
+}
+
+.top_contect_button {
+    color: #162447;
+    background-color: #1b998b;
+    border-radius: 15px;
+    padding: 3px;
+    width: 120px;
+}
+
+.feratures_section_heading {
+    color: #162447;
+    font-size: 40px;
+    padding: 30px;
+    text-align: center;
+}
+
+.feratures_section_division {
+    text-align: center;
+}
+
+.insights_section {
+    text-align: center;
+}
+
+.insights_section_heading {
+    color: #162447;
+    text-align: center;
+    padding: 10px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.insights_section_para {
+    font-size: 15px;
+    color: #162447;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.insights_section_button {
+    color: #ffffff;
+    background-color: #162447;
+    border-radius: 29px;
+    padding: 5px;
+    width: 130px
+}
+.pricing_section{
+    text-align:center;
+}
+.pricing_section_heading{
+    padding:30px;
+}
+.pricing-section-startup-section{
+    padding:20px;
+}
+.pricing_section_amount{
+    font-weight:bold;
+}
+.amount{
+    font-size:60px;
+}
+.pricing_section_button{
+    color: #162447;
+    background-color: #ffffff;
+    border: #162447 solid ;
+    border-radius: 29px;
+    padding: 5px;
+    width: 130px
+}
+.pricing-section-premium-section{
+    background-color:#1f4068;
+    color:#ffffff;
+    padding:30px;
+}
+.brands_section{
+    margin-top: 30px;
+}
+.brands_section_background{
+    background-color:gray;
+}
+.brangs_lono{
+padding:5px;
+}
+.contact_us_section{
+    background-image:url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642105/atlas/assets/img/contact-bk.jpg");
+    padding:50px;
+    color:white;
+}
+.contact_us_section_submition{
+    color:#1b998b;
+}
+.contact_us_section_box{
+    border :#1b998b solid;
+    height:30px;
+    
+}
+.contact_us_section_button{
+    background-color: #1b998b;
+    color:#162447;
+    width:300px;
+    height:40px;
+    border-radius:20px;
+}
+.footer_bg{
+    background-color:#162447;
+}
+.F-color{ 
+    padding-left:10px;
+    color:white;
+}

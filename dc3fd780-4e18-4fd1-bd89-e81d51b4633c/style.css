@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.footer-section{
+    height: 70vh;
+    padding: 15px;
+    background-color: blue;
+}
+.footer-image{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.logo {
+    height: 60px;
+    width: 70px;
+}
+
+#nav1 {
+    font-size: 10px;
+    font-family: Sans-Serif;
+    font-weight: 800;
+    color: blue;
+
+}
+
+#nav2 {
+    font-size: 10px;
+    font-family: Sans-Serif;
+    font-weight: 800;
+
+}
+
+#nav3 {
+    font-size: 10px;
+    font-family: Sans-Serif;
+    font-weight: 800;
+
+}
+
+#nav4 {
+    font-size: 10px;
+    font-family: Sans-Serif;
+    font-weight: 800;
+
+}
+
+.landing-page-bg-container {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821283/pixie/assets/images/banner-bg.jpg");
+    height: 50vh;
+    /* width: 100%; */
+    background-size: cover;
+}
+
+.home-card-container {
+    background-color: #ffffff;
+    height: 25vh;
+    width: 500px;
+}
+
+@media(max-width:576px) {
+    .home-card-container {
+        background-color: #ffffff;
+        height: 35vh;
+        width: 300px;
+        padding: 10px;
+
+    }
+}
+
+@media(max-width:576px) {
+    .home-card-heading {
+        font-size: 10px;
+        font-weight: bold;
+        text-align: center;
+
+    }
+}
+
+@media (max-width:576px) {
+    .home-card-description {
+        font-weight: 400;
+        font-size: 10px;
+        font-family: Poppins;
+    }
+}
+
+@media (max-width:1200px) {
+    .home-card-description {
+        font-weight: 400;
+        font-size: 10px;
+        font-family: Poppins;
+    }
+}
+
+
+.home-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.home-card-description {
+    font-weight: 400;
+    font-size: 15px;
+    font-family: Poppins;
+}
+
+.featured-items-heading {
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.Features-card-container {
+    border: 1px solid;
+    height: 25vh;
+    text-align: center;
+}
+
+.features-card-image {
+    height: 25vh;
+    width: 250px;
+}
+
+.featured-items-container-heading {
+    font-size: 20px;
+}
