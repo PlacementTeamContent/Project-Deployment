@@ -9,11 +9,31 @@ body {
     background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg");
     height: 500px;
     background-size: cover;
+    /* display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center; */
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.home-section-d h1 {
+    text-align: center;
+}
+
+.home-section-d p {
+    text-align: center;
+}
+
+.home-section-d {
+    grid-column: 2/3;
+    grid-row: 2/3;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    color: white;
+
 }
 
 .creative-section-description h1 {
@@ -23,8 +43,13 @@ body {
 
 .dots {
     display: flex;
+    align-items: center;
+    align-self: center;
+    grid-column: 2/3;
+    grid-row: 4/5;
 
 }
+
 
 a {
     color: #000000;
@@ -35,7 +60,7 @@ i {
 }
 
 .products-card {
-    border: 1px solid black;
+    border: 1px solid #f4f4f4;
 
 }
 

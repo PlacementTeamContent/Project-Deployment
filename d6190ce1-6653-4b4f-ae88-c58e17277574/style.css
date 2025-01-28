@@ -1,19 +1,43 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
-.nav1{background-color:#1abc9c ;
-    color:white;
-    width:200px;
+
+.nav1 {
+    background-color: #1abc9c;
+    color: white;
+    width: 200px;
 }
-.times{text-align:center;
+
+.soc {
+    color: #1abc9c;
+    text-align: center;
     background-color: white;
-    color:#1abc9c;
-    width:40px;
-    height:40px;
-    margin-left:50px;
-    border-radius:50px;
+    font-size: 20px;
+    align-items: center;
+    width: 25px;
+    height: 25px;
 }
-.XB{font-size:32px;}
-i{margin:10px;}
-a{color:white;}
+span{color:#1abc9c;}
+.times {
+    text-align: center;
+    background-color: white;
+    color: #1abc9c;
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+
+.XB {
+    font-size: 32px;
+}
+
+i {
+    margin: 10px;
+}
+
+a {
+    color: white;
+}
+
 .card {
     width: 300px;
     height: 50px;
@@ -22,13 +46,18 @@ a{color:white;}
     border-color: #1abc9c;
     justify-content: center;
 }
-.home{color:#1abc9c;
-background-color: white;
-    height:50px;
+
+.home {
+    color: #1abc9c;
+    background-color: white;
+    height: 50px;
 }
-.home p{color:#1abc9c;
-    
+
+.home p {
+    color: #1abc9c;
+
 }
+
 .search {
     display: flex;
     flex-direction: row;
@@ -45,6 +74,7 @@ background-color: white;
 }
 
 .search-icon {
+    text-align: center;
     color: white;
     background-color: #1abc9c;
     height: 50px;
@@ -97,4 +127,42 @@ hr {
 .comment {
     color: grey;
     margin: 10px;
+}
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    border-width: 0px;
+}
+
+.no1 {
+    color: white;
+    background-color: #1abc9c;
+    margin: 5px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.no {
+    color: #bdc3c7;
+    background-color: #ecf0f1;
+    margin: 5px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.btn1 {
+    color: #bdc3c7;
+    background-color: #ecf0f1
+}
+
+.btn2 {
+    color: white;
+    background-color: #1abc9c;
 }

@@ -1,70 +1,85 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
-*{
+
+* {
     margin: 0;
     font-family: poppins;
 }
-.page-1{
+
+.page-1 {
     background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821262/technology/assets/images/slider.jpg');
-    width: 150vw;
-    background-color:blue;
-    
+    width: auto;
+   filter:brightness(40%);
 }
-.page-1-content{
+
+.page-1-content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 30px;
-}  
-.card-1{
-   border: #00bcd4 solid 2px ;
-   margin: 20px;
-   width: 100px;
-   text-align: center;
+    filter:brightness(150%);
 }
-.head-1{
-    color:#00bcd4;
+
+.card-1 {
+    border: #00bcd4 solid 2px;
+    margin: 20px;
+    width: 100px;
+    text-align: center;
 }
-.head-2{
-    color:#ffffff;
+
+.head-1 {
+    color: #00bcd4;
 }
-.p1-cont-2{
+
+.head-2 {
+    color: #ffffff;
+}
+
+.p1-cont-2 {
     margin-top: 30px;
 }
-.input-1{
+
+.input-1 {
     border: #00bcd4 solid 5px;
 }
-.btn{
-    background-color:  #00bcd4;
-    
+
+.btn {
+    background-color: #00bcd4;
+
     margin: 0;
 }
-.card-2{
-   border: #00bcd4 solid 2px ;
-   margin: 20px;
-   text-align: center;
-   padding: 10px;
+
+.card-2 {
+    border: #00bcd4 solid 2px;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
 }
-.icon-1{
-    color:#00bcd4 ;
+
+.icon-1 {
+    color: #00bcd4;
 }
-.features-ses{
+
+.features-ses {
     text-align: center;
     padding: 20px;
 }
-.hr{
-    background-color:#00bcd4;
+
+.hr {
+    background-color: #00bcd4;
 }
-.card-3{
-   border: #00bcd4 solid 2px ;
-   
-   width: 40px;
-   text-align: center;
-   padding: 10px;
-   margin: 130px;
+
+.card-3 {
+    border: #00bcd4 solid 2px;
+
+    width: 40px;
+    text-align: center;
+    padding: 10px;
+    margin: 130px;
 }
-.f-3{
-    
+
+.f-3 {
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -72,49 +87,66 @@
     margin: 50px;
     text-align: center;
     margin-left: 25%;
-   
+
 }
-.page-3{
+
+.page-3 {
     background-color: black;
 }
-.top{
+
+.top {
     text-align: center;
 }
-.p4-cont{
+
+.p4-cont {
     text-align: center;
 }
-.card-4{
-    border: #00bcd4 solid 2px ;
+
+.card-4 {
+    border: #00bcd4 solid 2px;
     width: 40px;
-   text-align: center;
-   padding: 10px;
-  
+    text-align: center;
+    padding: 10px;
+
 }
-.input-2{
+
+.input-2 {
     border: #00bcd4 solid 1px;
     width: 50vw;
 }
-.input-3{
+
+.input-3 {
     border: #00bcd4 solid 1px;
-    width: 50vw;
+    width: 45vw;
     height: 30vh;
+    margin: 10px;
 }
-.p5-cont{
+
+.p5-cont {
     text-align: center;
     background-color: black;
     padding: 20px;
 }
-.head-3{
-    color:gray;
+
+.head-3 {
+    color: gray;
 }
-.br-1{
-    background-color:#00bcd4 ;
+
+.br-1 {
+    background-color: #00bcd4;
     width: 45%;
     height: 1px;
 }
-.fes{
+
+.fes {
     text-align: center;
 }
-.page-5{
+
+.page-5 {
     margin: 20px;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
 }

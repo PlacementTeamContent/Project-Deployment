@@ -1,28 +1,265 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
 * {
     box-sizing: border-box;
     margin: 0;
     font-family: "Montserrat", Sans-Serif;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-weight: bold;
     font-size: 28px;
     color: black;
 }
-.clothing-span{
+
+.clothing-span {
     color: #ff6b6b;
 }
-.navbar-nav{
+
+.navbar-nav {
     margin-left: auto;
 }
-.nav-link{
+
+.nav-link {
     font-weight: bold;
 }
-#active{
-    color: #ff6b6b !important; 
+
+#active {
+    color: #ff6b6b !important;
 }
-.main-bg{
+
+.main-bg {
     background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg");
     background-size: cover;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-head {
+    color: #ff6b6b;
+    font-size: 22px;
+    font-weight: 400;
+    max-width: 500px;
+}
+
+.main-head-1 {
+    color: white;
+    font-size: 54px;
+    font-weight: 500;
+    max-width: 800px;
+    letter-spacing: 5px;
+}
+
+.product-head {
+    color: black;
+    font-size: 32px;
+}
+
+.product-tag {
+    color: #ff6b6b;
+    align-self: flex-end;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.product-tag:hover {
+    text-decoration: none;
+    color: rgb(198, 0, 0);
+}
+
+.section-pro {
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    font-weight: bold;
+}
+
+#break {
+    width: 75% !important;
+    color: grey !important;
+}
+
+.break {
+    width: 75% !important;
+    color: grey !important;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    max-width: 1100px;
+    margin-top: 20px;
+    flex-wrap: nowrap;
+}
+
+.product-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 12px;
+}
+
+.title {
+    font-size: 22px;
+    color: #00bcd4;
+    display: flex;
+    align-items: center;
+    margin: 12px;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.info {
+    font-size: 14px;
+    font-weight: 500;
+    max-width: 370px;
+    color: #333;
+}
+
+.para-info {
+    margin: 12px;
+}
+
+.reviews {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.review-para {
+    margin: 12px;
+}
+
+.card-1 {
+    margin-right: 12px;
+    border: 2px #f4f4f4 solid;
+    margin-bottom: 12px;
+    transform: all 1s ease-in 2s;
+    cursor: pointer;
+    border-radius: 12px;
+    animation-name: leftright;
+    animation: leftright 2s 1s infinite alternate;
+}
+
+.card-1:hover {
+    transform: translateY(-4px);
+}
+
+@keyframes leftright {
+    0% {
+        transform: translate(-24px, 12px);
+    }
+
+    50% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(24px, 0);
+    }
+}
+
+.about-head {
+    font-size: 32px;
+    margin-left: 30px;
+    margin-top: 40px;
+    max-width: 500px;
+}
+
+.about-main {
+    display: flex;
+    flex-direction: column;
+    margin: 34px;
+}
+
+.about-title {
+    justify-content: flex-start;
+    margin: 12px;
+}
+
+.about-para {
+    justify-content: flex-start;
+    margin: 12px;
+    max-width: 500px;
+    color: grey;
+}
+
+li {
+    list-style-type: square;
+    color: grey;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    width: 125px;
+    font-size: 12px;
+    height: 45px;
+    border-radius: 7px;
+}
+
+.about-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-img {
+    display: flex;
+    justify-content: flex-end;
+    margin: 8px;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer-div {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    max-width: 1100px;
+    padding: 28px;
+    margin-left: 22px;
+}
+
+.footer-head {
+    color: #00bcd4;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.footer-span {
+    color: #00bcd4;
+    font-weight: bold;
+}
+
+.footer-para {
+    font-size: 18px;
+    color: grey;
+}
+
+.copyright {
+    color: grey;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.copy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 15%;
 }
