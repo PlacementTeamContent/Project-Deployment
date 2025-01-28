@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.logo{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+.logo2{
+    color:#ff6b6b;
+}
+.hamber{
+    color:#ff6b6b;
+}
+.back-container{
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg");
+    height:40vh;
+    background-size: cover;
+    padding-top: 100px;
+    margin-bottom: 70px;
+}
+.image-text{
+   display:flex;
+   flex-direction: column;
+   align-items: center;
+   font-family: sans-serif;
+}
+.best-offer{
+    color:#ff6b6b;
+    font-weight: bold;
+    font-size: 20px;
+}
+.arrival{
+    color:white;
+    font-size: 30px;
+}
+.latest-products{
+    padding-left: 40px;
+     padding-right: 40px;
+}
+.l-head{
+    font-size: 27px;
+    font-family: sans-serif;
+    margin-bottom: 0px;
+}
+.view-all{
+    color:#ff6b6b;
+    font-weight: bold;
+}
+.card{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.card-content{
+    border-style: solid;
+    border-color: #f4f4f4;
+    border-width: 1px;
+    height:20vh;
+    padding: 20px;
+}
+.title{
+    color:#00bcd9;
+    font-size: 18px;
+    font-weight: 600;
+}
+.cost{
+    font-size: 20px;
+    font-weight: bold;
+}
+.soo{
+    display:flex;
+    justify-content: space-between;
+}
+.para{
+    color:grey;
+}
+.reviews{
+    color:#ff6b6b;
+    font-weight: bold;
+}
+.about{
+    padding-left: 40px;
+     padding-right: 40px;
+     margin-top: 40px;
+     margin-bottom: 40px;
+}
+.looking{
+      padding-left: 40px;
+     padding-right: 40px;  
+}
+.look-text{
+    font-weight: bold;
+    font-size: 20px;
+    color:#00bcd4;
+}
+.look-para{
+    color:grey;
+}
+.list{
+    color:grey;
+    list-style-type: square;
+}
+.button{
+    background-color: #ff6b6b;
+    border-width: 0px;
+    color:white;
+    font-family: Sans-Serif;
+    width:120px;
+    height:40px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.final{
+   margin-left: 40px;
+     margin-right: 40px; 
+}
+.final-img{
+    width:100%;
+    margin-bottom: 20px;
+}
+.final-card{
+    background-color: #f4f4f4;
+    height:25vh;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding:30px;
+    text-align: center;
+}
+.final-head{
+    font-size: 17px;
+    color:#00bcd4;
+}
+.six{
+    font-weight: bold;
+}
+.final{
+    color:grey;
+}
+.button1{
+     background-color: #ff6b6b;
+    border-width: 0px;
+    color:white;
+    font-family: Sans-Serif;
+    width:90%;
+    height:40px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.color{
+    color:#ff6b6b;
+}
+.last{
+    margin-right: 20px;
+    margin-left: 20px;
+}

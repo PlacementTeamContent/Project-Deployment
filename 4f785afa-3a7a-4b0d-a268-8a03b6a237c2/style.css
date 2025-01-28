@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+
+    font-family: Sans-Serif;
+}
+
+.home-section {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg");
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.creative-section-description h1 {
+    font-size: 20px;
+    color: #00bcd4;
+}
+
+.dots {
+    display: flex;
+
+}
+
+a {
+    color: #000000;
+}
+
+i {
+    font-size: 10px;
+}
+
+.products-card {
+    border: 1px solid black;
+
+}
+
+.dots div {
+    margin-right: 20px;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+
+}
+
+.products-section-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.products-card img {
+    width: 100%;
+
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+
+.review {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.about-us-section-content {
+    display: flex;
+}
+
+.creative-section {
+    display: flex;
+    background-color: #f4f4f4;
+    margin: 0px 50px 0px 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.creative-section-description {
+    margin-right: 10px;
+}
+
+.home-section p {
+    color: #ff6b6b;
+    font-weight: bold;
+}
+
+button {
+    background-color: #ff6b6b;
+    border: 0px solid;
+    height: 50px;
+    width: 150px;
+    color: white;
+    border-radius: 10px;
+}
+
+.description h1 {
+    color: #00bcd4;
+    font-size: 25px;
+}
+
+.review p {
+    color: #ff6b6b;
+    font-family: Sans-Serif;
+}
+
+.title p:first-child {
+    color: #00bcd4;
+}
+
+.title p:last-child {
+    color: #000000;
+    font-weight: bold;
+}
+
+.footer p {
+    text-align: center;
+}
+
+.about-us-section {
+    margin: 0px 50px 0px 50px;
+}
+
+p {
+    color: grey;
+}
+
+@media screen and (max-width:768px) {
+    .creative-section {
+        display: flex;
+        flex-direction: column;
+        background-color: #f4f4f4;
+
+        align-items: center;
+        padding: 20px;
+
+    }
+
+    .creative-section h1 {
+        text-align: center;
+    }
+
+    .creative-section p {
+        text-align: center;
+    }
+
+    .about-us-section-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .decription {
+        padding: 20px;
+    }
+}

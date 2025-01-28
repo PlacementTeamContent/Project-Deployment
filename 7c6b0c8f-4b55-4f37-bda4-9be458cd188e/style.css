@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.total-top {
+    color: #ffffff;
+    background-color: #0056b3;
+    height: 32px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.navbar-color {
+    background-color: #0056b3;
+    font-size: 25px;
+}
+
+.background-image {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821283/pixie/assets/images/banner-bg.jpg");
+    background-size: cover;
+    padding: 50px;
+    padding-left: 100px;
+}
+
+.background-image-contnt {
+    background-color: #ffffff;
+    width: 80%;
+}
+
+.main-content-heading {
+    font-weight: bold;
+}
+
+.main-content {
+    font-family: "Poppins";
+}
+
+.logo {
+    color: #0056b3;
+    font-weight: bold;
+    font-size: 60px;
+    margin: 0px;
+}
+
+.buuton-order {
+    background-color: #0056b3;
+    font-family: "Sans-Serif";
+    color: #ffffff;
+}
+
+.products-heading {
+    font-weight: bold;
+}
+
+.product-card {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+}
+
+.item-name {
+    font-weight: 700;
+}
+
+.item-prize {
+    color: #00bcd4;
+    font-weight: 800;
+    font-size: 18px;
+}
+.Subscribe-section{
+    background-color: #0056b3;
+    color: #ffffff;
+    text-align: center;
+}
+.logo-white{
+    color: #ffffff;
+}
+.Subscribe-section-content{
+    font-size: 18px;
+}

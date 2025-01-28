@@ -1,0 +1,288 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.nav_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bg_container {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697121/speed/assets/images/banner-bg.jpg");
+    background-size: cover;
+    height: 450px;
+    width: 100vw;
+}
+
+.nav_items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.para_1 {
+    color: white;
+    margin-right: 10px;
+    margin-top: 13px;
+
+}
+
+.para_2 {
+    color: white;
+    margin-right: 10px;
+    margin-top: 13px;
+}
+
+.para_3 {
+    color: white;
+    padding: 8px;
+
+}
+
+.para_3_container {
+    background-color: black;
+    height: 37px;
+    margin-top: 10px;
+    background-size: cover;
+}
+
+.heading_1 {
+    color: orange;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.heading_2 {
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.para_4 {
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.btn_1 {
+    width: 200px;
+    height: 42px;
+    font-size: 23px;
+    background-color: orange;
+    border: 0px solid;
+    color: white;
+    margin-right: 10px;
+}
+
+.btn_2 {
+    width: 200px;
+    height: 42px;
+    font-size: 23px;
+    background-color: black;
+    border: 0px solid;
+    color: white;
+    margin-left: 10px;
+}
+
+.btn_1_and_2_container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.img_3 {
+    height: 230px;
+    width: 250px;
+    margin-left: 30px;
+}
+
+.sports_cycle_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.about_us_page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697119/speed/assets/images/about-img1.jpg");
+    width: 75%;
+    background-size: cover;
+
+    height: 390px;
+}
+
+.about_text_styling {
+    color: #007bff;
+}
+
+.heading_3 {
+    font-size: 27px;
+    padding-left: 45px;
+    padding-top: 17px;
+}
+
+.container_of_about_us_page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn_3 {
+    color: white;
+    background-color: #007bff;
+    font-size: 20px;
+    width: 180px;
+    height: 38px;
+    border: 0px solid;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+.our_cycles_page {
+    background-color: #ffffff;
+    width: 65%;
+    background-size: cover;
+    padding-top: 20px;
+
+    padding-bottom: 20px;
+}
+
+.heading_4 {
+    font-size: 27px;
+}
+
+.para_5 {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.image_scrolling_page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.scrolling_image {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697131/speed/assets/images/our-img-1.png");
+    width: 80%;
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hi {
+    align-self: center;
+    background-color: #333333;
+    height: 45px;
+    width: 45px;
+    border-radius: 45px;
+    color: white;
+    padding: 15px;
+
+}
+
+.hii {
+    align-self: center;
+    background-color: #007bff;
+    height: 45px;
+    width: 45px;
+    border-radius: 45px;
+    padding: 15px;
+    color: white;
+}
+
+.padding_for_see_more_btn {
+    margin-top: 35px;
+}
+
+.heading_5 {
+    font-size: 30px;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+.btn_4 {
+    color: white;
+    background-color: #007bff;
+    font-size: 20px;
+    width: 200px;
+    height: 38px;
+    border: 0px solid;
+    align-self: center;
+    margin-bottom: 10px;
+}
+.contact_us_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.details_page{
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697122/speed/assets/images/contact-bg.jpg");
+    background-size: cover;
+    height:600px;
+    width:100vw;
+    padding-top:110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.para{
+    color:grey;
+    width:55%;
+    background-color: white;
+    border:1px grey solid;
+}
+.p1{
+    height:48px;
+    padding-top:9px;
+    padding-left:5px;
+}
+.p2{
+    height:48px;
+    padding-top:9px;
+    padding-left:5px;
+}
+
+.p3{
+    height:48px;
+    padding-top:9px;
+    padding-left:5px;
+}
+.p4{
+    height:160px;
+    padding-top:60px;
+    padding-left:5px;
+}
+.btn_5 {
+    width: 130px;
+    height: 55px;
+    font-size: 23px;
+    background-color: orange;
+    border: 0px solid;
+    color: white;
+    padding-bottom:3px;
+}
+.testimonial_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img_4{
+    height:130px;
+}
+.heading_6 {
+    font-size: 26px;
+    padding-top:15px;
+    font-weight:400;
+    padding-bottom:15px;
+}

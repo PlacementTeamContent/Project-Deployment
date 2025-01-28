@@ -1,0 +1,283 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main {
+    font-family: "Roboto";
+}
+
+.start {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642096/atlas/assets/img/banner-bk.jpg");
+    background-size: cover;
+    height: 60vh;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+}
+
+.one {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.tag {
+    margin: 20px;
+    color: #ffffff;
+}
+
+.get-started {
+    background-color: #1b998b;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 0;
+    margin-left: 30px;
+}
+
+.two-heading {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    bottom: 20px;
+}
+
+.i1 {
+    height: 100px;
+    width: 100px;
+}
+
+.a1 {
+    display: flex;
+    justify-content: center;
+}
+
+.c1 {
+    margin: 20px;
+}
+
+.three {
+    padding: 15px;
+}
+
+.three-heading {
+    font-size: 27px;
+    font-weight: 600;
+    color: #1f4068;
+}
+
+.four-heading {
+    font-size: 30px;
+    font-weight: 600;
+    color: #1f4068;
+    margin-top: 30px;
+}
+
+.learn-more {
+    background-color: #162447;
+    border-radius: 20px;
+    border-width: 0;
+    padding: 7px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.a2 {
+    display: flex;
+    text-align: none;
+    justify-content: center;
+}
+
+.laptop {
+    height: 150px;
+    width: 200px;
+}
+
+.a3 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: none;
+}
+
+.three {
+    background-color: #1b998b;
+}
+
+span {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.get-free {
+    border-radius: 20px;
+    padding: 7px;
+    border-color: #1f4068;
+    background-color: none;
+}
+
+.b1 {
+    background-color: #1f4068;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pricing {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.brands {
+    display: flex;
+    background-color: #d9edf7;
+    justify-content: center;
+}
+
+.brand {
+    height: 70px;
+    width: 90px;
+    margin: 10px;
+}
+
+.contact-us {
+    background-color: #1f4068;
+    padding: 12px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.c1 {
+    margin-top: 10px;
+}
+
+.right {
+    color: #1b998b;
+}
+
+.empty {
+    margin: 0px;
+    border-color: #1b998b;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+    padding: 15px;
+    width: 200px;
+}
+
+.z1 {
+    display: flex;
+}
+
+.y1 {
+    margin: 15px;
+}
+
+.empty-2 {
+    margin: 0px;
+    border-color: #1b998b;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+    padding: 15px;
+    width: 400px;
+    height: 60px;
+}
+
+.submit {
+    background-color: #1b998b;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 0;
+    margin-left: 15px;
+    text-align: center;
+    width: 400px;
+}
+
+.bottom {
+    background-color: #162447;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    padding-top: 30px;
+}
+
+
+.c-h {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+@media (max-width:767px) {
+    .start {
+        text-align: center;
+    }
+
+    .a1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .a2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .a3 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .laptop {
+        order: 1;
+        margin-top: 30px;
+    }
+
+    .brands {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .contact-us {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .z1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bottom {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .empty-2 {
+        width: 250px;
+        height: 100px;
+    }
+
+    .submit {
+        width: 250px;
+    }
+}
+
+@media (min-width:768px) {
+    .start {
+        padding-left: 70px;
+    }
+}

@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body{
+    font-family: Sans-Serif;
+}
+.header-img {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg');
+    height: 30vh;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-img h3 {
+    color: red;
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 6%;
+}
+
+.box {
+    padding: 20px;
+
+    border-color: black;
+}
+
+.box img {
+    height: 55%;
+    width: 100%;
+    border-radius: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.box-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box p {
+    padding-left: 17px;
+}
+
+.box .reviews {
+    display: flex;
+    justify-content: space-around;
+}
+
+.reviews p {
+    color: red;
+    font-weight: bold;
+}
+
+.box-header h3:nth-child(1) {
+    color: blue;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding: 3%;
+}

@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.nav-background{
+    background: transperent;
+}
+.banner{
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697121/speed/assets/images/banner-bg.jpg");
+}
+.logo-div{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-top:-4vh;
+}
+.logo{
+    width:30vw;
+    margin-left:5vw;
+}
+.banner-heading-1{
+    color:darkorange;
+    font-size: 1.8rem;
+    font-family: "open Sans";
+    font-weight: 700;
+}
+.banner-heading-2{
+    color: white;
+    font-size: 1.8rem;
+    font-family: "open Sans";
+    font-weight: 700;
+}
+.navbar-toggler{
+    background-color: black;
+}
+.section-1{
+  margin-left:5vw;  
+}
+.banner-button{
+    color:white;
+    border:none;
+    padding:5px 20px 5px 20px;
+    margin-bottom:3vh;
+    font-size: 0.8rem;
+}
+.banner-button-1{
+    background-color: darkorange;
+}
+.banner-button-2{
+    background-color:black;
+    margin-left:5vw;
+}
+.banner-paragraph{
+    color:white;
+    font-size:0.55rem;
+    font-family: "open Sans";
+}
+.banner-img{
+    margin-left:7vw;
+}
+.line{
+    width:5vw;
+    height:0.3vh;
+    background-color: grey;
+    margin:5px;
+    text-align: center;
+}
+.section-3{
+    margin-left:32vw;
+}
+.banner-2{
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697119/speed/assets/images/about-img1.jpg");
+    width:100%;
+    background-size:cover ;
+    align-items: center;
+    margin:-1vh 5vh 0vh 8%;
+    display: flex;
+    flex-direction:column;
+    height:50vh;
+    justify-content: space-between;
+}
+.banner-3{
+    margin:-1vh 5vh 0vh 8%;
+}
+.parad{
+    font-size:0.6rem;
+}
+.banner-4img{
+    width:90%;
+    margin-left:5%;
+}
+.abouttext{
+    font-size: 0.8rem;
+    color:blue;
+    font-family: "open Sans";
+    font-weight: 700;
+    margin:2%;
+}
+.ustext{
+    color:black;
+    font-family: "open Sans";
+    font-weight: 700;
+    margin-left:1vw;
+    font-size: 0.8rem;
+    margin:2%;
+}
+.aboutus{
+    align-self: flex-start;
+    margin:2%;
+}
+.parablock{
+    background-color: lightgrey;
+    opacity: 0.5;
+}
+.left-button, .right-button{
+    height:4vh !important;
+    width:4vh !important;
+    border-radius:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    z-index:100 !important;
+    align-self:center;
+}
+.banner-4{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+.section5{
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697122/speed/assets/images/contact-bg.jpg");
+    width:100%;
+    background-size:cover ;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width:50%;
+    border:solid grey 0.5px;
+    margin:2.5vh;
+    background-color:white;
+    color:grey;
+}
+.box h3{
+    margin:1vh;
+    font-size: 0.6rem;
+}
+.section7{
+    background-color: darkblue;
+    color:white;
+    font-size: 0.8rem;
+}
+.section7 h1{
+ font-size: 1rem;   
+}
+.section7 p{
+ font-size: 0.5rem;   
+}
+.foot2{
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.foot1{
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+@media (min-width:992px){
+    .section7 h1{
+     font-size: 2rem;   
+    }
+    .section7 p{
+     font-size: 1rem;   
+    }
+    .box h3{
+    margin:1vh;
+    font-size: 2rem;
+   }
+    .logo{
+        margin-left:45%;
+    }
+    .logo-div{
+        margin-top:-2vh;
+    }
+    .banner-heading-1{
+        font-size: 3rem;
+    }
+    .banner-heading-2{
+        font-size: 3rem;
+    }
+    .section-1{
+        margin-left:15%;
+        margin-top:10%;
+    }
+    .whole-banner{
+        display: flex;
+        flex-direction:row;
+    }
+    .banner-paragraph{
+        font-size: 0.6rem;
+    }
+    .banner-img{
+    margin-top:35%;
+    margin-left:2vw;
+    }
+    .section-3{
+        display:none;
+    }
+    .line{
+        height: 0;
+        width:0;
+    }
+    .ustext{
+        font-size: 2rem;
+        margin-left:-0.5vw;
+    }
+    .abouttext{
+       font-size: 2rem;
+       
+    }
+    .parad{
+    font-size:1rem;
+    }
+    .contactus{
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.back1 {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696803/aj/assets/images/banner1.png");
+    height: 350px;
+    background-size: cover;
+
+}
+
+.bangel1 {
+    height: 20vh;
+
+}
+
+.cont1 {
+    text-align: center;
+}
+
+.para1 {
+    font-weight: bold;
+    font-family: Open Sans;
+}
+
+.para2 {
+    color: white;
+    font-family: Open Sans;
+}
+
+.button1 {
+    border-radius: 50px;
+}
+
+.baritems {
+    text-align: right;
+
+}
+
+.back2 {
+
+    overflow-x: hidden;
+    height: 100vh;
+    
+
+}
+
+.back3 {
+    text-align: center;
+}
+
+.dot {
+    color: #f9d342;
+    font-size: 100px;
+    margin: 1px;
+
+}
+
+.para3 {
+    color: grey;
+    width: 40vw;
+
+}
+
+.ring {
+    height: 50vh;
+    border-width: 20px;
+    border-style: solid;
+    color: #f9d342;
+    border-radius: 100%;
+
+}
+
+.ringcont {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    
+    
+
+}
+
+.buttonring {
+    background-color: black;
+    border-color: #ffd700;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 100px;
+    color: white;
+    padding: 10px;
+    
+}
+
+.callback {
+    text-align: center;
+}
+
+.test {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 40vw;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.fourm {
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    width: 50vw;
+    border-color: #f9d342;
+    border-radius: 10px;
+
+}
+
+.fourm1 {
+    text-align: center;
+    color: #333333;
+}
+
+.btoon {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.bang {
+    height: 50vh;
+}
+
+.footer {
+    text-align: center;
+    background-color: #f9d342;
+    background-size: cover;
+}
+
+.footer1 {
+    text-align: center;
+    background-color: #ffd700;
+
+}
+
+.ringring {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696815/aj/assets/images/croo.png");
+    background-size: 100vh;
+    margin-right: -100px;
+
+}

@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.navbar {
+    background-color: #5c4a7a;
+
+}
+
+a {
+    color: white;
+}
+
+.icon {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.homepage {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642069/ethereal/assets/images/background.jpg');
+    background-size: cover;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.homehead {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 46px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.etheral {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 46px;
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+.homepara {
+    font-family: Sans;
+    color: #ffffff;
+}
+
+.headbutton {
+    background-color: transparent;
+    color: #ffffff;
+    font-family: Roboto;
+    border-radius: 30px;
+    padding: 10px;
+    border: solid 1px #ffffff;
+}
+
+i {
+    height: 60px;
+    border-radius: 100px;
+    width: 60px;
+    font-size: 20px;
+    margin-right: 4px;
+    text-align: center;
+    background-color: white;
+    border: solid 1px grey;
+    padding: 20px;
+    color: #e74c3c;
+}
+
+h5 {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+}
+
+p {
+    font-family: "open";
+
+    font-size: 12px;
+
+}
+
+.subpara {
+    font-family: "open";
+    color: #ffffff;
+    font-size: 15px;
+
+}
+
+img {
+    width: 100%;
+    margin: 7px;
+}
+
+.ourhead {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: #e74c3c;
+    font-weight: bold;
+    color: #333333;
+
+}
+
+.abouthead {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: #e74c3c;
+    font-weight: bold;
+    color: #333333;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.subscribehead {
+    font-family: "Sans-Serif";
+    font-style: italic;
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: #e74c3c;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.ourwork {
+    background-color: #f3edf7;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ourbutton,
+.subbutton {
+    background-color: #e74c3c;
+    color: #ffffff;
+    font-family: Roboto;
+    border-radius: 30px;
+    padding: 10px;
+    width: 50%;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.subscribe {
+    background-color: #333333;
+
+    padding: 10px;
+
+}
+
+.contactus {
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+.aboutus {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.small-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+@media (max-width:567px) {
+    .paradiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .rowdiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+
+    }
+}
+
+.aboutpara {
+    color: #333331;
+}
+
+.aboutpara1 {
+    margin: 5px;
+    color: #333333;
+}
+
+hr {
+    background-color: #e74c3c;
+    border-width: 2px;
+    width: 98%;
+}
+
+.name,
+.email {
+    border-width: 0px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.message {
+    border-width: 0px;
+    margin-bottom: 35px;
+    width: 100%;
+}
+.logos{
+    display:flex;
+    flex-direction: row;
+}
+.no {
+    font-size: 30px;
+    color: #e74c3c;
+}
+.template{
+    color: #e74c3c;
+    font-family: sans;
+}

@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.main {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642096/atlas/assets/img/banner-bk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.navigate {
+    background-color: transparent;
+}
+.logo {
+    height: 40px;
+    margin: 20px;
+}
+.access {
+    color: #ffffff;
+    border: 0px;
+}
+.main-head {
+    font-size: 55px;
+    margin-bottom: 22px;
+}
+.main-text {
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .main-text {
+        /* color: #ffffff;
+        padding: 20px; */
+        text-align: left;
+    }
+}
+.custom-button {
+    color: #162447;
+    background-color: #1b998b;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 25px;
+    margin: 15px;
+}
+.part-1, .part-2{
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    font-weight: bold;
+}
+.no-button {
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 25px;
+    margin: 15px;
+    color: #ffffff;
+    background-color: #1f4068;
+}
+.laptop {
+    height: 240px;
+}
+@media (min-width: 768px) {
+    .text {
+        text-align: left;
+    }
+}
+.part-3 {
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    font-weight: bold;
+    background-color: #1b998b;
+}
+.part-4 {
+    text-align: center;
+    align-items: center !important;
+}
+.card {
+    border: 0px solid transparent;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.head-line {
+    font-size: 25px;
+}
+.amount {
+    font-weight: bold;
+}
+.second-card {
+    background-color: #1f4068;
+    color: #ffffff;
+}
+.number {
+    font-size: 50px;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+}
+.yes-button {
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+.part-5 {
+    /* height: 80vh; */
+    background-color: #d9edf7;
+    display: flex;
+    align-items: center;
+}
+.client-image {
+    height: 40px;
+    width: 100px;
+    align-self: center;
+    /* margin: 5px; */
+}
+@media (max-height:768px) {
+    .part-5 {
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+    }
+    .client-image {
+        width: 100px;
+    }
+}
+.contact {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642105/atlas/assets/img/contact-bk.jpg");
+}
+.part-6 {
+    color: #ffffff;
+}
+.information {
+    color: #1b998b;
+    font-weight: bold;
+}
+.submit {
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #1b998b;
+    margin-top: 28px;
+}
+.footer {
+    color: #ffffff;
+    background-color: #1f4068;
+    /* min-height: 50px; */
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+@media (min-width: 768px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}

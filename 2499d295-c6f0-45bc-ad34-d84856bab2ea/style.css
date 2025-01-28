@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+    /* font-family: Sans-Serif; */
+}
+
+body {
+    margin: 0px;
+}
+
+nav {
+    background-color: #5c4a7a;
+    font-family: Sans-Serif;
+    /* Open Sans */
+
+}
+
+.navbar {
+    color: white;
+}
+
+.eth {
+    color: #e74c3c;
+}
+
+.header {
+    color: white;
+    /* background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642069/ethereal/assets/images/background.jpg'); */
+    background-color: #333333;
+    background-size: cover;
+    padding: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    height: 60vh;
+}
+
+.line {
+    width: 130px;
+    background-color: #e74c3c;
+    height: 2px;
+}
+
+.button {
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    width: 150px;
+}
+
+.lines {
+    width: 200px;
+}
+
+.main-head {
+    font-size: 40px;
+}
+
+h1 {
+    font-family: Sans-Serif;
+    font-size: 25px;
+    text-align: center;
+    font-size: bold;
+}
+
+i {
+    font-size: 50px;
+    border-radius: 50px;
+    padding: 10px;
+    color: #e74c3c;
+}
+
+.address {
+    text-align: center;
+}
+
+.bulb {
+    display: flex;
+
+}
+
+.col-12 {
+    padding: 25px;
+}
+
+.works {
+    text-align: center;
+    background-color: #f3edf7;
+}
+
+.subscribe {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.image {
+    height: 90%;
+}
+
+.submit {
+    color: #ffffff;
+    background-color: #e74c3c;
+    width: 200px;
+    padding: 10px;
+    border-radius: 40px;
+    border: 0px;
+    margin: 20px;
+}
+
+.about {
+    text-align: center;
+}
+
+.num {
+    font-size: 50px;
+    color: #e74c3c;
+}
+
+input {
+    border: 0px;
+    margin-left: 30px;
+}
+
+.inpline {
+    width: 300px;
+}
+.add{
+    color: #e74c3c;
+}
+.dis {
+    display: flex;
+    flex-direction: row;
+}
+.first{
+    color: #ffffff;
+    background-color: #333333;
+    font-size: 30px;
+}
+.fa {
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+
+}
