@@ -6,32 +6,35 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header class="bg-header">
     <nav class="navbar navbar-expand-lg navbar-dark custom-nav container">
-        <a class="navbar-brand logo" href="#">
+        <img src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697133/speed/assets/images/search-icon.png" alt=""  class="d-lg-block d-none"/>
+        <a class="navbar-brand logo m" href="#">
             <img src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697130/speed/assets/images/logo.png" class="logo" alt="" />
         </a>
+        <div class="d-lg-block d-none">
+            <i class="fas fa-user f"> Login</i>
+            <i class="fa fa-shopping-bag f"></i>
+        </div>
         <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon" style="color:white;"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-                <a class="nav-link active" href="#">
-                Home
-                <span class="sr-only">(current)</span>
-                </a>
-                <a class="nav-link" href="#">Features</a>
-                <a class="nav-link" href="#">Pricing</a>
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            <div class="navbar-nav d-lg-block d-none">
+                <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon" style="color:white;"></span>
+                </button>
             </div>
         </div>
     </nav>
     <div class="container content">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12 col-lg-5">
                 <h1 class="main-heading">Sports </h1>
                 <h1><mark class="mark-text">Cycle</mark></h1>
                 <div class="para-content">
@@ -42,7 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12">
+            <div class="col-12 col-lg-7">
                 <img src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697124/speed/assets/images/img-1.png" class="w-100" alt="" />
             </div>
         </div>
@@ -52,10 +55,96 @@
         <div class="container section-style">
             <div class="row">
                 <div class="col-12">
-                    <h1>About Us</h1>
+                    <h1 class="heading-1"><mark class="mark-text1">About</mark> Us</h1>
+                    <img class="w-100" src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697119/speed/assets/images/about-img1.jpg" alt="" />
+                    <div class="text-center">
+                        <button class="blue-btn">Read More</button>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+    <section class="p-3 container our-section">
+        <div class="row">
+            <div class="col-12">
+                 <h1 class="heading-1"><mark class="mark-text1">Our</mark> Cycles</h1>
+                <p>It is a long established fact that a reader will be distracted by the readable content of the page whan looking at it's layout. the point of using lorem ipsumis that more or less it is normal distribution </p>
+            </div>
+            <div class="shadow-lg p-2 d-flex flex-row align-items-center justify-content-between col-12">
+            <i class="fas fa-chevron-left arrow"></i>
+            <img class="img-2" src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697131/speed/assets/images/our-img-1.png" alt="" />
+            <i class="fas fa-chevron-right arrow"></i>
+        </div>
+            <div class="text-center col-12">
+            <button class="blue-btn">See More</button>
+        </div>
+        </div>
+        
+    </section>
+    <section class="text-center Contact us container">
+        <div class="row">
+            <div class="col-12">
+                <h1>Contact Us</h1>
+                <div class="d-flex flex-column justify-content-center align-items-center contact-section col-12">
+                    <input type="text/submit/hidden/button/image" class="box-contact" name="" id="" value="Name" />
+                    <input type="text/submit/hidden/button/image" class="box-contact" name="" id="" value="Email" />
+                    <input type="text/submit/hidden/button/image" class="box-contact" name="" id="" value="Phone Number" />
+                    <input type="text/submit/hidden/button/image" class="box-contact-1" name="" id="" value="Message" />
+                    <button class="orange-btn">Send</button>
+                </div>
+            </div>
+        </div>
+        
+    </section>
+    <section class="testinomail pt-4 container">
+        <div class="text-center row">
+            <div class="col-12">
+                <h1>Testimonial</h1>
+                <p>It is a long established fact that a reader will be distracted by the readable content of the page.</p>
+                <img src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697127/speed/assets/images/img-3.png" alt="" />
+            </div>
+            <div class="d-flex flex-row justify-content-start col-12">
+                <img src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697128/speed/assets/images/left-quote.png" alt="" />
+            </div>
+            <p class="pt-1">It is a long established fact that a reader will be distracted It is a long established fact that a reader will be distracted It is a long established fact that a reader will be distracted It is a long established fact that a reader will be distracted.</p>
+            <div class="d-flex flex-row justify-content-end col-12">
+                <img src="https://res.cloudinary.com/dg8n2jeur/image/upload/v1737697132/speed/assets/images/right-quote.png" alt="" />
+            </div>
+        </div>
+    </section>
+    <footer class="footer p-5 mt-2">
+        <div class="d-flex flex-row justify-content-around">
+            <div class="d-flex flex-column justify-content-between">
+                <h6 class="footer-heading">Important links</h6>
+                <ul>
+                    <li class="li-style">Home</li>
+                    <li class="li-style">About us</li>
+                    <li class="li-style">Our latest-event</li>
+                    <li class="li-style">Our latest-article</li>
+                    <li class="li-style">Join with us</li>
+                </ul>
+            </div>
+            <div class="d-flex flex-column justify-content-between">
+                <h6 class="footer-heading">Social links</h6>
+                <ul>
+                    <li class="li-style">Instagram</li>
+                    <li class="li-style">Twitter</li>
+                    <li class="li-style">Face book</li>
+                    <li class="li-style">Linked in</li>
+                    <li class="li-style">Threads</li>
+                </ul>
+            </div>
+            <div class="d-flex flex-column justify-content-between">
+                <h6 class="footer-heading">Subscribe with us</h6>
+                <p class="p">It is a long established </p>
+                <p class="p">It is a long established </p>
+                <p class="p">It is a long established </p>
+                <div class="d-flex flex-row">
+                <button class="white">text</button>
+                <button class="orange">Subscribe</button>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>

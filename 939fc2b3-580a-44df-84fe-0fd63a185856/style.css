@@ -1,0 +1,188 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    font-family: "Open Sans";
+}
+
+.navbar {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696813/aj/assets/images/cop.jpg");
+    margin: 0px;
+}
+
+.nav-logo {
+    height: 40px;
+    width: 40px;
+}
+
+#nav-item1 {
+    color: #000000;
+}
+
+#nav-item2 {
+    color: #ffffff;
+}
+
+#nav-item3 {
+    color: #ffffff;
+}
+
+#nav-item4 {
+    color: #ffffff;
+}
+
+.home-page {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696803/aj/assets/images/banner1.png");
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+
+}
+
+.navbar-toggler {
+    border-width: 0px;
+    height: 40px;
+    width: 200px;
+    background-color: #000000;
+    border-radius: 0px;
+    text-align: right;
+}
+
+.fa-bars {
+    font-size: 22px;
+    color: white;
+
+}
+
+.img1 {
+    height: 280px;
+    width: 200px;
+}
+
+.main-heading {
+    font-weight: bold;
+}
+
+.para2 {
+    color: white;
+}
+
+.button {
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    font-family: "Open Sans";
+}
+
+.rounds {
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    background-color: #f9d342;
+}
+
+.gallery-heading {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.para4 {
+    color: #333333;
+}
+
+.para5 {
+    max-width: 400px;
+}
+
+.button-card {
+    margin-left: 200px;
+}
+
+.button2 {
+    color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 16px;
+    background-color: #333333;
+    border: 2px solid #ffd700;
+}
+
+.product-img {
+    height: 200px;
+    margin-top: 20px;
+    border: 5px solid #f9d342;
+    border-radius: 100px;
+}
+
+.button-card2 {
+    margin-right: 200px;
+}
+
+.feed-back-form {
+    border: 3px solid #f9d342;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+}
+
+.horizontal-line {
+    border-width: 2px;
+    border-color: black;
+}
+
+.button3 {
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    border-width: 0px;
+    font-family: "Open Sans";
+}
+
+.image-gold {
+    height: 400px;
+    width: 90vw;
+    background-position: center center;
+}
+
+.footer-cont {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696813/aj/assets/images/cop.jpg");
+    background-size: cover;
+    padding: 12px;
+}
+
+.foot-head {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.foot-para {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.contact-in {
+    color: white;
+    font-size: 24px;
+}
+
+.foot-last {
+    background-image: linear-gradient(to top, #ffd700, #f9d342);
+    font-size: 14px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.span-element {
+    border: 1px solid black;
+    padding: 3px;
+    border-radius: 50px;
+}
+
+.z-wala {
+    z-index: 99;
+}

@@ -248,18 +248,18 @@
     font-family: "Open Sans";
 }
 
-.container_bottom_container{
+.container_bottom_container {
     text-align: center;
 }
 
-.footer_text_1{
+.footer_text_1 {
     margin-top: 20px;
     color: grey;
     font-family: "Open Sans";
     font-weight: bold;
 }
 
-.icon_socialmedia{
+.icon_socialmedia {
     font-size: 20px;
     margin: 5px;
     border-radius: 50px;
@@ -268,11 +268,11 @@
     padding: 2px;
 }
 
-.last_text{
+.last_text {
     color: red;
 }
 
-.last_para{
+.last_para {
     font-family: "Open Sans";
     margin: 10px;
 }

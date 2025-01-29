@@ -137,9 +137,10 @@ hr {
     color: black;
     font-weight: bold;
 }
-.footer_last{
+
+.footer_last {
     background-color: #f9d342;
-    height:15vh;
+    height: 15vh;
     background-size: cover;
     text-align: center;
 }

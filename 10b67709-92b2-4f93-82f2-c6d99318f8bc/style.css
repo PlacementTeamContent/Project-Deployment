@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.curosal {
+    height: 83vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg');
+}
+
+.best-offer {
+    color: #ff6b6b;
+    font-family: "Montserrat", Sans-Serif;
+    font-weight: bold;
+}
+
+.new {
+    text-align: center;
+    color: white;
+    font-family: "Montserrat", Sans-Serif;
+    font-weight: 400;
+    font-size: 50px;
+    letter-spacing: 0;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    font-size: 25px;
+    font-family: "Montserrat", Sans-Serif;
+    margin-left: 20vh;
+
+}
+
+.cloth {
+    color: #ff6b6b;
+}
+
+.navbar-nav {
+    display: flex;
+    margin-left: 10vh;
+
+}
+
+#border {
+    border: 1px red solid;
+}
+
+#Home {
+    color: #ff6b6b;
+    font-family: "Montserrat", Sans-Serif;
+    font-size: 20px;
+    border-bottom-color: #ff6b6b;
+    border-bottom: 2px #ff6b6b solid;
+    font-weight: bold;
+    margin: 5px;
+}
+
+#links {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+
+}
+
+.contains {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+
+}
+
+.latest {
+    font-family: "Montserrat", Sans-Serif;
+    font-size: 25px;
+}
+
+.view {
+    font-size: 20px;
+    margin: 5px;
+    margin-bottom: 0px;
+    color: #ff6b6b;
+}
+
+.margins {
+    margin-top: 20px;
+}
+
+.product-details {
+    display: flex;
+    justify-content: space-between;
+}
