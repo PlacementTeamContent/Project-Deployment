@@ -245,7 +245,47 @@
     font-size: 15px;
     padding: 10px;
 }
-.card{
-    border: 5px solid #FFD700;
-    text-align: left;
+.card1{
+    border: 5px solid #F9D342;
+    text-align: left;  
+    min-height:200px;
+    max-width:400px;
+    margin:auto;
+    padding:10px;
+    border-radius:10px;
+}
+.card-p{
+    font-family: Open Sans;
+    color:#333333;
+    font-weight: bold;
+}
+.contact-btn{
+    font-family: "Open Sans-Serif";
+    border:1px solid #000000;
+    color:#ffffff;
+    border-radius:17px;
+    background-color: #000000;
+    align-items: center;
+    height:35px;
+    min-width:130px;
+}
+.multi-bg{
+   
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696813/aj/assets/images/cop.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+   /*  justify-content: ; */
+    align-items: center;
+}
+.multi-head{
+    color:#ffffff;
+}
+.footer{
+    background-image:url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696803/aj/assets/images/banner1.png") ;
+    background-size: cover;
+    font-family: Open Sans;
+    color: #000000;
+    font-size: 17px;
+    text-align: center;
 }

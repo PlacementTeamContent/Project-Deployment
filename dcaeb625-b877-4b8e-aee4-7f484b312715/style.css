@@ -288,4 +288,12 @@ p{
         align-items: center;
         justify-content: center;
     }
+    .contact{
+        flex-direction: row;
+        justify-content: center;
+    }
+    .copy{
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
 }

@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.span-1 {
+    color: #ff6b6b;
+    font-weight: 900;
+}
+
+.nav-link {
+    color: #000000;
+    font-weight: 800;
+}
+
+.nav-link:hover {
+    color: #ff6b6b;
+    text-decoration: underline;
+
+}
+
+.navbar-01 {
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+}
+
+.navbar-brand {
+    color: #000000;
+    font-weight: 900;
+}
+
+.div-01 {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg");
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+
+
+}
+
+.card {
+    background-color: transparent;
+    text-align: center;
+}
+
+.Best {
+    color: #ff6b6b;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.sale {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.Best1 {
+    color: #ff6b6b;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.conh {
+    color: #00bcd4;
+    font-size: 25px;
+    margin-left: 5px;
+    font-family: Sans-Serif;
+}
+
+.late {
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: Sans-Serif;
+}
+
+.conp {
+    margin-left: 5px;
+    font-family: Sans-Serif;
+}
+
+.conhh {
+    font-size: 25px;
+    margin-right: 5px;
+    font-family: Sans-Serif;
+}
+
+.str {
+    margin-left: 5px;
+}
+
+.revp {
+    color: red;
+    margin-right: 5px;
+    font-family: Sans-Serif;
+}
+
+.image-01 {
+    margin-bottom: 10px;
+}
+
+.cad {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #f4f4f4;
+}
+
+.conhead {
+    color: #00bcd4;
+    font-family: Sans-Serif;
+}
+
+.conbtn {
+    background-color: #ff6b6b;
+    color: white;
+    font-family: Sans-Serif;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    font-size: 13px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.foot {
+    text-align: center;
+    font-family: Sans-Serif;
+    font-size: 13px;
+}
