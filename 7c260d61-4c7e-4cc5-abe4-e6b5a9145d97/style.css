@@ -108,3 +108,17 @@
 .icon{
     width: 30px;
 }
+.contact,.loc,.phone,.mail{
+    text-align: center;
+    background-color: black;
+}
+.name{
+    text-align: center;
+    background-color: white;
+    width: 100px;
+    margin-left: 20%;
+}
+i{
+    background-color: #161616;
+    color:#ececec;
+}

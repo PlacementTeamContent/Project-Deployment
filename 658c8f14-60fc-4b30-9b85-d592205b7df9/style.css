@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735642096/atlas/assets/img/banner-bk.jpg");
+    padding: 50px;
+    background-size: cover;
+}
+
+.para {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.new-para {
+    font-size: 55px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lorem_para {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Roboto;
+    text-align: center;
+    padding: 2px;
+}
+
+.button {
+    background-color: #1b998b;
+    border-radius: 16px;
+    color: #162447;
+    font-size: 12px;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+    border-width: 0px;
+}
+
+.smart-heading {
+    font-size: 45px;
+    font-weight: bold;
+    color: #162447;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.anti-heading {
+    text-align: center;
+    font-size: 28px;
+}
+
+.anti-para {
+    text-align: center;
+}
+
+.bg-container2 {
+    background-color: lightgreen;
+}
+
+.take-heading {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.learn-button {
+    background-color: #162447;
+    border-radius: 18px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    padding: 5px;
+    border-width: 0px;
+}
+
+.zero {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.get-button {
+    background-color: transparent;
+    border-color: black;
+    border-radius: 18px;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    height: 30px;
+    width: 80px;
+    padding: 5px;
+    border-width: 2px;
+    margin-top: 20px;
+}
+
+.premium-background {
+    background-color: #162447;
+    padding: 40px;
+
+}
+
+#getcolor {
+    background-color: #1b998b;
+    border-radius: 15px;
+    height: 30px;
+    margin-top: 40px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 12px;
+    border-width: 0px;
+    color: #162447;
+
+}
+
+.logo-background {
+    background-color: #d9edf7;
+    padding: 30px;
+}
+
+.image {
+    height: 80px;
+    width: 120px;
+}
+
+.contact-heading {
+    font-size: 55px;
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+.contact-para {
+    font-size: 18px;
+}
+
+.email-heading {
+    font-size: 25px;
+}
+
+.name {
+    color: green;
+    font-size: 30px;
+
+}
+
+.box {
+    height: 5vh;
+    width: 40vw;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: green;
+
+}
+
+.box1 {
+    height: 10vh;
+    width: 40vw;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: green;
+
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.icon1 {
+    color: #ffffff;
+    font-size: 75px;
+}

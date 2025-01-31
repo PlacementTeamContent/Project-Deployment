@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top {
+    background-color: #0056b3;
+    text-align: center;
+    color: white;
+}
+
+.logo {
+    margin: 10px;
+    /* height: 40%;
+    width: 30%; */
+    display: flex;
+    justify-content: center;
+}
+
+.navbar1 {
+    margin-left: 36%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.home {
+    font-family: "Poppins";
+    color: #0056b3;
+}
+
+.nav-links {
+    font-family: "Poppins";
+    color: black;
+}
+
+.main {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821283/pixie/assets/images/banner-bg.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 100px;
+}
+
+.main-inside {
+    background-color: white;
+    width: 60%;
+    /* margin-left: 200px; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mh {
+    text-align: center;
+    padding: 10px;
+    font-family: Poppins;
+}
+
+.mp {
+    padding: 10px;
+    font-family: Sans-Serif;
+}
+
+.order-button {
+    font-family: Sans-Serif;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    background-color: #0056b3;
+    color: white;
+    border-radius: 10px;
+}
+
+.items {
+    padding: 90px;
+}
+
+.items-inside {
+    margin: 30px;
+    padding: 20px;
+    border: solid;
+    height: 60%;
+}
+
+.item-img {
+    height: 75%;
+    width: 100%;
+}
+
+.item-name {
+    font-family: Poppins;
+    font-size: 30px;
+}
+
+.price {
+    color: #0056b3;
+    font-size: 20px;
+}
+
+.subs {
+    height: 30vh;
+    background-color: #00bcd4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.subsh {
+    text-align: center;
+    color: white;
+}
+
+.subsp {
+    text-align: center;
+    color: white;
+}
+
+.email-box {
+    height: 15%;
+    width: 40%;
+    border: solid;
+    border-color: white;
+    margin: 40px;
+}
+
+.email-p {
+    padding: 5px;
+}
