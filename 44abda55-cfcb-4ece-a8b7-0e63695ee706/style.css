@@ -1,0 +1,281 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+    margin: 1px;
+}
+
+.dark {
+    height: 90vh;
+    opacity: 0.6;
+    background-color: black;
+}
+
+.main-container {
+    height: 90vh;
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821262/technology/assets/images/slider.jpg');
+    background-size: cover;
+    margin: 1px;
+    align-content: center;
+}
+
+.heading {
+    color: #ffffff;
+    padding-top: 90px;
+}
+
+.aligning {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Current {
+    color: #0056b3;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.stay {
+    color: #ffffff;
+    padding-top: 20px;
+}
+
+.boxes {
+    display: flex;
+    padding-top: 20px;
+}
+
+.box {
+    border-width: 4px;
+    border-style: solid;
+    border-color: #00bcd4;
+    height: 140px;
+    width: 140px;
+    margin-right: 15px;
+}
+
+.time {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.name {
+    color: #0056b3;
+    font-size: 20px;
+    text-align: center;
+}
+
+.para {
+    color: white;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.enter {
+    display: flex;
+    margin-top: 20px;
+}
+
+.email {
+    border-width: 2px;
+    border-color: #00bcd4;
+    border-style: solid;
+    height: 40px;
+    width: 240px;
+    padding-top: 1px;
+    color: grey;
+    padding-left: 3px;
+}
+
+.subscribe {
+    color: white;
+    background-color: #00bcd4;
+    text-align: center;
+    width: 130px;
+    padding-top: 5px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+}
+
+.fab {
+    color: #00bcd4;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 30px;
+    margin-right:10px;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.Features {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.Getintouch{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.NAME {
+    color: black;
+    padding-top: 50px;
+}
+
+.NAME1 {
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+}
+
+.blue-line {
+    background-color: #00bcd4;
+    height: 2px;
+    width: 130px;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.fas {
+    color: #00bcd4;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.Features {
+    background-color: #f4f4f4;
+}
+
+.section {
+    color: grey;
+    padding-top: 20px;
+}
+
+.para1 {
+    color: grey;
+    padding-top: 20px;
+}
+
+.fa-laptop {
+    width: 100px;
+    align-self: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.fa-image {
+    width: 100px;
+    align-self: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.fa-rocket {
+    width: 100px;
+    align-self: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.fa-shopping-cart {
+    width: 100px;
+    align-self: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.object {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.About {
+    background-color: black;
+}
+
+.section1 {
+    color: grey;
+    text-align: center;
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+    align-self: center;
+    border-width: 4px;
+    border-color: #00bcd4;
+    border-style: solid;
+    margin-top: 20px;
+}
+
+.hisname{
+    color: white;
+    padding-top: 10px;
+    align-self: center;
+}
+.role{
+    color: #00bcd4;
+    text-align: center;
+    padding-top: 10px;
+    align-self: center;
+}
+.sairam{
+    height: 40px;
+    border-color: #00bcd4;
+    border-style: solid;
+    border-width: 1px;
+    text-align: left;
+    color: grey;
+    margin-bottom: 20px;
+}
+.sairam1{
+    height: 200px;
+    border-color: #00bcd4;
+    border-style: solid;
+    border-width: 1px;
+    text-align: left;
+    color: grey;
+}
+.button{
+    background-color: #00bcd4;
+    height: 45px;
+    width: 150px;
+    border-width: 0px;
+    color: white;
+    margin-top: 30px;
+}
+.footer{
+    background-color:black;
+    height: 150px;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para3{
+    color: grey;
+}
+span{
+    color: #00bcd4;
+}

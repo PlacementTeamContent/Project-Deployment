@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+body {
+    width: 100vw;
+}
+
+.heropage {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821262/technology/assets/images/slider.jpg');
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+
+
+}
+
+.hero-cards {
+    background-color: transparent;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #00bcd4;
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+}
+
+.hero-cards-align {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-cards>h1 {
+    color: white;
+}
+
+.hero-cards>p {
+    color: #00bcd4;
+}
+
+i {
+    color: #00bcd4;
+
+    padding: 10px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.featuressec {
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+
+
+
+}
+
+.features_img {
+    color: black;
+}
+
+.features-card {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.features-card-align {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.aboutustop {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+
+}
+
+.aboutuscard {
+    border-color: #00bcd4;
+    color: #00bcd4;
+    text-align: center;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    background-color: black;
+
+}
+
+.getintouchtop {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
