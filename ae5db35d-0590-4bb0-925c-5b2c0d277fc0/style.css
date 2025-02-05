@@ -1,7 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
+.web-container {
+    padding: 10px;
+    height: 100vh;
+    width: 100vw;
+    margin: 10px;
+}
+
 .bg-container {
     background-color: #f4f4f4;
+    margin: auto;
 }
 
 .logo-color {
@@ -39,8 +47,10 @@
     justify-content: center;
     align-items: center;
     background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735821276/sixteen-clothing/assets/images/slide_01.jpg');
-    height: 100%;
+    height: 30%;
     width: 100%;
+    background-size: cover;
+    margin: 10px;
 }
 
 .container-card {
@@ -85,5 +95,26 @@
     border-width: 0px;
     height: 40px;
     width: 100px;
+    border-radius: 2px;
+}
+
+.last-card {
+    background-color: #f4f4f4;
+    border-width: 0px;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.name {
+    font-weight: 800;
+}
+
+.button1 {
+    background-color: #ff6b6b;
+    color: #ffffff;
+    border-width: 0px;
+    height: 50px;
+    width: 200px;
     border-radius: 2px;
 }

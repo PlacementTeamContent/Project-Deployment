@@ -1,28 +1,40 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
-/* .to-center{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-} */
-*{
-     font-family: "Open Sans", Sans-Serif;
+.to-center {
+    background-color: #Ffd700;
+    margin-bottom: 90px;
 }
+
+* {
+    font-family: "Open Sans", Sans-Serif;
+    margin: 0px;
+}
+
 .top-section {
     background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696803/aj/assets/images/banner1.png');
     height: 100vh;
     background-size: cover;
-    /* width: 70vw; */
+
+}
+
+.for-button {
+    border-radius: 40px;
+    background-color: white;
+    color: black;
+    border-width: 0px;
+    padding: 20px;
 }
 
 .main-text {
-   
+    font-size: 60px;
     text-align: center;
     font-weight: bold;
 }
 
 .all-elements {
     text-align: center;
+    height: 40vh;
+    font-size: 40px;
 }
 
 .text-color {
@@ -30,6 +42,64 @@
     /* font-weight: bold; */
 }
 
+.image {
+    border-radius: 3000px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #ffd700;
+}
+
+.near-footer {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696813/aj/assets/images/cop.jpg');
+    height: 20vh;
+    background-size: cover;
+}
+
 .just-color {
     color: white;
+}
+
+.total-sec {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696815/aj/assets/images/croo.png');
+    height: 70vh;
+    background-size: cover;
+}
+
+.total-sec1 {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1737696815/aj/assets/images/croo1.png');
+    height: 70vh;
+    background-size: cover;
+}
+
+.box {
+    margin-right: 30px;
+}
+
+.small-box {
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: #f9d342;
+    border-style: solid;
+    width: 400px;
+    height: 450px;
+}
+
+.list-items {
+    list-style-type: none;
+    font-size: 40px;
+}
+
+.main-text2 {
+    font-size: 40px;
+    text-align: center;
+    /* font-weight: bold; */
+}
+.send{
+    /* text-align: center; */
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    font-size: 30px;
+    padding: 9px;
+    margin-bottom: 10px;
 }
