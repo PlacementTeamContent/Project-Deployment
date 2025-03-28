@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    background-color: #20341E;
+    color: #FFFFFF;
+    height: 40px;
+
+}
+
+
+
+
+
+
+
+
+.bg-container {
+    background-image: url("https://cdn.b12.io/client_media/uRhFd1jE/4adf7c08-057d-11f0-adbc-0242ac110002-jpg-hero_image.jpeg");
+    height: 100vh;
+    width: 100vw;
+    color: #FFFFFF;
+    font-family: "Poppins";
+    /*  display: flex; */
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+    font-weight: bold;
+
+}
+
+.heading {
+    font-size: 50px;
+    font-family: "Poppins";
+    font-weight: bold;
+
+}
+
+.para {
+    font-size: 20px;
+}
+
+.button {
+    background-color: #32AA27;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.box-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #FFFFFF;
+
+}
+
+.paragraph {
+    color: #32AA27;
+    margin: 15px;
+}
+
+.hed {
+    font-size: 30px;
+    color: #162415;
+    font-weight: bold;
+    padding: 10px;
+
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.box1 {
+
+    height: 50vh;
+    width: 40vw;
+    margin: 20px;
+    /*  padding: 20px; */
+    border-color: box-shadow;
+    border-width: 5px;
+
+
+}
+
+.image {
+    height: 150px;
+    width: 300px;
+
+}
+
+.read {
+    font-size: 20px;
+    color: #162415;
+    font-weight: bold;
+
+}
+
+.read:hover {
+    color: #32AA27;
+}
+
+.box1:hover {
+    height: 55vh;
+    width: 45vw;
+    margin: 20px;
+    /*  padding: 20px; */
+    border-color: box-shadow;
+    border-width: 5px;
+
+}
+
+.paragraph:hover {
+    color: #32AA27;
+    font-weight: bold;
+}

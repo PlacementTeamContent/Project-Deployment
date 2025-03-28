@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.background-image{
+    background-image: url("https://cdn.b12.io/client_media/bgjFMIEJ/9b307e74-0572-11f0-833d-0242ac110002-jpg-hero_image.jpeg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}

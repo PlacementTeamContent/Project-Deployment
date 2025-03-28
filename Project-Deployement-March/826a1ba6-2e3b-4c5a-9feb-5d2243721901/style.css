@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@media (min-width:992px) {
+    .card:hover {
+        scale: 1.09;
+
+        .hoverr {
+            color: green;
+        }
+
+    }
+
+    /* 
+@media (max-width:992px){
+.nvv{
+    display: flex;
+    justify-content: space-between;
+}
+} */
+
+    .nav {
+        position: fixed;
+    }

@@ -1,0 +1,25 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.page1{
+    background-image: url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+    height: 60vh;
+    background-size: cover;
+    width: 80vh;
+}
+.top{
+    background-color: #162415;
+    color: #FFFFFF;
+    display: flex;
+    margin-left: 20px;
+}
+.abc{
+    text-align: right;
+    justify-items: flex-end;
+    display: flex;
+    margin-left: 300px;
+}
+.pp{
+    margin: 5px;
+} */
+.first{
+    background-image: url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+}

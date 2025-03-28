@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.image1{
+    height: 90vh;
+    width:100vw;
+}
+/* .b1{
+   background-color: green;
+   color: white;
+   border-radius: 20px;
+} */
+.d1{
+    background-image: url("https://cdn.b12.io/client_media/uRhFd1jE/4adf7c08-057d-11f0-adbc-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 90vh;
+    width: 95vw;
+}
+.d2{
+    flex: flex-row;
+    justify-content: center;
+    align-items: center;
+}

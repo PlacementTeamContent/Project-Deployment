@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        caveat: ["Caveat", "cursive"],
+                        breeserif: ["Bree Serif", "serif"],
+                        roboto: ["Roboto", "sans-serif"],
+                    },
+                },
+            },
+        };
+    </script>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <div class="bg-[#32AA27] h-28 text-white text-2xl flex justify-between bg-cover  gap-5">
+            <h1 class="font-bold md:text-4xl text-1xl flex flex-row justify-center md:m-8 m-2">Real Estate Website</h1>
+            <nav class=" flex md:gap-4 m-8  ">
+                <h1>Home</h1>
+                <h1>Services</h1>
+            </nav>
+
+        </div>
+        <div class="bg-[url(https://cdn.b12.io/client_media/eyqMhjc9/320363ae-0580-11f0-ba5c-0242ac110002-jpg-hero_image.jpeg)]  min-h-screen">
+            <div class="bg-black/50 min-h-screen flex flex-col justify-center ">
+                <h1 class="text-white  text-3xl md:text-8xl font-bold m-3  ">Your dream property awaits</h1>
+                <p class="text-white text-3xl md:text-5xl m-3 ">Discover the best listings in the city</p>
+                <button class="text-[#ffffff] bg-[#32AA27] m-2  text-2xl md:text-3xl p-3 pl-1 pr-1 h-20 w-56 <!-- hover:bg-white -->">View Services </button>
+            </div>
+        </div>
+        <div>
+            <h1 class="text-[#32AA27] font-bold text-2xl pt-3 pl-3">Our Expertise</h1>
+            <h1 class="font-bold text-4xl p-3"> Discover Exceptional Real Estate </h1>
+            <div class="md:grid grid-cols-3">
+                <div class="flex flex-col p-4 pt-30 gap-2 justify-center text-center hover:transform scale-2">
+                    <img src="https://cdn.b12.io/client_media/eyqMhjc9/376dea80-0580-11f0-ba5c-0242ac110002-jpg-regular_image.jpeg" class="h-full w-full  flex flex-row " />
+                    <div class="pt-10 border-solid shadow-md">
+                        <h1 class="font-bold text-3xl">Market listing</h1>
+                        <p class="text-sm p-3 text-28">Enusre your construction project runs smoothly with the expert overnight</p>
+                    </div>
+
+                </div>
+                <div class="flex flex-col p-4 pt-30 gap-2 justify-center text-center hover:transform scale-2">
+                    <img src="https://cdn.b12.io/client_media/eyqMhjc9/37574550-0580-11f0-ba5c-0242ac110002-jpg-regular_image.jpeg" class="h-full w-full  flex flex-col justify-center" />
+                    <div class="pt-10 border-solid shadow-md">
+                        <h1 class="font-bold text-3xl ">Consulting</h1>
+                        <p class="text-sm p-3 text-28">Enusre your construction project runs smoothly with the expert overnight</p>
+                    </div>
+
+                </div>
+                <div class="flex flex-col p-4 pt-30 gap-2 justify-center text-center hover:transform scale-2">
+                    <img src="https://cdn.b12.io/client_media/eyqMhjc9/37d586f4-0580-11f0-ba5c-0242ac110002-jpg-regular_image.jpeg" class="h-full w-full  flex flex-row " />
+                    <div class="pt-10 border-solid shadow-md">
+                        <h1 class="font-bold text-3xl">Property listing</h1>
+                        <p class="text-sm  text-28">Enusre your construction project runs smoothly with the expert overnight</p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=" bg-[#1A2A19] text-[#ffffff] md: flex justify-between h-400">
+            <div>
+                <p class="font-bold p-4">Navigation</p>
+                <p class="font-bold p-4">Schedule Appointment</p>
+            </div>
+            <div>
+                <p class="font-bold p-2 mr-5 ">Contact</p>
+                <p class="font-bold p-2 mr-5"> New York</p>
+                <p class=" font-2xl mr-5">Some Address</p>
+                <p class="font-2xl mr-5 text-underline">Street24 </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

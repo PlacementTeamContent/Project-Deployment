@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.pp {
+    background-color: black;
+    height: 6vh;
+    width: 100vw;
+    color: white;
+    padding: 20px;
+    display: grid;
+    font-weight: bold;
+    position: fixed;
+    grid-template-columns: 2fr 1fr;
+}
+.tr{
+    font-weight: bold;
+}
+.ty {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+.ghj:hover{
+    transition:5px;
+}
+.oo {
+    background-image: url("https://cdn.b12.io/client_media/uRhFd1jE/4adf7c08-057d-11f0-adbc-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    font-family: "Poppins";
+    background-color: transparent;
+    height: 100vh;
+    color: #FFFFFF;
+    display: grid;
+    padding: 100px;
+    font-size: 30px;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.tt {
+    background-color: #32AA27;
+    border-style: none;
+    border-radius: 5px;
+    height: 80px;
+    padding: 5px;
+
+}
+
+.dh {
+    color: #32AA27;
+}
+
+.iu {
+    font-size: 30px;
+}
+
+.dd {
+    height: 60vh;
+    width: 100vw;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+
+.fgh {
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-content: center;
+    gap: 10px
+}
+
+.ghj {
+    height: 31vh;
+    width: 30vw;
+    border-color: gray;
+    background-color: white;
+
+}
+
+.try {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 90px;
+    padding-left: 90px;
+    background-color: #1A2A19;
+    height: 35vh;
+    width: 100vw;
+    color: white;
+}
+
+.i {
+    font-weight: bold;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.u {
+    padding-top: 10px;
+    text-decoration: underline;
+}

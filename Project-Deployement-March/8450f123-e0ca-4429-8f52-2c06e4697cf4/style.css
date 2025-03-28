@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.bg-container{
+    background-image: url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+    height:100vh;
+    z-index: 0;
+    background-size: cover;
+}
+
+.button{
+    width: 250px;
+}
+
+.aks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+@media screen and (min-width:1024px){
+    .hov:hover{
+    transform: scale(1.1);
+    }
+
+}

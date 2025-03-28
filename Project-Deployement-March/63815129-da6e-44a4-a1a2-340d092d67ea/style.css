@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.upgreen {
+    background-color: #32AA27;
+    color: white;
+    padding: 10px;
+}
+
+.learn {
+    padding: 50px;
+    color: white;
+    font-family: poppins;
+    background-image: url("https://cdn.b12.io/client_media/mr82EC4Y/8ef60dea-060d-11f0-a157-0242ac110002-jpg-hero_image.jpeg");
+    height: cover;
+
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.bn {
+    background-color: #32AA27;
+    padding: 5px;
+    font-size: 10px;
+}
+
+.para {
+    font-size: 10px;
+}
+
+.black {
+    color: white;
+    background-color: #162415;
+    padding: 50px;
+}
+
+.img1 {}

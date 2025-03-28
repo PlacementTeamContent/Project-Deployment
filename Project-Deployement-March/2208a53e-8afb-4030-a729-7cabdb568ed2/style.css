@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.headerf{
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card{
+    background-image: url('https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+    height: 40vh;
+    color: white;
+    padding-top: 90px;
+    
+}
+.card22{
+    background-color: #32AA27;
+    height: 50vh;
+    padding: 10px;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+    gap: 20px;
+    
+}
+.cont-1{
+    padding: 10px;
+    background-color: #FFFFFF;
+}
+.just{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #20341E;
+    color: white;
+}
+.foot1{
+    background-color: #20341E;
+     padding: 10px;
+}
+.foot2{
+    background-color: #1A2A19;
+     padding: 10px;
+}
+.hh{
+    text-decoration: underline;
+}
+@media (max-width:576px){
+    .headerf{
+        height: 5vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .card{
+        background-image: url('https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg');
+        background-size: cover;
+        height: 40vh;
+        color: white;
+        padding-top: 90px;
+        
+    }
+    .card22{
+        background-color: #32AA27;
+        height: 220vh;
+        padding: 10px;
+    }
+    .cont{
+        display: flex;
+        flex-direction: column;
+        margin: 15px;
+        gap: 20px;
+        
+    }
+    .cont-1{
+        padding: 10px;
+        background-color: #FFFFFF;
+    }
+    .just{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        background-color: #20341E;
+        color: white;
+    }
+    .foot1{
+        background-color: #20341E;
+         padding: 10px;
+    }
+    .foot2{
+        background-color: #1A2A19;
+        padding: 10px;
+    }
+    .hh{
+        text-decoration: underline;
+       
+    }
+}

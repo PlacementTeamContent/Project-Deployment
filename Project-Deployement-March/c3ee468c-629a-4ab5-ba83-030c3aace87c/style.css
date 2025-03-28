@@ -1,0 +1,13 @@
+.container {
+   background-image: url("https://cdn.b12.io/client_media/bgjFMIEJ/9b307e74-0572-11f0-833d-0242ac110002-jpg-hero_image.jpeg");
+   height:500px;
+   width:500px;
+    
+}
+.heading {
+    font-family:Poppins;
+}
+.navbar {
+    background-color:#62415;
+    
+}

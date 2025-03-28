@@ -1,0 +1,86 @@
+.container {
+    height: 200vh;
+}
+
+.card {
+    background-color: black;
+    height: 60px;
+}
+
+.fa {
+    color: white;
+    height: 60px;
+}
+
+.h1 {
+    color: white;
+}
+
+.card1 {
+    background-image: url('https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg');
+    text-align: center;
+    height: 400px;
+    background-size: cover;
+    padding: 130px;
+}
+
+.h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.h2 {
+    color: white;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    height: 30px;
+}
+
+.c {
+    text-align: center;
+}
+
+.k {
+    color: green;
+    font-size: 25px;
+}
+
+.a {
+    font-size: 35px;
+}
+
+.r {
+    background-color: lightblue;
+    height: 400px;
+    width: 380px;
+    margin: 40px;
+}
+
+.img {
+    height: 250px;
+    margin: 40px;
+    padding: 20px;
+
+}
+
+.o {
+    text-align: center;
+    font-size: 20px;
+}
+
+.cardd {
+    background-color: #38BF2C;
+    height: 100vh;
+    width: 400px;
+    padding: 30px;
+    margin: 40px;
+    text-align: center;
+    color: white;
+}
+
+.l {
+    text-decoration: underline;
+}

@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    background-color: #466F87;
+    width: 100vw;
+    height: 5vh;
+}
+
+.travel {
+    color: white;
+    font-family: Sans-Serif;
+    margin-left: 10px;
+}
+
+.bg1 {
+    background-image: url(https://cdn.b12.io/client_media/4DgJuwwE/27241e70-03e0-11f0-8f1e-0242ac110002-jpg-hero_image.jpeg);
+    height: 50vh;
+    background-size: cover;
+}
+
+.middle {
+    background-color: #C4DDDE;
+    width: 100vw;
+    height: 75vh;
+}
+
+.middle1 {
+    margin: 20px;
+}
+
+.img {
+    width: 250px;
+    height: 200px;
+}
+
+.box {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+}
+
+.button {
+    color: white;
+    font-family: Sans-Serif;
+    background-color: #558D97;
+    width: 150px;
+    height: 50px;
+}
+
+.head1 {
+    font-size: 32px;
+    color: white;
+    font-family: Sans-Serif;
+    font-weight: bold;
+}
+
+.para1 {
+    font-size: 22px;
+    color: white;
+    font-family: Sans-Serif;
+    font-weight: bold;
+}
+
+.section {
+    margin-top: 120px;
+    margin-left: 75px;
+}
+.explore{
+    margin-left: 10px;
+}
+.foot{
+    background-color: #466F87;
+    width: 50vw;
+    height: 50vh;
+}
+.foot1{
+    background-color: #466F87;
+    width: 50vw;
+    height: 50vh;
+}

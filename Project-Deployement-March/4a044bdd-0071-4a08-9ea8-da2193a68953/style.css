@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+nav {
+    background-color: #32AA27;
+    height: 64px;
+}
+
+.main {
+    background-image: url('https://cdn.b12.io/client_media/4AY7x8u9/d11dd50e-04aa-11f0-b0d9-0242ac110002-jpg-hero_image.jpeg');
+    height: 96vh;
+    width: 98vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.matter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.i {
+    height: 320px;
+}
+
+.box {
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.box_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.alpha:hover {
+    color: #32AA27;
+}
+
+.box:hover {
+    height: 500px;
+    width: 500px;
+}

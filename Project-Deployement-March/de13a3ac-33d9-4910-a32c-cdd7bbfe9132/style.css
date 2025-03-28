@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.banner{
+    height: 60vh;
+    width: 100%;
+    background-image: url("https://cdn.b12.io/client_media/4DgJuwwE/27241e70-03e0-11f0-8f1e-0242ac110002-jpg-hero_image.jpeg");
+}
+.me{
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: Poppins;
+}
+.para{
+    color: white;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.btn{
+    background-color:#558D97 ;
+    color: white;
+    width: 130px;
+    font-family: Poppins;
+    height: 35px;
+    margin-top: 10px;
+    
+}
+.card-container{
+    background-color: #C4DDDE;
+    height: 50vh;
+    width: 100%;
+
+}
+.para1{
+    color:#558D97 ;
+    font-size:15px ;
+    font-family: Poppins;
+   font-weight: bold;
+    
+}
+.head1{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Poppins;
+    margin-top: 5px;
+}
+.card-1{
+    height: 100px;
+    width: 200px;
+    background-color: #C4DDDE;
+    margin: 12px;
+    width: 195px;
+    
+}
+
+.image{
+    height: 100px;
+    width: 180px;
+    
+}
+.card-head{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 5px;
+    
+}
+.card-para{
+    font-size: 15px;
+    margin-top: 5px;
+}

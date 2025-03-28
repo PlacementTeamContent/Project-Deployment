@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.home-content {
+    display: flex;
+    flex: row;
+    justify-content: end;
+
+
+}
+
+.pp {
+    padding: 12px;
+}
+
+.ps {
+    display: flex;
+    flex: row;
+    justify-content: start;
+}
+
+.js {}

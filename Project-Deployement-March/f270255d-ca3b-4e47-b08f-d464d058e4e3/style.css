@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.main{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+                url("https://cdn.b12.io/client_media/4DgJuwwE/27241e70-03e0-11f0-8f1e-0242ac110002-jpg-hero_image.jpeg") fixed center/cover no-repeat;
+    height: 80vh;
+}
+
+.last{
+    height: 30vh;
+}
+
+.pos{
+    position: fixed;
+    width: 99vw;
+    z-index: 2;
+}
+
+.box:hover{
+    transform: scale(1.05);
+}

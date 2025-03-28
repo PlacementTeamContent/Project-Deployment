@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+    font-family: Poppins;
+}
+
+@media (max-width:640px){
+    .hidden-small{
+        display: none;
+    }
+}
+
+@media (min-width:641px){
+    .hidden-large{
+        display: none;
+    }
+}

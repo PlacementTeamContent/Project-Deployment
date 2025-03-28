@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.project-container{
+    min-height: 150vh;
+}
+.navbar-container{
+    background-color: #32AA27;
+    height: 13vh;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+}
+.nav-iteams{
+    display: none;
+}
+@media screen and (min-width:768px){
+    .nav-iteams{
+        display: block;
+    }
+}
+@media screen and (min-width:768px){
+    .navbar-container{
+        padding: 20px;
+        height: 8vh;
+    }
+    .fa-bars{
+        display: none;
+    }
+}
+.banner-section{
+    background-image: url('https://cdn.b12.io/client_media/mr82EC4Y/8ef60dea-060d-11f0-a157-0242ac110002-jpg-hero_image.jpeg');
+    height: 100vh;
+    background-size: cover;
+}
+@media screen and (min-width:768px){
+    .banner-section{
+        height: 100vh;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+    }
+}
+
+.image{
+    height: 30vh;
+    width: 90%;
+}
+@media screen and (min-width:768px){
+    .image{
+        width:30vh;
+        height: 20vh;
+    }
+}
+@media screen and (min-width:768px){
+    .cards{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+
+
+.app{
+    text-decoration: underline;
+}
+@media screen and (min-width:768px){
+    .two-card{
+        display: flex;
+        flex-direction: row;
+    }
+}

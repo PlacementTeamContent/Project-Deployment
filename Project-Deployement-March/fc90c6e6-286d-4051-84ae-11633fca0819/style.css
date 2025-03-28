@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+/* @media (min-width: 992) */
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: black;
+    height: 50px;
+}
+.h{
+    font-size: 20px;
+    padding-left: 100px;
+    font-family: Poppins;
+    }
+.b{
+    /* font-size: 20px; */
+    padding-left: 100px;
+}
+.a{
+    background-image: url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+    height: 30vh;
+    background-size: cover;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+.but{
+    background-color: green;
+    padding: 5px;
+    font-size: 10px;
+}
+.pp{
+    color: #43B139;
+}
+.hh{
+    color: #020402;
+    font-size: 20px;
+}
+.img{
+    height: 30vh;
+    width: 30vw;
+    /* background-size: cover; */
+}
+@media screen (width>=1024px);
+    .aa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+
+
+/* @media screen (max-width 1024px);
+    .aa{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    } */
+/* hover:abc{
+    
+} */
+.hhh{
+    color: #020402;
+    font-size: 17px;
+}
+hover:hhh{
+    color: #43B139;
+}
+.para{
+    font-size: 10px;
+}
+.f{
+    background-color: #43B139;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

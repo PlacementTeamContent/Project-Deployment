@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+
+}
+
+.subpara {
+    display: flex;
+    justify-items: space-between;
+}
+
+.images {
+    text-align: center;
+    background-image: url('https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg');
+}
+
+.btn {
+    text-align: center;
+    border-style: solid;
+    border-width: 0px;
+}

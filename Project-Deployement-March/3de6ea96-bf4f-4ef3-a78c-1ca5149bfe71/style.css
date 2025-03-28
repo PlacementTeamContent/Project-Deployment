@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.page{
+    height: 70px;
+    width: 100vw;
+    background-color:#20341E ;
+    color: white;
+    
+}
+.h1{
+    font-weight: bold;
+}
+.image{
+    background-image: url("https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg");
+    height: 400px;
+    width: 100vw;
+    font-size: 30px;
+}
+.bt{
+    height: 55px;
+    width: 160px;
+    font-family: Poppins;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: #32AA27;
+     margin-left: 30px;
+     margin-top: 20px;
+    
+}
+.h11{
+    font-weight: Bold;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.p11{
+    font-size: 20px;
+     padding-left: 20px;
+}
+.page3{
+    height: 400px;
+    width: 100vw;
+    background-color:#32AA27 ;
+}
+.ab{
+    font-family: Poppins;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+.cd{
+    font-family: Poppins;
+    font-size: 20px;
+    padding-left: 70px;
+    font-size: 30px;
+}
+.card1{
+    height:280px ;
+    width: 200px;
+    color: black;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.card2{
+    height:280px ;
+    width: 200px;
+    color: black;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: -280px;
+}
+.card3{
+    height:280px ;
+    width: 200px;
+    color: black;
+    background-color: white;
+    margin-left: 630px;
+    margin-top: -280px;
+    
+}
+.page4{
+    height: 300px;
+    width: 100vw;
+    background-color: #1A2A19;
+    
+}
+.matter{
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.matter2{
+    margin-top: -100px;
+    margin-left: 0px;
+    text-decoration: underline;
+    text-align: end;
+    
+    
+    
+}

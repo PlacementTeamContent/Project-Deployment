@@ -1,0 +1,17 @@
+.left{
+    text-align: center;
+    height: 150px;
+    padding:20px;
+    
+}
+.navbar{
+    position: fixed;
+    z-index: 5;
+    right: 0px;
+    left: 0px;
+}
+.right{
+    text-align: center;
+    height: 150px;
+    padding:20px;
+}

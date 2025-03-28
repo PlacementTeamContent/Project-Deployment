@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap"); 
+.flex{ 
+    color: green;
+    flex:start; 
+    height:70px; 
+    width: 500px; 
+    background-color: #32AA27; 
+    flex:row;
+    background-color:bg-green-500, text-white,  ; 
+    color: white  ;  
+    text-align: end;
+    
+}  
+.ok{ 
+    
+  flex-wrap:column;  
+  flex-direction:-1; 
+  border:solid; 
+  height: 300px; 
+  width:400px;
+} 
+.p{
+flex-direction: 0;    
+}

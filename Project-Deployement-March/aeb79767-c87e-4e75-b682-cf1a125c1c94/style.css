@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.navbar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    
+}
+
+.iconcolor{
+    color: white;
+}
+
+@media (min-width:768px){
+    .textnavbar{
+        display: none;
+    }
+    .icon{
+        display: block;
+    }
+}
+
+@media (max-width:769px){
+    .textnavbar{
+        display: block;
+    }
+    .icon{
+        display: none;
+    }
+}
+
+.secondcontainersub{
+    
+}
+
+
+.top_container{
+    background-image: url('https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+    margin-top: 60px;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 3vh;
+}
+
+.button1{
+    padding: 1vh;
+    margin: 5px;
+}
+
+.secondcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgedit1{
+    height: 45vh;
+}
+
+.subsubcontainer{
+    background-color: white;
+}
+
+.headingsecondcontainer{
+    text-align: left;
+}
+
+.text-top{
+    text-align: left;
+}
+
+.paraelement1{
+    color: gray;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}

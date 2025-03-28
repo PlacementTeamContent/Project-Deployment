@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.nav_bar{
+    background-color:#32AA27;
+    width:100vw;
+    display:flex;
+    justify-content: space-between;
+    color:white;
+    position:fixed;
+    text-align: center;
+    height:50px;
+    font-size:20px;
+}
+.nav2{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.p{
+    margin-right:8px;
+}
+.bgk{
+    background-image:url("https://cdn.b12.io/client_media/eyqMhjc9/320363ae-0580-11f0-ba5c-0242ac110002-jpg-hero_image.jpeg");
+    background-size:cover;
+    height:50vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h1c{
+    font-size:70px;
+}
+.back{
+    background-color:#32AA27;
+    height:32px;
+    display:flex;
+    border-radius:10px;
+    font-size:20px;
+    position:relative;
+}
+.clsh1{
+    color:#32AA27;
+}
+.expertise{
+    background-color: white;
+}
+.image{
+    height:270px;
+    border-radius:20px;
+}
+.image::hover{
+     height:370px;
+    border-radius:20px;
+}
+.card{
+    background-color:white;
+    color:black;
+    width:350px;
+    height:450px;
+}
+.card::hover{
+    color:#32AA27;
+    background-color:green;
+    height:700px;
+}
+.main{
+    display: flex;
+}
+.footer{
+    background-color:#20341E;
+    height:40vh;
+    color:white;
+}
+@media (min-width:576px) and (max-width:768px){
+    .main{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+    }
+    .nb{
+        text-align: center;
+        font-size:10px;
+    }
+}

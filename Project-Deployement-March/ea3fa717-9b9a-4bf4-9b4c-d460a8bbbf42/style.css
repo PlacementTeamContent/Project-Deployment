@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.bg-cont{
+    background-image: url('https://cdn.b12.io/client_media/uRhFd1jE/4adf7c08-057d-11f0-adbc-0242ac110002-jpg-hero_image.jpeg');
+    height: 100vh;
+    background-size: cover;
+    
+}
+.nav_bar{
+    background-color: #162415;
+    color: white;
+    font-family: Roboto;
+    display: flex;
+    justify-content: space-around;
+}
+.Nav_2{
+    display: flex;
+}
+.header{
+    padding: 10px;
+    margin: 5px;
+}
+.main_page{
+    padding-bottom: 150px;
+    padding-right: 170px;
+}
+.btn{
+    background-color: #32AA27;
+    padding: 10px;
+    border-radius: 4px;
+    margin-right: 140px;
+}
+.card_1{
+    width:30vw;
+    height: 60vh;
+}

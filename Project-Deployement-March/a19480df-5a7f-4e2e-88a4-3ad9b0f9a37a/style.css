@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body{
+    font-family: "Poppins";
+}
+.navigation_bar{
+    height: 40px;
+    width: 100vh;
+    font-family: "Poppins";
+    font-size: 25px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: flex-end;
+    
+}
+.bg{
+    background-image: url('https://cdn.b12.io/client_media/pYiUYPFe/e1bbab32-0489-11f0-9106-0242ac110002-jpg-hero_image.jpeg');
+    height: 300px;
+    background-size: cover;
+}
+.para{
+    padding: 55px;
+    margin-top: 10px;
+    font-family: "Poppins";
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.button{
+    background-color: #32aa27;
+    padding: 10px;
+}
+.headaa{
+    color: #32aa27;
+}
+.col1{
+    width: 300px;
+}

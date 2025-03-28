@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@media (min-width:576px){
+    .content-container{
+        display:flex;
+        flex-direction:row;
+    }
+}

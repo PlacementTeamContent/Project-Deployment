@@ -1,0 +1,89 @@
+.navbar{
+    background-color: #162415;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 250px;
+}
+.logo{
+    font-size: 30px;
+    padding-left: 70px;
+    font-weight: bold;
+}
+.navitems{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+}
+.page1{
+    background-image: url('https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+    height: 500px;
+    width: 100vw;
+}
+.content_page1{
+    padding-left: 85px;
+    padding-top: 130px;
+    color: white;
+}
+.header{
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+.para{
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+.btn{
+    background-color: #38BF2c;
+    width: 120px;
+    height: 30px;
+    padding-bottom: 10px;
+}
+.pa{
+    color: #38BF2c;
+    padding-left: 20px;
+}
+.ha{
+    padding-left: 20px;
+    font-weight: bold;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.img{
+    height: 135px;
+}
+.card{
+    margin: 30px;
+    border: solid;
+    border-color: white;
+}
+.headcard{
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+.footleft{
+    background-color: #38BF2C;
+    width: 50vw;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.footright{
+     background-color: #38B229;
+    width: 50vw;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}

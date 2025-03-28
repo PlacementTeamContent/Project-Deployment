@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+*{
+    font-family: poppins;
+}
+header{
+    justify-content: space-between;
+}
+@media (max-width:768px){
+    .anchor{
+    display: none;
+    }
+}
+@media (min-width:767px){
+    .fa-bars{
+    display: none;
+    }
+    .card{
+        width: 30%;
+    }
+}
+.Home{
+    background-image: url('https://cdn.b12.io/client_media/bgjFMIEJ/9b307e74-0572-11f0-833d-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+}
+.foot{
+    width: 100vw;
+}

@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@media (min-height-992px) {
+    .nav {
+        display: block;
+    }
+}
+
+@media (max-height-768px) {
+    .nav {
+        display: none;
+    }
+}

@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.btn{
+    color:#32AA27;
+    border:100px;
+}
+.container{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Event+desktop.gif");
+
+    height:800px;
+    width:500px;
+    background-size: cover;
+}
+.element{
+    text-align: center;
+    justify-content: center;
+    font-family: Poppins;
+    color:white;
+  
+}

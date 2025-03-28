@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overlay Background with Tailwind</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body class="bg-black-500">
+
+   
+    <div class="relative h-screen bg-fixed bg-cover bg-center " style="background-image: url('https://cdn.b12.io/client_media/mr82EC4Y/8ef60dea-060d-11f0-a157-0242ac110002-jpg-hero_image.jpeg');">
+        
+        <div class="absolute inset-0 bg-black bg-opacity-50">
+            <div class="absolute inset-0 flex flex-col items-start justify-center px-10 text-white">
+                <h1 class="text-5xl font-bold">Learn, Play,Succed</h1>
+                <p class="text-xl mt-3">Experience engaging education</p>
+                <a href="#" class="mt-5 px-6 py-3 bg-yellow-500 text-black font-semibold rounded-md hover:bg-yellow-400 transition">
+                    VIEW SERVICES
+                </a>
+            </div>
+        </div>
+
+        <!-- Content -->
+
+    </div>
+
+   
+
+    <div class="max-w-6xl mx-auto px-6 py-12">
+        <!-- Heading -->
+        <h3 class="text-sm font-bold text-white-600 uppercase">ENGAGING LEARNING</h3>
+        <h2 class="text-4xl font-bold mt-2">Transforming education through games</h2>
+
+        <!-- Services Container -->
+        <div class="mt-10 space-y-10">
+            <!-- Service 1 -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-center border-b pb-6">
+                <!-- Image -->
+                <img src="https://cdn.b12.io/client_media/mr82EC4Y/91df2bea-060d-11f0-a157-0242ac110002-jpg-regular_image.jpeg" alt="Project Management" class="w-full h-48 object-cover rounded-md md:col-span-1">
+
+                <!-- Text -->
+                <div class="md:col-span-2 flex flex-col md:flex-row md:items-center md:justify-between">
+                    <div class="md:w-3/4">
+                        <h3 class="text-xl font-bold">Interactive learning modules</h3>
+                        <p class="text-gray-600 mt-2">Engage students with captivating interactive modules.</p>
+                    </div>
+
+                    
+                    
+                </div>
+            </div>
+
+            <!-- Service 2 -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-center border-b pb-6">
+                <!-- Image -->
+                <img src="https://cdn.b12.io/client_media/mr82EC4Y/91b95884-060d-11f0-a157-0242ac110002-jpg-regular_image.jpeg" alt="Interior Design" class="w-full h-48 object-cover rounded-md md:col-span-1">
+
+                <!-- Text  -->
+                <div class="md:col-span-2 flex flex-col md:flex-row md:items-center md:justify-between">
+                    <div class="md:w-3/4">
+                        <h3 class="text-xl font-bold">Progress tracking dashboard</h3>
+                        <p class="text-gray-600 mt-2">Monitor learning progress with real-time analytics.</p>
+                    </div>
+
+                    
+                </div>
+            </div>
+
+            <!-- service 3-->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-center border-b pb-6">
+                <!-- Image -->
+                <img src="https://cdn.b12.io/client_media/mr82EC4Y/9217cf04-060d-11f0-a157-0242ac110002-jpg-regular_image.jpeg" alt="Interior Design" class="w-full h-48 object-cover rounded-md md:col-span-1">
+
+                <!-- Text-->
+                <div class="md:col-span-2 flex flex-col md:flex-row md:items-center md:justify-between">
+                    <div class="md:w-3/4">
+                        <h3 class="text-xl font-bold">Colloborative learning environments</h3>
+                        <p class="text-gray-600 mt-2">Foster teamwork through engaging colloborative activities.</p>
+                    </div>
+                    <footer class="flex inline-flex">
+                        <div class="bg-green-200 text-white">
+                            <h1>Navigation</h1>
+                            <p>Schedule Appointment Complete Intake</p>
+                        </div>
+                        <div class="bg-green-400 text-white">
+                            <h1>Contact</h1>
+                            <h3 class="font-thin">New York</h3>
+                            <p class="underline">I Main Street,NewYork, NY11111</p>
+                            <p class="underline">123-456-7890</p>
+                            <p class="underline">Info@company.com</p>
+                            <i class="fa fa-bars"></i>
+                            <i class="bi bi-instagram text-3xl"></i>
+                            <i class="bi bi-twitter text-3xl"></i>
+                            <i class="bi bi-facebook text-3xl"></i>
+                            <i class="bi bi-linkedin text-3xl"></i>
+                        </div>
+                    </footer>
+
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    background-color: #20341E;
+    color: White;
+}
+
+.main-container {
+    background-image: url('https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.heads-container {
+    padding-left: 20px;
+}
+
+.main-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    /*  padding-left:20px; */
+    font-family: Poppins;
+
+}
+
+.main-heading1 {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    /*  padding-left:20px; */
+    font-family: Poppins;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #32AA27;
+    border-color: #32AA27;
+    color: white;
+}
+
+.bg-container2 {
+    background-color: #32AA27;
+}
+
+.bg2-head {
+    color: white;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.bg2-head1 {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+
+.card-image {
+    height: 300px;
+}
+
+.card-text-head {
+    font-weight: bold;
+    padding: 20px;
+}
+
+.card-text-para {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}

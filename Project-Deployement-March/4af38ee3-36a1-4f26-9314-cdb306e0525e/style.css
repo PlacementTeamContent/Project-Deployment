@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.h1{
+    font-size: 20px;
+    color:white;
+    padding:10px;
+    margin:10px;
+    font-family: Lobster;
+    font-weight: bold;
+}
+.img{
+    height:100%;
+    width:100%;
+}
+.container{
+    background-image: url("https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg");
+    background-size:cover;
+    height:100vh;
+    text-align: center;
+}
+.card{
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    font-family: Lobster;
+ 
+}
+
+.p{
+    font-size:10px;
+    font-weight:bold;
+    color:white;
+}
+.button{
+    background-color: #32AA27;
+    color:white;
+    font-size:10px;
+    font-weight: bold;
+    height:20px;
+    margin:50px;
+   
+}
+.bg-container{
+    background-color: #32AA27;
+    background-size:cover;
+    height:100vh;
+}
+.img{
+    height:50%;
+    width: 50%;
+}
+.card1{
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+ 
+}
+.fad{
+    background-color:white;
+    height:50%;
+    width:50%;
+}

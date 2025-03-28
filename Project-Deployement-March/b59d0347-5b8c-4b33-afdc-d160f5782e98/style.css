@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+*{
+    margin: 0px;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FAFAFA;
+    padding: 10px 20px;
+}
+.nav-head {
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.navbar-elements {
+    display: flex;
+    gap: 20px;
+    font-family: roboto;
+}
+.cover-img {
+    background-image: url("https://cdn.b12.io/client_media/pYiUYPFe/e1bbab32-0489-11f0-9106-0242ac110002-jpg-hero_image.jpeg");
+    height: 40vh;
+    background-size: cover;
+    
+}
+.cover-head{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    font-family: poppins;
+    text-decoration: italic;
+}
+.cover-p{
+    color: white;
+    font-size: 15px;
+    font-family: poppins;
+}
+.cover-btn {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 17px;
+}
+.cover-elements{
+    margin-left: 20px;
+    
+}
+.img-1{
+    padding: 20px;
+    height: 270px;
+}
+.class-1{
+    background-color: #FAFAFA;
+    border-width: 10px;
+    border-radius: 20px;
+    
+}
+
+
+@media (min-width:992px) {
+    .cards{
+        display: flex;
+        gap: 20px;
+    }
+}

@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+    margin: 0px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    background-color: #162415;
+}
+
+.h {
+    padding: 10px;
+}
+
+p {
+    font-family: "Poppins";
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nav {
+    margin-left: 250px;
+}
+
+.bg {
+    background-image: url('https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+    height: 90vh;
+    margin: 0px;
+}
+
+.heading {
+    font-family: "Poppins";
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.container {
+    padding-top: 170px;
+    padding-left: 20px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.btn {
+    background-color: #38bf2c;
+    padding: 5px;
+    margin: 10px;
+    color: #ffffff;
+}
+
+.p {
+    color: #43b139;
+}
+
+.n {
+    font-family: "Poppins";
+    color: #162415;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card {
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    border-width: 2px;
+    margin: 10px;
+}
+.card:hover{
+    
+}
+
+.inh {
+    color: #020402;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+
+.inp {
+    color: #020402;
+    font-family: "Poppins";
+}
+.last{
+    background-color: #34B229;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+.under{
+    text-decoration: underline;
+    
+}

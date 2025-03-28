@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.nav {
+    font-family: Poppins;
+}
+
+.page1_completeback {
+    background-image: url("https://cdn.b12.io/client_media/bgjFMIEJ/9b307e74-0572-11f0-833d-0242ac110002-jpg-hero_image.jpeg");
+    /* background-size: cover;
+    background-repeat: none; */
+    height: 60vh;
+}
+
+.btn {
+    background-color: #32AA27;
+    width: 30vh;
+    height: 10vh;
+    padding: 20px;
+    padding-left: 30px;
+    color: #ffffff;
+}
+
+.pg_1text {
+    color: white;
+    font-size: 40px;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+.container_1{
+    margin: 40px;
+}
+
+.hypen{
+    background-color: #ffffff;
+    
+}
+
+.container_1 hover{
+    margin: 40px;
+    height: 25vh;
+}
+    
+}

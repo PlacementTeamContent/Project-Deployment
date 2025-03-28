@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.home{
+    background-image:url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+     height:300px;
+     width:100%;
+     
+}
+@media (orientation:landscape) {
+    .cards{
+        display:flex;
+        flex-direction: row;
+    }
+    
+}
+@media (min-height:768px){
+    .cards{
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+.card:hover{
+    transform: translate;
+    transform:scale(1.5);
+    
+}
+.h1:hover{
+    color:#34B229;
+}
+@media (orientation:landscape){
+    .footer{
+        display: flex;
+        flex-direction: row;
+    }
+}

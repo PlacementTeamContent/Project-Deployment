@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.mnb {
+    background-image: url('https://cdn.b12.io/client_media/pYiUYPFe/e1bbab32-0489-11f0-9106-0242ac110002-jpg-hero_image.jpeg');
+    height: 50vh;
+    background-size: cover;
+}
+
+.mnbl {
+    color: #FAFAFA;
+}
+
+.mnbj {
+    background-color: #32AA27;
+}
+
+/* .mnb1{
+    text-align: center;
+} */
+.mkl{
+    font-family: "Poppins";
+}

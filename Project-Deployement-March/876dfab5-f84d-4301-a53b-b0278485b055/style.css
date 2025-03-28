@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.DIVcontainer {
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+
+.image {
+    background-image: url("https://cdn.b12.io/client_media/4DgJuwwE/27241e70-03e0-11f0-8f1e-0242ac110002-jpg-hero_image.jpeg");
+    height: 100vw;
+    border-radius: 2px;
+    border-width: 5px;
+    border-color: grey;
+    font-family: Poppins;
+    color: #000000;
+    size: 9px;
+
+}
+
+.gridimage {
+    grid: auto;
+}

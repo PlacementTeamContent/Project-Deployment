@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.mahi {
+    text-align: right;
+}
+
+.container1 {
+    height: 1000vh;
+}
+
+.card1 {
+    background-image: url("https://cdn.b12.io/client_media/pYiUYPFe/e1bbab32-0489-11f0-9106-0242ac110002-jpg-hero_image.jpeg");
+    height: 50vh;
+    background-size: cover;
+}
+
+.head1 {
+    color: white;
+    font-size: 50px;
+    font-family: "Poppins";
+    margin-left: 30px;
+    padding-top: 40px;
+}
+
+.para1 {
+    color: white;
+    font-size: 25px;
+    font-weight: none;
+    width: 400px;
+    margin-left: 30px;
+    font-family: "Poppins";
+    padding-top: 20px;
+}
+
+.button1 {
+    background-color: #32AA27;
+    color: white;
+    margin-left: 30px;
+    height: 70px;
+    margin-top: 30px;
+    width: 190px;
+    font-size: 25px;
+    font-family: "Roboto";
+
+}
+
+.head2 {
+    color: #32AA27;
+    font-family: "Poppins";
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.head3 {
+    font-size: 30px;
+    margin-left: 30px;
+    width: 400px;
+    font-family: "Roboto";
+    margin-top: 20px;
+    color: #020402;
+
+}
+
+.card2 {
+    height: 600px;
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.image1 {
+    height: 370px;
+    width: 550px;
+}
+
+.head4 {
+    font-size: 40px;
+    color: #020402;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 15px;
+    width: 500px;
+}
+
+.para2 {
+    font-size: 30px;
+    width: 500px;
+}
+
+.card3 {
+    background-color: #F2F2F2;
+    height: 600px;
+    text-align: center;
+}
+
+.head5 {
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+.head6 {
+    font-size: 25px;
+    padding-top: 30px;
+
+}
+
+.head7 {
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+.head8 {
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    padding-top: 80px;
+}
+
+.head10 {
+    font-size: 25px;
+
+    padding-top: 25px;
+}
+
+.head10:hover {
+    text-decoration: underline;
+}
+
+.card4 {
+    padding-top: 15px;
+}
+
+.mahi {
+    padding-left: 10px;
+}

@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.hi{
+    background-image: url("https://cdn.b12.io/client_media/4AY7x8u9/d11dd50e-04aa-11f0-b0d9-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding-top: 40vh;
+    color: white;
+    
+}
+.but{
+    color: white;
+    background-color: #32AA27;
+    padding: 10px;
+}
+.ex{
+    color: #32AA27;
+    padding: 10px;
+}
+.qu{
+    padding: 10px;
+}
+.navb{
+    background-color: #32AA27;
+    color: white;
+    display: flex;
+    padding: 20px;
+}
+.navo{
+    display: flex;
+    padding-left: 100px;
+}
+.products{
+    display: gird;
+    grid-auto-columns: auto;
+}
+.item{
+    padding: 10px;
+}
+.foot{
+    background-color: #1A2A19;
+    color: white;
+    display: grid;
+    grid-template-areas: 1px, 1px;
+}

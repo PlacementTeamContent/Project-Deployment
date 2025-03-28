@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.my-container{
+    background-image: url('https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg');
+    height:50vh;
+    width: 100vw;
+    
+}
+.card-container{
+    background-color: #162415;
+    height: 40px;
+    width: 100vw;
+}
+.card1{
+    background-color: #38BF2C;
+    height: 50vh;
+    width: 100vw;
+}

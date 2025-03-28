@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: #32AA27;
+    color: white;
+    width: 100%;
+    
+}
+.logo{
+    margin: 20px;
+    font-weight: 700;
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+}
+.links{
+    width: 28%;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    align-items: center;
+}
+.links>p{
+    font-size: 30px;
+    margin: 10px;
+}
+@media (max-width : 640px){
+    .logo{
+        margin-left: 0px;
+    }
+    .links{
+        display: none;
+        justify-content: space-between;
+    }
+    .bars{
+        display: flex;
+        align-items: center;
+        font-size: 30px;
+        margin: 10px;
+    }
+}
+@media (min-width : 641px){
+    .bars{
+        display: none;
+    }
+}
+.main{
+    height: 90vh;
+    background-image: url('https://cdn.b12.io/client_media/mr82EC4Y/8ef60dea-060d-11f0-a157-0242ac110002-jpg-hero_image.jpeg');
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 30px;
+    color:white;
+}
+.text{
+     margin-left:10vw;
+}
+.text > h1{
+    font-size: 50px;
+    font-weight: 900;
+     margin: 10px;
+}
+.text > p{
+    margin: 10px;
+}
+.text > button{
+    background-color: #38BF2c;
+    margin: 10px;
+    width: 280px;
+    height: 60px;
+}
+@media (max-width : 640px){
+    .text{
+        width: 100%;
+        text-align: center;
+         margin-left:0px;
+         font-size: 20px;
+    }
+    .logo{
+        font-size: 30px;
+    }
+}
+@media (min-width : 641px){
+    .bars{
+        display: none;
+    }
+}
+.end{
+    background-color: #162415;
+    color: white;
+}
+.content{
+    width: 80%;
+    padding: 20px;
+    margin-left:10%;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 31%;
+    padding: 20px;
+    margin: 1%;
+    transition: all;
+}
+.card:hover{
+    width: 32%;
+}
+@media (max-width : 640px){
+        .card{
+            width: 95%;
+        }
+        .card:hover{
+            width: 100%;
+        }
+}
+.para{
+    font-size: 15px;
+}
+.heading{
+    font-size: 20px;
+    font-weight: 500;
+}
+.card > h1{
+     font-size: 22px;
+    font-weight: 600;
+}

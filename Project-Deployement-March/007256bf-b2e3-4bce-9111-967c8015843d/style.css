@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #162415;
+    color: white;
+}
+
+.menuicon {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.menuicon.li {
+    border: none;
+}
+
+menuicon.active {
+    border: none;
+    list-style: none;
+    padding: 0px;
+}
+
+.home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    background-color: white;
+}
+
+.content {
+    background-image: url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+    height: 50vh;
+    background-size: cover;
+    width: 80vh;
+}
+
+.main-heading {
+    font-family: "Poppins";
+    color: #ffffff;
+    text-align: center;
+    display: flex-start;
+}
+
+.paragraph {
+    font-family: "Poppins";
+    color: #020402;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.button {
+    color: #020402;
+    background-color: #38BF2c;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 8px;
+}
+
+.paragraph2 {
+    color: #34B229;
+    font-family: "Poppins";
+    font-size: 14px;
+}
+
+.main-heading2 {
+    color: #162415;
+    font-family: "Poppins";
+    font-size: 24px;
+}
+
+.explore {
+    /* display: flex;
+    justify-content: space-between; */
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    border: none;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns:repeat(1,1fr) ;
+    gap:10px;
+    border-radius:10px;
+    padding: 10px;
+    margin:0px;
+    
+}
+
+.img1 {
+    height: 30vh;
+    width: 60vh;
+}
+
+.main-heading3 {
+    color: #162415;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main-heading:hover {
+    color: green;
+    transition: background 0.3s ease;
+    transition-duration: transition-10s;
+}
+
+.paragraph3 {
+    color: #020402;
+    font-family: "Poppins";
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #38BF2c;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 40vh;
+}
+.footer1{
+    background-color: #34B229;
+    border-radius: 10px;
+    height:40vh;
+    margin-right: 10px;
+}
+.class{
+    text-align: center;
+}
+.headingpara{
+    text-decoration: underline;
+}

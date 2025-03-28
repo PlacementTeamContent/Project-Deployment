@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@media( min-width: 768px){
+    .barsicon{
+        display:none;
+    }
+}
+@media (max-width:576px ){
+    .anchorlinks{
+        display:none;
+    }
+}

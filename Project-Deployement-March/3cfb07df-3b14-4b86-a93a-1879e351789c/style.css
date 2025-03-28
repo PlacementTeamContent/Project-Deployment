@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    background-color: #558D97;
+    /* height:; */
+}
+
+.bg-cont {
+    background-image: url("https://cdn.b12.io/client_media/4DgJuwwE/27241e70-03e0-11f0-8f1e-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 90vh;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    /* display:flex; */
+    justify-content: center;
+
+}
+
+.btn {
+    background-color: #558D97;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 45px;
+    width: 110px;
+}
+
+.cont {
+    background-color: #C4DDDE;
+    height: 30vh;
+    color: black;
+}
+
+.main-cont {
+    display: flex;
+    gap: 10px;
+}
+
+.foot {
+    background-color: #466F87;
+    height: 40vh;
+}

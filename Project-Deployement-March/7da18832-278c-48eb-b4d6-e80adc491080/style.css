@@ -1,0 +1,76 @@
+.context{
+   background-image:url("https://cdn.b12.io/client_media/4AY7x8u9/d11dd50e-04aa-11f0-b0d9-0242ac110002-jpg-hero_image.jpeg") ; 
+   background-size:cover ;
+   height: 700px;
+   width: 700px;
+}
+.heading{
+    color:#FFFFFF ;
+    font-family: "Poppins";
+    text-align: center;
+    font-size:40px ;
+    
+}
+.para{
+    color:#020402 ;
+    font-family: "Poppins";
+    text-align: center;
+    font-size:20px ;
+}
+.footer{
+    color:#FFFFFF ;
+    font-family:"Poppins" ;
+    text-align: center;
+    background-color:#32AA27 ;
+    border-width: 2;
+    border-color:green ;
+    border-radius:2 ;
+}
+.context{
+   flex-wrap:wrap ; 
+   justify-content: center;
+   align-items: center;
+}
+.head{
+    color:#32AA27 ;
+    font-size: 20px;
+    font-family: "Poppins";
+    text-align: center;
+    background-color:#FFFFFF ;
+}
+.para-1{
+    color:#020402 ;
+    font-size:15px ;
+    font-family: "Poppins";
+    text-align: center;
+    background-color: #FFFFFF;
+}
+.card-container1{
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.header{
+    color: #020402;
+    text-align: center;
+}
+.para-2{
+    color:grey ;
+    text-align: center;
+}
+.heads{
+    color: #020402;
+    text-align: center;
+}
+.paras{
+    color:grey ;
+    text-align: center;
+}
+.headers{
+    color: #020402;
+    text-align: center;
+}
+.paragraph{
+    color:grey ;
+    text-align: center;
+}

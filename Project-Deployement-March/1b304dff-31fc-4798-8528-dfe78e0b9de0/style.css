@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /*    margin:10px; */
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    color: white;
+    padding: 10px;
+   
+}
+
+.lo {
+    color: white;
+}
+
+/* li{
+    padding-left: 0px;
+    padding-right:30px;
+} */
+nav>li {
+    display: lnline;
+}
+
+.hero-l {
+    /*  display: flex;
+   flex-direction: column;
+   justify-content: center; */
+    /*  align-items: center; */
+    text-align: center;
+    padding: 20%;
+    color: white;
+}
+
+.hero-page {
+    height: 400px;
+    background-size: cover;
+    font-weight: bold;
+}
+.ki{
+    width:250px;
+    margin-left:40px;
+}
+.hi {
+    font-size: 30px;
+}
+
+.ho {
+    color: white;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+.ex {
+    color: #38BF2C;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+.jou {
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.immm {
+    min-height: 200px;
+    max-width:250px;
+    margin: 15px;
+}
+.containers{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.imag {
+    height: 100px;
+    width: 100px;
+
+}
+footer{
+   color:white;
+   display: flex;
+   flex-wrap:wrap;
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+   margin: 10px;
+}
+
+.f-25 {
+    font-size: 20px;
+    font-weight: bold;
+}.himan{
+    height: 300px;
+}

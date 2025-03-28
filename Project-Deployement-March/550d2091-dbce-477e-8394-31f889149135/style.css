@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.top {
+    background-color: #162415;
+    background-size: cover;
+    height: 10vh;
+}
+
+.head1 {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.icon1 {
+    color: #ffffff;
+    padding: 10px;
+
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+}
+@media screen and (minwidth:768px){
+    .impo{
+        display:flex;
+        flex-direction:column;
+    }
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+}
+
+.middle {
+    background-image: Url("https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 50vh;
+}
+
+.para1 {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.button1 {
+    background-color: #38BF2C;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.head3 {
+    color: #34B229;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.para2 {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.image1 {
+    height: 200px;
+    width: 280px;
+    padding-left: 30px;
+
+}
+
+.head4 {
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 55px;
+
+}
+
+.para4 {
+    color: grey;
+    font-size: 15px;
+    padding-left: 55px;
+    font-family: "Poppins";
+
+}
+
+.im1 {
+    margin: 20px;
+}
+
+.footer {
+    background-color: #34B229;
+    height: 60vh;
+}
+
+.l2 {
+    text-decoration: underline;
+}

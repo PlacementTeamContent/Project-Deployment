@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.nav{
+    height: 50px;
+    width: 100vw;
+    background-color: #466f87;
+    font-family: Poppins;
+}
+.section1{
+    background-image: url('https://cdn.b12.io/client_media/4DgJuwwE/27241e70-03e0-11f0-8f1e-0242ac110002-jpg-hero_image.jpeg');
+    width: 100vw;
+    background-size: cover;
+}
+.btn{
+    height: 50px;
+    width: 180px;
+    background-color: #466f87;
+}
+.section3{
+    background-color: #c4ddde;
+    width: 100vw;
+    
+}
+.sec3-tag{
+    color: #558d97;
+}
+.card-img{
+    height: 200px;
+    width: 300px;
+}
+.card:hover{
+    scale: 1.05;
+}
+.card-head:hover{
+    color: #466f87;
+}
+.p1{
+    background-color: #466f87;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.p2{
+    background-color: #40677d;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.link{
+    text-decoration: underline;
+}
+@media (max-height:768px){
+    .cards{
+        flex-direction: column;
+    }
+}

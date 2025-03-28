@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@media screen and (max-width:567px) {
+
+    #nav1,
+    #nav2 {
+        display: none;
+    }
+}
+
+.top-section {
+    background-image: url("https://cdn.b12.io/client_media/eyqMhjc9/320363ae-0580-11f0-ba5c-0242ac110002-jpg-hero_image.jpeg");
+    background-size: cover;
+    height: 40vh;
+}
+
+.main-heading {
+    display: flex;
+    align-self: flex-start;
+}
+
+.image1 {
+    height: 230px;
+}
+
+@media screen and (min-width:768px) {
+    .cards {
+        display: flex;
+    }
+    .middle-section {
+    margin-left: 130px;
+    }
+}
+.middle-section{
+    margin-left: 20px;
+}
+.card {
+    transition: all linear 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+@media screen and (min-width:768px){
+    .footer{
+        display: flex;
+    }
+    .footer1{
+        width: 50vw;
+        height: 30vh;
+    }
+    .footer2{
+        width: 50vw;
+        height: 30vh;
+    }
+}

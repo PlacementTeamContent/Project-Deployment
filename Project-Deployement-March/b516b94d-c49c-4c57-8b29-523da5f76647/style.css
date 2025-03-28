@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.card {
+    transition: 1s;
+}
+
+.card:hover {
+    transform: scale(1.025);
+}
+.foot2 {
+    /* width: 50%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+@media(min-width:768px){
+    .foot1 {
+    width: 50%;
+}
+
+.foot2 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}

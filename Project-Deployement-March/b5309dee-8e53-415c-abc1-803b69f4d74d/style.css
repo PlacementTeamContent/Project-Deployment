@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            background-color: #32AA27;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .navbar-brand {
+            font-size: 24px;
+            font-weight: bold;
+            text-decoration: none;
+            color: black;
+        }
+.dh{
+    color:#32AA27;
+}
+.b{
+    background-color:#32AA27 ;
+    
+}
+        .nav-links {
+            list-style: none;
+            display: flex;
+        }
+
+        .nav-links li {
+            margin: 0 15px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            padding: 8px 12px;
+            transition: 0.3s;
+        }
+
+        .nav-links a:hover {
+            background-color: #ddd;
+            border-radius: 5px;
+        }
+
+        .nav-links .disabled {
+            color: gray;
+            pointer-events: none;
+        }
+        .menu-toggle {
+            display: none;
+        }
+
+        .menu-icon {
+            display: none;
+            font-size: 24px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        #menu-checkbox {
+            display: none;
+        }
+
+        @media screen and (max-width: 768px) {
+            .nav-links {
+                display: none;
+                flex-direction: column;
+                background: #f8f9fa;
+                position: absolute;
+                top: 60px;
+                right: 0;
+                width: 200px;
+                text-align: center;
+                border: 1px solid #ddd;
+            }
+
+            .nav-links li {
+                padding: 10px 0;
+            }
+
+            .menu-icon {
+                display: block;
+            }
+            #menu-checkbox:checked~.nav-links {
+                display: flex;
+            }
+        }

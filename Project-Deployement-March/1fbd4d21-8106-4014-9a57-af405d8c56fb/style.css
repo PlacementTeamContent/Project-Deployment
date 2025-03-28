@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.nav{
+    background-color: #32AA27;
+    height:8vh;
+    width: 100vw;
+    color: #ffffff;
+    
+}
+.head{
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header{
+    background-image: url('https://cdn.b12.io/client_media/mr82EC4Y/8ef60dea-060d-11f0-a157-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    /* background-image: ; */
+}
+.button{
+    background-color: #38BF2c;
+    height: 50px;
+    width: 140px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.art{
+   margin-top: 200px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-left: 30px;
+    
+}
+.headdd{
+    display: flex;
+    font-size: 35px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+.artt{
+    background-color: #162415;
+    /* text-align: center; */
+    width: 100vw;
+    height: 170vh;
+    /* display: flex;
+    flex-direction: column;
+    place-items: center; */
+}
+.card{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    margin-left: 20px;
+    color: #ffffff;
+    padding: 10px;
+}
+.text{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.side{
+    color: #ffffff;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.sidee{
+    color: #ffffff;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+footer{
+    background-color: #34B229;
+    height: 70vh;
+    width: 100vw;
+    text-align: center;
+    padding: 20px;
+    color: #ffffff;
+    font-size: 18px;
+    
+}
+.jj{
+    padding-top: 20px;
+    padding: 15px;
+}
+h2{
+    padding-top: 10px;
+    text-decoration: underline;
+    padding: 10px;
+}
+.icons{
+    padding: 10px;
+}
+.new{
+    font-weight: bold;
+    
+}

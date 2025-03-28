@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.card:hover {
+    transform: scale(1.1);
+}
+@media(max-width:576px){
+    .navbar{
+        background-color:#466F87 ;
+        height: 10vh;
+        width: 100vw;
+    }
+    .bg-container{
+        height: 50vh;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .heading{
+        font-size: 29px;
+    }
+    .button{
+        height: 5vh;
+        width: 19vw;
+        margin-top: 15px;
+    }
+    .card{
+        margin-top:10px;
+        margin-bottom: 49px;
+        
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
