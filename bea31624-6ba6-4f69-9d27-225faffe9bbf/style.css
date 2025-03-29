@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.bg-img {
+    background-image: url('https://cdn.b12.io/client_media/uRhFd1jE/4adf7c08-057d-11f0-adbc-0242ac110002-jpg-hero_image.jpeg');
+    height: 50vh;
+    width: 100vw;
+    position: relative;
+}
+
+.navebar {
+    position: static;
+}
+
+.bg-1 {
+    background-color: white;
+}
+
+.card-1 {
+    background-color: white;
+
+}
+
+.img-1 {
+    height: 250px;
+    margin-left: 10px;
+}
+
+.footer {}

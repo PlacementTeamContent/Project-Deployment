@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.div-container-classs {
+    background-color: #C4DDDE;
+}
+
+.heading-tag-of-explored-world {
+    font-weight: bold;
+    font-family: "Poppins";
+    font-size: 47px;
+    color: #FFFFFF;
+}
+
+.par-tag-of-explored-world {
+    font-family: "Poppins";
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.button {
+    height: 50px;
+    width: 190px;
+    color: #FFFFFF;
+    fo
+}

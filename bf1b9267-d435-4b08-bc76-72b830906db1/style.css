@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navbar {
+    align-items: space-between;
+    background-color: #162415;
+    font-family: "Poppins";
+}
+
+.nav-head {
+    color: white;
+    font-family: "Poppins";
+    align-items: space-between;
+
+}
+
+.nav-links {
+    color: white;
+}
+
+.container {
+    background-image: "https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg";
+}
