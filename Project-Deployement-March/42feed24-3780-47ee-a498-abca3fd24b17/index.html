@@ -3,21 +3,38 @@
 
 <head>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="flex justify-between bg-[#162415] p-6 w-full ">
-        <h1 class="text-white pt-5 font-bold text-left text-2xl">PHOTOGRAPHY WEBSITE</h1>
-        <div class="flex justify-end">
-            <p class="p-4 font-bold text-white text-right">Home</p>
-            <p class="p-4 font-bold text-white text-right">Services</p>
+    <div class="grid grid-cols-1 gap-1">
+        <div class="bg-[#162415] h-[7vh] md:grid grid-cols-3 gap-1">
+            <h1 class="text-[#ffffff] font-['Poppins'] font-bold ml-3 mt-3">PHOTOGRAPHY WEBSITE</h1>
+            <div class="hidden md:block">
+                <p class="text-[#ffffff] font-['Poppins'] font-bold flex flex-row justify-end items-center mr-3 mb-3">
+                    Home
+                </p>
+                <p class="text-[#ffffff] font-['Poppins'] font-bold text-[20px] flex flex-row justify-end items-center mr-3 mb-3">
+                    Services
+                </p>
+            </div>
         </div>
-    </div>
-    <div class="backs bg-cover h-[100vh] ">
-        <h1>Capture your moments</h1>
-        <p>Tranfer your memories into art</p>
-        <button>Learn More</button>
+        <div class="h-[90vh] bg-[url('https://cdn.b12.io/client_media/KzcX3335/0f7ceb54-04b1-11f0-aa7d-0242ac110002-jpg-hero_image.jpeg')] p-3">
+            <h1 class="text-[#ffffff] text-[30px] font-['Poppins']  font-bold mt-16 ">Capture your moments</h1>
+            <p class="text-[#ffffff] text-[20px] font-['Poppins'] font-bold ">Transform your moments into art</p>
+            <button class="bg-[#32AA27] text-[#ffffff] rounded-[5px] h-[35px] mt-2 w-[120px] border-shadowed border-[1px] border-[black] ">View Services</button>
+        </div>
+        <div class="h-[100vh] bg-[#32AA27] p-3">
+            <p class="text-[#ffffff] text-[15px] font-['Roboto'] font-bold">Captivating Photography</p>
+            <h1 class="text-[#ffffff] text-[25px] font-['Roboto'] font-bold">Transforming into Art</h1>
+            <div class="h-  bg-[#ffffff] flex flex-row justify-center">
+                <img class="h-[150px]" src="https://cdn.b12.io/client_media/KzcX3335/133230e2-04b1-11f0-aa7d-0242ac110002-jpg-regular_image.jpeg" />
+
+            </div>
+        </div>
     </div>
 </body>
 

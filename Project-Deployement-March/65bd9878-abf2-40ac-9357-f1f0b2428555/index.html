@@ -3,52 +3,72 @@
 
 <head>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="main-container">
-        <header class="header">
-            <nav class="nav-bar w-100% h-16 bg-[#162415]">
-                <div class="flex justify-between">
-                    <h1 class="text-2xl text-[#ffffff] m-3">Travel Website</h1>
-                    <div class="flex m-3">
-                        <p class="text-xl text-[#ffffff] mr-3">Home</p>
-                        <p class="text-xl text-[#ffffff]">Services</p>
-                    </div>
-                </div>
-            </nav>
-        </header>
-        <div class="bg-[url('https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg')] min-h-screen w-100% bg-transparent">
-            <h1 class="text-5xl text-[#ffffff] text-center text-bold pt-10">Explore Horizons</h1>
-            <p class="text-3xl text-[#ffffff] text-center text-bold pt-10">Unleash your adventure spirit</p>
-            <div class="text-center m-4">
-                <button class="bg-[#38BF2C] h-10 w-30 text-[#ffffff] p-3">View services</button>
-            </div>
+    <div class="bg-[#162415] flex flex-row justify-between">
+        <h1 class="text-[#ffffff] font-bold font-Poppins p-4 ">Travel Website</h1>
+        <i class="fa fa-bars text-[#ffffff] m-5"></i>
+    </div>
+    <div class="h-auto p-10 flex flex-col align-center justify-center items-center bg-[url(https://cdn.b12.io/client_media/GnGSNvDJ/a9cbbbaa-04ba-11f0-b3f7-0242ac110002-jpg-hero_image.jpeg)]">
+        <div class="text-[#ffffff] p-2">
+            <h1 class="font-bold text-6xl">Explore new Horizon</h1>
+            <p>unleash your adverture spirit</p>
+            <button class="bg-[#43B139] p-2 rounded ">View services</button>
         </div>
-        <div class="min-h-screen bg-[#ffffff] h-50 w-100%">
-            <p class="text-xl text-[#162415] m-5">Explore With us</p>
-            <h1 class="text-4xl text-[#162415] m-5 text-bold">Your Journey Starts here</h1>
-            <div class="card flex">
-                <div class="min-h-screen h-200 w-150 rounded-lg">
-                    <image src="https://cdn.b12.io/client_media/GnGSNvDJ/ab28adbe-04ba-11f0-b3f7-0242ac110002-jpg-regular_image.jpeg" class="h-30 w-40 m-5">
-                        <div class="">
-                            <h1 class="ml-5 text-bold text-3xl">adventure toures</h1>
-                            <p class="ml-5 mt-1">travel around the world and enjoy the life.</p>
-                        </div>
-                </div>
-                <div class="min-h-screen h-200 w-150 rounded-lg">
-                    <image src="https://cdn.b12.io/client_media/GnGSNvDJ/ab28adbe-04ba-11f0-b3f7-0242ac110002-jpg-regular_image.jpeg" class="h-30 w-40 m-5">
-                        <div class="">
-                            <h1 class="ml-5 text-bold text-3xl">adventure toures</h1>
-                            <p class="ml-5 mt-1">travel around the world and enjoy the life.</p>
-                        </div>
+    </div>
+    <div>
+        <div class="m-5 font-Roboto">
+            <h1 class=" text-[#43B139] font-bold text-xl">Explore with us</h1>
+            <h2 class="text-black-500 font-bold">Your journey starts here !</h2>
+        </div>
+        <div>
+            <div class="shadow m-4 font-Roboto">
+                <img src="https://cdn.b12.io/client_media/GnGSNvDJ/ab28adbe-04ba-11f0-b3f7-0242ac110002-jpg-regular_image.jpeg" class="h-25" />
+                <div class="p-4">
+                    <h2 class="font-bold">Adventure tours</h2>
+                    <p class="text-gray-500 text-s">Embark on thrilling adventure on excotic locations</p>
                 </div>
             </div>
+            <div class="shadow m-4">
+                <img src="https://cdn.b12.io/client_media/GnGSNvDJ/aa7b48b8-04ba-11f0-b3f7-0242ac110002-jpg-regular_image.jpeg" class="h-25" />
+                <div class="p-4">
+                    <h2 class="font-bold">Adventure tours</h2>
+                    <p class="text-gray-500 text-s">Embark on thrilling adventure on excotic locations</p>
+                </div>
+            </div>
+            <div class="shadow m-4">
+                <img src="https://cdn.b12.io/client_media/GnGSNvDJ/aa885350-04ba-11f0-b3f7-0242ac110002-jpg-regular_image.jpeg" class="h-25" />
+                <div class="p-4">
+                    <h2 class="font-bold">Adventure tours</h2>
+                    <p class="text-gray-500 text-s">Embark on thrilling adventure on excotic locations</p>
+                </div>
+            </div>
         </div>
-        <footer class="bg-[#34B229] h-50 w-100%">
-
-        </footer>
+    </div>
+    <div class="flex flex-col md:flex-row">
+        <section class="text-center p-10 text-[#ffffff] bg-[#38BF2C]">
+            <h1>Navigation</h1>
+            <h1>Schedule appointment</h1>
+            <h1>Complete intake</h1>
+        </section>
+        <section class="text-center p-10 text-[#ffffff] bg-[#34B229]">
+            <h1 class="text-2xl">contact</h1>
+            <h1 class="text-2xl">new york</h1>
+            <h1>1 Main Street</h1>
+            <h1>New York NY 11111</h1>
+            <h1>123-456-789</h1>
+            <h1></h1>
+            <div class="p-3">
+                <i class="bi bi-instagram text-3xl"></i>
+                <i class="bi bi-twitter text-3xl"></i>
+                <i class="bi bi-facebook text-3xl"></i>
+                <i class="bi bi-linkedin text-3xl"></i>
+            </div>
+        </section>
     </div>
 </body>
 
