@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+    font-family: 'Poppins';
+    color: white;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #32AA27;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-heading {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Poppins';
+}
+
+@media screen and (max-width: 576px) {
+    .navbar-heading {
+        font-size: 18px;
+        padding-top: 3px;
+    }
+
+
+}
+
+.navbar-logo {
+    color: white;
+    font-size: 24px;
+    padding-top: 4px;
+}
+
+.dream-property-page {
+    background-image: url('https://cdn.b12.io/client_media/eyqMhjc9/320363ae-0580-11f0-ba5c-0242ac110002-jpg-hero_image.jpeg');
+    background-size: cover;
+    min-height: 100vh;
+    text-align: left;
+    padding-left: 15px;
+    align-content: center;
+}
+
+.ddp-heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ddp-description {
+    padding: 10px;
+}
+
+.ddp-button {
+    background-color: #32AA27;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.expertise-section {
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.expertise-heading {
+    color: #32AA27;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.expertise-heading-2 {
+    color: black;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.expertise-cards {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.card-details {
+    width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    color: black;
+    margin: 10px;
+}
+
+.card-heading {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-para {
+    color: grey;
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.card-description {
+    padding: 10px;
+}
