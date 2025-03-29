@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.header {
+    background-color: #32AA27;
+    height: 10vh;
+
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px;
+
+}
+
+.hamburger {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+.header h1 {
+    justify-content: flex-end;
+}
+
+.sec1 {
+    background-image: url('https://cdn.b12.io/client_media/eyqMhjc9/320363ae-0580-11f0-ba5c-0242ac110002-jpg-hero_image.jpeg');
+    height: 70vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.heaidngtext {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 40px;
+    align-self: flex-start;
+}
+
+.heaidngtext2 {
+    align-self: flex-start;
+}
+
+.servicebtn {
+    color: #ffffff;
+    background-color: #32AA27;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    align-self: flex-start;
+
+}
+
+.sec2 {
+    padding: 30px;
+}
+
+.sec2h1 {
+    color: #32AA27;
+}
+
+.sec2h2 {
+    font-weight: bold;
+}
+
+.card {
+    margin: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.subcard {
+    border: 1px solid black;
+
+}
+
+footer {
+    color: #ffffff;
+    background-image: linear-gradient(#20341E, #1A2A19);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+footer p {
+    font-size: 15px;
+    margin: 10px;
+}
+
+footer h1 {
+    font-size: 25px;
+}
+
+.iconfooter {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.iconfooter i {
+    font-size: 20px;
+    margin: 5px;
+}

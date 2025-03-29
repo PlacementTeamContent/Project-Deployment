@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.backs {
+    background-image: url("https://cdn.b12.io/client_media/KzcX3335/1306939c-04b1-11f0-aa7d-0242ac110002-jpg-regular_image.jpe");
+    height: 100vh;
+    background-size: cover;
+
+}
