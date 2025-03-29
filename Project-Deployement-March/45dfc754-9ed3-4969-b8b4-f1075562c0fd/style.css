@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.section {
+    background-image: url("https://cdn.b12.io/client_media/4AY7x8u9/d11dd50e-04aa-11f0-b0d9-0242ac110002-jpg-hero_image.jpeg");
+    height: 500px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
