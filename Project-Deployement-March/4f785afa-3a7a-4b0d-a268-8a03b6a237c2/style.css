@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+    font-family: Poppins;
+}
+
+#hero {
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+
+}
