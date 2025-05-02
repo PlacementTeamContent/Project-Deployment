@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+    margin: 0px;
+    background-color: white;
+}
+
+.home {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641277/entro/assets/images/gallery1.jpg');
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.home-text {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-img {
+    margin-right: 200px;
+}
+
+.best {
+    color: skyblue;
+}
+
+.music {
+    color: white;
+    font-weight: bold;
+}
+
+.home-para {
+    color: white;
+}
+
+.btn1 {
+    background-color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+
+.aboutus {
+    background-image: url('https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641274/entro/assets/images/about_bg.jpg');
+    height: 100vh;
+    background-size: cover;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.aboutus-h {
+    font-size: 32px;
+    margin: 15px;
+
+}
+
+.aboutus-p {
+    margin: 15px;
+    font-weight: 500;
+}
+
+.btn2 {
+    background-color: black;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    width: 100px;
+    margin: 15px;
+}
+
+.aboutus-img {
+    justify-content: center;
+}
+
+.upcoming {
+    margin-top: 25px;
+    height: 50vh;
+    width: 100vw;
+}
+
+.btn3 {
+    background-color: black;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.img1 {
+    width: 200px;
+    margin: 10px;
+}
+
+.text2 {
+    text-align: end;
+}
+.icon{
+    width: 30px;
+}
