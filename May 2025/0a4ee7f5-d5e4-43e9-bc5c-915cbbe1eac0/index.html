@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Meal Pack</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Build Your Custom Meal Pack</h1>
+
+        <div id="meal-list" class="meal-list">
+            <div class="meal-card">
+                <div class="meal-header">
+                    <h3>Burger</h3>
+                    <p>Price: $5</p>
+                </div>
+                <div>
+                    <input type="number" class="meal-input" id="burger" placeholder="Quantity">
+                </div>
+            </div>
+            <div class="meal-card">
+                <div class="meal-header">
+                    <h3>Fries</h3>
+                    <p>Price: $3</p>
+                </div>
+                <div>
+                    <input type="number" class="meal-input" id="fries" placeholder="Quantity">
+                </div>
+            </div>
+            <div class="meal-card">
+                <div class="meal-header">
+                    <h3>Soda</h3>
+                    <p>Price: $2</p>
+                </div>
+                <div>
+                    <input type="number" class="meal-input" id="soda" placeholder="Quantity">
+                </div>
+            </div>
+        </div>
+
+        <button id="calculate" class="calculate-btn" onclick="idd()">Calculate</button>
+
+        <div class="total-price">
+            <h2>Total Price: <span id="total-price">0</span></h2>
+            <h3>Total Items: <span id="total-items">0</span></h3>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
