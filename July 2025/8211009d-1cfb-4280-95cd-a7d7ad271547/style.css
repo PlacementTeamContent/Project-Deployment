@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.logo{
+    background-color: grey;
+   display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    
+}
+.logo-heading{
+    color: white;
+    font-size: 24px;
+    padding-left: 180px;
+}
+.fa{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.logo-instructions{
+    background-color: black;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    
+}
+.logo-instructions-heading{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.colour-line{
+    height: 10px;
+    width: 150px;
+    background-color: #39ff14;
+    
+}
+.logo-instructions-para{
+    color:white;
+}
+.images-container{
+    background-color:#d4ffcc ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  
+.colour-line2{
+    height: 5px;
+    width: 150px;
+    background-color: #39ff14;
+}
+.image-1{
+    margin: 20px;
+}
+.inside-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.image{
+    height:100px;
+    width:100px;
+    border-radius: 100%;
+}
+.inside-container{
+    background-color: white;
+}
+.last-one{
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+.menubar{
+    background-color: black;
+    height: 60px;
+}
+.background{
+    background-image:url("https://images.cdn-files-a.com/ready_uploads/media/209470/2000_5ceee0706a4bc.jpg");
+}
+.colour{
+    color: white; 
+    margin: 10px; 
+    padding: 10px;
+}
+.images{
+    height: 48vh;
+}
+.up{
+    margin-top:4px;
+}

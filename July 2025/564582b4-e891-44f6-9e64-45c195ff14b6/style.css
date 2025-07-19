@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.head{
+    background-image: url('https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg');
+    
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Roboto";
+ 
+    padding: 250px;
+    
+    
+}
+.head1{
+    background-color: #d1e5f9;
+    padding: 200px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Roboto";
+    font-size: 50px;
+    
+}

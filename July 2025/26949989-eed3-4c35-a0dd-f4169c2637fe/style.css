@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.container-1{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+    width:500px;
+    height: 400px;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color:#FFFFFF ;
+    font-family: "Roboto";
+    
+}
+p1{
+    color: #FFFFFF;
+}
+
+.card-1{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/92445/400_5ce7bf35c3835.jpg');
+    width:300px;
+    height:200px;
+}
