@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.nvbar{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #1b262c;
+    color : white;
+    font-family: "Roboto";
+    padding-left :30px;
+    padding-right : 50px;
+    width : 87vw;
+}
+.nbbar {
+    display : flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width : 25vw;
+   
+    
+}
+.bg {
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+    height : 35vh;
+    padding-top : 120px;
+     background-size : cover;
+     text-align : center;
+    
+     
+    
+    
+   
+    
+}
+.h{
+    color : white;
+    font-family :"Roboto";
+    
+    
+}
+.p{
+    color : white;
+    font-family :"Roboto";
+}
+.se{
+    background-color: #f2ccff;
+    text-align : center;
+    padding-top : 20px;
+    height : 40vh;
+   
+    
+}
+.img {
+    height : 130px;
+    width : 170px;
+    border-radius : 10px;
+    
+}
+.j {
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left : 50px;
+    padding-right : 50px;
+}
+.foot{
+   background-color: #FFFFFF;
+   height : 20vh;
+   display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left :20px;
+    
+    
+   
+}
+.footh{
+     display : flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    width : 25vw;
+    margin-top : 30px;
+}

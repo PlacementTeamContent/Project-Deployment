@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.container{
+    background-color: #000000;
+}
+.heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+}
+.para{
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.bg-conteiner{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg');
+    background-size: cover;
+    height: 500px;
+    width: 450px;
+}
+.lokesh{
+    background-color: #d4ffcc;
+}
+.lok{
+    background-color: #ffffff;
+}
+.image1{
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}

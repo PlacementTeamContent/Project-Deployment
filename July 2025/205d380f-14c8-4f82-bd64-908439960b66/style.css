@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.side_contents {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Heading {
+    margin-left: 2vh;
+    margin-top: 4vh;
+    font-size: 4vh;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Home {
+    margin-right: 3vh;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+.services {
+    margin-right: 5vh;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+.Welcome {
+    background-image: url("https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg");
+    height: 70vh;
+    width: 70vh;
+    background-size: cover;
+}
+
+.content {
+    color: #ffffff;
+    padding: 20vh;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.heading {
+    font-size: 4vh;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 4vh;
+}
+
+.Services {
+    background-color: #d1e5f9;
+    height: 50vh;
+}
+
+.heading1 {
+    font-size: 4vh;
+    display: flex;
+    justify-content: center;
+    padding: 3vh;
+}
+
+.Boxes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image1 {
+    height: 20vh;
+    border-radius: 60%;
+    width: 18vh;
+}
+
+.image2 {
+    height: 20vh;
+    border-radius: 60%;
+    width: 18vh;
+}
+
+.Heading2 {
+    font-size: 2vh;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+@media (max-height:867px) {
+    .body {
+        color: blue;
+    }
+}

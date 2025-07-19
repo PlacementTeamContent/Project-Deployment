@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+.nav {
+    background-color: grey;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+
+}
+@media(max-width:767px){
+    .nav{
+        justify-content: center;
+        
+    }
+    .segments{
+        display: none;
+    }
+}
+
+.segments {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 10px;
+    padding: 15px;
+
+}
+
+.image {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 300px;
+}
+
+.services {
+    background-color: #d4ffcc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cycle.renetals {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 100px;
+
+}
+.m{
+    height: 100px;
+    width:200px;
+    border: 200px;
+  
+}
+.three{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+}
+@media(max-width:767px){
+    .three{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+.home{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 30px;
+    font-size:25px;
+    
+}
+.last{
+    background-color: #FFFFFF;
+    height: 200px;
+    width: 400vw;
+    display: flex;
+    flex-direction: row;
+    gap:300px;
+}
+@media(max-width:767px){
+    .last{
+        display: flex;
+        flex-direction: column;
+    }
+}
