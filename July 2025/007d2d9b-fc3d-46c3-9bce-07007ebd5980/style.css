@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.heroSection{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg");
+    background-size: cover;
+    height: 50vh;
+    color:white;
+    text-align: center;
+}
+.head{
+    text-align: center;
+    padding: 13px;
+    font-family: "Roboto";
+}
+.card{
+    background-color: #f2ccff;
+    height:200vh;
+}
+.subcard{
+    display:flex;
+    flex-direction: column;
+    place-content: center;
+    margin: 5px;
+    border-radius:10px;
+    border-style: solid white 10px;
+}
