@@ -1,1 +1,59 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+*{
+   font-family: Caladea;
+}
+.Nav{
+    background-color: #808080;
+   width: 100vw;
+}
+.heading{
+    color:#FFFFFF;
+    size: 30px;
+    font-family: Caladea;
+}
+.back{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.wel{
+   text-align: center;
+   color: #ffffff;
+   padding-top: 20vh;
+   font-size: 40px;
+}
+.you{
+  text-align: center;
+   color: #ffffff;
+   padding-top: 15vh;
+   font-size: 20px;
+}
+.pink{
+    background-color: #f7c1c1;
+    
+}
+.img1{
+    padding: 30px;
+    height: 100px;
+}
+.img2{
+    padding: 30px;
+    height: 100px;
+}
+.img3{
+    padding: 30px;
+    height: 100px;
+}
+.cap{
+padding-left: 20px ;    
+}
+.hed3{
+    font-size: 30px;
+}
+.hed2{
+    font-size: 30px;
+}
+.hed1{
+    font-size: 30px;
+}

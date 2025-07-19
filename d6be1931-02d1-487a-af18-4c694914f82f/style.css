@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.nav-bar{
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cyclerace{
+    margin-left: 10px;
+}
+.nav-side{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.home{
+    margin-left:10px;
+    text-decoration: underline;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.services{
+    margin-left: 10px;
+    font-size: 30px;
+    margin-right: 10px;
+}
