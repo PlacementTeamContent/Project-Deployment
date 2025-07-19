@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.container1{
+    background-color:#000000;
+    
+}
+.heading{
+    color:#FFFFFF;
+    font-size:20px;
+    font-family:"Roboto";
+    display:flex;
+    flex-direction:column;
+    
+}
+.fa{
+    color:#FFFFFF;
+    display:flex;
+    
+    flex-direction:column;
+}
+.image{
+    height:300px;
+    width:300px;
+}
+.card1{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    justify-self:center;
+}
+.heading1{
+    color:#FFFFFF;
+    font-size: 30px;
+    font-family:"Roboto";
+    text-align: center;
+}
+.btn{
+    background-color:#39ff14;
+    width:150px;
+   height:10px;
+}
+.para{
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 20px;
+    font-family:"Roboto";
+}
+.card2{
+    padding:20px;
+    margin:15px;
+}
+.total{
+    background-color: #d4ffcc;
+}
+.heading2{
+    color:#000000;
+    text-align: center;
+     font-family:"Roboto";
+}
+.btn1{
+    color:#39ff14;
+    text-align: center;
+    background-color:#39ff14;
+    width:100px;
+}
+.container{
+    background-color: #FFFFFF;
+    padding:15px;
+    
+    margin: 15px;
+    text-align:center;
+   
+    border-color: #39ff14;
+   
+    justify-content: center;
+}
+.image1{
+    height:150px;
+    width:150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius:100px;
+}
+.footer{
+    background-color:#FFFFFF;
+    text-align:center;
+    margin:15px;
+    padding:15px;
+}
+.foot{
+    display: flex;
+    padding:100px;
+    margin:15px;
+    flex-direction: row;
+}
+@media (min-width:768px) and (min-width:992px){
+    .container{
+    background-color: #FFFFFF;
+    padding:30px;
+    margin: 15px;
+    text-align:center;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .foot{
+    display: flex;
+    padding:100px;
+    margin:15px;
+    flex-direction: row;
+}
+}
