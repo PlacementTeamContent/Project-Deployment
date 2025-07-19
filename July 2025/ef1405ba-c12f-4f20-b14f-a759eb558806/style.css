@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+.navbar{
+    background-color: #808080;
+}
+.bg1{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg');
+    height: 60vh;
+    width:85vw;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.serv{
+    text-align: center;
+    background-color: #f7c1c1;
+    
+}
