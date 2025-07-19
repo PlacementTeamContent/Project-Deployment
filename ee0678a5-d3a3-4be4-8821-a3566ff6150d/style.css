@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+
+.navbar {
+    background-color: #808080;
+    height: 250px;
+    margin-bottom: 0px;
+
+}
+
+.navbar-1 {}
+
+.h1 {
+    color: #FFFFFF;
+    font-size: 45px;
+    padding: 20px;
+}
+
+.p1 {
+    font-size: 35px;
+}
+
+.img-section {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg");
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+    margin: 0px;
+}
+
+.h2 {
+    color: #FFFFFF;
+    font-size: 60px;
+    text-align: center;
+    padding: 60px;
+    margin-top: 0px;
+    font-family: "Caladea";
+}
+
+.break-line1 {
+    background-color: red;
+    height: 10px;
+    width: 250px;
+    margin-left: 200px;
+}
+
+.p2 {
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 20px;
+    margin-left: 150px;
+}
+
+.mainsection {
+    background-color: #f7c1c1;
+    height: 250vh;
+
+}
+
+.h3 {
+    text-align: center;
+    padding: 60px;
+    margin-top: 0px;
+}
+
+.break-line2 {
+    background-color: red;
+    height: 7px;
+    width: 250px;
+    margin-left: 190px;
+
+}
+
+.img1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.h4 {
+    font-size: 40px;
+    text-align: center;
+    margin-left: 90px;
+}
+
+.p3 {
+    font-size: 30px;
+    margin-left: 150px;
+}
+
+.footer {
+    background-color: #FFFFFF;
+    height: 50vh;
+}
+
+.p4 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.p5 {
+    text-align: center;
+    font-size: 50px;
+}

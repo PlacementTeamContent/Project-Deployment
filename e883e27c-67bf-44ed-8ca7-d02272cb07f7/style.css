@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+
+.nav-bar {
+    background-color: #808080;
+
+
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.para {
+    display: flex;
+    color: white;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home {
+    margin-right: 10px;
+}
+
+.background {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url("https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg");
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}
+
+.main-heading {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.p1 {
+    color: red;
+
+
+    width: 100px;
+}
+
+.p2 {
+    color: white;
+    text-align: center;
+}
+
+.back-color {
+    padding-top: 10px;
+    background-color: #f7c1c1;
+
+
+}
+
+.services {
+    text-align: center;
+
+}
+
+.img1 {
+    height: 150px;
+
+    border-radius: 30px;
+
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.foo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media screen and (min-width:768px) {
+    .images {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .main-heading {
+        justify-self: center;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+
+    .logo {
+        display: none;
+    }
+    .main-heading{
+        text-align:center;
+    }
+
+}
+
+.logo {
+    margin: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+@media screen and (max-width:767px) {
+    .logo {
+        display: block;
+        margin-left: 30px;
+    }
+
+    .para {
+        display: none;
+    }
+
+    .nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .club {
+        margin-right: 200px;
+    }
+
+    .img1 {
+        width: 500px;
+        height: 300px;
+
+        border-radius: 30px;
+
+    }
+    .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+    
+
+}
