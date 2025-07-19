@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.bg-container{
+    background-image: url("https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+.head{
+    text-align: center;
+    padding: 90px;
+    color: #ffffff;
+}
+.para{
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}
+.bg-container1{
+    background-color: #d1e5f9;
+    height: 160vh;
+    padding: 1px;
+}
+.head1{
+    text-align: center;
+    padding: 20px;
+    font-family: "Roboto";
+    color: #000000;
+}
+.img1{
+    height: 90px;
+    padding: 60px;
+}
+.p1{
+    text-align: center;
+    font-weight: bold;
+}
+.p2{
+    text-align: center;
+    font-weight: bold;
+}
+.img2{
+    height: 90px;
+    padding: 60px;
+}
+.p3{
+    text-align: center;
+    font-weight: bold;
+}
+.p4{
+    text-align: center;
+    font-weight: bold;
+}
+.img3{
+    height: 90px;
+    padding: 60px;
+}
+.p5{
+    text-align: center;
+    font-weight: bold;
+}
+.p6{
+    text-align: center;
+    font-weight: bold;
+}
+.bg-container2{
+    background-color: #000000;
+    height: 50vh;
+}
+.head{
+    text-align: center;
+    font-family: "Roboto";
+    padding: 30px;
+}
+.head1{
+    text-align: center;
+    font-family: "Roboto";
+    padding: 30px;
+}
