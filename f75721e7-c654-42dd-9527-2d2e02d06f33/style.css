@@ -1,5 +1,85 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
-.section-2 {
-    background-image: url('https://cdn.b12.io/client_media/uRhFd1jE/4adf7c08-057d-11f0-adbc-0242ac110002-jpg-hero_image.jpeg');
+.main-container{
+    height: 100vh;
+    width: 100vw;
+    font-family: Roboto;
+}
+
+.page-1{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg");
+    height: 100vh;
+    width: 100vw;
+    
+}
+.nav{
+    background-color: #008080;
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.icon{
+    padding: 25px;
+    font-size: 28px;
+}
+.h1{
+    font-size: 28px;
+}
+.text-1{
+    color: white;
+    font-size: 105px;
+    text-align: center;
+    padding-top: 95px;
+}
+.text-2{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.hr{
+    background-color: #008080;
+    width: 150px;
+    height: 10px;
+    border-radius: 10px;
+    border-color: #008080;
+}
+
+.page-2{
+    background-color: #ccffff;
+    height: 130vh;
+    width: 100vw;
+    text-align: center;
+    margin-top: 0px;
+}
+.text-3{
+    padding-top: 35px;
+    font-size: 45px;
+}
+
+.img{
+    border-radius: 150px;
+    height: 200px;
+    width: 200px;
+}
+.text-4{
+    font-size: 25px;
+}
+.page-3{
+    background-color: #f9f9f9;
+    height: 30vh;
+    width: 100vw;
+    text-align: center;
+    font-weight: normal;
+}
+
+.sub-1{
+    padding-top: 55px;
+    display: flex;
+    justify-content: space-around;
+}
+.copy{
+    font-size: 25px;
 }
