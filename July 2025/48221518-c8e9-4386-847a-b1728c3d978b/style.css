@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.header{
+    background-color: #008080;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    height: 10vh;
+}
+.menu{
+    display: flex;
+    justify-content: stretch;
+}
+.home{
+    padding-right: 20px ;
+    text-decoration: underline;
+}
+span{
+    background-color: #008080;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+.main-pg{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg');
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+}
+.main-pg-content{
+    color: #FFFFFF;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+}
+.services-pg{
+    background-color: #ccffff;
+    color: #000000;
+    font-family: Roboto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image12{
+    display: flex;
+    justify-content: space-between;
+}
+.image{
+    text-align: center;
+}
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+}
+.footer{
+    color: #000000;
+    font-family: Roboto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.home2{
+    padding-right: 20px ;
+}

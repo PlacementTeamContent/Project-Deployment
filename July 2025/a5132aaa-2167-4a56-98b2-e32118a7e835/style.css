@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.nav{
+    background-color: #008080;
+}
+.head{
+    font-family: Roboto;
+    color: white;
+}
+p{
+    color: white;
+    font-size: 19px;
+    
+}
+.pen{
+    text-decoration: underline;
+}
