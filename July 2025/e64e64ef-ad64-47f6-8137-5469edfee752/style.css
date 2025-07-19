@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+.card-heading{
+    background-color: #808080;
+    height: 70px;
+    padding: 8px;
+}
+
+.heading{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.first-image{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg');
+    height: 250px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-image-heading{
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.first-image-para{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.containerele{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.gym-card{
+    background-color: #f7c1c1;
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+}
+.gym-card-heading{
+    color: black;
+}
+.imageone{
+    height: 100;
+    border-radius: 20px;
+    width: 300px;
+}
+.imagetwo{
+    height: 200px;
+    border-radius: 20px;
+    width: 300px;
+}
+.imagethree{
+    height: 200px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.icon-card{
+    background-color: lightgray;
+    height: 120px;
+    padding: 10px;
+    color: white;
+    font-family: "Caladea";
+}

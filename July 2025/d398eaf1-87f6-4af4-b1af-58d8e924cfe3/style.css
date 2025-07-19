@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color:#000000 ;
+    color: white;
+}
+.CycleA{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg');
+    background-size: cover;
+    height:80vh ;
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    color: #39ff14;
+    
+}
+.para{
+    font-size: 20px;
+}
+.head{
+    font-size: 70px;
+}
+.green-bg{
+    background-color:#d4ffcc ;
+    height: 150vh;
+}
+.sh{
+    text-align: center;
+}

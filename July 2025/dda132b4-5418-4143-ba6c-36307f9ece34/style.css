@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.container{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+    height: 80vh;
+    background-size: cover;
+}
+
+.OnImg {
+    
+}
+
+.h1-1{
+    color: #FFFFFF;
+    font-family: Roboto;
+    
+}
+
+.p{
+    color: #FFFFFF;
+    
+}
+
+.h1-2{
+    text-align: center;
+}
