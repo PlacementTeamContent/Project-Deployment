@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.navbar {
+    background-color: #008080;
+    height: 50px;
+    width: 450px;
+    color:white;
+}
+.home {
+    margin-left:200px;
+    color:white;
+    margin-right:5px;
+}
+.services {
+    color:white;
+}
+.hero-section {
+    background-image:url("https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg");
+    height: 50vh;
+    width: 100vw;
+    color:#FFFFFF;
+    text-align:center;
+    padding-top:40px;
+}
+.hrtag {
+    color:#008080;
+    
+}
+.your {
+    color:white;
+}
+.colourbg {
+    background-color:#ccffff;
+    height:100vh;
+    width:100vw;
+}
+.ser {
+    color:#000000;
+    text-align:center;
+    padding-top:30px;
+}
+.hrtage {
+     color:#008080;
+     text-align:center;
+}
+.image {
+    border-radius:100px;
+    height:70px;
+    width:70px;
+    align-items: center;
+}
+.head {
+    font-size:20px;
+  
+}
+.data {
+   font-size: 15px; 
+  
+}
+.footer {
+    text-align: center;
+}
