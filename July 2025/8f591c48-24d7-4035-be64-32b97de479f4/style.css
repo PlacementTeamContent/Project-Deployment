@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.head{
+    font-family: "Roboto";
+    background-color: white;
+    color:#000000;
+}
+.navbar{
+     font-family: "Roboto";
+    background-color: white;
+    color:#000000;
+}
+.bob{
+    background-image: url('https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg');
+     font-family: "Roboto";
+     color:#FFFFFF;
+     height:100vh;
+     width: 100vw;
+     
+     text-decoration-color:#1976d2 ;
+     text-align:center;
+     align-items: center;
+     align-content: center;
+     
+     
+}

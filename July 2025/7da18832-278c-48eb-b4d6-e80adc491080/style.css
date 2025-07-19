@@ -1,0 +1,51 @@
+.container{
+    text-align: left;
+    font-family:"Roboto" ;
+    display: flex;
+    background-color: #1b262c;
+    color: white;
+}
+.para{
+    color: white;
+    text-align: right;
+    font-family:"Roboto" ;
+}
+.section{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg");
+    background-size: cover;
+    height:500px ;
+    width: 500px;
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    flex-direction: column;
+}
+.lalli{
+    background-color:#f2ccff ;
+    height:1300px;
+    width: 500px;
+    text-align: center;
+    flex-direction: row;
+    color:#1b262c ;
+    font-family: "Roboto";
+}
+.card-1{
+    color: #1b262c;
+    font-family:"Roboto" ;
+    
+}
+.card-2{
+    color: #1b262c;
+    font-family:"Roboto" ;
+   
+}
+.card-3{
+    color: #1b262c;
+    font-family:"Roboto" ;
+    
+}
+.content{
+    color: #1b262c;
+    font-family: "Roboto";
+    background-color:#FFFFFF ;
+}
