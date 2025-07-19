@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+
+.heading {
+    background-color: grey;
+
+}
+
+.bigimage {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg");
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    padding: 120px;
+    text-align: center;
+}
+
+.cards {
+    background-color: pink;
+}
+
+.card1 {
+    text-align:center ;
+    font-family: "roboto";
+    font-weight: bold;
+}
+.card2{
+    text-align:center ;
+    font-family: "roboto";
+    font-weight: bold;
+}
+.card3 {
+    text-align:center ;
+    font-family: "roboto";
+    font-weight: bold;
+}
