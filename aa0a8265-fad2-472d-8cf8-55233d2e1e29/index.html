@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head><link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="logo">ElectronicStore</div>
+        <div class="menu-toggle" id="menu-toggle"></div>
+        <ul class="nav-links" id="nav-links">
+            <li><a href="#" class="active">Homes</a></li>
+            <li><a href="#">Services</a></li>
+        </ul>
+    </nav>
+    
+    <section class="hero">
+        <div class="overlay">
+            <h1>Welcome to Electromart</h1>
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+            <p>Your one stop shop to All Things Electonic</p>
+        </div>
+    </section>
+    
+    <section class="seervices">
+        <h2>SERVICES</h2>
+        <div class="services-container">
+            <div class="service-box">
+                <img/>
+                <h2>Product Consultation</h2>
+                <p>Our experts can help you find the perfect product to fit your needs and budget</p>
+            </div>
+            
+            <div class="service-box">
+                <img/>
+                <h2>Repairs and mechanics</h2>
+                <p>We offer reliable repair services for a wide variety of electronic devices</p>
+            </div>
+            
+            <div class="service-box">
+                <img/>
+                <h2>Home Installation</h2>
+                <p>Our experts can help you find the perfect product to fit your needs and budget</p>
+            </div>
+        </div>
+        
+        <script>
+            const toggleBtn = document.getElementById("menu-toggle")
+            const navLinks = document.getElementById("nav-links")
+            
+            toggleBtn.addEventListener("click",()=>{
+                navLinks.classList.toggle("show");
+            });
+        </script>
+        
+    </section>
+<script src="script.js"></script>
+</body>
+
+</html>

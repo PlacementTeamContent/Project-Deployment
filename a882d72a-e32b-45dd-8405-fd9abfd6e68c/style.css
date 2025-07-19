@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+body{
+    font-family: "Roboto";
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #808080;
+    padding: 3%;
+}
+i{
+    align-content: center;
+}
+.nav{
+    display: flex;
+    align-content: center;
+    gap: 20px;
+}
+.line{
+    height: 5px;
+    background-color: red;
+    width: 30%;
+    border: 0px;
+}
+.body1{
+    text-align: center;
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/3268938/2000_5e26bbfd63b60.jpg');
+    background-size: cover;
+    height: 50vh;
+    color:  white;
+    align-content: center;
+}
+.body2{
+    text-align: center;
+    background-color: #f7c1c1;
+    padding: 20px;
+}
+.img{
+    width: 100%;
+    border-radius:20px;
+}
+.sub-body{
+    text-align: left;
+}
+footer{
+    background-color: white;
+    color:black;
+    text-align: center;
+}
+.sub-foot1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+@media (max-width:767px){
+    .nav{
+        display: none;
+    }
+}
+@media (min-width:768px){
+    .fa{
+        display: none;
+    }
+    .sub-foot1{
+        order: 2;
+    }
+    .sub-foot2{
+        order: 1;
+    }
+    footer{
+        display: flex;
+        justify-content: space-around;
+    }
+}

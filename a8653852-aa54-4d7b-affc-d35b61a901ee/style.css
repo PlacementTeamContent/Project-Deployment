@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.cyclcont{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.innerbox1{
+    text-align: center;
+    color: white;
+    padding: 150px;
+}
+.h1{
+    font-family: roboto;
+    text-decoration: underline;
+    text-decoration-color: #39ff14;
+    gap: 10px;
+}
+.nav{
+    background-color: #000000;
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 250px;
+    padding: 10px;
+    font-size: 20px;
+}
+.loki{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #39ff14;
+}
+.container2{
+    background-color: #d4ffcc;
+    padding: 20px;
+   
+}
+.box1{
+    background-color: #FFFFFF;
+    text-align: center;
+    margin-top: 10px;
+    
+   
+}
+.bob1{
+    border-radius: 600px;
+    height: 30vh;
+    width: 40%;
+    margin: 10px;
+    
+}
+.lastdiv{
+    text-align: center;
+    color: #000000;
+}
+.fel{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+@media (min-width:768px){
+    .minicont{
+        display: flex;
+        gap: 10px;
+        
+    }
+    .lastdiv{
+        display: flex;
+        justify-content: space-between;
+        }  
+        
+    .fel{
+        justify-content: flex-end;
+        order: 2;
+    }
+    .soo{
+        order: ;
+    }
+   
+    .i{
+        justify-content: center;
+    }
+    .h4{
+        justify-content: flex-start;
+    }
+    .bob1{
+        height: 30%;
+        width: 40%;
+    }
+}

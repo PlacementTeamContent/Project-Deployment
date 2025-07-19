@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.nav{
+    height: 40px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: -1rem;
+    
+}
+.icon{
+    display: grid;
+    grid-column-start: 3px;
+    padding: 5px;
+    margin: 3px;
+}
+.hero {
+    background-image: url("https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg");
+    width: 100vw;
+    height: 400px;
+    color: #FFFFFF;
+    background-size: cover;
+    
+    
+    display: grid;
+    grid-column: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0rem;
+
+    
+}
+.hero h1{
+    margin-bottom: 0rem;
+    align-self: center;
+    padding: 1rem 2rem;
+}
+.hero p{
+    margin-top: 0rem;
+    align-self: center;
+    padding: 1rem 2rem;
+}
+.selection{
+    text-align: center;
+    margin-top:0px;
+   
+    background-color: #d1e5f9;
+    height: 150vh;
+    display: grid;
+}
+
+
+.selection img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+
+}
+.image{
+    display: grid;
+    align-items:center;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    padding-left: 120px;
+   
+}
+.image h1{
+    margin-bottom: 0rem;
+    
+    text-align: center;
+    
+}
+.image p{
+    margin-top: 0rem;
+    
+    text-align: center;
+    
+}
+.footer{
+    height: 200px;
+    width: 100vw;
+    background-color: #1b262c;
+}
