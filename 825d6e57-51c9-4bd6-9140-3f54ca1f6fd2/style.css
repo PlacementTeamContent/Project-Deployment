@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.nav-items {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width:120px;
+    font-weight:bold;
+    font-family:"Roboto";
+    font-size:15px;
+}
+.navbar {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    font-family:"Roboto";
+    font-weight:bold;
+    background-color:#ffffff;
+}
+.Home {
+    text-decoration:underline;
+}
+.Image-div {
+    background-image:url('https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg');
+    background-size:cover;
+    height:50vh;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    
+}
+.para {
+    color:#ffffff;
+    font-family:"Roboto";
+}
+.head1 {
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size:35px;
+}
+.para1 {
+    color:#1976d2;
+}
+.Service {
+    text-align:center;
+    background-color: #d1e5f9;
+    margin-top:-20px;
+    padding-top:5px;
+    font-family:"Roboto";
+}
+.contain {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    padding:10px;
+}
+.card {
+    display:flex;
+    flex-direction:column;
+    width:200px;
+    text-align:center;
+    
+}
+.card1 {
+    display:flex;
+    flex-direction:column;
+    width:200px;
+    text-align:center;
+    padding-left:480px;
+}
+.body {
+    height:100px;
+    width:100px;
+    border-radius:50px;
+    margin-left:50px;
+}
+.footer {
+    background-color:#1b262c;
+    margin-top:-15px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding-bottom:80px;
+    font-family:"Roboto";
+}
+.footer-div {
+    padding-left:10px;
+    color:#ffffff;
+}
+.footer-item {
+    color:#ffffff;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width:120px;
+    margin-top:30px;
+}
+@media screen and (min-width:992px) {
+    .fa-bars {
+        display:none;
+    }
+}
+@media screen and (max-width:768px) {
+    .heading {
+        text-align:center;
+        margin-left:300px;
+    }
+    .nav-items {
+        display:none;
+    }
+    .header {
+        display:flex;
+        flex-direction:row;
+        justify-content:space-around;
+    }
+    .fa-bars {
+        margin-top:20px;
+    }
+    .contain {
+        display:flex;
+        flex-direction:column;
+        text-align:center;
+        align-items: center;
+    }
+    .card1 {
+        padding-left:0px;
+        display:flex;
+        flex-direction:column;
+        place-self:center;
+    }
+    .footer {
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+    }
+}

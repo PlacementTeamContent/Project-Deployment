@@ -1,0 +1,28 @@
+.bg-container{
+    background-color: #1b262c;
+    color: #ffffff;
+}
+.container{
+    flex-direction:row;
+}
+.container1{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg");
+    height: 50vh;
+    background-size: cover;
+    color: #ffffff;
+    
+}
+.line{
+    color:#bf00ff;
+}
+.container2{
+    flex-direction:center;
+}
+.container3{
+    background-color: #f2ccff;
+    height: 100vh;
+    
+}
+.head{
+    text-align: center;
+}

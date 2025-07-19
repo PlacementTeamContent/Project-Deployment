@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+}
+
+.nav-bar {
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    color: white;
+}
+
+.something {
+    color: grey;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 3px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-width: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.something1 {
+    color: grey;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 3px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-width: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.something2 {
+    color: grey;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 3px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-width: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.nav-head {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.nav-links-container {
+    display: flex;
+    gap: 10px;
+    align-content: center;
+}
+
+.nav-item {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #e5e5e6;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.image-test {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg");
+    padding-top: 15px;
+    height: 550px;
+    width: 100vw;
+    color: white;
+    text-align: center;
+    background-size: cover;
+}
+
+
+.image {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.card {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #000000;
+    border-width: 2px;
+    text-align: center;
+    width: 200px;
+    background-color: #FFFFFF;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hi1{
+    color: #FFFFFF;
+}
+.hi{
+    color: light-grey;
+}
+.heading {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.button-container {
+    padding-bottom: 40px;
+}
+.g{
+    background-color: #d4ffcc;
+}

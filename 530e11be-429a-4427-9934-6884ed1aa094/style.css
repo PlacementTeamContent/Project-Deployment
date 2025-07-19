@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.navbar {
+    height: 80px;
+    width: 100vw;
+    background-color: #1b262c;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-family: "Roboto";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Home {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 60vh;
+}
+.Home-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    color: #FFFFFF;
+}
+#home-h{
+    margin-top: 200px;
+    font-size: 50px;
+    font-weight: bold;
+}
+#home-p {
+    font-size: 24px;
+    font-weight: bold;
+}
+.services {
+    background-color: #f2ccff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+#line {
+    height: 3px;
+    width: 65px;
+    background-color: #bf00ff;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image {
+    padding: 30px;
+    height: 250px;
+    width: 480px;
+    border-radius: 40px;
+}
+#sh {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-weight: bold;
+    color: black;
+    font-size: 26px;
+    margin-bottom: 0px;
+}
+#ps {
+    margin-top: 0px;
+    font-size: 24px;
+    padding: 20px;
+}

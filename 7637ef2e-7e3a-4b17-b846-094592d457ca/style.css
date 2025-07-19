@@ -1,22 +1,62 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
-.bg1 {
-    background-image: url('https://cdn.b12.io/client_media/pYiUYPFe/e1bbab32-0489-11f0-9106-0242ac110002-jpg-hero_image.jpeg');
+@import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
+.navbar{
+    background-color: #3d3d3d;
+    height: 80px;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.headd{
+    color: white;
+}
+.icon{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.bg1{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/209470/2000_5ceee0706a4bc.jpg');
     background-size: cover;
     height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-
-.btn1 {
-    background-color: #32aa27;
-    margin: 20px;
-    padding: 8px;
-    border-radius: 5px;
-    color: #ffffff;
+.cards-section{
+    background-color: #e5e5e5;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-
-.mm1 {
-    color: #32aa27;
-
+.heading{
+    align-items: center;
+    justify-content: space-around;
 }
-
-.card1 {}
+.card1{
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin-bottom: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imgg{
+    height: 200px;
+    padding: 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 500px;
+}
+.footer{
+    height: 30vh;
+    background-color: #3d3d3d;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
