@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.header{
+    font-family: "Roboto";
+    background-color: #1b262c;
+    color: #ffffff;
+}
+
+.paragraph{
+    text-decoration: underline;
+    padding: 3px;
+}
+.paragraph1{
+    padding: 2px;
+}
+
+.main-page{
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+    background-size: cover;
+    padding: 90px;
+    height: 200px;
+    text-align: center;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.section{
+    background-color: #bf00ff;
+    height: 8px;
+}
+
+.heading{
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.img1{
+    border-radius: 10px;
+    height: 170px;
+}
+.img2{
+    border-radius: 10px;
+    height: 170px;
+}
+
+.img3{
+    border-radius: 10px;
+    height: 170px;
+}
+
+.card{
+    font-family: "Roboto";
+    background-color: #f2ccff;
+    padding: 10px;
+    color: #000000;
+}

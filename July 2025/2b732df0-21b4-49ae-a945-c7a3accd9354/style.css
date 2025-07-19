@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+navbar{
+    color: white;
+    background-color: #000000;
+    margin: 0px;
+}
+.bg-image{
+   font-family: Roboto;
+   height: 100vh;
+    text-align: center;
+    align-content: center;
+    color: white;
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg");
+}
+
+.services{
+    height: 100vh;
+    text-align: center;
+    align-content: center;
+    color: black;
+    background-color: #d4ffcc;
+}
+
+.g2{
+    color: #39ff14;
+}
+img{
+    border-radius: 100vh;
+    width: 300px;
+    height: 300px;
+}

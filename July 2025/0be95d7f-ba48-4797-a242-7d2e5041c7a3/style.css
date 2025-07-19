@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.cont {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg");
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.hed {
+    padding: 90px;
+    color: #FFFFFF;
+}
+
+.para {
+    margin: 80px;
+    margin-top: 10px;
+    margin-left: 150px;
+    color: #FFFFFF;
+}
+
+.cont2 {
+    background-color: #f2ccff;
+    height: 1500px;
+    width: 100vw;
+}
+
+.hed2 {
+    padding: 100px;
+    margin-left: 80px;
+}
+
+.pic {
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.subhed {
+    margin-left: 50px;
+    font-family: Roboto;
+}
+
+.subpara {
+    margin-left: 50px;
+    font-family: Roboto;
+}
+
+.pic2 {
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.subhed2 {
+    margin-left: 50px;
+    font-family: Roboto;
+}
+
+.subpara2 {
+    margin-left: 50px;
+    font-family: Roboto;
+}
+
+.pic3 {
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.subhed3 {
+    margin-left: 50px;
+    font-family: Roboto;
+}
+
+.subpara3 {
+    margin-left: 50px;
+    font-family: Roboto;
+}
