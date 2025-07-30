@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+.partone {
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg");
+    background-size: cover;
+    height: 1000px;
+    width: 1000px;
+}
+
+.head {
+    color: white;
+    text-align: center;
+    font-family:"Roboto";
+}
+
+.para {
+    color: white;
+    text-align: center;
+}
+
+.parttwo {
+    background-color: #39ff14;
+}
+
+.card1 {
+    height: 800px;
+    width: 2000px;
+}
+
+.img1 {
+    margin:10px;
+    border-radius: 1000px;
+    
+}
+.card2 {
+    height: 800px;
+    width: 2000px;
+}
+.img2{
+    border-radius:1000px;
+}
+.img3{
+    border-radius:1000px;
+}

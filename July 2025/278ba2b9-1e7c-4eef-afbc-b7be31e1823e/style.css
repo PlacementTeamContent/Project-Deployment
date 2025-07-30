@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.firsth1 {
+
+    color: white;
+}
+
+.secount {
+    height: 10vh;
+    width: 100vw;
+    background-color: #008080;
+    text-align: center;
+
+}
+
+.third {
+
+    text-align: center;
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+    color: white;
+
+    font-style: "Roboto";
+}
+
+.saro {
+
+    padding-top: 40px;
+
+}
+
+.sec {
+    background-color: #ccffff;
+    height: 200vh;
+    width: 100vw;
+    color: black;
+}
+
+.text {
+    color: black;
+}
+
+.sarojan1 {
+    background-color: #008080;
+    width: 60px;
+    height: 2px;
+    border-color: transparent;
+}

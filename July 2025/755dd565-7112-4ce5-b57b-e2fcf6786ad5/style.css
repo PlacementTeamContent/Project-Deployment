@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+.mainsai{
+    background:url("https://images.cdn-files-a.com/ready_uploads/media/9724/2000_5cda7f0650a69.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+  
+}
+.sai{
+    color:#FFFFFF ;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.head{
+    color:#FFFFFF ;
+}
+.sai2{
+    color:#FFFFFF ;
+     display: flex;
+    flex-direction:column;
+    justify-content: center;
+}

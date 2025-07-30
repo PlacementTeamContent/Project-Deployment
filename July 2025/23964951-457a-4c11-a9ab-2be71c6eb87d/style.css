@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.bg-container{
+    background-color: white;
+    background-size: cover;
+    
+}
+.main-heading{
+    font-family: Roboto;
+}
+.container{
+    background-image: url("https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg");
+    background-size: cover;
+  
+}
+.heading{
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-family: roboto;
+    
+}
+.sub{
+    color: white;
+    font-family: roboto;
+    text-align: center;
+    padding: 50px;
+}
+.sub-container{
+    background-color: #d1e5f9;
+    background-size: cover;
+    
+    
+}
+.sub-heading{
+    text-align: center;
+    font-family: roboto;
+    padding: 70px;
+   
+}
+.img1{
+    border-radius: 200px;
+}
+.per-heading{
+    
+}

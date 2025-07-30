@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.backimg{
+background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+background-size: cover;
+background-color: #1b262c;
+width: 700px;
+height: 500px;
+text-align: center;
+font-family: Roboto;
+justify-content: center;
+align-content: center;
+color: white;
+}
+.servi{
+    background-color: #f2ccff;
+    background-size: cover;
+    color: #000000;
+    align-content: center;
+    justify-content: center;
+}
