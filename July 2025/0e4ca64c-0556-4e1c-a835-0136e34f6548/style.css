@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap"); 
+.navbar {
+    background-color:#1b262c;  
+    margin: 0; 
+} 
+.h1 {
+    color: white; 
+    font-family: Roboto;
+} 
+.n1 {
+    color: white; 
+    font-family: Roboto;
+} 
+.n2 {
+    color: white; 
+    font-family: Roboto;
+} 
+.box1 {
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg'); 
+    padding: 20px;
+}

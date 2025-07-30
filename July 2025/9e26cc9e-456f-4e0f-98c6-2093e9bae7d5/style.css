@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.main-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.home{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: right;
+}
+.services{
+  font-weight:bold  ;
+ text-align: right;
+}
+.bg-image{
+    background-image: url('https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg');
+    background-size: cover;
+    height: 500px;
+}
+.wellcome{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 20px;
+}
+.hr{
+    background-color: #1976d2;
+    height: 10px;
+    width: 120px;
+}
+.fashion{
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+.card{
+    background-color: #1de5f9;
+    background-size: cover;
+    padding: 15px;
+}
+.services2{
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+    padding: 10px;
+    margin: 20px;
+    align-items: center;
+}
+footer{
+    color: #ffffff;
+    background-color:#1b262c ;
+    text-align: center;
+    margin: 0px;
+    background-size: cover;
+}
+.styling{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.para{
+    font-size: 20px;
+}
+@media(max-width:992px){
+   .main-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.home{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: right;
+}
+.services{
+  font-weight:bold  ;
+ text-align: right;
+}
+.bg-image{
+    background-image: url('https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg');
+    background-size: cover;
+    height: 500px;
+}
+.wellcome{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 20px;
+}
+.hr{
+    background-color: #1976d2;
+    height: 10px;
+    width: 120px;
+}
+.fashion{
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+.card{
+    background-color: #1de5f9;
+    background-size: cover;
+    padding: 15px;
+}
+.services2{
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+    padding: 10px;
+    margin: 20px;
+    align-items: center;
+}
+footer{
+    color: #ffffff;
+    background-color:#1b262c ;
+    text-align: center;
+
+    background-size: cover;
+}
+.styling{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.para{
+    font-size: 20px;
+} 
+}

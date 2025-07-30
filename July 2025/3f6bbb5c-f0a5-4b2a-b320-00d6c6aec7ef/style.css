@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+*{
+    font-family: Roboto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #008080;
+     color: white;
+     padding: 10px;
+
+}
+.unlist{
+    display: flex;
+    height :40px;
+    flex-direction: row;
+   
+    align-items: space-between;
+
+    list-style-type: none ;
+}
+
+.list-item:hover{
+    text-decoration:  underline;
+}
+.list-item{
+    margin: 10px;
+}
+.bannerSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 50vh;
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg');
+    background-size: cover ;
+}
+.services{
+    background-color: #ccffff;
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    color: black;
+    height: 70vh;
+    background-size: cover ;
+}
+.imgc{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.imgs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card{
+    width:50vh ;
+    display: flex;
+    flex-direction: column ;
+    flex-wrap: wrap;
+    align-items:  center;
+}

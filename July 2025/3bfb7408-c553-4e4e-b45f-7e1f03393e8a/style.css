@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.bg-container{
+    background-image: url("https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg");
+    height:50vh;
+    width:100vw;
+}
+.head1{
+    text-align:left;
+    font-size: 25px;
+    color:white;
+}
+.para1{
+    color:white;
+}
+.head2{
+    text-align: center;
+}
+.bg-cont{
+    background-color:#ccffff ;
+}
+.image{
+    border-radius: 5000px;
+}

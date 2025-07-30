@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.navsection{
+    font-family:"monoton";
+    display:flex;
+   justify-content: space-between;
+    margin:10px;
+}
+.two{
+     justify-content:flex-end;
+    gap:20px;
+}
+.nav-para1{
+    text-decoration: underline;
+}
+
+.firstSection{
+    background-image:url("https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg");
+    background-size:cover;
+    height:70vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.mid-first-sec{
+    color:white;
+}
+.mid-first-sec p1{
+    font-family:"Roboto";
+}
+.blue-bar{
+    background-color:#1976d2;
+    width:150px;
+    height:10px;
+}
+
+.second-section{
+    background-color:#d1e5f9;
+    height:110vh;
+     /* display:flex;
+         flex-direction: row;
+         justify-content: center; */
+    
+}
+.second-section h2{
+    text-align: center;
+    padding:20px;
+}
+.img-1{
+    border-radius:340px;
+    height:200px;
+    width:200px;
+}
+.first-img-things{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin:10px;
+}
+.two-things{
+  display: flex;
+  flex-direction: row;  
+    justify-content: center;
+    
+    gap:10px;
+    margin:10px;
+}
+.third-img-things{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center ;
+   /* margin:10px; */
+}
+
+.third-footer-section{
+    background-color: #1b262c;
+    height:30vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:10px;
+}
+.copyright{
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin:10px;
+    font-family:"Roboto";
+}
+.home-footer{
+    color:white;
+    font-family: "Roboto";
+     display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap:10px;
+    margin:10px;
+}
+
+@media (max-width:768px){
+    .img-all{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .two-things{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+    }
+    .second-section{
+        height:;
+    }
+}
