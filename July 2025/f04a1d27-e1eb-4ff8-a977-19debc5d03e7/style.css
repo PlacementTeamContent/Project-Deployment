@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.backgroundimage {
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+    height: 100vw;
+    width: 100vh;
+    background-size: cover;
+}
+.card{
+    background-color: #1b262c;
+    height: 10vh;
+    width: 100vw;
+}
+.heading{
+    color: #FFFFFF;
+    font-family: "Roboto";
+    
+}
+.bg-container{
+    background-color: #f2ccff;
+}
+.image {
+    height: 200px;
+    width: 300px;
+}

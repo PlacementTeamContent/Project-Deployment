@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.main-heading{
+    font-family: Roboto;
+    background-color: #1b262c;
+    color: white;
+}
+
+.container-2{
+   font-family: Roboto;
+    background-image: url('https://images.cdn-files-a.com/ready_uploads/media/8501790/2000_608d22a928dfd.jpg');
+    height: 150vh;
+    width: 800px;
+    background-size: cover;
+    text-align: center;
+    padding: 20vh;
+  
+}
+.container-3{
+    background-color:#f2ccff ;
+}

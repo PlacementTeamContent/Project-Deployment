@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.title{
+    display: flex;
+    flex-direction: row;
+    background-color: #1b262c;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+}
+.CCC{
+    background-image: url("https://files.cdn-files-a.com/ready_uploads/media/15288910/2000_67c579a9dfe7e.jpg");
+    height: 50vh;
+    width: auto;
+    color: #ffffff;
+    text-align: center;
+}
+.blue{
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+.CC{
+    background-color: #d1e5f9;
+    text-align: center;
+    font-weight: bold;
+}
+.img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+}

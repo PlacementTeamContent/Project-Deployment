@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.head{
+    background-color:#008080;
+    color:white;
+}
+.head-title{
+    font-weight:bold;
+}
+.main-page{
+    background-image:url("https://images.cdn-files-a.com/ready_uploads/media/8694926/2000_60d29a34c3df8.jpg");
+    background-size:cover;
+}
+.main-page-title{
+    color:white;
+    padding:20px;
+    margin-left:50px;
+}
+.main-page-details{
+    color:white;
+    font-size:10px;
+    margin-left:50px;
+    padding-bottom:10px
+}
+.service-page{
+    background-color:#ccffff;
+}
