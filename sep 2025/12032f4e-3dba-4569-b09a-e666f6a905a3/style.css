@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.head {
+    color: lightblue;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.image1 {
+    height: 300px;
+    width: 350px;
+    padding: 7px;
+    margin: 7px;
+}
+
+.back {
+    background-color: #f0f8ff;
+    font-family: Roboto;
+    background-size: cover;
+}
+
+.button1 {
+    background-color: blue;
+    color: white;
+}
+
+.button2 {
+    background-color: green;
+    color: white;
+}
+
+.button3 {
+    background-color: orange;
+    color: white;
+}
