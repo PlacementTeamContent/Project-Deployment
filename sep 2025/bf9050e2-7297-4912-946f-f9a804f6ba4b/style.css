@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.bg-color {
+    text-align: center;
+    background-color: #f0f8ff;
+    font-family: Roboto;
+}
+
+.image {
+    height: 200px;
+    width: 510px;
+    border-radius: 10px;
+}
+.imageone{
+    height: 195px;
+    width: 505px;
+    border-radius: 10px;
+}
+.imagetwo{
+    height: 230px;
+    width: 520px;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 40px;
+    color: blue;
+    padding: 5px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.btn {
+    font-size: 10px;
+    height:35px;
+    width:130px;
+}
+
+/*Write your CSS code below and don't modify anything above*/
