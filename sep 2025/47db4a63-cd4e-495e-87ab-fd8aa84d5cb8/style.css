@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.entire{
+    background-color: #f0f8ff;
+    background-size: cover;
+    text-align: center;
+}
+
+.head{
+    color:blue;
+    text-align:center;
+    background-color:#f0f8ff;
+    font-size: 20px;
+}
+.image1{
+height:30vh;
+width:75vw;
+border-radius: 10px;
+border-top-left-radius:25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+background-color:#f0f8ff;
+}
+.image2{
+    height:30vh;
+    width:75vw;
+    
+    border-top-left-radius:25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color:#f0f8ff;
+}
+.image3{
+    height:30vh;
+    width:75vw;
+    border-radius: 10px;
+    background-color:#f0f8ff;
+} 
+.button1{
+    margin:5px;
+}
