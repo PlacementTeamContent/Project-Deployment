@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.hari {
+    background-color: #f0f8ff;
+    height: 179vh;
+    width: 100vw;
+
+}
+
+.ha {
+    text-align: center;
+    color: blue;
+}
+
+.h {
+    height: 40vh;
+    border-radius: 25px;
+   
+}
+
+.b {
+    font-size: 18px;
+    text-align: center;
+    font-family: "Roboto";
+    padding: 3px;
+}
+
+.bin {
+    font-size: 13px;
+    margin: 3px;
+
+    text-align: center;
+
+}
+
+.bindu {
+    height: 45vh;
+    border-radius: 25px;
+    font-size: 18px;
+   
+}

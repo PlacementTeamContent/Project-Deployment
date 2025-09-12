@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-color: #f0f8ff;
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.image1 {
+    height: 330px;
+    width: 360px;
+    padding-left: 625px;
+}
+
+.para {
+    font-size: 25px;
+    font-weight: normal;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.image2 {
+    height: 300px;
+    width: 350px;
+    padding-left: 625px;
+}
+
+.image3 {
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    padding-left: 625px;
+}
+
+.button1 {
+    border-width: 0px;
+    height: 40px;
+    width: 150px;
+    padding: 3px;
+    margin: 5px;
+    text-align: center;
+}
+
+.button2 {
+    border-width: 0px;
+    height: 40px;
+    width: 170px;
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+}
+
+.button3 {
+    border-width: 0px;
+    height: 40px;
+    width: 250px;
+    padding: 2px;
+    margin: 5px;
+}

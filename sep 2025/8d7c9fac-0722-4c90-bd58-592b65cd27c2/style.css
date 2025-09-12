@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.heading{
+    color: blue;
+    font-family: Roboto;
+    text-align: center;
+}
+
+.bg-container{
+    background-color: #f0f8ff;
+    height: 1380px;
+    width: 1333px;
+}
+.card1{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/u1.webp');
+    height:300px;
+    width: 500px;
+    size: cover;
+    border-radius: 10px;
+}
+.card2{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/u2.jpg');
+    height:300px;
+    width: 500px;
+    size: cover;
+    border-radius: 10px;
+}
+.card3{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/u3.jpeg');
+    height:300px;
+    width: 500px;
+    size: cover;
+    border-radius: 10px;
+}
+.para{
+    text-align: center;
+    font-family: Roboto;
+}
+.container{
+    padding: 50px;
+}
