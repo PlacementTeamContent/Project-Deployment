@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.div {
+    text-align: center;
+    background-color: #f0f8ff;
+    background-size: cover;
+}
+
+.head {
+    color: blue;
+    font-size: 30px;
+}
+
+.div2 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/d1.jpg");
+    background-size: cover;
+    height: 22vh;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.div3 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/d2.jpg");
+    background-size: cover;
+    height: 22vh;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.div4 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/d4.webp");
+    background-size: cover;
+    height: 22vh;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.but1 {
+    background-color: blue;
+    border-width: 0px;
+    color: white;
+}
+
+.but2 {
+    background-color: green;
+    border-width: 0px;
+    color: white;
+}
+
+.but3 {
+    background-color: yellow;
+    border-width: 0px;
+}
+
+.divu {
+    margin-bottom: 10px;
+    font-family: Roboto;
+}
+
+.p {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+}
