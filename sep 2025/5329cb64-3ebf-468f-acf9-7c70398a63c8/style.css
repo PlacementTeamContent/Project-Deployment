@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.h-center {
+    background-color: #f0f8ff;
+    text-align: center;
+    margin: 1px;
+
+}
+
+.head1 {
+    color: blue;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.img1 {
+    height: 250px;
+    width: 410px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.img2 {
+    height: 250px;
+    width: 410px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.para1 {
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.b-center {
+    margin: 0px;
+}
+
+.bttn {
+    background-color: green;
+}
