@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main {
+    background-color: #006d77;
+    width: 100vw;
+}
+
+.h-main {
+    font-size: 15px;
+    padding: 10px;
+    color: white;
+}
+
+.bg-main {
+    background-color: #83c5be;
+    padding: 30px;
+}
+
+.gap {
+    padding-left: 55vw;
+}
+
+.bg {
+    background-color: #ffa69e;
+    padding: 15px;
+}
+
+.img1 {
+    width: 360px;
+}
+
+.btn1 {
+    border-width: 0px;
+    width: 130px;
+    margin: 5px;
+}
+.btn2{
+    border-width: 0px;
+    width: 130px;
+    margin: 5px;
+    color: white;
+    background-color: black;
+}
+.img-min{
+    height: auto;
+    width: 15vw;
+    border-radius: 5px;
+    text-align: center;
+}
+.bg3{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}

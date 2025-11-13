@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-color: #DC143C;
+    height: 50vh;
+}
+
+.main-heading {
+    color: #000000;
+    padding-left: 12px;
+}
+
+.but {
+    background-color: #FDEBD0;
+    padding: 10px;
+    margin: 8px;
+    border-width: 0;
+}
+
+.but2 {
+    background-color: #000000;
+    padding: 12px;
+    margin: 5px;
+    color: #ffffff;
+    border-width: 0;
+    font-size: 15px;
+}
+
+.m {
+    padding-top: 125px;
+}
+
+.im {
+    height: 230px;
+    width: 280px;
+    margin-left: 380px;
+    margin-top: 60px;
+}
+
+.main-heading1 {
+    color: #000000;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.bg-container2 {
+    background-color: #F75270;
+    height: 50vh;
+
+}
+
+.card1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 30vh;
+    width: 380px;
+    margin: 15px;
+
+}
+
+.main-heading2 {
+    color: #000000;
+    font-size: 33px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.im2 {
+    height: 120px;
+    width: 110px;
+    margin-left: 125px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.main-heading4 {
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.main-heading5 {
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 5px;
+}

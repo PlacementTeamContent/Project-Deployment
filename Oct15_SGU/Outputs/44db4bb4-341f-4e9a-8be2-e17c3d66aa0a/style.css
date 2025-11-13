@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar-bg{
+    background-color: #DC3545;
+}
+.text-white{
+    color: #ffffff;
+}
+.middle-part{
+    background-color: #FFE0CC;
+}.button{
+    background-color: #FF7043;
+    color: #ffffff;
+    border-width: 0px;
+    height: 37px;
+    width: 140px;
+    border-radius: 3px;
+}
+.font{
+    font-family: "Roboto";
+    padding: 10px;
+}
+.image{
+    height: 30vh;
+    width: 80vw;
+}
+.photo{
+    margin: 20px;
+}
+.last-part{
+    background-color: #0761F2;
+    color: #ffffff;
+    padding: 10px;
+}
+.specalities{
+    background-color: #ffffff;
+    text-align: center;
+}
+.img-spe{
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+    padding: 10px;
+}
+.font-spe{
+    color: #000000;
+    font-family: "Roboto";
+    
+}
+.spe-card{
+    margin: 20px;
+}

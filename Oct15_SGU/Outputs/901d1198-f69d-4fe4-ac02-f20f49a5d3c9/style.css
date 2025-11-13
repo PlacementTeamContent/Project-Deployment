@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg1 {
+    background-color: #FAA533;
+    padding: 10px;
+}
+
+.btn1 {
+    border-radius: 5px;
+}
+
+.btn2 {
+    background-color: #ff5b5b;
+    color: white;
+    border-color: #ff5b5b;
+}
+
+.heading1 {
+    font-size: 20px;
+    color: #000000;
+}
+
+.img1 {
+    height: 120px;
+    width: 180px;
+}
+
+.bg2 {
+    background-color: #EF7722;
+    padding: 10px;
+}
+
+.head {
+    font-size: 20px;
+    color: #000000;
+}
+
+.card {
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.img2 {
+    height: 60px;
+    width: 80px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.heading3 {
+    font-size: 15px;
+
+}
+.container-fluid{
+    background-color: #007bff;
+}

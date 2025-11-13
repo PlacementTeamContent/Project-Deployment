@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.background{
+    background-color: black;
+}
+.card1{
+    background-color: #343A40;
+    background-size: cover;
+    height: 330px;
+    text-align: left;
+}
+.heading{
+    color: #ffffff;
+    margin: 0px;
+    text-align: left;
+}
+.image{
+    text-align: right;
+    margin: 100px;
+}
+.btn1{
+    border:0px;
+    height: 32px;
+    width: 110px;
+    border-radius: 5px;
+}
+.btn2{
+    border:0px;
+    height: 32px;
+    width: 110px;
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+}
+h2{
+    text-align: left;
+    margin: 5px;
+    font-family: "Roboto";
+}
+p{
+    margin: 5px;
+    font-family: "Roboto";
+}
+.nani{
+    margin: 5px;
+}
+.image{
+    text-align: right;
+}
+.bg-container{
+    background-color: #000000;
+    background-size: cover;
+    height: 210px;
+    color: white;
+}
+h3{
+    margin: 6px;
+}
+/*Write your CSS code below and don't modify anything above*/

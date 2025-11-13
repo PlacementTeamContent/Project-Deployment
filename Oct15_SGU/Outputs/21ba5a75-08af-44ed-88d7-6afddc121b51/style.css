@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar1 {
+    background-color: #006d77;
+}
+
+.bg1 {
+    background-color: #83C5BE;
+    height: 100vh;
+}
+
+.ig1 {
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+}
+.ig2{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.b1 {
+    border-style: none;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    width: 130px;
+    margin: 10px;
+}
+
+.b2 {
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    width: 100px;
+}
+.bg2 {
+    background-color: #FFA69E;
+   
+    
+}
+.bg3{
+    background-color: white;
+    text-align: center;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+}
+.navc{
+    color: white;
+}

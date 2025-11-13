@@ -1,0 +1,54 @@
+#nav-section1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#nav-section2 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#nav-section3 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#nav-section4 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#nav-top {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bg-banner {
+    background-color: #FFE0CC;
+    color: #000000;
+}
+
+.img1 {
+    width: 90%;
+    height: 90%;
+    margin: 20px;
+}
+
+.btn1 {
+    background-color: #0761F2;
+    color: #ffffff;
+}
+
+.btn2 {
+    background-color: #FF7043;
+    color: #ffffff;
+}
+
+.bg-banner2 {
+    color: #0761F2;
+}

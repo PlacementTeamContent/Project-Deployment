@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.d1{
+    background-color:#3338A0 ;
+}
+.tab{
+    background-color: #C59560;
+    color: #ffffff;
+}
+.img1{
+    height: 10vh;
+    text-align: right;
+}
+.head1{
+    color: #ffffff;
+}
+.tab2{
+    background-color:#3338A0 ;
+}
+.img2{
+    height: 10vh;
+}
+.img3{
+    height: 50vh;
+    width: 30px;
+}
+.img4{
+    height: 10vh;
+}

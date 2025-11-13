@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container{
+    background-color: #1E1E1E;
+    height: 300vh;
+}
+.card1{
+    background-color: #343A40;
+    height: 90vh;
+    padding: 20px;
+}
+.img1{
+    width: 300px;
+    height: 30vh;
+}
+.card1-head{
+    color: #ffffff;
+    font-family: Roboto;
+}
+.card1-para{
+    color: #ffffff;
+    font-family: Roboto;
+}
+.card1-button1{
+    background-color: #ffffff;
+    height: 40px;
+    width: 110px;
+    border-radius: 8px;
+    
+}
+.card1-button2{
+    background-color: #000000;
+    color: #ffffff;
+    height: 40px;
+    width: 110px;
+    border-radius: 8px;
+}
+.bottom{
+    height: 80px;
+    width: 100px;
+    border-radius: 10px;
+    
+}
+.navbar{
+    background-color: #1E1E1E;
+}
+.bottom1{
+    background-color: #000000;
+    height: 40vh;
+    width: 40vh;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;padding: 15px;
+}

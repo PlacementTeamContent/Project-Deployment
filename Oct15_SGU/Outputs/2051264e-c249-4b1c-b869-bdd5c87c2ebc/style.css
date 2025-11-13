@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg {
+    background-color: #DC143C;
+    height: 50vh;
+    width: 110vw;
+}
+
+.mar {
+    padding: 30px;
+}
+
+.img {
+    height: 100px;
+    width: 200px;
+
+}
+
+.main {
+    background-color: #F75270;
+    height: 38vh;
+}
+
+.card {
+    background-color: white;
+    height: 200px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.cae {
+    height: 80px;
+    width: 92px;
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
+
+#p {
+    font-family: Roboto;
+    text-align: center;
+    font-size: 10px;
+
+
+}
+
+.par {
+    font-size: 15px;
+}
+
+.hh {
+    padding: 10px;
+}
+
+.vv {
+    padding: 10px;
+}
+
+.mainhh {
+    padding: 10px;
+
+}

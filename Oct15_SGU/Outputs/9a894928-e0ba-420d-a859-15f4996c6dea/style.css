@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.h1 {
+    font-size: 20px;
+}
+
+.text {
+    margin: 20px;
+    margin-top: 60px;
+}
+
+.btn-color {
+    background-color: #ff5b5b;
+    width: 120px;
+}
+
+.p2 {
+    background-color: #007bff;
+
+}
+
+.card-container {
+    background-color: #FAA533;
+    height: 300PX;
+}
+
+.img {
+    height: 80px;
+    width: 80px;
+
+}
+
+.p-card-container {
+    background-color: #EF7722;
+    height: 280px;
+    padding: 10px;
+}
+
+.p1-card {
+    background-color: white;
+    text-align: center;
+    width: 350px;
+    margin: 20px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+
+
+}
+
+.img2 {
+    height: 210px;
+    width: 260px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
+
+}

@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color:#006d77;
+    text-align:right;
+    }
+.mainimage{
+    height:200px;
+    width:400px;
+}
+.back1{
+    background-color:#83c5be;
+    padding:50px;
+}
+.back2{
+    background-color:#FFA69E;
+}
+.mainimage2{
+    height:100px;
+    width:100px;
+    border-radius:20px;
+    padding:10px;
+    
+}
+.backmini{
+    background-color:#f7f4eb;
+    height:200px;
+    width:200px;
+    border-radius:20px;
+    padding:20px;
+    margin:100px;
+}
+}
+.white{
+    background-color:white;
+    color:black;
+    }
+.black{
+    background-color:black;
+    color:white;
+}
+.button{
+    border-radius:20px;
+    border-width:0px;
+}

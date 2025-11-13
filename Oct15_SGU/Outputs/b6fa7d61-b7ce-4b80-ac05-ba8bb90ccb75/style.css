@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.card1{
+    background-color: #343A40;
+}
+.img1size{
+    height: 250px;
+    width: 300px;
+    margin: 60px;
+    margin-left: 150px;
+}
+.card1info{
+   color: white;
+   margin-top: 130px;
+   margin-bottom: 120px;
+   padding-left: 10px;
+}
+.button1{
+    background-color: white;
+    color: black;
+    border-width: 0px;
+    border-radius: 4px;
+    height: 40px;
+    width: 150px;
+    margin-right: 5px;
+}
+.button2{
+    background-color: black;
+    color: white;
+    border-width: 0px;
+    border-radius: 4px;
+    height: 40px;
+    width: 150px;
+}
+.card2{
+    color: white;
+    background-color: #000000;
+    padding: 20px;
+}
+.imgssize{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.smallcards{
+    background-color: #1E1E1E;
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+}

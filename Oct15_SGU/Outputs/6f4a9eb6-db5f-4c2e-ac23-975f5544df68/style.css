@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.navbar{
+    background-color:#DC3545 ;
+    background-size:cover;
+    height:100px;
+    width:1280px;
+    color:white;
+    
+}
+.A{
+    background-color:#FFE0CC ;
+    height:500px;
+    width:1280px;
+    text-align:start;
+}
+.H{
+    color:#000000;
+    font-family:Roboto;
+    font-weight:bold;
+    
+}
+.P{
+   color:#000000;
+    font-family:Roboto;
+    font-weight:bold;
+     
+}
+.B1{
+    background-color:#0761F2 ;
+    height:50px;
+    width:100px;
+    color:white;
+    border-radius:5px;
+}
+.B2{
+    background-color:#FF7043 ;
+    height:50px;
+    width:100px;
+    color:white;
+    border-radius:8px;
+}
+.M{
+    height:200px;
+    width:500px;
+}
+.D1{
+    background-color:#FFFFFF;
+    height:200px;
+    width:300px;
+    text-align:center;
+    border-radius:5px;
+    padding:10px;
+}
+.M1{
+    height:50px;
+    width:100px;
+}
+.H1{
+  color:#ffffff;
+    font-family:Roboto;
+    font-weight:bold;
+    
+      
+}
+.P1{
+  color:#ffffff;
+    font-family:Roboto;
+    font-weight:bold;
+      
+}
+.D{
+    background-color:#0761F2;
+    height:500px;
+    width:1280px;
+    padding: 10px;
+}
+.K{
+    margin:20px;
+}

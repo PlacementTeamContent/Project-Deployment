@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.bg-container {
+    height: 120vh;
+    background-size: cover;
+    font-family: roboto;
+    background-color: #EAA64D;
+}
+
+.header {
+    color: white;
+    font-size: 28px;
+}
+
+.nav {
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.pad {
+    padding: 10px;
+}
+.card{
+    background-color: #0D5EA6;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    padding-left: 5px;
+}
+.cardimg{
+    
+}
+.card-2-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+}
+.card-2{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 15px;
+    
+}
+.head1{
+    color: white;
+    padding: 15px;
+}
+.head2{
+    color: white;
+    padding-left: 15px;
+}
+/*Write your CSS code below and don't modify anything above*/

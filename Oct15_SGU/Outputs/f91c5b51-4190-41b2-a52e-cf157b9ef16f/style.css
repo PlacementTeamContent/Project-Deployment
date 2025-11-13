@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav-heading {
+    background-color: #3338A0;
+}
+
+#n1 {
+    color: white;
+}
+
+.middle-section {
+    background-color: #C59560;
+    padding: 16px;
+}
+
+.middle-section-heading {
+    color: white;
+    font-family: "Roboto";
+}
+
+.middle-section-para {
+    font-family: "Roboto";
+    color: white;
+}
+
+.btn1 {
+    color: white;
+    background-color: black;
+    font-family: "Roboto";
+    border-style: normal;
+    border-radius: 0px;
+    border-color: black;
+    padding: 6px;
+}
+
+.btn2 {
+    color: black;
+    background-color: white;
+    font-family: "roboto";
+    border-style: normal;
+    border-radius: 0px;
+    border-color: white;
+    padding: 6px;
+}
+
+.img1 {
+    width: 360px;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lastsec {
+    background-color: #3338A0;
+    padding: 20px;
+
+}
+
+.hop1 {
+    color: white;
+    font-family: "roboto";
+}
+
+.pop1 {
+    color: white;
+    font-family: "roboto";
+}
+.card{
+    text-align: center;
+    border-radius: 16px;
+}
+.cardimg{
+    height: 80px;
+    width: 76px;
+    text-align: center;
+    margin: 30px;
+}

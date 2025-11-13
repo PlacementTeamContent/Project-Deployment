@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.top-card-color {
+    background-color: #83c5be;
+}
+
+.top-card-all {
+    padding: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-weight: bold;
+}
+
+.image1 {
+    height: 250px;
+    width: 300px;
+}
+
+.padding1 {
+    padding-top: 90px;
+}
+
+.bottom-card-color {
+    background-color: #FFA69E;
+}
+
+.bottm-white-card {
+    background-color: #F7F4EB;
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.image2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.bottom {
+    padding-left: 10px;
+}
