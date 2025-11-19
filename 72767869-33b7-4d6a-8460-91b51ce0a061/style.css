@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.navbar-bg {
+    background-color: #fc8c14;
+
+}
+
+.fonts_1 {
+    color: #ffffff;
+}
+
+.bg-ganesh{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayaka.jpg/');
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-heading {
+    color: #ffffff;
+    text-align: center;
+}
+
+.main-para {
+    color: #ffffff;
+    text-align: center;
+}
+
+.button-1{
+    background-color: #FFC107;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+}
+
+.color-bg-1{
+    background-color: #FFF0CE;
+    height: 500px;
+}
+
+.head-2{
+    text-align: center;
+    padding: 20px;
+}
+
+.cards-1{
+    background-color: #ffffff;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card-head{
+    font-weight: bold;
+}
+
+.P{
+    color: #818281;
+}
+
+.but-1{
+    border-color: #28a745;
+    background-color: #ffffff;
+    color: #28a745;
+    
+}
+
+.I{
+    color: #28a745;
+}

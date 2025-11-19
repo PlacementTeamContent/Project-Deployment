@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.head{
+   margin:0;
+   font-family: "Roboto";
+}
+.main{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/imagenew.jpeg');
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+    text-align: center;
+    padding: 50px;
+    color: #ffffff;
+    font-size: 20px;
+    
+}
+.para{
+    font-size: 10px;
+    font-weight: 20px;
+    font-family: Roboto;
+    height: 10px;
+    width: 20px;
+    border: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+.button{
+    background-color: #DC3545;
+    border: solid #DC3545;
+    color: white;
+}
+.sub{
+    background-color: #FF6B6B;
+    text-align: center;
+}
+.cart{
+    background-color: #ffffff;
+    padding: 40px;
+    text-align: center;
+    margin: 15px;
+}

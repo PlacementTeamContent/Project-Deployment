@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.img_container{
+    height: 50vh;
+    width: 100vw;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/new+year.jpg');
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.second_container{
+    padding: 40px;
+ text-align: center;
+ background-color: #2C3E50;
+ height: 40vh;
+}
+
+.cardx{
+    background-color: white;
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.para{
+    color: #818281;
+    font-size: 1em;
+    font-weight: light;
+}
+.heading{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.btn{
+     width: 150px;
+}
+.foot{
+    background-color: #343A40;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 7vh;
+}
+/*Write your CSS code below and don't modify anything above*/

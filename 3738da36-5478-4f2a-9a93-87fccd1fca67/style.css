@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/illustration-pongal-holiday-background-with-space-text_91314-448.jpg");
+    background-size: cover;
+    height: 200vh;
+    text-align: center;
+}
+.main-detail{
+    margin-top:400px;
+}
+.main-para {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.para {
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.secondbg {
+    background-color: #CBEAED;
+    height: 120vh;
+    margin-top: 200px;
+}
+
+.para1 {
+    text-align: center;
+    margin-bottom: 800px;
+    font-family: roboto;
+    font-size: 30px;
+    
+
+}
+
+
+.button {
+    background-color: #28A745;
+    color: #ffffff;
+    width: 200px;
+    border-width: 0px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/

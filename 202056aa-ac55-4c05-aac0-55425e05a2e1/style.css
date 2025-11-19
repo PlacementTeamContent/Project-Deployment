@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.cade{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 50vh;
+    
+}
+.head{
+    color: white;
+    
+}
+.p{
+    color: white;
+}
+.bu{
+    background-color: #007BFF;
+    color: #FFFFFF;
+    
+}
+.cad{
+    text-align: center;
+    background-color: #7FDBDA;
+}
+.a{
+    background-color: white;
+    border:solid;
+    height: 150px;
+    width: 400px;
+    border-radius: 10px;
+    border-color: white;
+}
+.b{
+   background-color: white;
+    border:solid;
+    height: 150px;
+    width: 400px;
+    border-radius: 10px;
+    border-color: white; 
+    text-align: center;
+}

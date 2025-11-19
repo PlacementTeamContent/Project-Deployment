@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav-link {
+    color: white;
+}
+
+.container1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/illustration-pongal-holiday-background-with-space-text_91314-448.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    height: 100vh;
+
+    text-align: center;
+    align-items: center;
+}
+
+.head {
+    color: white;
+}
+
+.para {
+    color: white;
+}
+
+.bg-cont {
+    text-align: center;
+    align-items: center;
+}
+.container{
+    background-color: #CBEAED;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    margin:0px;
+    margin-right: 0px;
+    font-family: Roboto;
+    padding:20px;
+    padding-right: 20px;
+    
+}
+.cards1{
+    background-color: white;
+    border-radius: 10px;
+    margin:auto;
+}

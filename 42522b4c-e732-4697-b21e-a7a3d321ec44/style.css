@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.bg_container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg');
+    height: 70vh;
+    background-size: cover;
+    padding: 40px;
+}
+.main_head{
+    color: #ffffff;
+    text-align: center;
+}
+.para{
+    color: #ffffff;
+    text-align: center;  
+}
+.butt_1{
+    margin-left: 400px;
+}
+.bg_colour{
+    background-color: #7FDBDA;
+    height: 60vh;
+    padding: 20px;
+}
+.card{
+    height: 250px;
+    width: 250px;
+   margin: 4px;
+   text-align: center;
+   border-radius: 12px;
+   padding: 8px;
+}
+.card_head{
+    color: #000000;
+    font-size: 26px;
+}
+.card_para{
+    color: #818281;
+    font-size: 18px;
+}
+.butt_2{
+    width: 150px;
+}
+.heading{
+    text-align: center;
+    padding: 5px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

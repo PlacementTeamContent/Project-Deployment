@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.king {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg');
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+    width: 1900px;
+    background-color: #7FDBDA;
+
+
+}
+
+.queen {
+    color: white;
+    margin-top: 200px;
+}
+
+.aa {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border: 0px;
+    padding: 5px;
+}
+
+.j {
+    color: white;
+}
+
+.bb {
+    background-color: #7FDBDA;
+
+}
+
+.card {
+
+    height: 200px;
+    width: 400px;
+
+    margin: 50px;
+
+}
+
+.abcd {}
+
+.kp {
+    text-align: center;
+    font-size: 70px;
+}
+
+.ko {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.vv {
+    color: white;
+    background-color: #007BFF;
+    text-align: center;
+}
+
+/*Write your CSS code below and don't modify anything above*/

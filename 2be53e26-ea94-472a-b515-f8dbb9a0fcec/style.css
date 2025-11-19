@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.image {
+    height: 50vh;
+    width: 500px;
+
+
+}
+
+.a {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #dc3545;
+}
+
+.ab {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.btn-btn-danger {
+    background-color: #F08787;
+    color: #ffffff;
+}
+
+.b {
+    background-color: #F08787;
+    font-family: "Roboto";
+    color: #000000;
+    text-align: center;
+    height: 100vh;
+    padding: 10px;
+}
+
+.card {
+    padding: 5px;
+    width: 100px;
+    font-size: 8px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 10px;
+    color: #000000;
+    font-family: "Roboto";
+    padding: 5px;
+}
+
+.bg-outline-danger {
+    width: 70px;
+    border-radius: 10px;
+    text-align: center;
+    color: #dc3545;
+
+
+}
+
+.color {
+    width: 70px;
+    border-radius: 10px;
+    text-align: center;
+    color: #28a745;
+}
+
+
+
+
+
+
+/*Write your CSS code below and don't modify anything above*/

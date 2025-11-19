@@ -1,9 +1,0 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-@media screen and (min-width:992px){
-    .media{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        align-items: center;
-    }
-}

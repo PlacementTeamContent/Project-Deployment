@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color: #28a745;
+}
+.header_section{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/illustration-pongal-holiday-background-with-space-text_91314-448.jpg');
+    background-size: cover;
+    
+}
+.btn{
+    background-color: #28a745;
+    text-align: center;
+    color: #ffffff;
+}
+.header_section_heading{
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+}
+.header_section_paragraph{
+     color: #ffffff;
+     text-align: center;
+     font-family: "Roboto";
+}
+.button{
+    text-align: center;
+}
+.middle_section{
+    background-color:#CBEAED ;
+}
+.middle_section_headding{
+    text-align: center;
+    font-family: Roboto;
+
+}
+.button_2{
+    text-align: center;
+}
+.card{
+    width: 285px;
+    height: 300px;
+    text-align:center;
+    margin: 40px;
+    padding: 1px;
+}

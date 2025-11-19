@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.heading {
+    color: white;
+}
+
+.para {
+    color: white;
+    font-size: 20px;
+}
+
+.ll {
+    padding-top: 220px;
+}
+
+.back {
+    background-color: #7FDBDA;
+    height: 80vh;
+}
+
+.head {
+    padding: 10px;
+    text-align: center;
+}
+
+.background {
+    background-color: #FFFFFF;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.www {
+    padding: 5px;
+}
+
+.qqq {
+    color: #818281;
+}
+
+.button {
+    color: #28a745;
+
+}
+
+.vvv {
+    text-align: center;
+    padding: 30px;
+}
+.mmm{
+   text-align: center;
+    padding: 30px;
+    color:#818281 ;
+}
+.colue{
+    background-color: #007BFF;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/

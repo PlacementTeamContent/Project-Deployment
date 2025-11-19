@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.dussera-top-page{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/dusear+1.jpg');
+    height: 50vh;
+    width: 150vh;
+    background-size: cover;
+    text-align: center;
+
+}
+.top-h1{
+    color: #ffffff;
+    font-size: 30px;
+    padding-top: 250px;
+}
+.top-p1{
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.button1{
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.dusera-bottom-page{
+    background-color: #F08787;
+    height: 75vh;
+    width: 150vh;
+}
+.bottom-h1{
+   font-size: 20px;
+    text-align: center;
+    padding: 20px;
+
+}
+.dussera-tab{
+    background-color: #FFFFFF;
+    height: 20vh;
+    width: 40vh;
+    text-align: center;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.tab-h1{
+    font-size: 20px;
+}
+.tab-p1{
+    padding: 10px;
+    font-size: 10px;
+}
+.bi-egg-fried{
+    color:#dc3545;
+}
+.bi-people-fill{
+    color: #28a745;
+}
+.bi-house-heart-fill{
+    color: #007BFF;
+}
+.end-h1{
+    padding: 20px;
+    text-align: center;
+}
+.bottom-p1{
+    font-size: 10px;
+    text-align:center;
+}
+.last{
+    background-color: #dc3545;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+    width: 150vh;
+}

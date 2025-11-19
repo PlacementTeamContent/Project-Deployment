@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.navbarr {
+    background-color: #DC3545;
+    color: #ffffff;
+}
+
+.backg {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/imagenew.jpeg');
+    background-size: cover;
+    height: 70vh;
+}
+
+.content {
+    text-align: center;
+    color: #ffffff;
+    padding: 290px;
+}
+
+.content1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.christ {
+    font-weight: bold;
+}
+
+.btnn {
+    background-color: #DC3545;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 3px;
+}
+
+.card1 {
+
+    text-align: center;
+    background-color: #ffffff;
+    height: 20vh;
+    width: 20vw;
+    margin-left: 40px;
+    border-radius: 8px;
+}
+
+.section1 {
+    background-color: #FF6B6B;
+}
+
+/*Write your CSS code below and don't modify anything above*/

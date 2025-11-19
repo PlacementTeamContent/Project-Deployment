@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.umar{
+    color: white;
+    font-size: 20px;
+}
+.umar1{
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/trdseawsertdrs.jpg");
+  height: 50vh;
+  background-size: cover;
+}
+.umar2{
+   background-color: #28A745; 
+   height: 50vh;
+}
+.umar3{
+    background-color: white;
+    height: 120px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.umar4{
+    font-size: 11px;
+    
+}
+.umar5{
+   font-size: 8px; 
+   color: #818281;
+}
+.ii{
+    color: #FFC107;
+}
+.umar6{
+    height: 20px;
+    width: 60px;
+    font-size: 5px;
+}
+.umar9{
+    text-align: center;
+}
+.uu{
+    color: red;
+}
+.tt{
+    color: #007BFF;
+}
+.umar10{
+    color: white;
+
+}
+.umar11{
+    margin: auto;
+}

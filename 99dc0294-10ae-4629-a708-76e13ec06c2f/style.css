@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container-fluid {
+    background-color: #007BFF;
+    color: #ffffff;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg");
+    height: 80vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+@media orientation:portiant{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/image.jpeg") ;
+}
+
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.para {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.footer {
+    background-color: #7FDBDA;
+    height: 50vh;
+    text-align: center;
+}
+
+.cards {
+    background-color: #7FDBDA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    height: 30vh;
+    width: 40vw;
+    text-align: center;
+    padding: 60px;
+}
+
+.btn-green {
+    width: 10vw;
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+    color: green;
+    background-color: transparent;
+}
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/

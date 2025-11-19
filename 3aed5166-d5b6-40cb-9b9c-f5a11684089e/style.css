@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.header{
+    background-color:#343A40 ;
+    color: #ffffff;
+    height: 30px;
+}
+.ran{
+    font-size: 10px;
+    padding: 10px;
+}
+.anch{
+    color: white;
+    font-size: 5px;
+    padding: 10px;
+    margin: 5px;
+ 
+}
+.text{
+    text-align: right;
+    margin-left: 210px;
+}
+.eif{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/trdseawsertdrs.jpg");
+    height: 50vh;
+    background-size: cover;
+    
+}
+.content{
+    color: #ffffff;
+    text-align: center;
+    padding: 90px;
+    
+    
+}
+.incon{
+    font-size: 20px;
+    font-weight: bold;
+ 
+    
+}
+.inconn{
+    font-size: 10px;
+    
+}
+.nn{
+    background-color:#28A745 ;
+    border-width: 0px;
+    height: 25px;
+    width: 50px;
+    font-size: 5px;
+}
+.greeb{
+    background-color: #28A745;
+    height: 350px;
+}
+.card1{
+    text-align: center;
+   background-color: #ffffff;
+   height: 180px;
+   width: 190px;
+   padding: 10px;
+   border-radius: 10px;
+   margin: 15px;
+}
+.innnn{
+    font-size: 10px;
+    padding: 10px;
+}
+.ppp{
+    font-size: 10px;
+    color: #818281;
+}
+.byt{
+    text-align: center;
+    color: #ffc107;
+    border: 2px solid;
+    height: 30px;
+    font-size: 8px;
+}
+.bytr{
+    text-align: center;
+    color: #dc3545;
+    border: 2px solid;
+    height: 25px;
+    font-size: 8px;
+}
+.bytrr{
+    text-align: center;
+    color: #007BFF;
+    border: 2px solid;
+    height: 25px;
+    font-size: 8px;
+}
+.oo{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+.foot{
+    background-color: #343A40;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}

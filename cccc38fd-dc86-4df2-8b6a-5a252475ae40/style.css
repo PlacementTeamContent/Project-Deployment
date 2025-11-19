@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.main{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/new+year.jpg");
+    text-align: center;
+    background-size:cover;
+    height:50vh;
+    width:100vw;
+    color:#ffffff;
+}
+.h{
+    font-size:20px;
+}
+.b{
+    background-color:#17A2B8;
+    color:#ffffff;
+    border-width:1px;
+    border-color:#17A2B8;
+    border-radius:2px;
+}
+.card{
+    background-color:#2C3E50;
+    width:100vw;
+    padding:20px;
+    text-align: center;
+    color:#ffffff;
+}
+.box{
+    background-color:#FFFFFF;
+    border-radius:5px;
+    padding:10px;
+    margin:10px;
+}
+.i1{
+    color:#28A745;
+}
+.i2{
+    color:#007BFF;
+}
+.i3{
+    color:#DC3545;
+}
+.b1{
+    color:#28A745;
+    border-radius:2px;
+    border-width:1px;
+    border-color:#28A745;
+    background-color:#FFFFFF;
+}
+.b2{
+    color:#17A2B8;
+    border-radius:2px;
+    border-width:1px;
+    border-color:#17A2B8;
+    background-color:#FFFFFF;
+}
+.b3{
+    color:#DC3545;
+    border-radius:2px;
+    border-width:1px;
+    border-color:#DC3545;
+    background-color:#FFFFFF;
+}
+.bh{
+    color:#000000;
+    
+}
+.bp{
+    color:#818281;
+}
+.h6{
+    background-color:#242A40;
+    height:50px;
+}

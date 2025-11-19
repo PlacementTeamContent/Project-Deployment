@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#item1 {
+    color: white;
+    font-family: Roboto;
+}
+
+#item2 {
+
+    color: white;
+    font-family: Roboto
+}
+
+#item3 {
+
+    color: white;
+    font-family: Roboto
+}
+
+.text {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+
+}
+
+.text1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.page {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/imagenew.jpeg');
+    background-size: cover;
+    width: 100%;
+    height: 55vw;
+}
+
+.page1 {
+    background-color: #FF6B6B;
+    height: 65vh;
+}
+
+.bottom {
+    text-align: center;
+    background-color: #FF6B6B;
+    background-size: cover;
+}
+
+.button {
+    color: white;
+    font-family: 'Roboto';
+    background-color: #FF6B6B;
+    border: 0px;
+    height: 35px;
+    width: 150px;
+    text-align: center;
+
+}

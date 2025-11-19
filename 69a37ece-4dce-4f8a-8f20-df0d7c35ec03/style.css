@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.ma {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/trdseawsertdrs.jpg');
+    background-size: cover;
+
+}
+
+.f {
+    font-weight: bold;
+}
+
+.majid {
+    color: #ffffff;
+    text-align: center;
+    padding: 100px;
+}
+
+.button {
+    background-color: #28A745;
+    color: #ffffff;
+}
+
+.last {
+    background-color: #28A745;
+    background-size: cover;
+}
+
+.moon {
+    background-color: #ffffff;
+    margin: 20px;
+}
+
+.moonb {
+    color: #007Bff;
+    border-color: #007Bff;
+}
+.basketb{
+    color: #ffc107;
+    border-color: #ffc107;
+}
+.Basket {
+    background-color: #ffffff;
+    margin: 20px;
+}
+.heartb{
+    
+}
+.con{
+    padding: 25px;
+}

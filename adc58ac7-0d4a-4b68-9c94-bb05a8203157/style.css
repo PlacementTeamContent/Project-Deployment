@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg');
+    height: 100vh;
+    background-size: cover;
+    color: white;
+}
+
+.container2 {
+    background-color: #7fdbda;
+    padding: 15px;
+}
+
+.bi {
+    color: orange;
+}
+
+.bi1 {
+    color: green;
+}
+
+.bi2 {
+    color: red;
+}
+
+.main-head {
+    font-size: 25px;
+}
+
+.button1 {
+    background-color: white;
+    color: green;
+    border-color: green;
+    padding: 5px;
+    margin: 15px;
+}
+
+.button2 {
+    background-color: white;
+    color: red;
+    border-color: red;
+    padding: 5px;
+    margin: 15px;
+}
+
+.button3 {
+    background-color: white;
+    color: orange;
+    border-color: orange;
+    padding: 5px;
+    margin: 15px;
+}
+
+.head1 {
+    font-size: 20px;
+}
+
+.button {
+    background-color: #007bff;
+    padding: 5px;
+    border-width: 0px;
+    color: white;
+}
+
+.card1 {
+    background-color: white;
+    width: 35vh;
+    text-align: center;
+    border-radius: 7px;
+    margin: 10px;
+}

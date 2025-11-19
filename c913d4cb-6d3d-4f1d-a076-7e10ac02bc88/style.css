@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.img1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg");
+    width: 1280px;
+    height: 70vh;
+    background-size: cover;
+}
+
+.tt {
+    color: #ffffff;
+    text-align: center;
+}
+
+.card {
+    background-color: #7FDBDA;
+    height: 50vh;
+    width: 1280px;
+    text-align: center;
+    padding: 30px;
+}
+
+.card1 {
+    background-color: #FFFFFF;
+    height: 180px;
+    width: 350px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 50px;
+    
+}
+.hh{
+    font-size: 20px;
+    
+    color: #000000;
+    padding: 5px;
+}
+.pp{
+    font-size: 10px;
+   
+    padding: 5px;
+    color: #818281;
+}
+.last2{
+    padding: 30px;
+}
+.c{
+    color: #818281;
+}
+.box{
+    background-color: #007BFF;
+    width: 1280px;
+    height:40px;
+    border-color: white;
+    color: white;
+    font-family: "Roboto";
+}

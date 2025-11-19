@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayaka.jpg");
+    height: 600px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 220px;
+}
+
+.head {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.para {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.btn {
+    background-color: #FFC107;
+}
+
+.card {
+    background-color: #FFF0CE;
+    background-size: cover;
+    text-align: center;
+}
+
+.card-container {
+    text-align: center;
+    background-color: #ffffff;
+    height: 150px;
+    
+}
+
+.cont-1 {
+    background-color: white;
+    color: #28a745;
+}
+
+.bi {
+    color: #28a745;
+}
+
+.venue {
+    text-align: center;
+    background-color: #FFF0CE;
+}
+
+.cont-2 {
+    background-color: #ffffff;
+    color: #007bff;
+}
+
+.cont-3 {
+    background-color: #ffffff;
+    color: #dc3545;
+}
+.footer{
+    background-color:#fc8c14 ;
+    text-align: center;
+    color: white;
+}
+.navbar{
+    background-color:#fc8c14 ;
+}

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.ss{
+    background-color: #FFC107;
+}
+.ee{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pexels-suvan-chowdhury-37305-1580085.jpg');
+    background-size: cover;
+    height:700px;
+}
+.jj{
+    color:white;
+     text-align: center;
+     padding:300px;
+}
+.ll{
+    color:white;
+    text-align: center;
+    
+}
+
+.uu{
+    background-color:#FBDB93 ;
+    background-size: cover;
+    height:2000px;
+}
+.high{
+    text-align: center;
+    color:black;
+}
+.mg{
+    background-color: white;
+    padding:50px;
+    margin:250px;
+}
+.btn1{
+    background-color: white;
+    color:#17A2B8;
+    text-align: center;
+}
+.btn2{
+    color:#dc3545;
+    text-align: center;
+}
+.btn3{
+    color:#28a745;
+}
+.ss{
+    
+}

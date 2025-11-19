@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.home-cont{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayaka.jpg');
+    background-size: cover;
+    text-align: center;
+    height: 80vh;
+    width: 100vw;
+}
+.home-bun{
+    width: 250px;
+}
+.info-cont{
+    background-color: #FFF0CE;
+    background-size: cover;
+    text-align: center;
+    height: 50vh;
+    width: 100vw;
+}
+.sub-cont{
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 15px;
+}
+.home-sm-cont{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayagar.jpg');
+    background-size: cover;
+    text-align: center;
+    height: 80vh;
+    width: 100vw;
+}

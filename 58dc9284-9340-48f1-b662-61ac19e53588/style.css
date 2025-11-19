@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/trdseawsertdrs.jpg");
+    height: 50vh;
+    background-size: cover;
+}
+
+.main2 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/image+(3).jpeg");
+    height: 50vh;
+    background-size: cover;
+}
+
+.info {
+    padding: 20px;
+}
+
+.head {
+    color: #ffffff;
+}
+
+.para {
+    color: #ffffff;
+}
+
+.box1 {
+    text-align: center;
+    background-color: #ffffff;
+    height: 180px;
+    width: 240px;
+    border-radius: 10px;
+}
+
+.green {
+    height: 50vh;
+    background-color: #28A745;
+    background-size: cover;
+}
+
+.but {
+    width: 200px;
+    border-radius: 10px;
+    border-width: opx;
+    color: #ffffff;
+    background-color: #28A745;
+    border-color: #28A745;
+}

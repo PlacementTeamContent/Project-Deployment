@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.but1 {
+    color: green;
+    background-color: transparent;
+    border-style: solid;
+    border-color: green;
+    padding: 10px;
+}
+
+.but2 {
+    color: orange;
+    background-color: transparent;
+    border-style: solid;
+    border-color: orange;
+    padding: 10px;
+}
+
+.but3 {
+    color: red;
+    background-color: transparent;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
+
+.re {
+    text-align: center;
+    background-color: white;
+    margin: 15px;
+}
+
+.man {
+    width: 1280px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.para {
+    color: white;
+
+}
+
+.button {
+    color: white;
+    border-width: 0px;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.harsh {
+    background-color: #CBEAED;
+    text-align: center;
+    padding: 10px;
+}
+
+.man {
+    color: #000000;
+    font-family: Roboto;
+}
+.w{
+    text-align: center;
+}
+.d{
+    color: white;
+    font-family: Roboto;
+    background-color: #28A745;
+}
+.main {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/illustration-pongal-holiday-background-with-space-text_91314-448.jpg");
+    height: 70vh;
+    background-size: cover;
+    width: 1280px;
+    text-align: center;
+    padding: 150px;
+}
+
+.head {
+    color: white;
+}
+
+/*Write your CSS code below and don't modify anything above*/

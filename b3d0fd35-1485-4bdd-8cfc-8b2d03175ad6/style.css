@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.navbar-nav {
+    color: #ffffff;
+
+}
+
+.page1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/illustration-pongal-holiday-background-with-space-text_91314-448.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 1280px;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.text {
+    padding: 100px;
+}
+
+.but {
+    color: #ffffff;
+}
+.page2{
+    padding: 0px;
+    background-color: #CBEAED;
+    background-size: cover;
+    height: 100vh;
+    width: 1280px;
+    text-align: center;
+}
+.head2{
+    margin: 30px;
+}
+.card{
+    margin: 40px;
+}
+.but2{ 
+    color: #28A745;
+    border-style: solid;
+    border-color: #28A745;
+    background-color: #ffffff;
+        width: 150px;
+    height: 30px;
+}
+.but3{ 
+    width: 150px;
+    height: 30px;
+    color: #FFC107;
+    border-style: solid;
+    border-color: #FFC107;
+    background-color: #ffffff;
+}
+.but4{ 
+    color: #dc3545;
+    border-style: solid;
+    border-color: #dc3545;
+    background-color: #ffffff;
+        width: 150px;
+    height: 30px;
+}
+.page3{
+    text-align: center;
+    background-color: #28A745;
+}
+.head5{
+    color: #ffffff;
+}
+/*Write your CSS code below and don't modify anything above*/

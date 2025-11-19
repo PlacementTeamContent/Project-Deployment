@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav-back {
+    background-color: #fc8c14;
+}
+
+.first-container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayaka.jpg');
+    height: 60vh;
+    background-size: cover;
+}
+
+.second-container {
+    background-color: #FFF0CE;
+    height: 60vh;
+}
+
+.inside-container {
+    background-color: #FFFFFF;
+    height: 20vh;
+    padding: 10px;
+    width: 30vw;
+    border-radius: 5px;
+}
+
+.color {
+    color: #ffffff;
+}
+
+.button-class {
+    background-color: #FFC107;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.view-recipe-btn {
+    padding: 10px;
+    color: #28a745;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: #28a745;
+}
+
+.See-events-btn {
+    padding: 10px;
+    color: #007bff;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: #007bff;
+}
+
+.Learn-more-btn {
+    padding: 10px;
+    color: #dc3545;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: #dc3545;
+}
+
+.bg-size {
+    padding: 18px;
+
+}
+
+.svg-1-color{
+    color: #28a745;
+}
+
+.svg-2-color{
+    color: #007bff;
+}
+
+.svg-3-color{
+    color: #dc3545;
+}
+
+@media screen & (min-width<=576){
+    .first-container{
+        background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayagar.jpg");
+    }
+}

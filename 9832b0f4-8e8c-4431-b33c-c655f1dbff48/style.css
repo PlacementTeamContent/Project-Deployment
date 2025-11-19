@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bgimage{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/new+year.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.hh{
+    color: #ffffff;
+}
+.p1{
+    text-align: center;
+    padding: 300px;
+    
+}
+.r1{
+    background-color:#2C3E50 ;
+    height: 500px;
+    background-size: cover;
+    text-align: center;
+    padding: 55px;
+    color: #ffffff;
+    
+}
+.bg1{
+    background-color: #FFFFFF;
+    color: #000000;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.last1{
+    text-align: center;
+    color: #ffffff;
+}
+.last2{
+    background-color: #343A40;
+    height: 50px;
+    padding: 10px;
+}

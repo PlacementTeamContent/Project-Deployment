@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color: #2C3E50;
+    
+}
+.mainback{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/new+year.jpg");
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+.head{
+    color: white;
+}
+.para{
+    color: #818281;
+}
+.bton{
+     border-radius: 5px;
+     border-width: 0px;
+     background-color: #17a2B8;
+     border-style: none;
+     height: 50px;
+     width: 150px;
+     color: white;
+}
+.back2{
+    background-color: #2C3E50;
+    text-align: center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    padding: 20px;
+}
+.card{
+    background-color: #FFFFFF;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 40px;
+    
+}
+.cardhead{
+    color: #000000;
+    font-size: 30px;
+}
+.cardpara{
+    color: #818281;
+}
+.cardbtn{
+    width: 150px;
+   
+}
+.last{
+    background-color: #343a40;
+    color: #FFFFFF;
+    text-align: center;
+    height: 40px;
+}
+.nav2{
+   color: white;
+}
+@media all and (max-width:768px){
+    .mainback{
+        background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/3c3f1d8a563bf60087f0e9dc6029b79c.jpg");
+        background-size: cover;
+        height: 100vh;
+    }
+}

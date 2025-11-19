@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.navbar {
+    background-color: #818281;
+}
+
+.container {
+    text-align: center;
+}
+
+.first {
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/trdseawsertdrs.jpg');
+    height: 1080px;
+    width: 1920px;
+    padding: 500px;
+}
+
+.btn {
+    background-color: #28A745;
+}
+
+.second {
+    background-color: #28A745;
+    color: white;
+    text-align: center;
+    height: 300px;
+    width: 1920px;
+}
+
+.end {
+    text-align: center;
+}
+
+.btn-three {
+    color: #007BFF;
+    background-color: #FFFFFF;
+}
+
+.btn-one {
+    color: #FFC107;
+    background-color: #FFFFFF;
+}
+
+.btn-two {
+    color: #dc3545;
+    background-color: #FFFFFF;
+}
+
+.row {
+    text-align: center;
+}
+
+.end {
+    text-align: center;
+}

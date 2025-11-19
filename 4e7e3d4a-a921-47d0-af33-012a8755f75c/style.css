@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+#bgnav {
+    background-color: #FFC107;
+}
+
+.block2 {
+    background-image: url(https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pexels-suvan-chowdhury-37305-1580085.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+
+    text-align: center;
+}
+
+.button {
+    color: #000000;
+    background-color: #FFC107;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+}
+
+.block3 {
+    background-color: #FBDB93;
+    background-size: cover;
+    width: 100vw;
+    height: 83vh;
+    color: #000000;
+    text-align: center;
+}
+
+.card1 {
+    text-align: center;
+    background-color: #ffffff;
+    height: 35vh;
+    width: 30vw;
+    padding: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.cardbutton {
+    background-color: transparent;
+    color: #17A2B8;
+    border-color: #17A2B8;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #FFC107;
+    text-align: center;
+    width: 100vw;
+    height: 10vh;
+
+}
+
+/*Write your CSS code below and don't modify anything above*/

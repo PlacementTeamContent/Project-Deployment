@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.conatiner {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/81u981umz8n129n381yy89y1829.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+
+}
+
+.para {
+    color: white;
+}
+
+.btn {
+    color: white;
+
+}
+
+.container-fluid {
+    background-color: #007BFF;
+}
+
+.card {
+    background-color: #7FDBDA;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.head2 {
+    text-align: center;
+    color: black;
+}
+
+.card1 {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    padding-left: 50px;
+}

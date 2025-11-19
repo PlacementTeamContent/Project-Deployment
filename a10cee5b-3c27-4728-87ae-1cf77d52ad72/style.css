@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main_back{
+    background-color:#CBEAED;
+    padding:10px;
+}
+.division{
+    background-color:white;
+    border-radius:20px;
+    padding:20px;
+    text-align: center;
+    margin:10px;
+}
+.head_2{
+    font-size:20px;
+    font-weight:bold;
+}
+.para{
+    font-size:10px;
+}
+.butt{
+    color:#dc3545;
+    border-color: #dc3545;
+    background-color:white;
+}
+.abc{
+    color:#dc3545;
+}
+.butt_2{
+    color:#28a745;
+    border-color: #28a745;
+    background-color:white;
+}
+.def{
+    color:#28a745;
+}
+.butt_3{
+    color:#FFC107;
+    border-color: #FFC107;
+    background-color:white;
+}
+.ghi{
+    color:#FFC107;
+}
+.back_3{
+    background-color:#28a745;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+.division_2{
+    text-align:center;
+    padding:20px;
+}
+.navi{
+    background-color:#28a745;
+}
+.back_main{
+    background-image:url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/image+(1).jpeg');
+    background-size:cover;
+    height:100vh;
+    text-align:center;
+    color:white;
+    padding:10px;
+}
+.main_head{
+    font-size:30px;
+    font-weight:bold;
+}
+.butt_main{
+    color:white;
+    background-color:#28a745;
+}
+.head_3{
+    font-size:30px;
+    text-align:center;
+}

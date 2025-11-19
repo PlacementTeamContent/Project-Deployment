@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.second-block{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pexels-suvan-chowdhury-37305-1580085.jpg");
+    height:50vh;
+    width:80vh;
+     background-size:cover;
+     color:white;
+     text-align: center;
+}
+.third-block{
+    background-color: #FBDB93;
+    height:550px;
+}
+.heading2{
+    text-align:center;
+}
+.btn-warning{
+    width:px;
+}
+.fourth-block{
+    background-color: white;
+    height:300px;
+    width:340px

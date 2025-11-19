@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.div {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/vinayaka.jpg');
+    height: 720px;
+    width: 1280px;
+}
+
+.nav {
+    background-color: #fc8c14;
+    width: 1280px;
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.p {
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    background-color: #FFC107;
+    height: 50px;
+    width: 180px;
+}
+
+.text {
+    text-align: center;
+}
+.div3{
+    background-color: #FFF0CE;
+    
+    width:1280px;
+}
+.h3{
+ 
+    text-align: center;
+}
+.h2{
+   text-align: center;
+   padding:20px;
+}
+.div5{
+    background-color: white;
+    padding:20px;
+    margin:20px;
+    border-radius:10px;
+}
+.img{
+    color:#28a745;
+    text-align: center;
+}
+.btn2{
+color:#28a745;    
+background-color: white;
+border-color:#28a745;
+}
+.p4{
+    color:white;
+    background-color: #fc8c14;
+}
+
+/*Write your CSS code below and don't modify anything above*/

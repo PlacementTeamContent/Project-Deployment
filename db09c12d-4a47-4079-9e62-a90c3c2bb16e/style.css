@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container {
+    height: 185vh;
+    width: 100vw;
+}
+
+.navbar {
+    height: 15vh;
+    width: 100vw;
+    background-color: #dc3545;
+}
+
+.mainpage {
+    height: 30vh;
+    width: 150vw;
+    padding: 10px;
+    background-size: cover;
+    color: white;
+    font-family: "Roboto";
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/dusear+1.jpg");
+}
+
+.button {
+    color: white;
+    border: 3px;
+    width: 30px;
+    background-color: #dc3545;
+    border-style: solid;
+}
+
+.subcard {
+    height: 8vh;
+    width: 40px;
+    background-color: #FFFFFF;
+    padding: 5px;
+    color: #000000;
+}
+
+.card1 {
+    font-family: "Roboto";
+    height: 40vh;
+    width: 100vw;
+    background-color: #F08787;
+    padding: 5px;
+}

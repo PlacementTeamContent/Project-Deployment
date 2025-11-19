@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.box1{
+    color:#ffffff ;
+    
+}
+.box2{
+    background-image:url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/new+year.jpg') ;
+    background-size: cover;
+    height: 50vh;
+    color: #ffffff;
+    text-align: center;
+}
+.btn{
+    border-radius: 10px;
+    
+}
+.box3{
+        background-color: #2C3E50;
+        padding: 30px;
+
+}
+.h{
+    text-align: center;
+    color: #ffffff !important;
+    padding: 10px;
+}
+.imgg{
+    text-align: center;
+}
+.boxr{
+        background-color: #ffffff;
+padding: 30px;
+margin: 19px;
+border-radius: 13px;
+    text-align: center;
+
+
+}
+.btn1{
+    border-color:#28A745 ;
+    color:#28A745 ;
+}c
+.btn2{
+    
+    border-color:#007BFF ;
+    color:#007BFF ;
+
+}
+.btn3{
+    
+    border-color:#DC3545 ;
+    color:#DC3545 ;
+
+}
+
+.tr{
+    color: white ;
+}
+p{
+    color: #818281;
+}
+.lbox{
+    background-color: #343A40;
+    text-align: center;
+    padding: 3px;
+    color: #ffffff;
+}

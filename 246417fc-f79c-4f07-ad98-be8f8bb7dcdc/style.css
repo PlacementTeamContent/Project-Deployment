@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.im1{
+    color: #FFFFFF;
+}
+.b3{
+    background-color: #2C3E50;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 30px;
+}
+.hh{
+    font-size: 25px;
+}
+.pp{
+    color: #818281;
+}
+.ca1{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    margin: 40px;
+}
+.nn{
+    color: #28A745;
+    height: 50px;
+}
+.n2{
+    color: #007BFF;
+    height: 50px;
+}
+.n3{
+    color: #DC3545;
+    height: 50px;
+}
+.las{
+    background-color: #343A40;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+.hi{
+    text-align: center;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/new+year.jpg');
+    height: 90vh;
+    width: 1280px;
+    background-size: cover;
+    color: #FFFFFF;
+}

@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.navbarc {
+    background-color: #007BFF;
+
+}
+
+.img-c {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/image+(2).jpeg");
+    background-size: cover;
+    width: 100vh;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-h {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.img-p {
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.img-button {
+    color: #ffffff;
+    background-color: #007BFF;
+    border-radius: 6px;
+    border-width: 0px;
+}
+
+.footer-c {
+    background-color: #7FDBDA;
+    height: 250vh;
+    width: 150vh;
+    text-align: center;
+}
+
+@media (min-width:1200px) {
+    .card-c {
+        display: flex;
+    }
+}
+
+.footer-h {
+    color: #000000;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.card-c {
+    text-align: center;
+}
+
+.card {
+    background-color: #ffffff;
+    width: 40vh;
+    margin: 20px;
+    height: 45vh;
+    text-align: center;
+    border-radius: 8px;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.color {
+    color: #28a745;
+    text-align: center;
+}
+
+.color2 {
+    color: #dc3545;
+}
+
+.color3 {
+    color: #FFC107;
+}
+
+.footer-para {
+    color: #818281;
+    font-family: Roboto;
+}
+
+.footer-but1 {
+    color: #28a745;
+    border: 2px solid #28a745;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.footer-but2 {
+    color: #dc3545;
+    border: 2px solid #dc3545;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.footer-but3 {
+    color: #FFC107;
+    border: 2px solid #FFC107;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button-last {
+    color: #ffffff;
+    background-color: #007BFF;
+    border-radius: 5px;
+    border-width: 0px;
+    width: 70vh;
+}
