@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.bg-img {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg");
+    width: 900px;
+    height: 300px;
+}
+
+.heading1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.para1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.btn {
+    text-align: center;
+}
+.new-img{
+    height:150px;
+    width:150px;
+}
+.heading2{
+    font-family: "Caveat";
+    color:#FF0000;
+    text-align: center;
+}
+.container3{
+    background-color: #FFDE63;
+    height:300px;
+    width:600px;
+.div1{
+    background-color:#FFFFFF ;
+
+}
+.container2{
+    background-color:#FFF0CE;
+    text-align: center;
+    
+}

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.navcolor {
+    color: white;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.back {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: 400px;
+    width: 100vw;
+    padding: 120px;
+}
+
+.text {
+    font-family: "Caveat";
+}
+
+.button {
+    background-color: #6fe6fc;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.back1 {
+    background-color: #a8f1ff;
+    padding: 30px;
+    text-align: center;
+}
+
+.back2 {
+    background-color: #6fe6fc;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+}
+
+.image {
+    height: 200px;
+    width: 250px;
+}
+
+.card1 {
+    background-color: white;
+    padding: 5px;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.center {
+    margin-right: 100px;
+}
+.image1{
+    height: 200px;
+}
+.back3{
+    background-color: #a8f1ff;
+    padding: 20px;
+}
+.button2{
+    background-color: white;
+    border-radius: 5px;
+}
+.card4{
+    margin: 20px;
+}
+.back4{
+    background-color: #6fe6fc;
+    height: 300px;
+    padding: 100px;
+    text-align: center;
+}

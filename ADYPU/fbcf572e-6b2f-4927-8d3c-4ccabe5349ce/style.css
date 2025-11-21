@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+h1,h2,h3{
+    font-family:Ceveat;
+}
+.navbar-nav{
+    color:white;
+    position:fixed;
+}
+.bg{
+    color:white;
+}
+.nav-link{
+    color:white;
+}
+/*Write your CSS code below and don't modify anything above*/
+.container{
+    background-color: #343A40;
+    display:flex;
+    flex-direction:row;
+    height:10%;
+    width:100%;
+    color:white;
+    justify-content: space-between;
+    padding-top:5px;
+}
+
+.nav{
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+}
+
+.cont{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg");
+    background-size: cover;
+    padding-top:70px;
+    padding-bottom:70px;
+    text-align:center;
+    height: 300px;
+    width:100%;
+    color:white;
+}
+.contain{
+    background-color: #A8F1FF;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+    
+}
+
+.container-4{
+    height:320px;
+    width:300px;
+    background-color: white;
+    text-align: center;
+    margin-left:70px;
+
+    
+}
+.img{
+    height:170px;
+    width:280px;
+    margin:auto;
+    margin-top:10px;
+}
+
+.container-3{
+    background-color: #6FE6FC;
+    height:450px;
+    width:100%;
+    text-align: center;
+    padding-top:30px;
+    
+    
+    
+    
+}
+.container-6{
+    display:flex;
+    flex-direction:row;
+    margin:auto;
+    
+}
+
+.container-9{
+    background-color: #A8F1FF;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:50px;
+    display:flex;
+    flex-direction:row;
+}
+.imgs{
+    height:280px;
+    width:450px;
+    margin-right:50px;
+}
+
+.container-10{
+    background-color: #6FE6FC;
+    height:400px;
+    width:100%;
+    text-align: center;
+    padding-top:150px;
+    padding-bottom:150px;
+    
+    
+    
+    
+    
+}
+.foo{
+    text-align:center;
+    color:white;
+    background-color:#343A40 ;
+    padding-top:5px;
+    padding-bottom:5px;
+}

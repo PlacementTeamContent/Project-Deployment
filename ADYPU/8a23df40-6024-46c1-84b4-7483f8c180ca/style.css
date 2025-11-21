@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+.navbar {
+    background-color: #343A40;
+}
+.tfc-head {
+    font-family: "Caveat";
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-image: cover;
+    height: 258px;
+    text-align: center;
+}
+
+.btn1 {
+    border-width: 0;
+    border-radius: 5px;
+    background-color: #0ec930;
+    color: white;
+}
+
+.our-story {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    text-align: center;
+    background-color: #9BFAA9;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.header1 {
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.NNA {
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.container {
+    justify-content: left;
+    flex-direction: column;
+    background-color: #52FA6C;
+    
+}
+
+img {
+    height: 180px;
+}
+
+.con-btn {
+    
+}
+
+.men {
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.container2 {
+    justify-content: end;
+    background-color: #9BFAA9;
+}
+
+.btn2 {
+    color: black;
+    background-color: white;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.container3 {
+    text-align: center;
+    background-color: #52FA6C;
+}
+
+.ender {
+    background-color: #343A40;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+/*Write your CSS code below and don't modify anything above*/

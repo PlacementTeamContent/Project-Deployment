@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar {
+    color: white;
+    background-color: #343A40;
+}
+
+.heading {
+
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg");
+}
+
+.head-text {
+    font-family: "Caveat";
+    text-align: center;
+    padding: 10px;
+    font-weight: normal;
+    color: white;
+
+}
+
+.para {
+    font-family: "Roboto";
+    text-align: center;
+    padding: 10px;
+    font-weight: normal;
+    color: white;
+
+
+}
+
+.button {
+    text-align: center;
+    width: 190px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.yellow {
+    text-align: center;
+    background-color: #FFF0CE;
+}
+
+.todays {
+    background-color: #FFDE63;
+    color: red;
+    text-align: center;
+    font-family: "caveat";
+}
+
+.photo-1 {
+    background-color: white;
+    margin: 5px;
+    text-align: center;
+    padding: 50px;
+    height: 350px;
+    width: 300px;
+
+}
+
+.dark {
+    background-color: #FFDE63;
+    color: red;
+    text-align: center;
+    font-family: "caveat";
+}
+
+.back {
+    padding: 10px;
+    margin: 10px;
+    background-color: #FFF0CE;
+}
+
+.button-1 {
+    padding: 10px;
+    color: red;
+    border-color: red;
+    background-color: white;
+}

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.background_nav {
+    background-color: #343A40;
+}
+
+.card {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg');
+    height: 100%;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.p {
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 8px;
+}
+
+.button {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #DC143C;
+    color: #ffffff;
+    border-radius: 6px;
+    border-width: 0px;
+}
+
+.card_2 {
+    background-color: #F08787;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.h2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.card_big {
+    background-color: #F75270;
+    height: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card_menu {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.view_more {
+    color: #DC143C;
+}

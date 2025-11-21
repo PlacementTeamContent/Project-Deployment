@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bgr{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg");
+    background-size: cover;
+    height: 480px;
+    width: 1200px;
+}
+.h{
+    font-family: "Caveat";
+    color: #FFFFFF; 
+}
+.p{
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.b{
+    width:150px;
+    
+}
+.bg2{
+    background-color: #F08787;
+    background-size: cover;
+    width: 1200px;
+    height: 300px;
+}
+.pa{
+    padding: 15px;
+}
+.bg3{
+   background-color: #F75270; 
+   background-size: cover;
+    width: 1200px;
+    height: 400px;
+}
+.t{
+    text-align: center;
+}
+.mar{
+    margin: 30px;
+    background-color: #FFFFFF;
+    background-size: cover;
+    width: 275px;
+    height: 250px;
+}
+.c{
+    height: 150px;
+    width: 270px;
+    padding: 10px;
+}
+.fo{
+    font-size: 15px;
+}
+.tp{
+    font-weight: bold;
+}
+.cl{
+    color: #DC143C;
+}
+.nn{
+    height: 250px;
+    width:350px;
+    margin:30px;
+}

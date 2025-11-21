@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.container-fluid{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+body{
+   font-family: "Roboto", "Caveat";
+}
+.maindiv{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pizza.jpeg");
+    height: 250px;
+    width: 1200px;
+    text-align: center;
+    color: white;
+}
+.pizza-heading{
+    font-style:Caveat;
+}
+.purplebutton{
+    background-color: #9112BC;
+    color: white;
+}
+.seconddiv{
+    background-color: #E9B3FB;
+    text-align: center;
+    height: 250px;
+}
+.ourstory{
+    font-family: Caveat;
+    
+}
+.signature{
+    font-family: Caveat;
+}
+.thirddiv{
+    background-color:#9112BC ;
+    height: 500px;
+    text-align: center;
+}
+.secondimg{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Pepperoni-pizza.jpg");
+    height: 200px;
+    
+}
+.thirdimg{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/veg-pizza.png");
+    height: 200px;
+    border-color: white;
+}
+.fourthdiv{
+    background-color: #E9B3FB;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

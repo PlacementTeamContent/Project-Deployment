@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.bg-container{
+    font-family: Roboto;
+}
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.nav-link{
+    color: white;
+}
+
+.first{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg');
+    background-size: cover;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-family: Caveat;
+}
+.f-btn{
+    background-color: #DC143C;
+    border: none;
+    color: white;
+    font-family: Roboto;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.second{
+    background-color: #f08787;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+.s-h1{
+    font-family: Caveat;
+    color: white;
+}
+.s-p3{
+    color: white;
+    font-family: Caveat;
+    font-size: 20px;
+}
+
+.third{
+    background-color: #f75270;
+    text-align: center;
+    padding: 20px;
+}
+.t-h1{
+    color: white;
+    font-family: Caveat;
+}
+.t-cards{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;;
+}
+.card1{
+    background-color: white;
+    padding: 5px;
+}
+.img{
+    height: 150px;
+    background-size: cover;
+}
+.c-btn{
+    color: #f75270;
+}
+.fourth{
+    background-color: #f08787;
+    padding: 20px;
+    text-align: center;
+}
+
+.f-h1{
+    color: white;
+    font-family: Caveat;
+}
+.four-btn{
+    color: black;
+    background-color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+@media(min-width:768px), (all){
+    .fourth{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+    }
+}
+
+.fifth{
+    background-color: #f75270;
+    height: 20vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fifth-h1{
+    color: white;
+    font-family: Caveat;
+}
+.fifth-btn{
+    background-color: white;
+    font-family: Roboto;
+    border: none;
+    padding: 5px;
+    border-radius: 4px;
+}
+.footer{
+    text-align: center;
+}
+.footer-p{
+    color: white;
+}

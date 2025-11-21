@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.d1 {
+
+    color: white;
+    background-image: cover;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/buger+image.jpg')
+}
+
+.d2 {
+    background-color: #ffbc4c;
+}
+
+.d3 {
+
+    background-color: #faa533;
+}
+
+.h1 {
+    font-family: Caveat;
+    text-align: center;
+
+}
+
+.p1 {
+    font-family: Roboto;
+    text-align: center;
+
+}
+
+.p2 {
+    font-family: Roboto;
+    text-align: center;
+
+}
+
+.p4 {
+    text-align: center;
+
+}
+
+.p3 {
+    text-align: center;
+    font-family: Caveat;
+
+}
+
+.b1 {
+    background-color: #f97a00;
+    color: white;
+    border-radius: 5px;
+}
+
+.i1 {
+    width: 250px;
+    height: 150px;
+}
+
+.d4 {
+    background-color: #ffbc4c;
+    text-align: center;
+}
+
+.d5 {
+    background-color: #faa533;
+    text-align: center;
+}
+
+.b2 {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.d0 {
+    background-color: #343a40;
+}
+
+.d6 {
+    
+    background-color: #343a40;
+}
+.p7{
+    color: white;
+    text-align: center;
+}
+/*Write your CSS code below and don't modify anything above*/

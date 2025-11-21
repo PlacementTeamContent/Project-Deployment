@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container-fluid {
+    background-color: #343A40;
+    border:#343A40;
+    color: #FFFFFF;
+   
+}
+
+
+.navbar-brand {
+    color: #FFFFFF;
+}
+
+.a {
+    color: white;
+    background-color: #343A40;
+    border: #343A40;
+}
+
+.containera {
+    padding: 65px;
+    background-size: cover;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg");
+    text-align: center;
+    color: white;
+    height: 30vh;
+}
+
+.b {
+    background-color: #6FE6FC;
+    border: #6FE6FC;
+    color: white;
+}
+.containerb{
+    background-color:#A8F1FF;
+    text-align: center;
+}
+.containerc{
+    text-align: center;
+    background-color: #6FE6FC;
+}
+.containerc1{
+    height:10vh;
+    width:10vw;
+    text-align: left;}
+.containerc2{
+    height:10vh;
+    width:10vw;
+    text-align: center;
+    background-color: white;
+}
+.containerc3{
+    height:10vh;
+    width:10vw;
+    text-align: right;
+}
+.m{height:10vh;
+width: 10vw;}
+.containerd{
+    background-color: #4ED7F1;
+}

@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.back {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg");
+    background-size: cover;
+    height: 450px;
+    width: 100vw;
+}
+
+.text2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    color: #FFFFFF;
+    font-family: "Caveat";
+}
+
+.para {
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+
+.btn1 {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-family: "Roboto";
+
+}
+
+.back2 {
+    background-color: #FFF0CE;
+    height: 300px;
+    width: 100vw;
+}
+
+.head2 {
+    color: #FF0000;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.para2 {
+    color: #000000;
+    font-family: "Roboto";
+}
+
+.text1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.back3 {
+    background-color: #FFDE63;
+    height: 460px;
+    width: 100vw;
+}
+
+.head3 {
+    color: #FF0000;
+    font-family: "Caveat";
+    font-weight: bold;
+    text-align: center;
+}
+
+.back4 {
+    background-color: white;
+    border: 50px;
+    height: 330px;
+    width: 280px;
+    margin: 30px;
+}
+
+.img {
+    height: 180px;
+    width: 280px;
+}
+
+.cent {
+    text-align: center;
+}
+
+.col {
+    color: #FF0000;
+}
+
+.vena {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.back5 {
+    background-color: #FFF0CE;
+    height: 300px;
+    width: 100vw;
+    padding: 50px;
+}
+
+.head5 {
+    color: #FF0000;
+    font-family: "Caveat";
+    font-weight: bold;
+
+}
+
+.pa {
+    margin: 30px;
+}
+
+.btn5 {
+    color: #FF0000;
+    background-color: #FFFFFF;
+    border-color: #FF0000;
+}
+
+.back6 {
+    background-color: #FFDE63;
+    height: 420px;
+    width: 100vw;
+}
+
+.rang {
+    color: #FF0000;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.paraki {
+    color: grey;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.btn7 {
+    color: white;
+    background-color: #FF0000;
+    border-width: 0px;
+}
+
+.lastki {
+    background-color: #343a40;
+    height: 60px;
+    width: 100vw;
+}
+
+.pki {
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.madhya {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#nav-ki{
+    color: white;
+}

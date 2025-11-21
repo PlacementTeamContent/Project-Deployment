@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.head {
+    height: 40vh;
+    text-align: center;
+    color: white;
+    background-image: url(https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg);
+    background-size: cover;
+}
+
+.bt1 {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 5px solid red;
+
+}
+
+.hed1 {
+    font-family: "Caveat";
+    padding-top: 100px;
+}
+
+.div2 {
+    height: 30vh;
+    background-color: #FFF0CE;
+    align-content: center;
+    padding-left: 80px;
+}
+
+.ho1 {
+    font-family: "Caveat";
+    color: red;
+    padding-left: 40vw;
+}
+
+.card1 {
+    height: 350px;
+    width: 340px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    ;
+
+}
+
+.div3 {
+    height: 50vh;
+    background-color: #FFDE63;
+    align-items: center;
+}
+
+.cardimg1 {
+    height: 200px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.head2 {
+    padding-left: 40vw;
+}
+
+.div4 {
+    height: 35vh;
+    background-color: #FFF0CE;
+    align-items: center;
+}
+
+.ima2 {
+    padding-right: 100px;
+}
+
+.bt2 {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+}
+.div20{
+    height:20vh;
+    align-items: center;
+    background-color:#FFDE63 ;
+}
+.HB2{
+    color:red;
+    font-size:30px;
+    font-family:"Caveat";
+}
+.btn5{
+    background-color: red;
+    color:white;
+    border:2px solid red;
+}
+
+/*Write your CSS code below and don't modify anything above*/

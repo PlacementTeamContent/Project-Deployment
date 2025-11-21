@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.bg-container{
+    /* height: 100vh; */
+    font-family: "Roboto";
+}
+
+.nav-link{
+    color: #FFFFFF!important;
+}
+
+.top-container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/biryani+images.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+
+.top-heading{
+    font-family: "Caveat";
+    font-style: italic;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.top-para{
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.top-but{
+    background-color: #A31D1D;
+    border-radius: 5px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 4px;
+}
+
+.story-container{
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px;
+    background-color: #A94A4A;
+    height: 300px;
+}
+
+.story-heading{
+    font-style: italic;
+    font-family: "Caveat";
+    /* font-size: 15px; */
+}
+
+.story-para{
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.para{
+    font-family: "Caveat";
+    font-size: 15px;
+}
+
+.menu-container{
+    background-color: #A31D1D;
+    padding: 15px;
+    text-align: center;
+}
+
+.menu-heading{
+    font-family: "Caveat";
+    font-style: italic;
+}
+
+.card{
+    padding: 5px;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+.card-heading{
+    font-weight: 700;
+    color: #000000;
+}
+
+.card-para{
+    color: #343A40;
+    font-size: 15px;
+}
+
+.view-more{
+    color: #A31D1D;
+    font-size: 15px;
+}
+
+.card-img{
+    height: 100px;
+    background-size: cover;
+}
+
+.offer-container{
+    background-color: #A94A4A;
+    padding: 15px;
+    color: #FFFFFF;
+}
+
+.offer-heading{
+    font-family: "Caveat";
+    font-style: italic;
+}
+
+.offer-para{
+    font-size: 15px;
+}
+
+.offer-but{
+    background-color: #FFFFFF;
+    color: #A94A4A;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.offer-img{
+    height: 100px;
+    background-size: cover;
+}
+
+.book-container{
+    background-color: #A31D1D;
+    text-align: center;
+    padding: 20px;
+}
+
+.book-heading{
+    font-family: "Caveat";
+    margin-top: 10px;
+}
+
+.book-para{
+    font-size: 15px;
+}
+
+.book-but{
+    background-color: #FFFFFF;
+    color: #A31D1D;
+}
+
+.footer{
+    background-color: #343A40;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 15px;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container-fluid {
+    background-color: #343A40;
+    text-decoration-color: #FFFFFF;
+}
+
+.avbar-nav {
+    background-color: #343A40;
+    text-decoration-color: #FFFFFF;
+}
+
+.img {
+    height: 240px;
+    width: 1000px;
+}
+
+.head {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Caveat;
+}
+
+.hea {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Roboto;
+}
+
+.card {
+    background-color: #FFBC4C;
+    padding: 100px;
+    border: 100px;
+}
+
+.h{
+    text-align: center;
+    font-family: Caveat;
+}
+.p{
+    
+}
+.card1 d-flex{
+    height: 20px;
+    justify-content: flex-end;
+}
+.h2{
+   font-family: Caveat;
+   text-align: right;
+   background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/burger+discount.jpg');
+}

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+    background-size: cover;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav-text {
+    color: white;
+}
+
+.nav-size {
+    height: 30px;
+    width: 100%;
+}
+
+.kfc-image {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.second-div {
+    background-color: #9BFAA9;
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.third-div {
+    text-align: center;
+    background-color: #52FA6C;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.card-div {
+    background-color: white;
+
+}
+
+.img {
+    width: 100%;
+    height: 70px;
+
+}
+
+.card1 {
+    background-color: white;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+}
+
+.fourth-div {
+    text-align: center;
+    background-color: #9BFAA9;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding: 70px;
+}
+
+.fifth-div {
+    background-color: #52FA6C;
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.sixth-div {
+    text-align: center;
+    padding: 20px;
+}

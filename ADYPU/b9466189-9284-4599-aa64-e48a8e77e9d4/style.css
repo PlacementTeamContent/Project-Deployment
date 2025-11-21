@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.bg-container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/biryani+images.jpg');
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+}
+
+.intro {
+    text-align: center;
+    color: #ffffff;
+    padding: 80px;
+}
+
+.intro-head {
+    text-align: center;
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.intro-para {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.intro-btn {
+    border-radius: 8px;
+    background-color: #a31d1d;
+    color: #ffffff;
+}
+
+.bg-container-2 {
+    background-color: #a94a4a;
+    background-size: cover;
+    height: 35vh;
+    width: 100vw;
+
+}
+
+p1 {
+    font-family: "Caveat";
+}
+
+.bg-container-3 {
+    background-color: #a31d1d;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.card {
+    background-color: #ffffff;
+    height: 40vh;
+    text-align: center;
+}
+
+.image {
+    height: 300px;
+    margin: 10px;
+}
+
+.card-head {
+    color: #000000;
+    font-weight: bold;
+}
+
+.card-para {
+    color: #a31d1d;
+    font-size: 20px;
+}
+
+.bg-footer {
+    background-color: #000000;
+    height: 5vh;
+    width: 100vw;
+}
+
+.footer-head {
+    color: #ffffff;
+    text-align: center;
+}

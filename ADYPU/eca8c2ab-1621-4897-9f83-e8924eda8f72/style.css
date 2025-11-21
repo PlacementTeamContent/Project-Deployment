@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#color-nav {
+    color: #FFFFFF;
+}
+.start {
+    color: #FFFFFF;
+}
+.image-container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    height: 60vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btner {
+    background-color: #0ec930;
+    color: white;
+}
+.image-content {
+    color: #FFFFFF;
+}
+.heading1 {
+    font-family: Caveat;
+    
+    
+}
+h4 {
+    font-family: Caveat;
+}
+.para1 {
+    font-family: Roboto;
+}
+.heading4 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card1 {
+    background-color: #9BFAA9;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.card2 {
+    background-color: #0ec930;
+    height: 45vh;
+    text-align: center;
+
+
+}
+
+.box {
+    background-color: #FFFFFF;
+    height: 350px;
+    width: 28%;
+}
+
+.img {
+    width: 95%;
+    padding-top: 10px;
+}
+
+.img-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card3 {
+    background-color: #9BFAA9;
+    display: flex;
+    justify-content: center;
+}
+
+.img1 {
+    height: 250px;
+    width: 35%;
+    padding: 10px 0px 10px 0px;
+    margin-right: 30px;
+}
+.card4 {
+    background-color: #52FA6C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+.footer {
+    background-color: #343A40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+}
+.para {
+    padding: 25px 0px 0px 0px;
+}
+.discount-content {
+    align-self: center;
+}
+.heading5 {
+    color: #000000;
+    font-weight: bold;
+    font-family: Caveat;
+}
+.heading6 {
+    color: #000000;
+    font-weight: bold;
+    font-family: Caveat;
+}
+.heading2 {
+    color: #000000;
+    font-weight: bold;
+    font-family: Caveat;
+}
+span {
+    color: #0ec930;
+}

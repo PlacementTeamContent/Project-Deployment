@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-image{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg');
+    height: 350px;
+    background-size: cover;
+}
+.h1{
+    font-family: "Caveat";
+    color: #FFFFFF;
+    text-align: center;
+}
+.p1{
+    color: #FFFFFF;
+    font-family: "Roboto";
+    text-align: center;
+}
+.btn1{
+    color: #FFFFFF;
+    height: 50px;
+    width: 150px;
+    background-color: #6FE6FC;
+}
+.con1{
+    padding-top: 100px;
+}
+.con2{
+    background-color: #A8F1FF;
+    height: 250px;
+    text-align: center;
+}
+.heading{
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.card{
+    background-color: #FFFFFF;
+    height: 500px;
+    width: 350px;
+    text-align: center;
+}
+.img1{
+    height: 250px;
+    padding: 10px;
+}
+.h6{
+    font-family: "Caveat";
+    font-weight: bold;
+    text-align: center;
+}
+.h7{
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.a{
+    color: #6FE6FC;
+}
+.back{
+    background-color: #6FE6FC;
+    height: 600px;
+}
+.con3{
+    margin-top: 20px;
+}
+.img0{
+  height: 250px;
+  width: 350px;
+}
+.dft{
+    background-color: #A8F1FF;
+}
