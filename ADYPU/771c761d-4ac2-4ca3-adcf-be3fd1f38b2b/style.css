@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.body {
+
+    height: 360px;
+    text-align: center;
+}
+
+.a {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/buger+image.jpg");
+    height: 40px;
+
+}
+
+.Caveat {
+    color: #FFFFFF;
+    font-family: "Caveat";
+}
+
+.Roboto {
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+
+.b {
+    background-color: #FFBC4C;
+    height: 40vh;
+}
+
+.z {}
+
+.c {
+    background-color: #FAA533;
+    height: 40vh;
+}
+
+.d {
+    background-color: #FFBC4C;
+    height: 40vh;
+}
+
+.e {
+    background-color: #FAA533;
+    height: 40vh;
+}
+
+.av {
+    color: black;
+}

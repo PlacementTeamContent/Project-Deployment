@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.top {
+    text-align: center;
+    color: white;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/buger+image.jpg");
+    font-family: Caveat;
+    background-size: 100vh;
+}
+.second-bg{
+    color: black;
+    text-align: center;
+    background-color: #ffbc4c;
+}
+.mo{
+    font-family: "Caveat";
+}
+.top2{
+    font-family: "Caveat";
+}
+.open{
+    background-color: #f97A00;
+    font-family: "Caveat";
+}

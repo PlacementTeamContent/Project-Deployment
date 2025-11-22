@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/biryani+images.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 50vh;
+    color: white;
+    text-align: center;
+
+}
+
+.h11 {
+    font-family: "Caveat";
+}
+
+.p11 {
+    font-family: "Roboto";
+}
+
+.b11 {
+    background-color: #A31D1D;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.main2 {
+    background-color: #A94A4A;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+.h22 {
+    font-family: "Caveat";
+}
+
+.p22 {
+    font-family: "Caveat";
+}
+
+.main3 {
+    background-color: #A31D1D;
+    text-align: center;
+}
+
+.card1 {
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+
+}
+.vv{
+    background-color: transparent;
+    border: 0px;
+    color: white;
+}
+
+.img11 {
+    height: 15vh;
+    margin: 4px;
+    width: 20vw;
+}
+
+.mainn {
+    background-color: #A94A4A;
+    padding: 10px;
+}
+
+.img22 {
+    height: 30vh;
+    width: 40vw;
+    margin: 5px;
+}
+
+.h33 {
+    font-family: "Caveat";
+    color: white;
+   
+}
+.pp{
+    padding-top: 60px;
+    padding-left: 40px;
+}
+
+.b33 {
+    color: #A31D1D;
+    border: 0px;
+    border-radius: 4px;
+}
+
+.main4 {
+    background-color: #A31D1D;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+.h55 {
+    color: white;
+    font-family: "Caveat";
+}
+
+.fot {
+    background-color: #343A40;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.h111{
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+.gt{
+    background-color: white;
+    border: 0px;
+    color: #A31D1D;
+}

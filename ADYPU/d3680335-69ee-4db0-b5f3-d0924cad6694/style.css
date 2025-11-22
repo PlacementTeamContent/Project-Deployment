@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.nav-link{
+    color: white;
+}
+.main{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/buger+image.jpg");
+    background-size:cover;
+    height:35vh;
+    color:white;
+    text-align: center;
+}
+.head1{
+    font-family: "Caveat";
+    font-size: 30px;
+}
+.para1{
+    font-family: "Roboto";
+    font-size:10px;
+}
+.main2{
+    background-color: #FFBC4C;
+    text-align: center;
+}
+.main3{
+    background-color: #F97A00;
+    background-size: cover;
+    text-align: center;
+    padding: 10px;
+}
+.card1{
+    background-color: white;
+    background-size: cover;
+    text-align: center;
+    padding: 3px;
+}
+.img{
+    width:100px;
+}
+.head2{
+    font-size: 10px;
+    font-weight: bold;
+}
+.para3{
+    font-size: 8px;
+    color:#F97A00;
+}
+.main4{
+    background-color: #FFBC4C;
+    background-size: cover;
+    padding: 20PX;
+}
+.img2{
+    height: 20vh;
+    width: 30vw;
+}
+.card2{
+    margin-left: 20px;
+}
+.btn{
+    background-color: white;
+    
+}
+.main5{
+    background-color: #faa533;
+    background-size: cover;
+    text-align: center;
+}

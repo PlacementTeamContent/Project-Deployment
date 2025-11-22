@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.nav-bg12 {
+    background-color: #343A40;
+}
+
+.navColor1 {
+    color: #FFFFFF;
+}
+
+.bgbg {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/biryani+images.jpg");
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+}
+
+.heading {
+    padding-top: 20px;
+    color: #FFFFFF;
+    font-family: "Caveat";
+    font-size: 28px;
+}
+
+.para {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.button {
+    color: #FFFFFF;
+    background-color: #A31D1D;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-radius: 5px;
+    border-width: 0px;
+    padding-left: 10px;
+}
+
+.bgbg2 {
+    background-color: #A94A4A;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+}
+
+.heading2 {
+    padding-top: 20px;
+    color: #FFFFFF;
+    font-family: "Caveat";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.heading22 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+    font-size: 18px;
+}
+
+.para2 {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.bgbg25 {
+    background-color: #A31D1D;
+    background-size: cover;
+    padding: 10px;
+}
+
+.heading225 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #FFFFFF;
+    width: 30vw;
+    padding: 2px;
+    text-align: center;
+    margin: 10px;
+}
+
+.aroow {
+    padding-top: 8px;
+}
+
+.heading258 {
+    color: #000000;
+    padding-top: 10px;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.para258 {
+    color: #343A40;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.anchor258 {
+    color: #A31D1D;
+}
+
+.image14 {
+    width: 80%;
+}
+
+.bgbg147 {
+    background-color: #A94A4A;
+    background-size: cover;
+    padding: 10px;
+}

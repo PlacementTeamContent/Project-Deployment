@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+.container-fluid{
+    background-color: #343A40;
+}
+.xyz{
+    text-align: center;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg');
+    color:#FFFFFF;
+    padding: 35px;
+    
+}
+.w{
+    font-family: Caveat;
+}
+.k{
+    background-color: #4ED7F1;
+    border-width: 0px;
+    color: #FFFFFF;
+    height: 35px;
+   width: 150px;
+   border-radius: 3px;
+}
+.abc{
+    text-align: center;
+    background-color: #A8F1FF;
+    padding: 35px;
+    
+}
+.t{
+    font-family: Caveat;
+}
+.p{
+    font-family: Roboto;
+}
+.ee{
+    margin:10px;
+}
+.q{
+    text-align: center;
+    font-family: Caveat;
+    
+}
+.rrr{
+    background-color: #4ED7F1;
+    
+}

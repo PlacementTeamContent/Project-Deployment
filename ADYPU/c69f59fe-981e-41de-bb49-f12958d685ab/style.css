@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.pg1-bg {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tiffin+bg+image.jpg");
+    background-size: cover;
+    height: 60vh;
+
+}
+
+.pg1-btn {
+    background-color: #EB5B00;
+}
+
+.pg1-h {
+    color: #FFFFFF;
+    font-family: 'Caveat';
+    font-size: 50px;
+    text-align: center;
+}
+
+.pg1-p {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 25px;
+    text-align: center;
+}
+
+.pg1-btn-align {
+    text-align: center;
+}
+
+.pg1-text-align {
+    margin: auto;
+}
+
+.button {
+    width: 150px;
+}
+
+@media (max-width:360px) {
+    .pg1-h {
+        color: #FFFFFF;
+        font-family: 'Caveat';
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .pg1-p {
+        color: #FFFFFF;
+        font-family: 'Roboto';
+        font-size: 15px;
+        text-align: center;
+    }
+}
+
+.pg2-bg {
+    background-color: #FFDE63;
+    height: 45vh;
+}
+
+.pg2-p {
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 15px;
+    text-align: center;
+}
+
+.pg2-p1 {
+    color: #000000;
+    font-family: 'Caveat';
+    font-size: 20px;
+    text-align: center;
+}
+
+.pg2-h {
+    color: #000000;
+    font-family: 'Caveat';
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+}
+
+
+
+
+
+
+.pg3-bg {
+    background-color: #FFBC4C;
+    height: 70vh;
+    border: 1px solid #FFBC4C;
+
+
+}
+
+
+.pg3-h {
+    color: #000000;
+    font-family: 'Caveat';
+    font-size: 47px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 20px;
+}
+
+
+
+.card1 {
+    height: 350px;
+    width: 350px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+
+
+
+
+}
+
+.pg3-img {
+    width: 330px;
+    height: 200px;
+    align-self: center;
+    margin-top: 10px;
+}
+
+.pg3-hc {
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 25px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.pg3-pc {
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 20px;
+    text-align: center;
+    font-weight: normal;
+}
+
+
+.pg4-bg {
+    background-color: #FFDE63;
+    height: 70vh;
+    border: 2px solid #FFDE63;
+}
+
+.pg4-h {
+    color: #000000;
+    font-family: 'Caveat';
+    font-size: 50px;
+    /* text-align: center; */
+    font-weight: normal;
+}
+
+.pg4-p {
+    color: #000000;
+    font-family: 'Caveat';
+    font-size: 20px;
+    /* text-align: center; */
+    font-weight: normal;
+}
+
+.button-pg4 {
+    background-color: #FFFFFF;
+    width: 120px;
+    height: 40px;
+    color: #000000;
+    font-family: "Roboto";
+    border-width: 0px;
+}
+
+.pg5-bg {
+    background-color: #FFBC4C;
+    height: 40vh;
+
+}
+
+.pg5-h {
+    color: #000000;
+    font-weight: 900;
+    font-family: 'Caveat';
+    font-size: 50px;
+    text-align: center;
+}
+
+.pg5-p {
+    color: #000000;
+    font-weight: normal;
+    font-family: 'Roboto';
+    font-size: 20px;
+    text-align: center;
+}

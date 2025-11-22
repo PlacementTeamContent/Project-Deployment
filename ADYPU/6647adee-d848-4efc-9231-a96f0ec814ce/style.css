@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.banner{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 150px;
+}
+.story{
+    background-color: #fff0ce;
+    text-align: center;
+    padding: 70px;
+}
+.menu{
+    text-align: center;
+    background-color: #ffde63;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.cards{
+    gap: 60px;
+}
+.card{
+    padding: 10px;;
+}
+.discount{
+    padding: 60px;
+    background-color: #fff0ce;
+}
+.content{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.booking{
+    background-color: #ffde63;
+}
+.book-content{
+    text-align: center;
+    margin: 80px;
+}
+.footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #343a40;
+    color: white;
+}
+.red{
+    color: #ff0000;
+}
+.white{
+    color: #ffffff;
+}
+.roboto{
+    font-family: 'roboto';
+}
+.caveat{
+    font-family: 'caveat';
+}
+.bold{
+    font-weight: bold;
+}
+.btns{
+    background-color: #ff0000;
+}
+.order-now{
+    background-color: #ffffff;
+}

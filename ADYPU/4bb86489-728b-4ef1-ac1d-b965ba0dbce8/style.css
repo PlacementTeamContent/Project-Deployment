@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav{
+    color: #ffffff;
+}
+svg{
+    color:white;
+}
+.mid_section{
+
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tiffin+bg+image.jpg") ;
+    background-size:cover;
+    padding: 20px;
+    text-align: center;
+    height: 25vh;
+}
+.main_heading{
+    font-family: "Caveat";
+    color:#ffffff;
+}
+.paragraph{
+    color:#ffffff;
+    font-family: "Roboto";
+}
+.custom_button{
+    background-color: #eb5b00;
+    color:#ffffff;
+    border-width: 0px;
+    border-radius: 7px;
+    width: 12vw;
+    height: 30px;
+}
+.story_section{
+    background-color: #ffde63;
+    background-size:cover;
+    text-align: center;
+    padding: 20px;
+}
+.head1{
+    color:#000000;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.para1{
+    color:#000000;
+    font-family: "Roboto";
+}
+.paras{
+    color:#000000;
+    font-family: "Caveat";
+}
+.menu_section{
+    background-color: #ffbc4c;
+    background-size: cover;
+    
+}
+.image{
+    height: 20vh;
+    width: 28vw;
+    padding: 10px;
+}
+.page{
+    padding: 20px;
+    text-align: center;
+    
+    
+}
+.card{
+    height: 36vh;
+    width: 30vw;
+    text-align: center;
+    margin: 20px;
+}
+.head2{
+    font-family: "Roboto";
+    color:#000000;
+    font-weight: bold;
+    font-size: 30px;
+}
+.menu{
+    color:#ffde63;
+}
+.heading{
+    color:#000000;
+    text-align: center;
+    font-family: "Caveat";
+    font-weight:bold ;
+}
+.page2{
+    background-color: #ffde63;
+    background-size:cover;
+    padding: 20px;
+    
+}
+.image2{
+    height: 20vh;
+    width: 30vw;
+}
+.head3{
+    color:#000000;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.para3{
+    font-family: "Roboto";
+}
+.btn1{
+    border-width: 0px;
+    border-radius: 7px;
+    background-color: #ffffff;
+}
+.page3{
+    background-color: #ffbc4c;
+    background-size: cover;
+    text-align: center;
+}
+.heads{
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.bottom_section{
+    background-color: #343a40;
+    background-size:cover;
+    text-align: center;
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size:15px;
+    height: 40px;
+    padding: 10px;
+}

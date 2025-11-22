@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.A {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    background-size:cover ;
+}
+
+.name2 {
+    font-family: caveat;
+}
+
+.button1 {
+    background-color: #A31D1D;
+    color: #ffffff;
+}
+
+.B {
+    background-color: #A94A4A;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    background-size:cover ;
+}
+
+.name3 {
+    font-family: caveat;
+}
+
+.name1 {
+    font-family: caveat;
+}
+
+.C {
+    background-color: #A31D1D;
+    color: #ffffff;
+    padding: 30px;
+    border-color: #ffffff;
+    background-size:cover;
+}
+
+.name4 {
+    font-family: caveat;
+}
+
+.D {
+    background-color: #A94A4A;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+.name5 {
+    font-family: caveat;
+}
+
+.button2 {
+    padding: 2px;
+}
+
+.E {
+    background-color: #A31D1D;
+    color: #ffffff;
+    text-align: center;
+    padding:20px;
+    background-size:cover ;
+    height:100px;
+}
+
+.name6 {
+    font-family: Caveat;
+    
+}

@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.kk{
+    background-color:#343A40;
+}
+/*Write your CSS code below and don't modify anything above*/
+.k1{
+    font-family:Caveat;
+    color:#FFFFFF;
+}
+
+.bg-c{
+    text-align:center;
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg") ;
+}
+.b{
+    background-color:#0ec930;
+    color:#FFFFFF;
+}
+.bg2{
+ color:#343A40;  
+ font-family: Caveat;
+}
+.bg2p{
+    color:#343A40;
+    font-family:Roboto;
+    font-size:10px;
+}
+.bg2p1{
+      color:#343A40;
+    font-family: Roboto;
+}
+.bg2p1{
+    color:#343A40;
+     font-family: Caveat;
+}
+.bg-2{
+    background-color:#9BFAA9;
+    text-align: center;
+}
+.bg-3{
+  text-align: center;
+  background-color:#52FA6C ;
+}
+.bg-3h{color:#343A40;  
+ font-family: Caveat;
+    
+}
+.bg3i{
+    background-color: #FFFFFF;
+    height:100;
+    width:300px;
+    margin:20px;
+}
+.img{
+    height:100px;
+    width:100px;
+   
+}
+.bg3h{
+      color:#343A40;
+     font-family:Roboto;
+     font-size:15px;
+     font-weight: bold;
+}
+.bg3bu{
+   background-color:#FFFFFF; 
+   border-radius: 0px;
+   color:#52FA6C;
+
+}
+.bg4{
+    background-color: #9BFAA9;
+    background-size: cover;
+}
+.img1{
+     height:500px;
+    width:700px;
+    
+}

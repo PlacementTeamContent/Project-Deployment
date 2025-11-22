@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#homeSection {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pizza.jpeg");
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 35px;
+}
+
+.btn1 {
+    background-color: #9112BC;
+    color: white;
+
+}
+
+#aboutSection {
+    text-align: center;
+    color: #000000;
+    background-color: #E9B3FB;
+}
+
+.text1 {
+
+    font-family: "Caveat";
+}
+
+#menuSection {
+    text-align: center;
+    color: #000000;
+    background-color: #AE75DA;
+}
+
+.con1 {
+    background-color: white;
+    padding: 8px;
+    color: #000000;
+    background-size: cover;
+}
+.img1{
+    width: 100px;
+}

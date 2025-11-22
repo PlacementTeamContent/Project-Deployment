@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.navbar1 {
+    color: white;
+}
+
+.back1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/buger+image.jpg');
+    background-size: cover;
+    height: 500px;
+}
+
+.back2 {
+    background-color: #FFBC4C;
+    background-size: cover;
+    height: 250px;
+}
+.back23 {
+    background-color: #FFBC4C;
+    background-size: cover;
+    height: 350px;
+}
+
+.back3 {
+    background-color: #FAA533;
+    background-size: cover;
+    height: 450px;
+}
+
+.back4 {
+    background-color: white;
+    background-size: cover;
+    height: 350px;
+    width: 500px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+.img1 {
+    height: 200px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+.img2 {
+    height: 300px;
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+}
+
+.head1 {
+    font-family: 'Caveat';
+    color: white;
+    text-align: center;
+}
+
+.head2 {
+    font-family: 'Caveat';
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
+}
+
+.head3 {
+    font-family: 'Roboto';
+    color: #000000;
+    text-align: center;
+}
+
+.text1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 8px;
+
+}
+
+.text2 {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.text3 {
+    font-size: 15px;
+    text-align: center;
+    color: #FAA533;
+
+}
+
+.textf {
+    text-align: center;
+}
+
+.back32 {
+    background-color: #FAA533;
+    background-size: cover;
+    height: 300px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.x {
+    color: #FFFFFF;
+}
+
+.img1 {
+    width: 100vw;
+    height: 30vh;
+    background-size: cover;
+}
+
+.backgroundimg1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 15px;
+
+}
+
+.para1 {
+    color: #FFFFFF;
+    size: 20px;
+    font-family: "Caveat";
+
+}
+
+.para2 {
+    color: #FFFFFF;
+    size: 10px;
+}
+
+.btn {
+    background-color: #DC143C;
+    border-width: 0px;
+    color: #FFFFFF;
+}
+
+.bg2 {
+    background-color: #F08787;
+    width: 100vw;
+    height: 100vh;
+    /* padding: 15px; */
+    text-align: center;
+
+}
+
+.head1 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+    text-align: center;
+
+}
+
+.head2 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+}
+
+.bg3 {
+    background-color: #F75270;
+    height: 40vh;
+    width: 100vw;
+}
+
+.bg4 {
+    background-color: #FFFFFF;
+    height: 33vh;
+    width: 40vw;
+}
+
+.img3 {
+    height: 20vh;
+    width: 38vw;
+    margin: 5px;
+}
+
+.hh1 {
+    color: #000000;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.pp1 {
+    font-size: 10px;
+}
+
+.bb1 {
+    background-color: transparent;
+    border-width: 0px;
+    color: #F75;
+    size: 10px;
+}
+
+.xx {
+    height: 30vh;
+    width: 60vw;
+    margin: 15px;
+}
+
+.yy {
+    background-color: #F08787;
+    width: 100vw;
+    height: 100vh;
+}

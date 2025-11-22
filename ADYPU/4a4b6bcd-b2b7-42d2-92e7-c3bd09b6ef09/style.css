@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.bg {
+    height: 1280px;
+    width: 1280px;
+}
+
+.container2 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg");
+    height: 400px;
+    width: 1280px;
+    background-size: cover;
+}
+
+.text {
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    padding: 100px;
+    font-family: "Caveat";
+}
+
+.con {
+    background-color: #FFF0CE;
+    width: 1280px;
+    height: 200px;
+}
+
+.text3 {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+h4 {
+    color: red;
+    font-style: italic;
+    font-family: "Caveat";
+    text-align: center;
+}
+
+h5 {
+    color: red;
+    font-size: 10px;
+}
+
+.con3 {
+    background-color: #FFDE63;
+    height: 300px;
+    width: 1280;
+}
+
+.tab {
+    background-color: white;
+    height: 220px;
+    width: 200px;
+    padding: 10px;
+    margin: 30px;
+}
+
+.img {
+    height: 110px;
+    width: 190px;
+}
+
+.size {
+    text-align: center;
+}
+
+.con4 {
+    height: 300px;
+    width: 1280;
+    background-color: #FFF0CE;
+}
+
+.img2 {
+    height: 220px;
+    width: 500px;
+    margin: 20px;
+}
+
+.con5 {
+    background-color: #FFDE63;
+    height: 100px;
+    width: 1280px;
+}
+
+.text4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #FF0000;
+    color: white;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

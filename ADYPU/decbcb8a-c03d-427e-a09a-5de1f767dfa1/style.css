@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+.nav-text{
+    color: white;
+}
+
+.bg-image{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pizza.jpeg');
+    background-size: cover;
+    height: 40vh;
+}
+
+.text{
+    color: white;
+    text-align: center;
+}
+
+.hed{
+    font-family: Caveat;
+}
+
+.btn{
+    background-color: #9112BC;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+}
+
+.bg-color{
+    background-color: #E9B3FB;
+    height: 100vh;
+    text-align: center;
+}
+
+.m{
+    
+}
+
+.bg{
+    background-color: #AE75DA;
+    height: 40vh;
+}
+
+.btn_bg{
+    background-color: white;
+    border-width: 0px;
+    color: #9112BC;
+}
+
+.card{
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    
+}

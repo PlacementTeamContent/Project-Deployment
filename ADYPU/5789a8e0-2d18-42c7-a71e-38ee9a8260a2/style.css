@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.card1{
+   background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg");
+   background-size: cover;
+   text-align: center;
+}
+.head1{
+    color: white;
+    font-family: "Caveat";
+}
+.para1{
+    color: white;
+    font-family: "Roboto";
+}
+.button1{
+    background-color: #DC143C;
+    border: 0px;
+    color: white;
+    font-family: "Roboto";
+    text-align: center;
+}
+.card2{
+    background-color: #F08787;
+    text-align: center;
+}
+.para2{
+    color: #343A40;
+    font-family: "Roboto";
+}
+.card3{
+    background-color: #F75270;
+    text-align: center;
+}
+.image{
+    height:100px ;
+    width: 100px;
+    background-color: white;
+}
+.cards1{
+    background-color: white;
+    padding: 10px;
+   margin: 100px;
+}
+.arrow{
+    color: #DC143C;
+}
+.imagelast{
+     height:200px ;
+    width: 350px;
+}
+.ice3{
+    background-color: #F08787;
+}
+.ice2{
+    background-color: #F75270;
+    text-align: center;
+}
+.icecream{
+    background-color: #343A40;
+    color: white;
+    text-align: center;
+}
+/*Write your CSS code below and don't modify anything above*/

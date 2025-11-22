@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.c {
+    color: #FFFFFF;
+}
+
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/pizza.jpeg");
+    height: 40vh;
+    background-size: cover;
+}
+
+.bg-container-main-heading {
+    color: #FFFFFF;
+    font-family: Caveat;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+
+.bg-container-main-para {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.bg-container-button {
+    background-color: #9112BC;
+    color: #FFFFFF;
+    border: 0px;
+    font-family: "Roboto";
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+}
+
+.bg-container-2 {
+    background-color: #E9B3FB;
+    height: 30vh;
+    background-size: cover;
+}
+
+.bg-container-2-main-heading {
+    color: #000000;
+    font-family: Caveat;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+.bg-container-2-main-para {
+    color: #343A40;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.signature {
+    color: #343A40;
+    font-family: Caveat;
+    text-align: center;
+}
+
+.bg-container-3 {
+    background-color: #AE75DA;
+    height: 60vh;
+    background-size: cover;
+}
+
+.bg-container-3-main-heading {
+    text-align: center;
+    font-family: Caveat;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.card1 {
+    background-color: #FFFFFF;
+    height: 35vh;
+    width: 30vh;
+    margin: 10px;
+
+}
+
+
+.img1 {
+    padding: 10px;
+    text-align: center;
+
+}
+
+.card1-hd {
+    font-size: 22px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.price {
+    font-size: 22px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.menu {
+    color: #9112BC;
+    font-size: 22px;
+    text-align: center;
+}
+
+.bg-container-3-main-heading {
+    text-align: center;
+}

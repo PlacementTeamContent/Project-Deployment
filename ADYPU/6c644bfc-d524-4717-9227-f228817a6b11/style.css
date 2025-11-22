@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.top{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg');
+    width: 100vw;
+    height: 20vh;
+    background-size: cover;
+    text-align: center;
+}
+.bt{
+    background-color: #DC143C;
+    border-radius: 4px;
+    border-color: #DC143C;
+    border-width: 0px;
+    font-size: 10px;
+    color: white;
+}
+.head{
+    font-size: 20px;
+    font-family: Caveat;
+    font-style: italic;
+    color: white;
+}
+.para{
+    font-size: 10px;
+    color: white;
+}
+.para1{
+    font-size: 10px;
+    color: black;
+    font-family: Roboto;
+    margin: 2px;
+}
+.para2{
+    font-size: 10px;
+    font-family: Caveat;
+    color: white;
+}
+.top1{
+    background-size: cover;
+    text-align: center;
+    width: 100vw;
+    background-color: #F08787;
+}
+.top2{
+    background-size: cover;
+    text-align: center;
+    width: 100vw;
+    background-color: #F75270;
+}
+.card{
+    height: 22vh;
+    width: 25vh;
+}
+.img{
+    height: 10vh;
+    width: 25vh;
+    padding: 2px;
+}
+.hh{
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+}
+.btt{
+    border-width: 0px;
+    background-color: transparent;
+    color: #DC143C;
+}

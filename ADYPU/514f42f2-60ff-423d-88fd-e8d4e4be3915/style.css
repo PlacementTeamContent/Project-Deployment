@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.container {
+    text-align: center;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    height: 100px;
+    
+    color:white;
+}
+.head {
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.des {
+    text-align: center;
+}
+.button {
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+
+.Story {
+    text-align: center;
+    background-color:#9BFAA9;
+    
+}
+.head1 {
+    font-family: Caveat;
+    
+}
+.para1 {
+    
+}
+.name {
+    font-family: Caveat;
+    
+    
+}
+.Menuhead {
+    font-family: Caveat;
+    text-align: center;
+}

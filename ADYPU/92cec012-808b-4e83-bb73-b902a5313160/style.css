@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/biryani+images.jpg");
+    background-size: cover;
+    height: 450px;
+    padding: 200px;
+
+}
+
+.head {
+    text-align: center;
+    font-size: 51px;
+    font-family: "Caveat";
+    color: #FFFFFF;
+}
+
+.para {
+    text-align: center;
+    font-family: "Roboto";
+    color: #FFFFFF;
+    font-size: 21px;
+}
+
+.btn {
+    border-radius: 5px;
+    background-color: #A31D1D;
+    text-align: center;
+    border-width: 0px;
+    color: #FFFFFF;
+
+
+}
+
+.second {
+    background-color: #A94A4A;
+    background-size: cover;
+    height: 175px;
+}
+
+.head_2 {
+    text-align: center;
+    font-size: 21px;
+    font-family: "Caveat";
+    color: #FFFFFF;
+
+}
+
+.para_2 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-family: "Roboto";
+
+}
+
+.para_3 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-family: "Roboto";
+
+}
+
+.para_4 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-family: "Caveat";
+
+}
+
+.menue_main {
+    background-color: #A31D1D;
+    padding: 11px;
+    height: 400px;
+}
+
+.head_4 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 21px;
+    font-family: "Caveat";
+
+}
+
+.img {
+    height: 150px;
+    width: 175px;
+}
+
+.vedant {
+    background-color: #FFFFFF;
+    height: 300px;
+    width: 100px;
+
+}
+
+.head_5 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.para_5 {
+    text-align: center;
+    font-size: 21px;
+}
+
+.para_6 {
+    text-align: center;
+    color: #A31D1D;
+}
+.bg{
+    background-color: #A94A4A;
+}
+.img_2{
+    height: 200px;
+}

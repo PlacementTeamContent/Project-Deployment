@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar {
+    background-color: #343A40 !important;
+}
+
+.color {
+    color: white !important;
+}
+
+.box1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/biryani+images.jpg");
+    background-size: cover;
+    height: 470px;
+}
+
+.main-heading {
+    color: white;
+    font-family: Caveat;
+}
+
+.main-para {
+    color: white;
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: #A31D1D;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border-width: 0px;
+}
+
+.box2 {
+    text-align: center;
+}
+
+.box3 {
+    background-color: #A94A4A;
+    height: 300px;
+}
+
+.box4 {
+    text-align: center;
+    height: 250px;
+}
+
+.p1 {
+    color: white;
+    font-family: Caveat;
+}
+
+.menu-section {
+    background-color: #A31D1D;
+    padding: 20px;
+
+}
+
+.head {
+    text-align: center;
+}
+
+.img {
+    height: 230px;
+    width: 290px;
+    margin: 5px;
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.cont1 {
+    background-color: white;
+    text-align: center;
+}
+
+.btn1 {
+    background-color: transparent;
+    border: none;
+    color: #A31D1D;
+}
+
+.img2 {
+    height: 280px;
+    width: 400px;
+    margin: 10px;
+}
+
+.discountsection {
+    background-color: #A94A4A;
+    padding: 10px;
+}
+
+.btn3 {
+    color: #A31D1D;
+    background-color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.div12 {
+    text-align: center;
+}
+
+.book {
+    background-color: #A31D1D;
+    text-align: center;
+    padding: 20px;
+    height: 300px;
+}
+
+.footer {
+    background-color: #343A40;
+    text-align: center;
+    padding: 10px;
+}

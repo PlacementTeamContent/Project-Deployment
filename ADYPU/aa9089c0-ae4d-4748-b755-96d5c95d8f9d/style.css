@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+}
+
+.main-head {
+    font-family: "Caveat";
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center
+}
+
+.main-para {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #FFFFFF;
+    padding: 0px;
+    text-align: center;
+}
+
+.main-button {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #FFFFFF;
+    padding: 0px;
+    background-color: #A8F1FF;
+    border-radius: 5px;
+    text-align: center;
+    height: 20px;
+    width: 80px;
+}
+
+.bg-container1 {
+    background-color: #6FE6FC;
+    height: 150vh;
+    width: 150vw;
+    background-size: cover;
+}
+
+.bg-1 {
+    background-color: #A8F1FF;
+    height: 25vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+}
+
+.main-head2 {
+    font-family: "Caveat";
+    font-size: 30px;
+    color: #343A40;
+    font-weight: bold;
+    padding: 0px;
+    text-align: center
+}
+
+.main-para2 {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #343A40;
+    padding: 0px;
+    text-align: center;
+}
+
+.main-para22 {
+    font-family: "Caveat";
+    font-size: 10px;
+    color: #343A40;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center
+}
+
+
+.card1 {
+    background-color: #FFFFFF;
+    height: 25vh;
+    width: 25vw;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.img1 {
+    height: 15vh;
+    width: 25vw;
+}
+
+.h1 {
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    color: #343A40;
+    font-size: 10px;
+}
+
+.p1 {
+    font-family: "Roboto";
+    text-align: center;
+    color: #343A40;
+    font-size: 10px;
+}
+
+.btn {
+    background-color: white;
+    color: #6FE6FC;
+    text-align: center;
+    font-size: 10px;
+}
+
+.bg1-con {
+    padding: 10px;
+    margin: 20px;
+}
+
+.bg-container11 {
+    background-color: #A8F1FF;
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+
+}

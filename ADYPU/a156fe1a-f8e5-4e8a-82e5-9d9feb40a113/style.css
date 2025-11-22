@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    margin: 0px;
+    width: 100vw;
+    padding: 0px;
+}
+
+.navbar {
+    width: 100vw;
+    height: 100px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.container-1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    height: 500px;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+}
+
+.btn-1 {
+    background-color: #0ec930;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Caveat;
+    font-style: italic;
+}
+
+#p1 {
+    font-style: italic;
+}
+
+.container-2 {
+    background-color: #9BFAA9;
+    width: 100vw;
+    padding-top: 50px;
+    height: 300px;
+    margin: 0px;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.btn-2 {
+    color: #0ec930;
+}
+
+.img-1 {
+    background-color: #FFFFFF;
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+.container-3 {
+    margin: 0px;
+    background-color: #52FA6C;
+    padding: 20px;
+    width: 100vw;
+    text-align: center;
+}
+
+#h1 {
+    color: #000000;
+    font-size: 30px;
+    font-family: Roboto;
+}
+
+.container-4 {
+    width: 1200px;
+    margin: 0px;
+    width: 100vw;
+    background-color: #9BFAA9;
+    padding: 20px;
+}
+
+.img-2 {
+    width: 500px;
+}
+
+.div-1 {
+    
+    padding-top: 70px;
+}
+.container-5{
+    background-color: #52FA6C;
+    text-align: center;
+    width: 100vw;
+    margin: 0px;
+    padding: 100px;
+}
+.footer{
+    background-color: #343A40;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.fp{
+    background-image: url('/https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Veg+Banner+Image.jpg');
+    background-size: cover;
+    text-align: center;
+    
+    
+    
+}
+.btn{
+    background-color: #4ED7F1;
+    color: #FFFFFF;
+}
+
+.heading1{
+    font-family: "Caveat";
+    color: #FFFFFF;
+}
+.p1{
+    font-family: "Roboto";
+    
+    
+    
+}
+.fp1{
+    background-color: #A8F1FF;
+    text-align: center;
+    
+}
+.h2{
+    font-family: "Caveat";
+    
+    
+}
+.p4{
+    font-family: "Caveat";
+}
+.p3{
+    font-family: "Roboto";
+
+}
+.p2{
+    font-family: "Roboto";
+
+}
+
+.fp2{
+    background-color: #6FE6FC;
+    
+    text-align: center;
+    
+}
+.h3{
+    font-family: "Caveat";
+}
+.h4{
+    color: #000000;
+    font-family: "Roboto";
+}
+.h5{
+    color: #000000;
+    font-family: "Roboto";
+}
+.h6{
+    color: #000000;
+    font-family: "Roboto";
+}
+.h7{
+    font-family: "Caveat";
+    
+    
+}
+.fp3{
+    background-color: #A8F1FF;
+    text-align: center;
+    
+}
+.btn2{
+    background-color: #FFFFFF;
+}
+.fp4{
+    background-color: #6FE6FC;
+    text-align: center;
+    
+    
+}
+.h8{
+    font-family: "Caveat";
+    
+}
+.btn3{
+     background-color: #FFFFFF;
+     border-radius: 0px;
+}

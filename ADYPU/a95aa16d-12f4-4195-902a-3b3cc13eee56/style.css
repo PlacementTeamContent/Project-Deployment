@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.card1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/Ice+Banner+Image.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 200vh;
+    text-align: center;
+}
+
+.heading {
+    color: #FFFFFF;
+    font-family: "Caveat";
+}
+
+.para {
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+
+.btn {
+    background-color: #DC143C;
+    color: #FFFFFF;
+}
+
+.para1 {
+    color: #343A40;
+    font-family: "Roboto";
+}
+
+.para2 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+}
+
+.card2 {
+    background-color: #F08787;
+    background-size: cover;
+    text-align: center;
+}
+
+.heading1 {
+    color: #000000;
+    font-family: "Roboto";
+
+}
+
+.paragraph {
+    text-align: center;
+    color: #343A40;
+    font-family: "Roboto";
+}
+
+.arrow {
+    color: #DC143C;
+    font-family: "Roboto";
+
+
+}
+
+.card {
+    text-align: center;
+    border-color: #FFFFFF;
+}
+
+.card3 {
+    background-color: #F75270;
+}
+
+.img {
+    height: 50vh;
+    width: 50vh;
+}
+
+.bi {
+    color: #DC143C;
+}
+
+.card4 {
+    background-color: #F08787;
+}
+
+#booktablesection {
+    background-color: #F75270;
+}
+
+.btn1 {
+    background-color: #FFFFFF;
+    color: #000000;
+    border-color: #FFFFFF;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

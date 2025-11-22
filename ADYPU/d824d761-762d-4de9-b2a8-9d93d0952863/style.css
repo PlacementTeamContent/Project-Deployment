@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.nav1 {
+    color: white;
+}
+
+.btn1 {
+    background-color: #0ec930;
+    color: white;
+    Height: 30px;
+    width: 80px;
+
+}
+
+.card1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 40vh;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
+
+.h11 {
+    font-style: italic;
+    font-size: 10px;
+}
+
+.card2 {
+    text-align: center;
+    background-color: #9BFAA9;
+    height: 30vh;
+}
+
+.PP1 {
+    font-style: italic;
+}
+
+.card3 {
+    background-color: #0ec930;
+    height: 400px;
+}
+
+.img1 {
+    height: 100px;
+    width: 150px;
+}
+
+.cardinside1 {
+    border-style: solid;
+    border-color: white;
+    border-radius: 2px;
+    background-color: white;
+    padding: 10px;
+}
+
+.pgreen {
+    color: #0ec930;
+}
+.img2{
+    height:150px;
+    width:200px;
+}
+.card4{
+    background-color: #52FA6C;
+    width:600px;
+}
+.card5{
+    text-align: center;
+    background-color: #0ec930;
+    height: 200px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

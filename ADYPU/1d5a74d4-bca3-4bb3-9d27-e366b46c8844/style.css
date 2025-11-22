@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.first {
+    background-color: #343A40;
+    color: #FFFFFF;
+    text-align: center;
+    height: 50px;
+}
+
+.bg1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/buger+image.jpg');
+    height: 300px;
+    text-align: center;
+    background-size: cover;
+}
+
+.head1 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+}
+
+.para1 {
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+
+.button {
+    color: #FFFFFF;
+    background-color: #F97A00;
+    border-width: 0px;
+    border-radius: 2px;
+}
+.butto {
+    color: #FFFFFF;
+    background-color: #F97A00;
+    border-width: 0px;
+    border-radius: 2px;
+}
+
+.bg2 {
+    background-color: #FFBC4C;
+    text-align: center;
+    padding: 10px;
+}
+
+.head2 {
+    font-family: "Caveat";
+    text-align: center;
+}
+
+.para2 {
+    font-family: "Caveat";
+}
+
+.bg3 {
+    background-color: #FAA533;
+    text-align: center;
+}
+
+.cardbg {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+
+.imgx {
+    height: 200px;
+}
+
+
+
+.lastbutton {
+    border-radius: 2px;
+    border-width: 0px;
+    width: 10px;
+}
+
+.foot {
+    background-color: #343A40;
+    color: #FFFFFF;
+    text-align: center;
+    height: 50px;
+}

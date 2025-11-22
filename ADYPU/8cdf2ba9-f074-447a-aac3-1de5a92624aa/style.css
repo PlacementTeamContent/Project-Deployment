@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+    background-color: #343a40;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+
+
+.nav_txt {
+    color: #ffffff;
+}
+
+.card_img {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    height: 350px;
+    width: 1200px;
+    background-size: cover;
+
+}
+
+.txt_card-head {
+    text-align: center;
+    font-family: Caveat;
+    font-size: 40px;
+    color: white;
+    padding-top: 120px;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #0ec930;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-left: 550px;
+}
+
+.txt_card-para {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 10px;
+    color: white;
+
+}
+
+.card-green {
+    background-color: #9BFAA9;
+}
+
+.txt_green-card-head {
+    color: black;
+    font-family: Caveat;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.txt_green-card-para {
+    color: black;
+    font-family: roboto;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.txt_green-card-para-1 {
+    color: black;
+    font-family: Caveat;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+
+.card-dg {
+    background-color: #52fa6c;
+
+}
+
+.card-w {
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 10px;
+}
+
+.menu-txt {
+    color: black;
+    font-size: 25px;
+
+
+}

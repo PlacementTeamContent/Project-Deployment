@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+* {
+    font-family: "Roboto", Sans-Serif;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.navbar {
+    background-color: #343A40;
+}
+
+.top {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/food+banner+image.jpg');
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button1 {
+    width: 150px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+}
+
+.head {
+    font-family: "Caveat", Sans-Serif;
+}
+
+.section2 {
+    text-align: center;
+    padding: 50px;
+    background-color: #FFF0CE;
+}
+
+.story {
+    font-family: "Caveat", Sans-Serif;
+    color: #FF0000;
+    font-weight: bold;
+}
+
+.akash {
+    font-family: "Caveat", Sans-Serif;
+    color: #FF0000;
+}
+
+.section3 {
+    padding: 15px;
+    background-color: #FFDE63;
+}
+
+.menu {
+    font-family: "Caveat", Sans-Serif;
+    color: #FF0000;
+    font-weight: bold;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 58px;
+}
+
+.card {
+    width: 27vw;
+}
+
+.card h1 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.card a {
+    color: #FF0000;
+}
+
+.offers {
+    background-color: #FFF0CE;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.content {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.content h1 {
+    color: #FF0000;
+    font-family: "Caveat", Sans-Serif;
+    font-weight: bold;
+}
+
+.button2 {
+    background: white;
+    border: 2px solid #FF0000;
+    border-radius: 5px;
+    color: #FF0000;
+}
+
+.offers img {
+    height: 260px;
+}
+
+.book {
+    background: #FFDE63;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 65px;
+}
+
+.booktext {
+    color: #FF0000;
+    font-family: "Caveat", Sans-Serif;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 360px) {
+    .top {
+        height: 59vh;
+        display: flex;
+        padding: 50px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .top h1 {
+        font-size: 34px;
+    }
+
+    .cards {
+        flex-direction: column;
+    }
+
+    .card {
+
+        margin-bottom: 10px;
+    }
+
+    .offers {
+        flex-direction: column;
+    }
+
+}
