@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.navbar {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.middle {
+    background-color: #FAA533;
+    width: 100vw;
+    height: 40vh;
+}
+
+.btnn {
+    padding: 4px;
+}
+
+.btn {
+    margin: 4px;
+    border-style: none;
+    padding-left: 34px;
+    padding-right: 34px;
+}
+img{
+    padding: 43px;
+    padding-left: 200px;
+}
+.btn1 {
+    color: #ffffff;
+    padding-left: 34px;
+    padding-right: 34px;
+    border-radius: 8px;
+    border-color: white;
+    border-style:none;
+    border-width: 1px;
+    background-color: #ff5b5b;
+    margin: 4px;
+}
+.content2{
+    padding:10px;
+    background-color:#EF7722 ;
+    width: 100vw;
+    height: 43vh;
+}
+.card{
+    padding:10px ;
+    margin: 10px;
+    width:30vw;
+    height:24vh;
+    text-align: center;
+}
+.TaskManager{
+    width:50px;
+    height:60px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

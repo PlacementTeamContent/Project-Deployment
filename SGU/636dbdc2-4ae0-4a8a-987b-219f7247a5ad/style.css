@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.con-1 {
+    background-color: #FAA533;
+    padding: 20px;
+}
+
+#one {
+    color: #ffffff;
+}
+
+#two {
+    color: #ffffff;
+}
+
+#three {
+    color: #ffffff;
+}
+
+#for {
+    color: #ffffff;
+}
+
+.head {
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.para {
+    font-family: Roboto;
+}
+
+.but {
+    color: #ffffff;
+    background-color: #007bff;
+    border-width: 0px;
+    width: 200px;
+}
+
+.nut {
+    color: #ffffff;
+    background-color: #ff5b5b;
+    border-width: 0px;
+    width: 200px;
+}
+
+.pot {
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+}
+
+.con-2 {
+    background-color: #EF7722;
+    padding: 10px;
+}
+
+.card-container {
+    padding: 10px;
+}
+
+.page-1 {
+    background-color: #ffffff;
+    height: 180px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.imgg-1 {
+    height: 80px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.heads {
+    font-size: 20px;
+}
