@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+.c{
+    background-color: #007bf;
+    height: px;
+    width: 100vw;
+}
+
+.p{
+    font-size: 10px;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.d{
+    background-color: #FAA533;
+    height: 250px;
+    width: 100vw;
+}
+
+.h{
+    font-size: 18px;
+    padding: 5px;
+    
+}
+
+.e{
+    font-size: 15px;
+}
+.b1{
+    border-width: 0px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 10px;
+    border-radius: 3px;
+    width: 80px;
+    padding: 5px;
+}
+.b2{
+    border-width: 0px;
+    background-color: #ff5b5b;
+    color: #ffffff;
+    border-radius: 3px;
+    font-size: 10px;
+    width: 80px;
+}
+
+.i{
+    height: 100px;
+    width: 50vw;
+    padding: 10px;
+
+}
+
+.s{
+    background-color: #EF7722;
+    height: 430px;
+    width: 150vw;
+}
+
+.c1{
+    background-color: #ffffff;
+    height: 120px;
+    width: 180px;
+    border-radius: 5px;
+    
+}
+
+.i2{
+    height: 50px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.card1{
+    font-size: 15px;
+}
+.cd{
+    font-size: 15px;
+}
+/*Write your CSS code below and don't modify anything above*/

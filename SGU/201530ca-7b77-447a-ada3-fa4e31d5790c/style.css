@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#navbar11{
+    background-color: #007bff; 
+    
+}
+#navitem1{
+    color: #ffffff; 
+    font-family: Roboto;
+}
+#navitem2{
+    color: #ffffff; 
+    font-family: Roboto;
+}
+#navitem3{
+    color: #ffffff; 
+    font-family: Roboto;
+}
+#navitem4{
+    color: #ffffff; 
+    font-family: Roboto;
+}
+.bg-1{
+    background-color: #FAA533;
+    height: 50vh;
+    padding: 15px;
+}
+.text-container{
+    padding-top: 10vh;
+    font-family: Roboto;
+    color: #000000;
+    
+}
+.button1{
+    background-color: #007bff;
+    color: #ffffff;
+    border: none; 
+    width: 10vh; 
+    height: 4vh;
+    
+}
+.button2{
+    background-color: #ff5b5b;
+    color: #ffffff;
+    border: none; 
+    width: 10vh; 
+    height: 4vh;
+   
+}
+.img1{
+    height: 25vh;
+    padding-left: 5vh;
+    padding-top: 5vh;
+}
+
+.bg-2{
+    background-color:#EF7722; 
+    height: 50vh;
+  
+}
+.sub-bg{
+    background-color: #ffffff; 
+    height: 30vh; 
+    width: 40vh;
+    padding: 15px;
+    border-radius: 10px;
+    margin:15px;
+    text-align: center;
+    
+}
+.img2{
+    height: 10vh;
+    border-radius: 10px;
+    margin: 10px;
+    width: 10vh;
+}
+.text-container1{
+    font-family: Roboto;
+    color: #000000;
+}

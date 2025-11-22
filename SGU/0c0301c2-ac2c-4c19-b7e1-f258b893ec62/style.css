@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.card1{
+    background-color:#FAA533 ;
+    height:25vh ;
+    
+}
+.textmain{
+    padding-top:30px ;
+}
+.im{
+    height:25vh ;
+    width:30vh;
+    padding:20px;
+   margin-left:80px ;
+    
+    
+}
+.heading1{
+    font-size:30px ;
+   font-family: "Roboto";
+}
+.para1{
+    font-size:20px ;
+    font-family: "Roboto";
+}
+
+.card2{
+    background-color: #EF7722;
+    height:40vh ;
+}
+.box1{
+    background-color:#ffffff ;
+    width:50vh ;
+    text-align: center;
+    border-radius:10px ;
+    margin:30px ;
+}
+.im1{
+    height: 10vh;
+    width: 10vh;
+}
+.button{
+    width:20vh ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#nav-item1 {
+    color: white;
+}
+
+#nav-item2 {
+    color: white;
+}
+
+#nav-item3 {
+    color: white;
+}
+
+#nav-item4 {
+    color: white;
+}
+
+.container {
+    background-color: #FAA533;
+    background-size: cover;
+    width: 100%;
+    height: 30vh;
+}
+
+.h1 {
+    font-size: 30px;
+}
+
+.p {
+    font-size: 15px;
+}
+
+.button {
+    border-width: 0px;
+    background-color: #007bff;
+    color: #ffffff;
+    height: 30px;
+    width: 100px;
+
+}
+
+.button1 {
+    border-width: 0px;
+    background-color: #ff5b5b;
+    color: #ffffff;
+    height: 30px;
+    width: 90px;
+}
+
+.image {
+    height: 150px;
+    width: 220px;
+}
+
+.T {
+    background-color: #EF7722;
+    background-size: cover;
+    width: 100%;
+    height: 40vh;
+
+}
+
+.imag {
+
+    height: 120px;
+    width: 150px;
+}
+
+.inner {
+    background-color: #ffffff;
+
+}
+
+.p3 {
+    font-size: 15px;
+}
+
+.p4 {
+    font-size: 8px;
+}
