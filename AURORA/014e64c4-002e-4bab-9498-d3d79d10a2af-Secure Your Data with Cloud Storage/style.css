@@ -1,0 +1,70 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.header {
+    background-color: #0018f9;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 33px;
+    
+    height:40vh;
+}
+
+.asd {
+    padding: 7px;
+    
+}
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.chandu {
+    color: #000000;
+    padding: 14px;
+    font-family: Roboto;
+}
+
+.raj {
+    background-color: #333;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;
+    height:10vh;
+}
+
+.bb {
+    background-color: #0018f9;
+  border-radius: 8px;
+  border-width:1px;
+    color: #FFFFF;
+}
+
+.cc {
+    background-color: green;
+   border-radius: 8px;
+  border-width:1px;
+    color: #000000;
+}
+
+.rajmouli {
+    margin: 10px;
+    height:40vh;
+}
+
+.nn {
+border-radius: 8px;
+  border-width:1px;
+    color: #FFFFFF;
+}
+
+.mmm {
+    color: green;
+    margin:5px;
+    border-radius: 8px;
+  border-width:1px;
+
+}
+
+/*Write your CSS code below and don't modify anything above*/

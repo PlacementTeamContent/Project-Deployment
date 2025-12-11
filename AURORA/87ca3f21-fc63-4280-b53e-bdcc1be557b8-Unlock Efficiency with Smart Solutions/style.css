@@ -1,0 +1,94 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.blue{
+    background-color:#0018f9;
+    height:50vh;
+    padding:20px;
+}
+.head{
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size:40px;
+   text-align:center;
+    padding:20px;
+}
+.para1{
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size:12px;
+   text-align:center;
+    padding:5px;
+}
+.para2{
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size:15px;
+   text-align:center;
+    padding:5px;
+}
+.head3{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+    padding:15px;
+    
+}
+.para3{
+    font-family:"Roboto";
+    font-size:18px;
+   
+    padding:15px;
+}
+.grey{
+    background-color:#f4f4f4;
+   
+}
+.btn1{
+    border-radius:10px;
+    height:40px;
+    width:130px;
+    color:#FFFFFF;
+    margin:4px;
+    
+}
+.btn2{
+    border-radius:10px;
+    height:40px;
+    width:130px;
+    color:lightblue;
+    margin:4px;
+    border-color:lightblue;
+    border-width:2px;
+    border-style:solid;
+}
+.btn3{
+    border-radius:10px;
+    height:40px;
+    width:130px;
+    color:black;
+    margin:4px;
+}
+.btn4{
+    border-radius:10px;
+    height:40px;
+    width:130px;
+    color:#FFFFFF;
+    margin:4px;
+}
+.btn5{
+    color:#FFFFFF;
+    text-align:center;
+    height:70px;
+    width:1500px;
+    margin-top:25px;
+    
+    
+}

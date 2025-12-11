@@ -1,0 +1,110 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+.bg-color{
+    background-color: #0018f9;
+    height: 40vh;
+    width: 100vw;
+}
+
+.heading{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.paragraph1{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.paragraph2{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+.bg-color2{
+    background-color: #f4f4f4;
+    height: 30vh;
+    width: 100vw;
+}
+.heading2{
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 10px;
+    font-size: 35px;
+}
+
+.paragraph3{
+   font-family: "Roboto"; 
+}
+
+.button{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    padding: 6px;
+    margin: 5px;
+    border-width: 0px;
+    height: 40px;
+    width: 150px;
+}
+
+.button2{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    color: #0018f9;
+    border-color: #0018f9;
+    padding: 6px;
+    height: 40px;
+    width: 150px;
+}
+
+.button3{
+    border-radius: 7px;
+    height: 35px;
+    color: black;
+    border-width: 0px;
+    padding: 6px;
+    margin: 5px;
+    height: 40px;
+    width: 150px;
+}
+
+.button4{
+    border-radius: 7px;
+    height: 35px;
+    color: #FFFFFF;
+    border-width: 0px;
+    padding: 6px;
+    margin: 5px;
+     height: 40px;
+     width: 150px;
+}
+
+.bg-cog{
+    background-color: #333;
+    height: 4vh;
+    text-align: center;
+}
+
+.paragraph6{
+    color: #FFFFFF;
+    padding: 8px;
+    font-family: "Roboto";
+    font-size: 10px;
+}

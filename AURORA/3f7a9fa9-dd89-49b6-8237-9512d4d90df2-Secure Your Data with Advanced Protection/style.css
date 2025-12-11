@@ -1,0 +1,85 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container1{
+    background-color: #0018f9;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+    height: 40vh;
+    margin-top: 10px;
+}
+.head1{
+    color: #FFFFFF;
+    text-align: center;
+    margin: 18px;
+}
+.para1{
+    color: #FFFFFF;
+    text-align: center;
+}
+.parav{
+    margin-bottom: 18px;
+    padding-bottom: 19px;
+}
+.bg-container2{
+    background-color: #FFFFFF;
+    margin: 5px;
+    padding: 8px;
+    height: 40vh;
+}
+.head2{
+    color: #333;
+    font-weight: bold;
+}
+.para2{
+    color: gray;
+}
+.button{
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    margin: 3px;
+}
+.button1{
+    background-color: #333;
+    color: #FFFFFF;
+    padding: 8px;
+    width: 140px;
+}
+.button2{
+    background-color: #FFFFFF;
+    color: gray;
+    padding: 8px;
+    width: 140px;
+}
+.button3{
+    background-color:gray;
+    height: 40px;
+    padding: 8px;
+    width: 140px;
+}
+.button4{
+    background-color: red;
+    color: #FFFFFF;
+    
+    width: 140px;
+    height: 40px;
+}
+.bg-container3{
+    background-color: #333;
+    text-align: center;
+    padding:13px;
+    height:8vh;
+}
+.para3{
+    color: #FFFFFF;
+}

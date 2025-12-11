@@ -1,0 +1,19 @@
+/* Submission 1 */
+.container {
+    background-color: #007bff;
+
+}
+
+.h1 {
+    color: white;
+    font-size: 20px;
+}
+
+.card1 {
+    text-align: center;
+}
+
+.img1 {
+    width: 200px;
+    height: 20vh;
+}

@@ -1,0 +1,18 @@
+/* Submission 1 */
+.bg-image {
+        height: 720px;
+        width: 1280vh;
+        font-family: "Roboto";
+        font-weight: bold;
+        color: #FFFFFF;
+}
+.card {
+        background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css8.avif');
+
+    }
+
+    .p {
+        text-decoration: underline;
+        font-style: italic;
+        color: #FFFFFF;
+    }

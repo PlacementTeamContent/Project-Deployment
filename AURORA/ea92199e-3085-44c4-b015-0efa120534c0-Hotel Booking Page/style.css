@@ -1,0 +1,27 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.page{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css3.avif");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.head{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "Roboto";
+    color: black;
+}
+.para{
+    font-size: 20px;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: "Roboto";
+}

@@ -1,0 +1,38 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.iphone{
+    text-align: center;
+    background-color: lightblue;
+    background-size: cover;
+}
+.card{
+    text-align: center;
+    border-color:#0071e3;
+}
+.raw{
+    color:#007bff;
+}
+.pro{
+    background-color:#007bff ;
+}
+.chip{
+    color:#28a745;
+}
+.view{
+  background-color:#28a745 ; 
+}
+.mag{
+    color:#dc3545;
+}
+.safe{
+    background-color:#dc3545 ;
+}

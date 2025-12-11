@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bgg{
+    background-color: lightblue;
+    height: 100vh;
+    background-size: cover;
+}
+.iphone{
+    text-align: center;
+    color: #000000;
+    font-family: "Caveat";
+    padding-top: 50px;
+}
+.card1{
+    border-style: solid;
+    border-color: #0071e3;
+    border-width: 3px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 25px;
+    margin-left: 40px;
+    margin-right: 200px;
+    background-color: #f8f9fa;
+}
+.pro{
+    color: #007bff;
+}
+.learn{
+    background-color: #007bff;
+    border-width: 0px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+}
+.pro1{
+    color: #28a745;
+}
+.pro2{
+    color: #dc3545;
+}
+.learn1{
+    background-color: #28a745;
+    border-width: 0px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+}
+.learn2{
+    background-color: #dc3545;
+    border-width: 0px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+}

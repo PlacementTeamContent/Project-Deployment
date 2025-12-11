@@ -1,0 +1,34 @@
+/* Submission 1 */
+.card{
+    background-color: #f4f4f4;
+    
+}
+.main-heading{
+    font-family: "Roboto";
+    color: #FFFFFF;
+    text-align: center;
+}
+.para{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 10px;
+}
+.container{
+    background-color: #333;
+    color: black;
+}
+.btn{
+    background-color: orange;
+    color: black;
+    color: red;
+    background-color: red;
+    color: black;
+    background-color: blue;
+    color: white;
+}
+.box{
+   background-color: #0018f9;
+   color: white;
+    
+    
+}

@@ -1,0 +1,51 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-div {
+    background-color: lightblue;
+    text-align: center;
+    padding: 50px;
+    padding-left: 50px;
+    font-family: Caveat;
+}
+
+.div1 {
+    background-color: #f8f9fa;
+    border-style: solid;
+    border-color: #0071e3;
+    border-width: 5px;
+    text-align: center;
+    padding: 18px;
+    border-radius: 16px;
+}
+.h1{
+    color: #007bff;
+}
+.div2 {
+    background-color: #f8f9fa;
+    border-style: solid;
+    border-color: #0071e3;
+    border-width: 5px;
+    text-align: center;
+    padding: 18px;
+    border-radius: 16px;
+}
+.div3 {
+    background-color: #f8f9fa;
+    border-style: solid;
+    border-color: #0071e3;
+    border-width: 5px;
+    text-align: center;
+    padding: 18px;
+    border-radius: 16px;
+}

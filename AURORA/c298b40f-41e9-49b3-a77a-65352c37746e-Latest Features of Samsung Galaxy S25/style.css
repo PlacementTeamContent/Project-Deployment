@@ -1,0 +1,71 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.container{
+    background-color: lightblue;
+    height: 100vh;
+    background-size: cover;
+ padding-top: 30px;
+ margin-left: 50px;
+}
+
+.card-container{
+    background-color: #f8f9fa;
+    height:25vh;
+    width: 850px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: #0071e3;
+    border-width: 2px;
+    padding: 10px;
+    margin-left: 70px;
+}
+.container-heading1{
+    font-size:25px;
+    color: #007bff;
+    font-weight: bold;
+}
+.container-paragraph{
+    font-size: 14px;
+    
+}
+.button1{
+    background-color: #007bff;
+    border-style: solid;
+    border-width: 0px;
+    color:white;
+}
+.button2{
+    background-color: #28a745;
+    border-style: solid;
+    border-width: 0px;
+    color:white;
+}
+.button3{
+    background-color: #dc3545;
+    border-style: solid;
+    border-width: 0px;
+    color:white;
+}
+.container-heading2{
+    font-size:25px;
+    color: #28a745;
+    font-weight: bold;
+}
+.container-heading3{
+    font-size:25px;
+    color: #dc3545;
+    font-weight: bold;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

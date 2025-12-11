@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+   color: #ffffff;
+}
+
+
+h1{
+    font-size: 20px;
+}
+
+p{
+    font-size: 10px;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.container{
+    background-color: #000000;
+    height: 600px;
+    width: 1280px;
+}
+
+.btn1{
+    color: black;
+}
+
+.btn2{
+    color: white;
+    background-color: #000000;
+}
+
+.img1{
+    height: 200px;
+    width: 200px;
+}
+
+a{
+    padding: 5px;
+}
+.car1{
+    background-color: #343A40;
+    height: 180px;
+    width: 300px;
+}
+
+.card11{
+    height: 400px;
+    width: 800px;
+    background-color: #343A40;
+    border-width: 2px;
+    
+}
+
+.img2{
+    height: 100px;
+    width: 100px;
+}

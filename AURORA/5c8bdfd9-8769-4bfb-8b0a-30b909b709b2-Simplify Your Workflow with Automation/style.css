@@ -1,0 +1,57 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.blue{
+    background-color: #0018f9;
+    text-align: center;
+    color: white;
+    width: 100vw;
+}
+.a{
+    font-family: 'Roboto';
+}
+.b{
+    color: f4f4f4;
+}
+.b1{
+    background-color: lightblue;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+}
+.b2{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: yellow;
+    color: yellow;
+}
+.b3{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+   
+    color: #000000;
+    border: 0px;
+}
+.b4{
+   background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+   
+    color: #FFFFFF;
+    border: 0px; 
+}
+.last{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

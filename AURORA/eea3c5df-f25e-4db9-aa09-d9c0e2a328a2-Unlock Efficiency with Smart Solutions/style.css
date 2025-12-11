@@ -1,0 +1,57 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color:#0018f9;
+    height:30vh;
+    width:100vw;
+    text-align:center;
+}
+.heading{
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size:20px;
+    padding-top:3px;
+}
+.paragraph{
+    color:#FFFFFF;
+    font-family:"Roboto";
+    font-size:10px;
+}
+.head1{
+    font-family:"Roboto";
+    font-size:16px;
+    margin-top:5px;
+    font-weight:bold;
+}
+.para1{
+    font-family:"Roboto";
+    font-size:16px;
+}
+.car{
+    border-radius:10px;
+    height:35px;
+}
+.sai{
+    border-radius:10px;
+    height:35px;
+}
+.hemanth{
+    background-color:#333;
+    border-radius:10px;
+    height:35px;
+    color:#FFFFFF;
+}
+.venkata{
+    background-color:#333;
+    color:#FFFFFF;
+    height:40px;
+    text-align:center;
+}

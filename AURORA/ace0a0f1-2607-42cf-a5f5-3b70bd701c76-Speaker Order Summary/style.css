@@ -1,0 +1,40 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.total-card{
+    background-color: #f2f4ff;
+    text-align: center;
+    padding: 10px;
+    
+}
+.total-card{
+    background-color: #f2f4ff;
+    text-align: center;
+    padding: 10px;}
+.heading{
+    font-family: "Roboto";
+}
+.ammount{
+    font-weight: bold;
+    color: black;
+}
+.button1{
+    background-color:#4e73df ;
+    color: #FFFFFF;
+    
+    border-radius: 6px;
+}
+.button2{
+    background-color:#e2e2e2 ;
+    color: #FFFFFF;
+    border-radius: 6px;
+}

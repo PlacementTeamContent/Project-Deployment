@@ -1,0 +1,67 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container{
+    color:lightblue;
+    border-color:#0071e3 ;
+    color: black;
+    margin: 0;
+    font-family: "Caveat";
+    background-color: lightblue;
+    text-align: center;
+    padding: 3%%;
+}    
+    
+.head{
+    color: #007bff;
+    background-color: white;
+}
+.head1{
+    color: #28a745;
+    background-color: white;
+}
+.head2{
+    color:#dc3545;
+    background-color: white;
+    border:#0071e3 ;
+}
+.card{
+    color:black;
+}
+.card1{
+    color:black;
+}
+.card2{
+    color:black;
+    background-color:#FFFFFF ;
+    
+    
+}
+.para{
+    background-color: white;
+}
+.color{
+    background-color:#007bff;
+     text-align: center;
+     color: white;
+     border: white;
+}
+.color1{
+    background-color:#28a745 ;
+     text-align: center;
+     color: white;
+     border: white;
+}
+.color2{
+    background-color:#dc3545 ;
+    text-align: center;
+    color: white;
+    border: white;
+}
+
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/

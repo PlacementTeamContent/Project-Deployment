@@ -1,0 +1,51 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+.main{
+    background-color: #E3F2FD;
+    height:180vh;
+    width:100vw;
+    padding:20px;
+}
+.card1{
+    background-color: #007bff;
+    margin:10px;
+    padding:10px;
+}
+.p1{
+   margin:5px; 
+   color:white;
+}
+.card2{
+    background-color: white;
+    text-align:center;
+    padding:20px;
+    border-radius:10px;
+    margin:10px;
+}
+.i1{
+    height:160px;
+    width:190px;
+    border-radius: 10px;
+}
+.h1{
+    font-weight:bold;
+}
+.card3{
+    background-color: #f9f9f9;
+    text-align: start;
+    border-radius:10px;
+    margin:10px;
+    padding:10px;
+}
+.h2{
+    text-decoration: underline;
+}
+.p1{
+    color:#007bff;
+}
+/*Write your CSS code below and don't modify anything above*/

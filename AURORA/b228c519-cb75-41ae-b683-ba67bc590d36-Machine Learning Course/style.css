@@ -1,0 +1,55 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.bg1 {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.bg2 {
+    background-color: #ffffff;
+    border-color: #3b3b3b;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.h1 {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 25px;
+    font-family: "Roboto";
+}
+
+.h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: "Roboto";
+    padding-top: 5px;
+}
+
+.li1 {
+    list-style-type: square;
+}
+
+.li2 {
+    list-style-type: upper-roman;
+}
+
+.li3 {
+    list-style-type: circle;
+}
+
+.li4 {
+    list-style-type: upper-alpha;
+}
+
+/*Write your CSS code below and don't modify anything above*/

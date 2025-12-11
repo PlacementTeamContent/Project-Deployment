@@ -1,0 +1,63 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+.course-wrapper{
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 20px 30px 40px;
+    background: #6e8fb1;
+    border-radius: 10px;
+    box-shadow:  0 0 20px rgba(0,0,0,0.4);
+    position: relative;
+}
+
+.close-btn{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    width: 26px;
+    height: 26px;
+    background: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 26px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.course-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+.module{
+    background: #e8e8e8;
+    border-radius: 12px;
+    padding: 20px 25px;
+    margin-bottom: 20px;
+    border: 2px solid#999;
+}
+
+.module h3{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.module u1{
+    padding-left: 40px;
+}
+
+.module li{
+    font-size: 16px;
+    line-height: 1.7;
+}

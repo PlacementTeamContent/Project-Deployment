@@ -1,0 +1,70 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container{
+    background-color: lightblue ;
+    
+}
+.list-1{
+    background-color:  #ffffff;
+    border-color: #3b3b3b;
+    border-style:solid ;
+    border-radius: 7px;
+    margin: 10px;
+}
+.para-1{
+    text-align: center;
+}
+.list-2{
+    background-color:  #ffffff;
+    border-color: #3b3b3b;
+    border-style:solid ;
+    border-radius: 7px;
+    margin: 10px;
+    
+}
+.para-2{
+    text-align: center;
+}
+.list-style-type{
+    list-style-type: upper-roman ;
+
+}
+.list-3{
+  background-color:  #ffffff;
+    border-color: #3b3b3b;
+    border-style:solid ;
+    border-radius: 7px;
+    margin: 10px;   
+}
+.para-3{
+    text-align: center;
+}
+.list-style-type-2{
+    list-style-type: circle ;
+
+}
+.list-4{
+  background-color:  #ffffff;
+    border-color: #3b3b3b;
+    border-style:solid ;
+    border-radius: 7px;
+    margin: 10px;   
+}
+.list-style-type-3{
+    list-style-type: upper-alpha ;
+
+}
+.para-4{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}

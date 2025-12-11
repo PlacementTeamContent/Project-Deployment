@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.blue{
+    background-color: blue;
+    height: 40vh;
+}
+.blue-part{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Roboto;
+    padding: 40px;
+}
+.white{
+    background-color: #f4f4f4;
+    height: 43vh;
+}
+.white-part{
+    font-family: Roboto;
+    padding: 20px;
+}
+.white-head{
+    color: #333;
+    font-weight: bold;
+    padding: 15px;
+}
+.yellowbtn{
+    border-radius: 8px;
+    width: 150px;
+    height: 50px;
+    border-width: 0px;
+    margin: 5px;
+}
+.bt{
+    border-width: 2px;
+    border-color: red;
+    color: red;
+}
+.bt-gs{
+    color: black;
+}
+.grey{
+    background-color: #333;
+    height: 11vh;
+}
+.grey-part{
+    color: #f4f4f4;
+    text-align: center;
+    font-family: Roboto;
+    padding: 20px;
+}
+.white-para{
+    font-family: Roboto;
+    padding-left: 15px;
+}
+.but-1{
+    padding-left: 15px;
+}
+.but-2{
+    padding-left: 15px;
+}

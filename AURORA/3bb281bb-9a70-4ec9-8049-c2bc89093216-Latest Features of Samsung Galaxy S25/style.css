@@ -1,0 +1,82 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-bg {
+    background-color: lightblue;
+    background-size: cover;
+    height: 60vh;
+}
+
+.card-bg-1 {
+    background-color: white;
+    height: 15vh;
+    width: 90vw;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #0071e3;
+    margin-left: 20px;
+    border-width: 2px;
+}
+
+.card-1-head {
+    color: #007bff;
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.card-2-head {
+    color: #28a745;
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.card-3-head {
+    color: #dc3545;
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.card-1-para {
+    color: #000000;
+    font-family: "Caveat";
+    font-size: 15px;
+
+
+}
+
+.btn-1 {
+    background-color: #007bff;
+    border-radius: 5px;
+    color: #ffffff;
+    height: 28px;
+    font-family: "Caveat";
+    width: 100px;
+    border-color: #007bff;
+}
+
+.btn-2 {
+    background-color: #28a745;
+    border-radius: 5px;
+    border-color: #28a745;
+    color: #ffffff;
+    height: 28px;
+    font-family: "Caveat";
+    width: 100px;
+}
+
+
+.btn-3 {
+    background-color: #dc3545;
+    border-radius: 5px;
+    border-color: #dc3545;
+    color: #ffffff;
+    height: 28px;
+    font-family: "Caveat";
+    width: 100px;
+}

@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.div {
+    background-color: #0018f9;
+    color: #FFFFFF;
+    padding: 60px;
+}
+
+.head {
+    padding: 20px;
+}
+
+.h1 {
+    font-weight: bold;
+
+
+}
+
+.b1 {
+    background-color: lightblue;
+    color: #f4f4f4;
+
+}
+
+.b2 {
+    background-color: green;
+}
+
+.b4 {
+    background-color: blue;
+    color: #FFFFFF;
+}
+
+.b3 {
+    color: green;
+
+}
+
+.card {
+    background-color: #333;
+    color: #f4f4f4;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+
+}
+
+.tanu {
+    text-align: center;
+}
+
+.web {
+    text-align: center;
+}

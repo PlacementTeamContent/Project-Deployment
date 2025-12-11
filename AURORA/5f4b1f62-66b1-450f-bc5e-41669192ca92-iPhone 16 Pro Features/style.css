@@ -1,0 +1,44 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: lightblue;
+    height:100vh;
+    width:100vw;
+}
+.text-align{
+    text-align: center;
+}
+.bd{
+    border-color:#0071e3;
+    border-radius:5px;
+}
+.c1{
+    color:#007bff;
+}
+.c2{
+    color:#28a745;
+}
+.c3{
+    color:#dc3545;
+}
+.bt{
+    background-color:#007bff;
+    color:#FFFFFF;
+}
+.b{
+    margin:10px;
+}
+.gg{
+    padding: 20px;
+}

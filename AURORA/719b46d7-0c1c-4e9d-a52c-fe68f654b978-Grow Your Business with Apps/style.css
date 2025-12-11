@@ -1,0 +1,81 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.background {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+    background-size: cover;
+    height: 700px;
+    width: 1300px;
+}
+
+.text-align {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Heading {
+    font-family: "Roboto";
+    font-size: 50px;
+}
+
+.paragraph {
+    font-size: 30px;
+}
+
+.background2 {
+    background-color: #f4f4f4;
+    background-size: cover;
+    height: 500px;
+    width: 1300px;
+}
+
+.heading2 {
+    color: red;
+    font-family: "Roboto";
+    font-size: 50px
+}
+
+.paragraph2 {
+    color: #333333;
+    font-size: 20px;
+
+
+}
+
+.button2 {
+    color: green;
+
+
+}
+
+.button4 {
+    background-color: #333333;
+    color: #FFFFFF;
+
+}
+
+.background-color3 {
+    background-color: #333333;
+    height: 50px;
+    width: 1300px;
+
+
+
+}
+
+.heading3 {
+    color: #f4f4f4;
+    text-align: center;
+    font-size: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

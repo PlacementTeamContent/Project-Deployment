@@ -1,0 +1,57 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+.fun{
+    background-color: #f2f4ff;
+    height:100vh;
+    width:100vw;
+    
+}
+.money{
+    background-color: #ffffff;
+    height:50vh;
+    width:50vw;
+    margin:auto;
+    text-align: center;
+    font-family: Roboto;
+}
+.one{
+     font-weight:bold;
+     text-align: center;
+}
+.image{
+    background-size: cover;
+    height:15vh;
+    width:30vw;
+}
+.para{
+    color:#e2e2e2;
+}
+.button1{
+    background-color: #4e73df;
+    color:#ffffff;
+    margin-bottom:5px;
+    border-style:solid;
+    border-color:#ffffff;
+}
+.button2{
+    background-color:#e2e2e2;
+    color:#ffffff;
+     border-style:solid;
+    border-color:#ffffff;
+}
+.thank{
+    background-color: #ffffff;
+    height:50vh;
+    width:50vw;
+    text-align: center;
+    margin:auto;
+}

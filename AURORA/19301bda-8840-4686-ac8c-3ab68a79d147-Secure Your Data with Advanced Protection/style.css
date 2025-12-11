@@ -1,0 +1,47 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.color {
+
+
+    background-color: #0018f9;
+    height: 230px;
+    color: white;
+    font-family: Roboto;
+
+
+
+}
+.size{
+    font-size: 10px;
+}
+.khan{
+    font-size: 20px;
+    
+        
+    }
+.button{
+    color:#333;
+    text-decoration-color: white;
+}
+.niat{
+    color:red;
+}
+.class{
+    font-size: 2px;
+    background-color: black;
+}
+
+    
+    
+    
+    
+
+
+}

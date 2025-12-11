@@ -1,0 +1,106 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: lightblue;
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.mainheading{
+    font-size: 25px;
+    color: #000000;
+    padding-top : 30px;
+}
+.clip1{
+    background-color: #f8f9fa;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#0071e3;
+    
+    
+}
+.clipheader1{
+    color: #007bff;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.para{
+    color: #000000;
+    
+}
+.button1{
+    width: 140px;
+    height: 30px;
+    background-color: #007bff;
+    
+    border-width: 0px;
+}
+.clipheader2{
+    color: #28a745;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.button2{
+    width: 140px;
+    height: 30px;
+    background-color: #28a745;
+    
+    border-width: 0px;
+}
+.clip2{
+    background-color: #f8f9fa;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#0071e3;
+    
+    
+}
+.button3{
+    width: 140px;
+    height: 30px;
+    background-color: #dc3545;
+    
+    border-width: 0px;
+}
+.clipheader3{
+    color: #dc3545;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.clip3{
+    background-color: #f8f9fa;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#0071e3;
+    
+    
+}
+.clips{
+    margin: 20px;
+    height: 80vh;
+    width: 70vw;
+}

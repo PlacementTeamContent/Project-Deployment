@@ -1,0 +1,58 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.head{
+    
+    color:#000000;
+    font-family: "Caveat";
+    font-size: 30px;
+    padding:25px;
+    
+}
+.page{
+    background-color:lightblue ;
+    background-size:cover;
+    height:100vh;
+    width:120vh;
+    }
+.card1{
+    background-color: white;
+    width:80vh;
+    height:20vh;
+    border-color:green;
+    border:solid;
+    padding:20px;
+    text-align: center;
+    margin:0px;
+    border-radius:5px;
+    border-width:2px;
+}
+.sub-head{
+    color:#007bff;
+    font-size: 25px;
+}
+.para{
+    color:black;
+    font-size: 10px;
+}
+.button{
+ color:white;   
+}
+.sub-head1{
+    color:#28a745;
+    font-size: 25px;
+}
+.sub-head2{
+    color:#dc3545;
+    font-size: 25px;
+}

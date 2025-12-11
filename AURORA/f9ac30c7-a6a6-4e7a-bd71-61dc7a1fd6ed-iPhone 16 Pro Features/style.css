@@ -1,0 +1,46 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.card{
+    background-color: lightblue;
+    text-align: center;
+    background-size: cover;
+    height: 80vh;
+    width: 130vw;
+}
+.box{
+    border-color: #0071e3;
+    border-width: 3px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 5px;
+    border-style: solid;
+    
+}
+.h{
+    color: black;
+}
+.head1{
+    color: #007bff;
+    font-size: 20px;
+}
+.head2{
+    color: #28a745;
+     font-size: 20px;
+}
+.head3{
+    color: #dc3545;
+     font-size: 20px;
+}
+.but{
+    padding: 5px;
+    margin: 5px;
+}

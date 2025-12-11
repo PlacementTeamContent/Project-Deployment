@@ -1,0 +1,44 @@
+/* Submission 1 */
+.bg{
+    background-color: lightblue;
+    height: 600px;
+    padding: 20px;
+    font-family: Caveat;
+}
+.mh1{
+    font-size: 20px;
+    text-align: center;
+    font-family: ;
+}
+.card1{
+    background-color: white;
+    text-align: center;
+    border-color: blue;
+    border-width: 5px;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+.sh1{
+    color: #007bff;
+    text-align: center;
+    font-size: 20px;
+}
+.button{
+    background-color: #0071e3;
+    color: white;
+}
+.sh2{
+    color:green;
+    text-align: center;
+    font-size: 20px;
+}
+.button2{
+    background-color: green;
+}
+.sh3{
+    color:red;
+    text-align: center;
+    font-size: 20px;}
+.button3{
+    background-color: red;}

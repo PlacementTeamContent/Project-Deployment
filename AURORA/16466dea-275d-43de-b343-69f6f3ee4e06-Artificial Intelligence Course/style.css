@@ -1,0 +1,88 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.h-center{
+    background-color: lightblue;
+    height: 100vh;
+    width: 130vw;
+    padding:15px;
+    
+}
+.head{
+    text-align: center;
+}
+.card-container1{
+    height:180px;
+    width: 580px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color:#3b3b3b;
+    border-radius:10px;
+  margin: 5px;
+}
+.heading1{
+    text-align: center;
+}
+.pig1{
+    list-style-type: square;
+}
+.pig2{
+    list-style-type: square;
+}
+.pig3{
+    list-style-type: square;
+}
+.pig4{
+    list-style-type: square;
+}
+
+.card-container2{
+    height:180px;
+    width: 580px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color:#3b3b3b;
+    border-radius:10px;
+  margin: 5px;
+}
+.heading2{
+    text-align: center;
+}
+.lig1{
+    list-style-type:circle ;
+}
+.lig2{
+    list-style-type:circle ;
+}
+.lig3{
+    list-style-type:circle;
+}
+
+.card-container2{
+    height:180px;
+    width: 580px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color:#3b3b3b;
+    border-radius:10px;
+  margin: 5px;
+}
+.heading2{
+    text-align: center;
+}
+.nig1{
+    list-style-type:upper-alpha ;
+}
+.nig2{
+    list-style-type:upper-alpha ;
+}
+.nig3{
+    list-style-type:upper-alpha;
+}
+
+/*Write your CSS code below and don't modify anything above*/

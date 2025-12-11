@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-color: #f2f4ff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    font-size: 20px;
+}
+
+.card {
+    text-align: center;
+    padding: 18px;
+}
+
+.image {
+    height: 100px;
+    width: 90px;
+}
+
+.para {
+    color: #8a8384;
+    font-size: 10px;
+}
+
+.rate {
+    font-weight: bold;
+}
+
+.button1 {
+    background-color: #4e73df;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.button2 {
+    background-color: #e2e2e2;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.alig {
+    text-align: center;
+    margin: 5px;
+}

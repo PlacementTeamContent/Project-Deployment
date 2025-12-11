@@ -1,0 +1,91 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.h-center{
+    background-color: lightblue;
+    height:100vh;
+    width: 110vw;
+    padding:18px ;
+}
+.head{
+    color: #000000;
+    text-align: center;
+}
+.card-container1{
+    background-color: #f8f9fa;
+    height: 175px;
+    width: 480px;
+    text-align: center;
+    border-style: solid;
+    border-color: #0071e3;
+    border-radius:10px;
+}
+.heading1{
+    color: #007bff;
+    text-align: center;
+    font-weight: bold;
+}
+.king1{
+   text-align: center;
+   background-color: #007bff;
+   border: none;
+   border-radius:4px ;
+}
+.card-container2{
+    background-color: #f8f9fa;
+    height: 175px;
+    width: 480px;
+    text-align: center;
+    border-style: solid;
+    border-color: #0071e3;
+    border-radius:10px ;
+}
+.heading2{
+    color: #28a745;
+    text-align: center;
+    font-weight: bold;
+}
+.king2{
+   text-align: center;
+   background-color:#28a745;
+   border: none;
+   border-radius:4px ;
+}
+.card-container3{
+    background-color: #f8f9fa;
+    height: 175px;
+    width: 480px;
+    text-align: center;
+    border-style: solid;
+    border-color: #0071e3;
+    border-radius:10px ;
+}
+.heading3{
+    color: #dc3545;
+    text-align: center;
+    font-weight: bold;
+}
+.king3{
+   text-align: center;
+   background-color: #dc3545;
+   border: none;
+   border-radius:4px ;
+}
+.para1{
+    text-align: center;
+}
+.para2{
+    text-align: center;
+}
+.para3{
+    text-align: center;
+}
+/*Write your CSS code below and don't modify anything above*/

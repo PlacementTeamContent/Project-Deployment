@@ -1,0 +1,84 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+
+.total-page{
+    background-color:#f2f4ff;
+    height:100vh;
+}
+
+.card{
+    background-color:#ffffff;
+    padding:10px;
+    text-align:center;
+    width:270px;
+    height:330px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-align{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}
+
+.card-head{
+    font-size:20px;
+}
+
+.card-para{
+    font-size:13px;
+    color:#8a8384;
+}
+
+.cost{
+    font-weight:bold;
+}
+
+.card-image{
+    height:100px;
+    width:130px;
+}
+
+.img-align{
+    text-align: center;
+}
+
+.card-btn-1{
+    width:230px;
+    background-color:#4e73df;
+    padding:4px;
+    color:white;
+    border-width:0px;
+    border-radius:7px;
+    margin-bottom:4px;
+}
+
+.card-btn-2{
+    width:230px;
+    background-color:#e2e2e2;
+    padding:4px;
+    border-width:0px;
+    border-radius:7px;
+}
+
+.page-head{
+    font-size:30px;
+    font-weight:bold;
+}
+
+.page-2-para{
+    
+}

@@ -1,0 +1,58 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.total{
+    background-color:lightblue;
+    text-align: center;
+}
+
+.card{
+    text-align:center;
+    background-color: #f8f9fa;
+    padding:2px;
+    border-color:#0071e3;
+    border-radius:10px;
+}
+button{
+    height:30px;
+    width: 60px;
+    padding:2px;
+    border-width:0px;
+    
+}
+.latest{
+    font-size: 20px;
+}
+
+.c1{
+    color:#007bff;
+}
+.c2{
+    color:#28a745;
+}
+.c3{
+    color:#dc3545;
+}
+.b1{
+    background-color:#007bff; 
+    margin:2px;
+}
+.b2{
+    background-color:#28a745;
+    margin:2px;
+}
+.b3{
+    background-color:#dc3545;
+    margin:2px;
+}

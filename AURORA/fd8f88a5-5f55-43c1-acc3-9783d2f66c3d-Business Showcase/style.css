@@ -1,0 +1,56 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.page1{
+    background-color: #e3f2fd;
+    height: 120vh;
+}
+#Navcontainer{
+    background-color: #007bff;
+    margin: 10px;
+}
+.param{
+    color: white;
+    margin: 10px;
+}
+.image{
+    height: 15vh;
+}
+.head{
+    font-size: 20px;
+    font-weight: bold;
+}
+#products{
+        text-align: center;
+        background-color: #ffffff;
+        margin: 10px;
+        border-radius: 5px;
+}
+#places{
+        text-align: center;
+        background-color: #ffffff;
+        margin: 10px;
+        border-radius: 5px;
+}
+#contact{
+        text-align: center;
+        background-color: #ffffff;
+        margin: 10px;
+        border-radius: 5px;
+}
+#place1{
+    background-color: #f9f9f9;
+    margin: 10px;
+}
+.head1{
+    font-size: 20px;
+    text-align: left;
+    text-decoration: underline;
+    padding: 10px;
+}

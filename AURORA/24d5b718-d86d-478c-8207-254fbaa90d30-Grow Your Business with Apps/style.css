@@ -1,0 +1,88 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-bg-container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+    height:100vh;
+    background-size:cover;
+}
+.grow-heading{
+    color:#FFFFFF;
+    font-family: "Roboto";
+    font-size:45px;
+    text-align:center;
+    padding:30px;
+}
+.empower-heading{
+    color:#FFFFFF;
+    font-family: "Roboto";
+    text-align: center;
+}
+.our-business-head{
+    color:#FFFFFF;
+    font-family: "Roboto";
+    text-align: center;
+}
+.bottom-card{
+    background-color: #f4f4f4;
+    background-size:cover;
+    padding:15px;
+    margin-top:200px;
+}
+.explore-button{
+    background-color:blue;
+    color:#FFFFFF;
+    border-radius:6px;
+    height:35px;
+    border-style:solid;
+    border-width:0px;
+    width:135px;
+    margin:5px;
+}
+.get-started-button{
+    background-color:orange;
+    color:#333333;
+    border-radius:6px;
+    height:35px;
+    border-style:solid;
+    border-width:0px;
+    width:135px;
+    margin:5px;
+}
+.get-in-touch{
+    height:35px;
+    width:135px;
+    margin:5px;
+}
+.request-button{
+    background-color:#333333;
+    color:#ffffff;
+    border-style:solid;
+    border-width:0px;
+    width:135px;
+    margin:5px;
+    height:35px;
+    border-radius:6px;
+}
+.why-choose{
+    color:red;
+    font-weight:bold;
+    font-family: "Roboto";
+}
+.copy-rights-container{
+    background-color:#333333;
+    margin:0px;
+    background-size:cover;
+    padding:15px;
+}
+.copy-rights-para{
+    color:#ffffff;
+    text-align:center;
+}

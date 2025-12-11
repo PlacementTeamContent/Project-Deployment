@@ -1,0 +1,41 @@
+/* Submission 1 */
+.cont {
+    background-color: lightblue;
+    font-family: Caveat;
+    text-align: center;
+    height: 680px;
+    width: 1280px;
+}
+.head1 {
+    text-align: center;
+}
+.card2{
+    background-color: White;
+}.heading1{
+    color: green;
+    
+}
+.button1{
+    background-color: Green;
+    color: white;
+}
+.card1{
+    background-color: White;
+    border: #0071e3;
+}
+.heading0{
+    color: #007bff;
+}
+.button0{
+    background-color: #007bff;
+    color: white;
+}
+.card3{
+    background-color: White;
+}
+.heading2{
+    color: #dc3545;
+}
+.button2{
+    background-color: #dc3545;
+}

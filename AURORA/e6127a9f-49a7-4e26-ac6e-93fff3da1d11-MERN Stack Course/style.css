@@ -1,0 +1,44 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main {
+    background-color: lightblue;
+    height: 120vh;
+    padding: 40px;
+}
+.heading{
+    text-align: center;
+} 
+.car {
+    background-color: #ffffff;
+    height: 20vh;
+    border: 2px solid #3b3b3b;
+    border-radius: 10px;
+    margin: 15px;
+}
+.head {
+    font-size: 20px;
+    text-align: center;
+}
+ul {
+    font-size: 13px;
+}
+.ul1 {
+    list-style-type: square;
+}
+.ul2 {
+    list-style-type: upper-roman;
+}
+.ul3 {
+    list-style-type: circle;
+}
+.ul4 {
+    list-style-type: upper-alpha;
+}

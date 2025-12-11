@@ -1,0 +1,38 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+  
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.bg11{
+    background-color:#007bff;
+    color:white;
+    padding-right: 2px;
+}
+.bg1{
+    background-color:lightblue;
+    height:100vh;
+    background-size: cover;
+}
+.cd1{
+    text-align: center;
+}
+.img11{
+    width:130px;
+    height:100px;
+    border-radius:10px;
+}
+h1{
+    font-size:25px;
+    font-weight: bold;
+}
+.cd2{
+    background-color:#f9f9f9;
+}
+.h11{
+    text-decoration: underline;
+}

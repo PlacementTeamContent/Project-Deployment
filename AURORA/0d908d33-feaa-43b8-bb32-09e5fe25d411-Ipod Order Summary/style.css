@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.a {
+    background-color: #f2f4ff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+.b {
+    background-color: #FFFFFF;
+    text-align:center;
+    padding:3px;
+    height: 500px;
+    width:300px;
+}
+
+.heading {
+    color: #000000;
+    text-align:center;
+}
+.para{
+    color:#8a8384;
+}
+.para1{
+    font-weight:bold;
+}
+.button{
+    background-color: #4e73df;
+    border-width:0px;
+    color:#FFFFFF;
+     width:200px;
+    height:30px;
+    border-radius: 5px;
+}
+.button1{
+    background-color: #e2e2e2;
+    border-width:0px;
+    color:#8a8384;
+    margin:3px;
+    width:200px;
+    height:30px;
+    border-radius: 5px;
+}
+.s1{
+    
+    
+}

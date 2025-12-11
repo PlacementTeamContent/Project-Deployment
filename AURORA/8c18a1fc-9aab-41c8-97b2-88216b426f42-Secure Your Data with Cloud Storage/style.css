@@ -1,0 +1,48 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a {
+    background-color: #0018f9;
+    background-size: cover;
+    color: #FFFFFF;
+    height: 500px;
+    width: 1250px;
+    font-family: Roboto;
+}
+.eg{
+    font-weight: bold;
+    background-color: #f4f4f4;
+    color: #000000;
+}
+.df{
+    border-radius:5px;
+}
+.ef{
+    color: green;
+    border-color: green;
+}
+.f{
+    background-color: green;
+    color: black;
+}
+.p{
+    background-color: #0018f9;
+    color: white;
+}
+.m{
+    background-color: #333;
+    color: white;
+    height: 150px;
+    width: 1200px;
+}
+
+.c {
+    background-color: #000000;
+}

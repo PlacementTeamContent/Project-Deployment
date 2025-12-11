@@ -1,0 +1,66 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.card {
+    margin: 100px;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    border-radius: 7px;
+    border-width: 0px;
+}
+
+.btnw {
+    background-color: #4e73df;
+    padding: 8px;
+    margin: 5px;
+    color: #fff;
+    border-width: 0px;
+    border-radius: 4px;
+}
+
+.btns {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.leo {
+    background-color: #FFF;
+    margin: 100px;
+    padding: 80px;
+}
+
+.joel {
+    background-color: #f2f4ff;
+    height:100vh;
+}
+
+.sas {
+    background-color: #f2f4ff;
+}
+
+.image {
+    height: 150px;
+    width: 200px;
+    padding-left: 50px;
+}
+
+.h1 {
+    padding-left: 3px;
+}
+
+.p {
+    color: #8a8384;
+    padding-left: 5px;
+}
+
+.hg {
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,51 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.cardcan{
+    height:50%;
+    text-align: center;
+    color:white;
+    background-color: #0018f9;
+}
+.c{
+    height:100vh;
+    width: 100vw;
+    
+}
+.b{
+    border:0px;
+    border-radius: 5px;
+    
+}
+.b1{
+    border:1px;
+    border-radius: 5px;
+    border:2px solid lightblue;
+    color:lightblue;
+}
+.P{
+    color:grey;
+    margin:10px;
+}
+.d{
+    margin:5px;
+    padding:10px;
+    background-color: #f4f4f4;
+}
+.foot{
+    background-color: #333;
+    text-align: center;
+    padding:10px;
+    color:white;
+    margin:5px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    
+}

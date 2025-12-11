@@ -1,0 +1,90 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.containerss {
+    background-color: #0018f9;
+    background-size: cover;
+    height: 50vh;
+    padding: 10px;
+}
+
+.why {
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top:20px ;
+}
+
+.paras {
+    padding-left: 20px;
+    color:gray;
+}
+
+.head {
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+    padding-top: 30px;
+}
+
+.para {
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 18px;
+}
+
+.pad {
+    padding-bottom: 25px;
+}
+
+.pad1 {
+    padding-left: 20px;
+    margin: 5px;
+}
+.end1{
+    padding-top:20px ;
+}
+
+.end {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.b1 {
+    color: white;
+    width: 140px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.b2 {
+    background-color: #ffffff;
+    color: skyblue;
+    width: 140px;
+    padding: 10px;
+    border-color: skyblue;
+    border-radius: 5px;
+}
+
+.b3 {
+    color: black;
+    width: 140px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.b4 {
+    color: white;
+    width: 140px;
+    padding: 10px;
+    border-radius: 5px;
+}

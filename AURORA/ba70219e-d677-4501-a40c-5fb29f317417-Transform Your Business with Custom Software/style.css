@@ -1,0 +1,79 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.h{
+    text-align:center;
+    color:white;
+}
+.h1{
+    text-align:left;
+    color:#333;
+    font-size:20px;
+    padding:10px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.bg-conatiner{
+    background-color:#0018f9;
+    background-size:cover;
+    height:100px;
+}
+.p{
+    text-align:center;
+    color:#f4f4f4;
+    font-size:10px;
+}
+.a{
+    text-align:left;
+}
+.b{
+    background-color:orange;
+    border-width:0px;
+    border-radius:5px;
+    padding:10px;
+   margin-left:10px;
+}
+.x{
+   
+    
+    border-radius:5px;
+    padding:10px;
+   margin-left:10px;
+  
+}
+.y{
+   
+    
+    border-radius:5px;
+    padding:10px;
+   margin-left:10px;
+    margin-top:10px;
+    
+  
+}
+.b1{
+    background-color:red;
+    border-width:0px;
+    border-radius:5px;
+    padding:10px;
+   margin-left:10px;
+   margin-top:10px;
+}
+.n{
+background-color:#333;
+width:500px;
+margin-top:10px;
+    
+}
+.w{
+    color:#f4f4f4;
+    text-align:center;
+    
+}

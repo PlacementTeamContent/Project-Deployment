@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.co{
+    background-color:lightblue;
+  
+}
+.h{
+    color:#000000;
+    text-align:center;
+}
+.ca{
+    background-color:white;
+    padding:20px;
+    margin:0px;
+    border-style:solid;
+    border-color:#0071e3;
+    text-align: center;
+    border-radius:10px;
+    margin-right:200px;
+}
+.h1{
+    color:#007bff;
+    font-weight:bold;
+}
+.b1{
+    color:#FFFFFF;
+    background-color: #007bff;
+    border-width:0px;
+}
+.h2{
+    color:#28a745;
+    font-weight:bold;
+}
+.b2{
+    color:#FFFFFF;
+    background-color: #28a745;
+    border-width:0px;
+}
+.h3{
+    color:#dc3545;
+    font-weight:bold;
+}
+.b3{
+    color:#FFFFFF;
+    background-color: #dc3545;
+    border-width:0px;
+}
+.pb{
+    margin-bottom:50px;
+    padding-bottom:100px;
+}

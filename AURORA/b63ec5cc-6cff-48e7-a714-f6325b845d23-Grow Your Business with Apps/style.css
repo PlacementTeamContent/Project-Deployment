@@ -1,0 +1,42 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto"
+}
+
+.card1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.header {
+   color: red;
+}
+.para{
+    color:#FFFFFF;
+}
+.button1{
+    border-radius:5px;
+    margin:5px;
+    width:30vw;
+}
+.button2{
+    border-radius:5px;
+    margin:5px;
+    width:30vw;
+}
+.button3{
+    border-radius:5px;
+    margin:5px;
+    width:30vw;
+}
+.button4{
+    border-radius:5px;
+    margin:5px;
+    width:30vw;
+}

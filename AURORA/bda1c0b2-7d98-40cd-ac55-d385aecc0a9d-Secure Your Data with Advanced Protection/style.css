@@ -1,0 +1,61 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+.image{
+    background-color: #0018f9;
+    background-size: cover;
+    height: 40vh;
+}
+.p{
+    color: #FFFFFF;
+    font-size: 5px;
+    font-family: "Roboto";
+    text-align: center;
+}
+.p1{
+    color: #FFFFFF;
+    font-size: 8px;
+    font-family: "Roboto";
+    text-align: center;
+}
+.h{
+    font-size: 15px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Roboto";
+}
+.c{
+    background-color: #333;
+    margin-top: 220px;
+    height: 80px;
+    text-align: center;
+}
+.f{
+    color: #FFFFFF;
+    font-size: 10px;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+.h1{
+    color: #333;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 10px;
+}
+.h2{
+    color: #333;
+    font-family: "Roboto";
+    font-size: 10px;
+    margin-left: 10px;
+}
+.d{
+    margin-left: 10px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

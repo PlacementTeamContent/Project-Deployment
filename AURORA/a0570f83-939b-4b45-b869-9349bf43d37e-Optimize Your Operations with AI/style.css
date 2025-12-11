@@ -1,0 +1,85 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.blue{
+    background-color:#0018f9;
+    color:#FFFFFF;
+    text-align: center;
+    font-family:Roboto;
+    height:42vh;
+    padding:50px;
+}
+.ai{
+    padding:18px;
+    
+}
+.h1{
+    color:#000000;
+    font-weight:bold;
+}
+.sunny{
+    color:#33333;
+    font-size:18px;
+}
+
+.b1{
+   
+    border-radius:8px;
+    margin:5px;
+    border-width:0px;
+    color:#FFFFFF;
+     width:150px;
+    height:50px;
+    
+   
+}
+.b2{
+    background-color:transparent;
+    border-radius:8px;
+    margin:5px;
+    border-width:1px ;
+    color:red;
+     width:150px;
+    height:50px;
+    border-color:red;
+    
+    
+}
+.b3{
+
+    border-radius:8px;
+    margin:5px;
+    border-width:0px;
+     width:150px;
+    height:50px;
+    color:black;
+    
+}
+.b4{
+      
+    border-radius:8px;
+    margin:5px;
+    border-width:0px;
+    width:150px;
+    height:50px;
+}
+.var{
+    background-color:#333333;
+    color:white;
+    height:10vh;
+    text-align:center;
+    padding:30px;
+    padding-top:40px;
+}
+.sur{
+    background-color:#f4f4f4;
+    height:40vh;
+    
+}

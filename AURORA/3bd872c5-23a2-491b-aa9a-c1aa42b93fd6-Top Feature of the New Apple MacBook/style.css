@@ -1,0 +1,85 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+.back{
+    background-color: lightblue;
+    background-size:cover;
+    height:100vh;
+    font-family:"Caveat";
+    text-align: center;
+}
+.box1{
+    color:#0071e3;
+    background-color:white;
+    background-size: cover;
+    border-style:solid;
+    border-color:#0071e3;
+    border-width:2px;
+    border-radius:5px;
+    text-align:center;
+    margin:5px;
+}
+.box2{
+    color:#28a745;
+    background-color: white;
+    background-size: cover;
+    border-style:solid;
+    border-color:#0071e3;
+    border-width:2px;
+    border-radius:5px;
+    text-align:center;
+    margin:5px;
+}
+.box3{
+    color:#dc3545;
+    background-color:white;
+    background-size: cover;
+    border-style:solid;
+    border-color:#0071e3;
+    border-width:2px;
+    border-radius:5px;
+    text-align:center;
+    margin:5px;
+}
+.paragraph{
+    color:black;
+}
+.button1{
+    background-color:#007bff;
+    color:#007bff;
+    width:120px;
+    border-width:0px;
+    border-radius: 5px;
+    height:0px;
+    margin:10px;
+    
+}
+.button2{
+    background-color:#007bff;
+    color:#28a745;
+    width:120px;
+    border-width:0px;
+    border-radius: 5px;
+    height:0px;
+    margin:10px;
+}
+.button3{
+    background-color:#007bff;
+    color:#dc3545;
+    width:120px;
+    border-width:0px;
+    border-radius: 5px;
+    height:0px;
+    margin:10px;
+}
+
+}

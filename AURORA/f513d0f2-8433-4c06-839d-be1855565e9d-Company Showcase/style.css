@@ -1,0 +1,99 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: #E3F2FD;
+    background-size: cover;
+    height:1385px;
+    width:1280px;
+}
+.bg1{
+    background-color: #007bff;
+    height:50px;
+    width:1100px;
+    margin:20px;
+}
+.h1{
+    font-family: "Roboto";
+    color:#FFFFFF;
+    padding-right:25px;
+    font-size:20px;
+    padding:15px;
+}
+.bg-con{
+    background-color: #FFFFFF;
+    width:1100px;
+    text-align:center;
+    height:600px;
+    margin:20px;
+    border-radius:10px;
+    padding-top:20px;
+}
+.head{
+    font-family: "Roboto";
+    color:#000000;
+    font-weight:bold;
+    padding-top:20px;
+}
+.para{
+    font-family: "Roboto";
+    color:#000000;
+    padding-top:10px;
+}
+.img{
+    height:200px;
+    width:250px;
+    border-radius:20px;
+}
+.para1{
+    color:#007bff;
+    padding-top:20px;
+}
+.background{
+    height:150px;
+    width:1000px;
+    background-color: #f9f9f9;
+    margin:20px;
+    border-radius:10px;
+    padding-left:15px;
+    padding:10px;
+    padding-top:20px ;
+}
+.heading{
+    text-align: left;
+    text-decoration: underline;
+    font-family: "Roboto";
+    color:#000000;
+    padding-left:10px;
+    
+}
+.paraa{
+    text-align: left;
+    font-family: "Roboto";
+    color:#000000;
+     padding-left:10px;
+}
+.bgg{
+     height:100px;
+    width:1110px;
+    background-color: #f9f9f9;
+    margin:20px;
+    border-radius:10px;
+}
+.H1{
+    text-align: center;
+    font-family: "Roboto";
+    color:#000000;
+}
+.P1{
+    text-align: center;
+    font-family: "Roboto";
+    color:#000000;
+    font-weight:bold;
+}

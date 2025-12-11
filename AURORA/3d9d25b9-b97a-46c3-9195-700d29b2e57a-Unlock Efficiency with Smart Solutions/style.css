@@ -1,0 +1,75 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.blue{
+    background-color: #0018f9;
+    text-align: center;
+    font-size: 7px;
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.white{
+    background-color: #f4f4f4;
+    
+}
+.button{
+   border-radius: 4px;
+    margin: 4px;
+}
+.b1{
+    border-radius: 8px;
+  margin: 1px;
+  background-color: green;
+  color: white;
+  border-color: green;
+  border-style: solid;
+ 
+}
+.b2{
+    border-radius: 8px;
+    margin: 1px;
+    background-color: transparent;
+    color: lightblue;
+    border-color: lightblue;
+    border-style: solid;
+    
+}
+.b3{
+    border-radius: 8px;
+    margin: 1px;
+    background-color: lightblue;
+    border-color: lightblue;
+    border-style: solid;
+}
+.b4{
+    border-radius: 8px;
+    margin: 1px;
+    background-color: #333;
+    color: white;
+    border-color: #333;
+    border-style: solid;
+}
+.p{
+   text-align: center;
+    color: white;
+    font-size: 10px;
+    background-color: #333;
+    height: 30px;
+}
+.down{
+   padding: 10px;
+}
+.para{
+    color: #333;
+}
+.mn{
+    font-size: 20px;
+    font-weight: bold;
+}

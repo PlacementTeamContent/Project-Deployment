@@ -1,0 +1,17 @@
+/* Submission 1 */
+.bg{
+background-image:url(https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css7.avif) ;
+height:100vh;
+background-size:cover ;
+}
+.code{
+    font-size: 50px;
+    font-weight: bold;
+    font-family:"Roboto";
+}
+.card{
+    text-decoration:underline ;
+}
+.button{
+    height:25px;
+}

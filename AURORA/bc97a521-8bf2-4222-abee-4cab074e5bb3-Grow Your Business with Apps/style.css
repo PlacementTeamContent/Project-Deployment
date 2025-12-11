@@ -1,0 +1,59 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+.a{
+    background-color:blue;
+    color:#ffffff;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+    height:50vh;
+    width:100vw;
+    text-align:center;
+    padding:50px;
+}
+.c{
+    padding:30px;
+}
+.b{
+    color:Red;
+    font-weight:700;
+}
+button{
+    height:40px;
+    width:150px;
+    margin:2px;
+    border-radius:10px;
+}
+.d{
+    color:#ffffff;
+    background-color:blue;
+    border-color:blue;
+}
+.e{
+    color:green;
+    background-color:white;
+    border-color:green;
+}
+.f{
+    color:black;
+    background-color:orange;
+    border-color:orange;
+}
+.g{
+    color:white;
+    background-color:black;  
+    border-color:black;
+}
+.h{
+    background-color:black;
+    color:white;
+    height:10vh;
+    width:98vw;
+    text-align:center;
+    padding:15px;
+}

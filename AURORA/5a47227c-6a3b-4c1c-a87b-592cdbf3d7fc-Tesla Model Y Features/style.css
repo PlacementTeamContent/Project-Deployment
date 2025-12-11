@@ -1,0 +1,72 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.containaer{
+    background-color:lightblue;
+    height: 94vh;
+    width: 100vw;
+    padding: 50px;
+}
+.heading{
+    color:#000000;
+    text-align: center;
+}
+.top-card{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0071e3;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+.card-1-heading{
+    color:#007bff;
+}
+.card-para{
+    color:#000000;
+    font-size: 21px;
+}
+.card-1-button{
+    height: 45px;
+    width: 150px;
+    color:#FFFFFF;
+    background-color: #007bff;
+    border-width: 0px;
+    border-radius: 5px;
+    
+}
+.card-2-heading{
+    color:#28a745;
+}
+.card-2-button{
+    height: 45px;
+    width: 150px;
+    color:#FFFFFF;
+    background-color: #28a745;
+    border-width: 0px;
+    border-radius: 5px;
+    
+}
+.card-3-heading{
+    color:#dc3545;
+}
+.card-3-button{
+    height: 45px;
+    width: 150px;
+    color:#FFFFFF;
+    background-color:#dc3545;
+    border-width: 0px;
+    border-radius: 5px;
+    
+}

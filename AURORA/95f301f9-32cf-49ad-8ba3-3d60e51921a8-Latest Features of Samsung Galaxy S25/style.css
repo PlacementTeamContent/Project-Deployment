@@ -1,0 +1,61 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+.container{
+    background-color:lightblue;
+    background-size:cover;
+    height:100vh;
+    text-align:center;
+    padding:10px;
+}
+.container1{
+   background-color:#f8f9fa;
+   border-width:#007bff;
+   
+}
+.heading{
+    color:#000000;
+    text-align:center;
+}
+.paragraph{
+    color:#000000;
+}
+.heading1{
+    color:#28a745;
+    padding:10px;
+}
+.paragraph1{
+    color:#000000;
+    padding:10px;
+}
+.heading2{
+    color:#dc3545;
+    padding:10px;
+}
+.paragraph2{
+    color:#0000000;
+    padding:10px;
+}
+.button{
+    text-align: center;
+}
+.container2{
+     background-color:#f8f9fa;
+    
+}
+.container3{
+    background-color:#f8f9fa;
+}
+.heading3{
+    color:#0071e3;
+    text-align:center;
+}

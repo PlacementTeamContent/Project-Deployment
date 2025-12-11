@@ -1,0 +1,50 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+.a{
+    background-color: #0D5EA6;
+    padding: 10px;
+    background-size: cover;
+}
+.but1{
+    background-color: #ffffff;
+    color: #000000;
+}
+.but2{
+    background-color: #000000;
+    color: #ffffff;
+}
+.b{
+    color: #ffffff;
+}
+.c{
+    color: #ffffff;
+}
+.img1{
+    height: 40vh;
+    width: 50vw;
+}
+.varsha{
+    background-color: #EAA64D;
+    background-size: cover;
+    padding: 10px;
+}
+.img2{
+    height: 20vh;
+    width: 20vw;
+}
+.sai{
+    color: #ffffff;
+}
+.but{
+    color: #ffffff;
+}
+.container-fluid{
+    background-color: #EAA64D;
+}

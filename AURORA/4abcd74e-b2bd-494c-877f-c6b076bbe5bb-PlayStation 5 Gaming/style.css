@@ -1,0 +1,74 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: lightblue;
+    height:656px;
+    width:1280px;
+    text-align: center;
+    padding-top:30px;
+    
+}
+.card1{
+    background-color: white;
+    height:130px;
+    width:180vw;
+    margin-left:30px;
+    border-radius: 10px;
+    border-color: #0071e3;
+    border-style: solid;
+    border-width:2px;
+}
+.first-head{
+    color: #007bff;
+    font-size:30px;
+    font-weight: bold;
+}
+.para1{
+    color:black;
+}
+.button1{
+    background-color: #007bff;
+    color: white;
+    border-width:0px;
+    width:130px;
+    border-radius: 5px;
+    height:30px;
+}
+
+.sec-head{
+    color: #28a745;
+    font-size:30px;
+    font-weight: bold;
+}
+.button2{
+    background-color: #28a745;
+    color: white;
+    border-width:0px;
+    width:130px;
+    border-radius: 5px;
+    height:30px;
+}
+.third-head{
+    color: #dc3545;
+    font-size:30px;
+    font-weight: bold;
+}
+.button3{
+    background-color: #dc3545;
+    color: white;
+    border-width:0px;
+    width:130px;
+    border-radius: 5px;
+    height:30px;
+}

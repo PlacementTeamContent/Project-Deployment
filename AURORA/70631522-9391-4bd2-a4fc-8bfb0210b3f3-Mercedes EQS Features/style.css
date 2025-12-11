@@ -1,0 +1,66 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h {
+    font-family: "Caveat";
+    text-align: center;
+    padding: 20px;
+}
+.w {
+    background-color: lightblue;
+    height: 100vh;
+    background-size: cover;
+     border-color: #0071e3;
+}
+.p{
+    margin: 0;
+    font-family: "Caveat";
+    color: #000000;
+    text-align: center;
+    border-color: #0071e3;
+}
+
+.blue{
+    font-family: "Caveat";
+    background-color: #f8f9fa;
+    color: #007bff;
+    text-align: center;
+    border-color: #0071e3;
+    border-radius: 10px;
+    border-style: solid;
+    height: 20vh;
+    width: 80vw;
+    margin-left: 30px;
+    
+}
+.green {
+     font-family: "Caveat";
+    background-color: #f8f9fa;
+    color: #28a745;
+    text-align: center;
+     border-color: #0071e3;
+      border-radius: 10px;
+    border-style: solid;
+    height: 20vh;
+    width: 80vw;
+    margin-left: 30px;
+    
+}
+.red {
+     font-family: "Caveat";
+    background-color: #f8f9fa;
+    color: #dc3545;
+    text-align: center;
+     border-color: #0071e3; 
+     border-radius: 10px;
+    border-style: solid;
+    height: 20vh;
+    width: 80vw;
+    margin-left: 30px;
+    padding: 10px;
+}
+.hh{
+    font-weight: bold;
+}
+
+/*Write your CSS code below and don't modify anything above*/

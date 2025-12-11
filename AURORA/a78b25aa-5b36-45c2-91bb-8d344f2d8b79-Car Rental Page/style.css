@@ -1,0 +1,28 @@
+/* Submission 1 */
+.bg {
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css1.avif");
+    background-size:cover;
+    height:100vh;
+    
+}
+
+.h {
+    margin:0;
+    color:#EFEFEF;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+.P {
+    margin:0;
+    font-size: 38px;
+    text-decoration:underline;
+    font-style:italic;
+    color:#EFEFEF;
+}
+.b {
+    margin:0;
+    padding: 20px;
+    font-size:20px;
+    background-color:#EFEFEF;
+}

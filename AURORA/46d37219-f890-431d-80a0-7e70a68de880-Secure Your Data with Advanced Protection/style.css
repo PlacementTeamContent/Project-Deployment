@@ -1,0 +1,76 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container{
+    background-color:#0018f9;
+    
+    width:120vw;
+    height:30vh;
+}
+.h1{
+  
+    color:#FFFFFF;
+    text-align:center;
+} 
+.P{
+    text-align:center;
+    color:#FFFFFF;
+}
+.div{
+    background-color:#FFFFFF;
+    padding:30px;
+    
+}
+.h2{
+    
+    font-weight:bold;
+}
+.p1{
+    color:#f4f4f4;
+}
+.div1{
+    margin:6px;
+}
+
+.button{
+    border-radius:10px;
+    height:40px;
+    width:120px;
+    background-color:#333;
+    color:white;
+    
+}
+.button2{
+    border-radius:10px;
+    width:120px;
+    height:40px;
+     background-color:#f4f4f4;
+    
+}
+.button3{
+    border-radius:10px; 
+    width:120px;
+    height:40px;
+    
+    
+} 
+.button4{
+    border-radius:10px;
+    width:150px;
+    height:40px;
+    
+}
+.ddff{
+    background-color:#333;
+    height:8vh;
+    color:white;
+    text-align:center;
+    padding:20px;
+}

@@ -1,0 +1,54 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.kill {
+    background-color: lightblue;
+    text-align: center;
+    width: 200vw;
+    height: 200vh;
+    font-family: Caveat;
+    text-align: center;
+}
+
+
+.nill{
+    background-color: white;
+    
+    height: 200px;
+    width: 100vh;
+    border-color: #0071e3;
+    border-width: 20px;
+    margin: 13PX;
+}
+.nill1{
+    color: #007bff;
+}
+.nill3{
+   color: #FFFFFF;
+   background-color: #007BFF;
+} 
+
+.Till1{
+    color: #28a745;
+}
+.Till3{
+   color: #FFFFFF;
+   background-color: #28a745;
+} 
+.pill1{
+    color: #dc3545;
+}
+.pill3{
+   color: #FFFFFF;
+   background-color: #dc3545;
+}

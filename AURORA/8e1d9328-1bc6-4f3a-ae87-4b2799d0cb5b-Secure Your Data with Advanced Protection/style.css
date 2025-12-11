@@ -1,0 +1,81 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.main-heading {
+    margin: 0;
+    font-family: "Roboto";
+    color: white;
+    background-color: #0018f9;
+    height: 678;
+    width: 1280;
+    padding:24px;
+
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.mode{
+    color:grey;
+    
+}
+.para {
+   color:#333;
+   padding:10px;
+}
+
+.grey {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 8px;
+
+}
+
+.button {
+    padding: 5px;
+    border-radius: 6px;
+    background-color: #333;
+    color: white;
+    height: 40px;
+    width: 140px;
+    margin:2px;
+}
+
+.button1 {
+    padding: 5px;
+    border-radius: 6px;
+    height: 40px;
+    width: 140px;
+    background-color: white;
+    border-color: #333;
+    border-width: 1px;
+    border-style: solid;
+    color:grey;
+
+
+}
+
+.button2 {
+    padding: 5px;
+    border-radius: 6px;
+    height: 40px;
+    width: 140px;
+    background-color: grey;
+    color: black;
+    border-width: 0px;
+
+
+
+}
+
+.button3 {
+    padding: 5px;
+    border-radius: 6px;
+    height: 40px;
+    width: 140px;
+    color: white;
+    background-color: RED;
+    border-width: 0px;
+
+
+}

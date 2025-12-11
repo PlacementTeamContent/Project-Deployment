@@ -1,0 +1,70 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.bg{
+    background-color: #0018f9;
+    height: 30vh;
+    width: 100vw;
+    background-size:cover;
+    color: white;
+    text-align: center;
+    padding:25px;
+}
+.head{
+    font-size: 25px;
+}
+.para{
+    font-size: 10px;
+}
+.card{
+    background-color: #f4f4f4;
+}
+.h{
+    font-size: 25px;
+    padding: 8px;
+}
+.P{
+    font-size: 10px;
+     padding: 5px;
+}
+.b1{
+    background-color :blue;
+    color: white;
+    border-width:0px;
+    height: 20px;
+    width: 100px;
+}
+.b2{
+    background-color: white;
+    color: red;
+    border-width: 0px;
+    height: 20px;
+    width: 100px;
+}
+.b3{
+    background-color: red;
+    color: black;
+    border-width: 0px;
+    height: 20px;
+    width: 120px;
+}
+.b4{
+   background-color: yellow;
+   color: black;
+   border-width: 0px;
+   height: 20px;
+    width: 130px;
+}
+.card2{
+    background-color: #000000;
+    height: 200px;
+    width: 300px;
+    font-size: 5px;
+    color: white;
+    text-align: center;
+}

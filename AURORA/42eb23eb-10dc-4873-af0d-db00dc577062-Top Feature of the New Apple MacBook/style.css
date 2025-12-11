@@ -1,0 +1,65 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+.back {
+    background-color: lightblue;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    color: #000000;
+    padding: 35px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #0071e3;
+    text-align: center;
+    font-family: "Caveat";
+    padding: 25px;
+    border-width: 2px;
+    border-radius: 15px;
+
+}
+
+.col1 {
+    color: #007bff;
+
+}
+
+.col2 {
+    color: #28a745;
+}
+
+.col3 {
+    color: #dc3545;
+}
+
+button {
+    color: #ffffff;
+    height: 29px;
+    width: 120px;
+    margin: auto;
+    border-style: none;
+}
+
+.b1 {
+    background-color: #007bff;
+}
+
+.b2 {
+    background-color: #28a745;
+}
+
+.b3 {
+    background-color: #dc3545;
+}

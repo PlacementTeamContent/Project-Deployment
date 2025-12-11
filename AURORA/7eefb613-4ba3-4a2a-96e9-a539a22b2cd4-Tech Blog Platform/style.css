@@ -1,0 +1,43 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+.bg{
+    background-color:#E3F2FD;
+    background-size:cover;
+    height:1385px;
+    width:1280px;
+}
+.img{
+    height:140px;
+    width:200px;
+    border-radius:5px;
+    margin:10px;
+}
+.navbar{
+    background-color:#007bff;
+    color:white;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+/* #Navcontainer{
+    background-color: #007bff;
+    padding: 15px; */
+.card{
+    text-align:center;
+    padding:30px;
+    font-family:Roboto;
+    margin:17px;
+}
+.subcard{
+    background-color:#f9f9f9;
+    padding:10px;
+    margin:10px;
+     text-align:left;
+}
+.fun{
+    text-decoration: underline;
+}

@@ -1,0 +1,44 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.bg-container {
+    background-color: lightblue;
+    height: 100vh;
+    width: 100vw;
+    padding: 20px;
+}
+
+.H {
+    text-align: center;
+    color: #3b3b3b;
+    padding-top:20px;
+    font-family: "Roboto";
+
+}
+.bg1{
+    background-color: #ffffff;
+    text-align: center;
+    width:450px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+    
+}
+.m{
+    list-style: square;
+}
+.r{
+    list-style-type: upper-roman;
+}
+.d{
+    list-style: circle;
+}
+.a{
+    list-style: upper-alpha;
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,72 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+.main-container {
+    background-color: lightblue;
+    height: 100vh;
+}
+.mm{
+    background-color: lightblue;
+}
+.man{
+    text-align: center;
+}
+.mk{
+    text-align: center;
+    
+}
+.q{
+    text-align: center;
+    color: #dc3545;
+}
+.qq{
+    text-align: center;
+    
+}
+.qqq{
+    text-align: center;
+    color: white;
+    background-color: #dc3545;
+}
+.mkl{
+    text-align: center;
+    background-color: #28a745;
+    color: white;
+}
+.card{
+    border-color: #0071e3;
+    border-radius: 10px;
+}
+
+.hearder {
+    text-align: center;
+    color: #000000;
+
+}
+
+.small-container {
+    background-colour: #FFFFFF;
+    text-align: center;
+}
+.blue{
+    color: #007bff;
+    text-align: center;
+}
+.mmmm{
+    text-align: center;
+}
+.nnn{
+    text-align: center;
+    background-color:#007bff ;
+}
+
+/*Write your CSS code below and don't modify anything above*/

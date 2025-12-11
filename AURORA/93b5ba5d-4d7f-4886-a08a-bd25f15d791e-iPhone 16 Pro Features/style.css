@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.main{
+    background-color: lightblue;
+    height: 680px;
+    width:1280px;
+}
+.head{
+    text-align: center;
+    padding: 12px;
+}
+.card1{
+    background-color: #ffffff;
+    text-align: center;
+    border-radius:2px;
+    width: 500px;
+    margin:45px;
+}
+.head1{
+    color:blue;
+
+}
+.head2{
+    color:green;
+    
+}
+.head3{
+    color: red;
+}
+.btn{
+    background-color: blue;
+    color :white;
+}
+.card2{
+    margin: 45px;
+   
+    background-color: #ffffff;
+    text-align: center;
+    width: 500px;
+}
+.card3{
+    background-color: #ffffff;
+    text-align: center;
+    
+}
+.btn1{
+    background-color: green;
+}
+.btn2{
+    background-color: red;
+}
+
+/*Write your CSS code below and don't modify anything above*/

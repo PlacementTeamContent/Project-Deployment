@@ -1,0 +1,52 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+.container {
+    background-color: lightblue;
+    background-size: cover;
+    height: 100vh;
+}
+
+.a {
+    color: #0071e3;
+}
+
+.b {
+    background-color: #0071e3;
+    color: white;
+}
+
+.main {
+    text-align: center;
+    margin: 12px;
+    border-color:#0071e3;
+}
+.c{
+    color: #28a745;
+}
+.d{
+    background-color: #28a745;
+    color:#f8f9fa;
+}
+.e{
+    background-color: #dc3545;
+    color:#f8f9fa;
+
+}
+.f{
+    color: #dc3545;
+}
+.rohith{
+    border-color:#0071e3;
+}
+
+/*Write your CSS code below and don't modify anything above*/

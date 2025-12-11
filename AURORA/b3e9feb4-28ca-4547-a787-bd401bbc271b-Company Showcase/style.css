@@ -1,0 +1,51 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+    overflow:auto;
+
+
+    /*Write your CSS code below and don't modify anything above*/
+    .head1{
+        background-color:#007bff;
+        color: white;
+        height: 5vh;
+        padding: 5px;
+    }
+
+    .first {
+        background-color: #e3f2fd;
+        height: 150vh;
+        padding: 6px;
+    }
+
+    .second {
+        background-color: white;
+        height: 40vh;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .img {
+        height: 10vh;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    .third {
+        background-color: white;
+        height: 50vh;
+        margin-top: 10px;
+        text-align: center;
+
+    }
+    .fourth{
+        background-color: white;
+        height: 20vh;
+        margin-top: 10px;
+        text-align: center;
+    }

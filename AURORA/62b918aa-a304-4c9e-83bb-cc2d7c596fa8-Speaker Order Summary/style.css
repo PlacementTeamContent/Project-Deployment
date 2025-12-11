@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+padding-top: 100px;
+}
+.heading {
+    color: black;
+    text-align: center;
+}
+.img {
+    text-align: center;
+    height: 170px;
+}
+.para {
+    text-align: center;
+    color: #8a8384;
+}
+.p {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.b1 {
+    color: white;
+    background-color: blue;
+    width: 51%;
+    margin: 10px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.b1:hover {
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+.b2 {
+    color: black;
+    background-color: #e2e2e2;
+    width: 51%;
+    margin: 10px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.section {
+    padding-top: 300px;
+}
+.head {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+.paragraph {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}

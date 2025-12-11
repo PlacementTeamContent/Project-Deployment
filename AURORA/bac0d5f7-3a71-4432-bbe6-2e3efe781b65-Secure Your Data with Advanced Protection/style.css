@@ -1,0 +1,87 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.bg-container{
+    background-color:#0018f9 ;
+    padding:50px ;
+    color: #ffffff;
+    text-align: center;
+    height: 300px;
+    width: 1280px;
+}
+.main-heading{
+    font-size: 40px;
+}
+.bg-container1{
+    background-color:#f4f4f4 ;
+    
+    color: black;
+    height: 378px;
+    width: 1280px;
+}
+.main-heading1{
+    font-weight:bold;
+    padding-left:32px ;
+    padding-top:30px ;
+}
+.paragraph3{
+    padding-left:32px ;
+    color: #333;
+}
+.button{
+    border-radius: 6px;
+    margin-left:40px ;
+    color: #ffffff;
+    margin: 2px;
+    height: 50px;
+    width: 150px;
+}
+.button1{
+    border-radius: 6px;
+    
+    color:#333 ;
+    margin: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #333;
+    height: 50px;
+    width: 150px;
+}
+.button2{
+    border-radius: 6px;
+    margin-left:40px ;
+    color: #333;
+    margin: 2px;
+    height: 50px;
+    width: 150px;
+}
+.button3{
+    border-radius: 6px;
+    color: #ffffff;
+    margin: 2px;
+    height: 50px;
+    width: 150px;
+    
+}
+.bg-container2{
+    height: 11vh;
+    width: 1280px;
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 32px;
+    
+}
+.main-heading2{
+    font-size: 16px;
+}
+.clans{
+    padding-left: 40px;
+}
+/*Write your CSS code below and don't modify anything above*/

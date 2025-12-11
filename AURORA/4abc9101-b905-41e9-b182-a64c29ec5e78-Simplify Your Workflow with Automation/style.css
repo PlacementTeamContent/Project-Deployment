@@ -1,0 +1,56 @@
+/* Submission 1 */
+.bg-container{
+    background-color: #0018f9;
+    height: 50vh;
+    border-radius: 10px;
+}
+.h1{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 30px;
+}
+.p1{
+    color: #FFFFFF;
+    text-align: center;
+}
+.p2{
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 15px;
+}
+.b1{
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 5px;
+}
+.b2{
+    border-radius: 5px;
+    padding: 5px;
+    color: yellow;
+    border-color: yellow;
+}
+.b3{
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 5px;
+}
+.b4{
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 5px;
+
+}
+.p3{
+    color: grey;
+    padding: 10px;
+}
+.card{
+    height: 38vh;
+}
+.last{
+    background-color: #333;
+    text-align: center;
+    color: white;
+    height: 10vh;
+    padding: 20px;
+}

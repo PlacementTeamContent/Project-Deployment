@@ -1,0 +1,53 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.m-n {
+    border-color: #0071e3;
+    height: 30vh;
+    
+}
+.l {
+   text-align: center; 
+}
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.b {
+    background-color: #007bff;
+    color: white;
+    border-width: 0px;
+}
+.t {
+    background-color: #28a745;
+    color: white;
+    border-width: 0px;
+}
+.n {
+    background-color: #dc3545;
+    color: white;
+    border-width: 0px;
+}
+.ravi {
+    text-align: center;
+}
+.giri {
+    text-align: center;
+}
+.maha {
+    text-align: center;
+}
+.r {
+    color: #007bff;
+}
+.g {
+    color: #28a745;
+}
+.i {
+    color: #dc3545;
+}
+/*Write your CSS code below and don't modify anything above*/

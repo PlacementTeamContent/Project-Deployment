@@ -1,0 +1,100 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.bg{
+    background-color: lightblue;
+    height:100vh;
+}
+.h{
+    font-family: "Caveat"
+   
+}
+.pen{
+    border-style: solid;
+    border-color:#0071e3;
+    border-radius:10px;
+    margin-left:20px;
+    background-color: #FFFFFF;
+    margin-right: 50px;
+}
+.h2{
+   font-family: "Caveat";
+   color:#007bff;
+   text-align: center;
+   padding-top: 10px;
+}
+.p2{
+     font-family: "Caveat";
+     text-align: center;
+     color:#000000;
+}
+.b2{
+    font-family: "Caveat";
+    color:#FFFFFF;
+    padding: 10px;
+    width:150px;
+    background-color: #007bff;
+    text-align: center;
+     border-radius:5px;
+     margin:15px;
+     width:200px;
+     border-style:solid;
+     border-width:0px;
+}
+.h3{
+   font-family: "Caveat";
+   color:#28a745;
+   text-align: center;
+   padding-top: 10px;
+}
+.p3{
+     font-family: "Caveat";
+     text-align: center;
+      color:#000000;
+}
+.b3{
+    font-family: "Caveat";
+    color:#FFFFFF;
+    padding: 10px;
+    width:150px;
+    background-color: #28a745;
+    text-align: center;
+     border-radius:5px;
+     margin:15px;
+     width:200px;
+     border-style:solid;
+     border-width:0px;
+}
+.h4{
+   font-family: "Caveat";
+   color:#dc3545;
+   text-align: center;
+   padding-top: 10px;
+}
+.p4{
+     font-family: "Caveat";
+     text-align: center;
+      color:#000000;
+}
+.b4{
+    font-family: "Caveat";
+    color:#FFFFFF;
+    padding: 10px;
+    width:150px;
+    background-color: #dc3545;
+    text-align: center;
+     border-radius:5px;
+     margin:15px;
+     width:200px;
+     border-style:solid;
+     border-width:0px;
+}
+/*Write your CSS code below and don't modify anything above*/

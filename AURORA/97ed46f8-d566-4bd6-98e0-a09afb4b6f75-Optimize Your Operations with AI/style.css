@@ -1,0 +1,41 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: #0018f9;
+    text-align: center;
+    padding: 20px;
+}
+.heading{
+    color: #ffffff;
+    font-family: "Roboto";
+}
+.para{
+    color: #ffffff;
+    font-family: "Roboto";
+}
+.yash{
+    padding: 15px;
+    margin: 8px;
+}
+.head{
+    color: #000000;
+    font-family: "Roboto";
+}
+.para1{
+    color: #000000;
+}
+.card{
+    background-color: #333333;
+    text-align: center;
+}
+.b{
+    color: #ffffff;
+}

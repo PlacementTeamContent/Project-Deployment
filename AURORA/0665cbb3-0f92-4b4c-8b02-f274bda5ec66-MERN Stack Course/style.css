@@ -1,0 +1,37 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+   color:#3b3b3b;
+}
+
+.bg-container{
+    background-color: lightblue;
+    background-size: cover;
+    height:130vh;
+    padding:10px;
+    
+    
+}
+.container1{
+    border-radius:8px;
+    height:160px;
+    width:1000px;
+    background-color: #ffffff;
+    border-style:solid;
+    border-color: black;
+    margin:30px;
+    border-width:1px;
+}
+.harshith1{
+    text-align: center;
+}
+.harshith2{
+    text-align: center;
+    padding:10px;
+    margin:0px;
+    color:black;
+}

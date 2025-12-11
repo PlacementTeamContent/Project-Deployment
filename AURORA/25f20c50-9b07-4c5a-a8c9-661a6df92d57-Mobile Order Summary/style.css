@@ -1,0 +1,45 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.h-center{
+    text-align: center;
+    background-color: #FFFFFF;
+    
+}
+.head{
+    font-weight: bold;
+    color: black;
+    font-family: "Roboto";
+}
+.para{
+    color:#8a8384 ;
+    font-family:"Roboto";
+}
+.para1{
+    font-weight: bold;
+    
+}
+.butt1{
+    background-color: #4e73df;
+    color: #FFFFFF;
+}
+.butt2{
+    background-color: #e2e2e2;
+    width: 160px;
+}
+.bg{
+   padding: 140px;
+    
+}
+.bi{
+    background-color: #f2f4ff;
+}

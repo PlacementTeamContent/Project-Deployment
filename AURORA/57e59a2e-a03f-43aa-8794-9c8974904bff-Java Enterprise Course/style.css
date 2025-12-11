@@ -1,0 +1,67 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container{
+    background-color:lightblue;
+    background-size:cover;
+    height:100vh;
+    width:400vw;
+    padding:30px;
+}
+.heading{
+    font-family:"Roboto";
+    color:black;
+    text-align:center;
+}
+.card{
+    background-color:#ffffff;
+    border-radius:5px;
+    border-color:black;
+    margin-bottom:20px;
+}
+.card{
+    background-color:#ffffff;
+    border-radius:5px;
+    border-color:black;
+    margin-bottom:20px;
+}
+.card{
+    background-color:#ffffff;
+    border-radius:5px;
+    border-color:black;
+    margin-bottom:20px;
+}
+.card{
+    background-color:#ffffff;
+    border-radius:5px;
+    border-color:black;
+    margin-bottom:20px;
+}
+.head{
+    font-family:"Roboto";
+    color:black;
+     text-align:center;
+}
+.ol1{
+    list-style-type:disc;
+     font-family:"Roboto";
+}
+.ol2{
+    list-style-type:upper-roman;
+     font-family:"Roboto";
+}
+.ol3{
+    list-style-type:circle;
+     font-family:"Roboto";
+}
+.ol4{
+    list-style-type:upper-alpha;
+     font-family:"Roboto";
+}

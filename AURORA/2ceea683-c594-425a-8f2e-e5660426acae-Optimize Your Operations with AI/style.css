@@ -1,0 +1,104 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+/* Base styling to mimic the environment and set up fonts*/
+body {
+    font-family: Arial,sans-serif;
+    background-color: #333;/*Dark background to make the banner stand out*/
+    color: #fff;
+
+
+
+   margin:0;
+   
+   
+   padding:0;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   justify-content:center;
+   min-height:100vh;
+}
+/*_ _ _ Banner Container _ _ _*/
+.ai-banner-container { 
+    width:80%;/* Adjust as  needed */ 
+    max-width: 900px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    border-radius:4px;
+    overflow:hidden;/*To contain the sections*/
+}
+/* _ _ _ Blue Top Section _ _ _ */
+.ai-banner-top {
+    background-color:#0d4al;/*Deep Blue color */
+    color:white;
+    padding:30px 40px;
+    text-align:center;
+    
+}
+.ai-banner-top h { 
+    font-size:1.8em;
+    font-weight:bold;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+.ai-banner-top .subtitle { 
+    font-size: 1.1em;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+/* _ _ _ White Bottom Section _ _ _ */
+.ai-banner-bottom {
+    background-color: white;
+    color: #333;
+    padding:30px 40px;
+    
+}
+.ai-banner-bottom h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 10px;
+    
+}
+.ai-banner-bottom .why-ai-text {
+    font-size: 0.9em;
+    line-height: 1.5;
+    margin-bottom:25px;
+    
+}
+/* _ _ _ Buttons _ _ _ */ 
+.button-group {
+    display: flex;
+    gap:  15px;/* Spacing between buttons */
+    margin-bottom: 15px;/*Spacing between button rows */
+    
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 0.9em;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border_radius:3px;
+    transition:background-color 0.3s;
+    text-transform: uppercase;
+}
+/*Specific Button Styles*/
+.btn-learn {
+    background-color: #008cba;/*Light Blue/Cyan*/
+    color:white;
+    
+}
+.btn.learn.hover {
+    background-color: #007bb5;
+}
+.btn-contact {
+    background-color: white;
+    color: #333;
+    border:1px solid #ccc;/*Gray border to match the image*/
+    
+}
+.btn_contact:hover {
+    background-color: #f0f0f0;
+
+    
+}

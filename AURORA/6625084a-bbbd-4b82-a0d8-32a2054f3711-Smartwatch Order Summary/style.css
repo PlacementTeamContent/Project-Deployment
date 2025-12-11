@@ -1,0 +1,59 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: #f2f4ff;
+     height: 100vh;
+}
+.inside-card{
+    background-color: #FFFFFF;
+   height: 40vh;
+    width: 30vh;
+    
+    
+    
+}
+.bg-heading{
+    padding: 15px;
+    font-family: Roboto;
+}
+.image{
+    height: 120px;
+    width: 120px;
+}
+.para{
+    color: #8a8384;
+    font-family: Roboto;
+}
+.h{
+    font-family: Roboto;
+    font-weight: bold;
+}
+.button{
+    background-color: #4e73df;
+    color:#FFFFFF ;
+    border-width: 0px;
+    width: 90%;
+    height: 40px;
+    border-radius: 8px;
+}
+.button1{
+    background-color: #e2e2e2;
+    border-width: 0px;
+    margin-top:5px ;
+    width: 90%;
+    height: 40px;
+    border-radius: 8px;
+}
+.n{
+    text-align: center;
+}

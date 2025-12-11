@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.page-part-1{
+    background-color: #0018f9;
+    color: #FFFFFF;
+    padding: 15px;
+    text-align: center;
+}
+
+.page-part-2-para{
+    color: #f4f4f4;
+}
+
+.button-1{
+    background-color: gold;
+    color: #333;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px;
+    border-width: 0px;
+    
+}
+
+.button-2{
+    color: #0018f9;
+    background-color: #FFFFFF;
+    padding: 5px;
+    margin: 5px;
+    border-color: #0018f9;
+    border-radius: 15px;
+}
+.button-3{
+    background-color: #0018f9;
+    color: #333;
+    border-color: #0018f9;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.button-4{
+    background-color: red;
+    color: #FFFFFF;
+    border-color: red;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.footer{
+    background-color: #333;
+    color: #FFFFFF;
+    text-align: center;
+    height: 40px;
+}

@@ -1,0 +1,50 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+.container{
+    background-color: lightblue;
+    background-size: cover;
+   
+    
+}
+.head1{
+    color: #007bff;
+}
+.head2{
+    color: #28a745;
+}
+.head3{
+    color: #dc3545;
+}
+.heading{
+    font-family: "Caveat";
+}
+.button1{
+    background-color:#007bff;
+}
+.button2{
+     background-color:#28a745;
+}
+.button3{
+     background-color:#dc3545;
+}
+.card1{
+    background-color: #f8f9fa;
+    text-align: center;
+    border-radius: 15px;
+    border-color: #0071e3;
+    margin-left: 30px;
+    width: 950px;
+    height: 200px;
+    padding: 70px;
+    border-style: solid;
+}

@@ -1,0 +1,58 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.first{
+    background-color: #0018f9;
+    background-size: cover;
+  height: 40vh;
+    text-align: center;
+    padding: 10px;
+}
+.text{
+    color: #ffffff;
+}
+.second{
+    background-color: #f4f4f4;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 10px;
+    border-width: 0px;
+   
+}
+.third{
+    background-color: #333;
+    text-align: center;
+    
+    height:15vh;
+   ;
+}
+.text1{
+    color: #ffffff;
+    padding: 5px;
+    font-size: 10px;
+}
+.buttn1{
+    border-color: green;
+    color: green;
+    border-radius: 5px;
+}
+.buttn2{
+    background-color:lightblue;
+    color: white;
+    border-radius: 5px;
+}
+.pad{
+    padding: 25px;
+}
+.mard{
+    margin: 5px;
+    padding: 10px
+    ;
+}

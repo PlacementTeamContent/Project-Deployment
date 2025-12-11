@@ -1,0 +1,65 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-card{
+    background-color: lightblue;
+    height: 656px;
+    width: 1280px;
+    padding: 25px;
+}
+.header-1{
+    font-size: 40px;
+    margin-right: 10px;
+    
+}
+.h1{
+    color:#007bff ;
+    font-size: 20px;
+}
+.h2{
+    color: #28a745;
+    font-size: 20px;
+}
+.h3{
+    color: #dc3545;
+    font-size: 20px;
+}
+.bt1{
+  background-color: #007bff;   
+  color:#ffffff ;
+  border-radius:5px ;
+  width: 175px;
+}
+.bt2{
+    background-color: #28a745;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 175px;
+}
+.bt3{
+    background-color: #dc3545;
+    color: #ffffff;
+    border-radius:5px ;
+    width: 175px;
+}
+.box{
+    background-color: #f8f9fa;
+    border-color:#0071e3 ;
+   padding: 10px;
+    text-align: center;
+    width:825px ;
+    height: 175px;
+    border-style:solid ;
+    border-radius:5px ;
+    margin-left: 60px;
+}

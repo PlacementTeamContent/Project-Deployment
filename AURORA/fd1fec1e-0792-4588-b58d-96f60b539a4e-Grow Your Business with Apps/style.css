@@ -1,0 +1,30 @@
+/* Submission 1 */
+.main{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+    height:40vh;
+    background-size:cover;
+    color:#FFFFFF;
+    
+}
+.head{
+    Font-size:25px;
+    text-align: center;
+    margin:10px;
+    padding:10px;
+}
+.para{
+    text-align: center;
+}
+.graph{
+    text-align:center;
+}
+.card{
+    background-color: white;
+}
+.heading{
+    font-size:20px;
+    color:red;
+}
+.paragraph{
+    font-size:10px;
+}

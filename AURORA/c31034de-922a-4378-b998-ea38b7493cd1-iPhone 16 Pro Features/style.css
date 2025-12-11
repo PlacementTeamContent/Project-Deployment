@@ -1,0 +1,66 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-color: lightblue;
+    background-size: cover;
+    height: 90vh;
+    text-align: center;
+    padding: 70px;
+
+}
+
+.tcard {
+    padding: 20px;
+    border-color: #0071e3;
+    border-style: solid;
+    border-width: 2px;
+    background-color: white;
+    margin-right: 200px;
+    border-radius: 5px;
+}
+
+.heading1 {
+    color: #007bff;
+    font-weight: bold;
+
+}
+
+.heading2 {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.heading3 {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.button1 {
+    background-color: #007bff;
+}
+
+.button2 {
+    background-color: #28a745;
+}
+
+.button3 {
+    background-color: #dc3545;
+}
+
+.btn {
+    width: 200px;
+}
+h1{
+    color: #000000;
+}

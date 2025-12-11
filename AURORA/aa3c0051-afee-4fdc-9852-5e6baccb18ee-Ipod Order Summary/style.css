@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.card {
+    background-color: #f2f4ff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.card1 {
+    height: 290px;
+    width: 160px;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: center;
+}
+
+.head {
+    font-size: 15px;
+    text-align: center;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+}
+
+.para1 {
+    color: #e2e2e2;
+    font-size: 8px;
+    padding: 10px;
+
+}
+.card5{
+    background-color:#f2f4ff;
+    height:100vh;
+    width:100vw;
+    text-align:center;
+}
+
+.kiran{
+    text-align:center;
+    font-size:30px;
+    color:#000000;
+    
+}
+.card1 {
+    height: 290px;
+    width: 160px;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: center;
+}

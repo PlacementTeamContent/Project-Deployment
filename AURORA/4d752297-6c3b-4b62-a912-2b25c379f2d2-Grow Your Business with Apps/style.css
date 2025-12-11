@@ -1,0 +1,48 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.container{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+}
+.h-center{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Roboto;
+}
+.heading1{
+    color: red;
+}
+.back{
+    background-color:#f4f4f4 ;
+    font-family: Roboto;
+}
+.button1{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    border-color: blue;
+}
+.button2{
+    border-radius: 10px;
+    color: green;
+    border-color: green;
+}
+.button3{
+    background-color: orange;
+    border-radius: 10px;
+    color: #333333;
+    border-color: orange;
+}
+.button4{
+    background-color: #333333;
+    border-radius: 10px;
+    color: white;
+    border-color: #333333;
+}

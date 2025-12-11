@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: lightblue;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.bg{
+    border-style: solid;
+    border-color: #0071e3;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+.heading{
+    color: #0071e3;
+    text-align: center;
+}
+.paragraph{
+    color: #000000;
+    text-align: center;
+}
+.button{
+    width: 200px;
+    background-color: #0071e3;
+    color: #ffffff;
+    border-width: 0px;
+}
+.button-2{
+    width: 200px;
+    background-color: #28a745;
+    color: #ffffff;
+    border-width: 0px;
+}
+.button-3{
+    width: 200px;
+    background-color: #dc3545;
+    color: #ffffff;
+    border-width: 0px;
+}
+.heading-2{
+    color: #28a745;
+    text-align: center;
+}
+.paragraph-2{
+    color: #000000;
+    text-align: center;
+}
+.heading-3{
+    color: #dc3545;
+    text-align: center;
+}
+.paragraph-3{
+    color: #000000;
+    text-align: center;
+}

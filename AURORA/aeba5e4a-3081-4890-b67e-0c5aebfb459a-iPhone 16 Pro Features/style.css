@@ -1,0 +1,50 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-background {
+    background-color: lightblue;
+    background-size: cover;
+    height: 110vh;
+}
+
+.h1 {
+    font-family: "Caveat";
+    text-align: center;
+    padding-top: 50px;
+}
+.card{
+    height: 20vh;
+    width: 70vw;
+    background-color: #f8f9fa;
+    background-size: cover;
+    margin:10px;
+    border: solid 3px;
+    border-color: #0071e3;
+    border-radius: 20px;
+    padding: 15px;
+}
+.h2{
+    color:#007bff ;
+    font-weight: bold;
+}
+.h3{
+    color: #28a745;
+    font-weight: bold;
+}
+.h4{
+    color: #dc2545;
+    font-weight: bold;
+}
+.para{
+    font-size: 20px;
+}

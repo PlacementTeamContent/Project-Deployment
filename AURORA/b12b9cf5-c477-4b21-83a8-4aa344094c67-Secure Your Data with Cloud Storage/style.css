@@ -1,0 +1,28 @@
+/* Submission 1 */
+.varsha{
+    background-color:#0018f9 ;
+    color:#FFFFFF;
+    height:40vh;
+    width:100vw;
+    padding:20px;
+}
+.head{
+    text-align:center ;
+    font-size:20px;
+}
+.para{
+    text-align:center;
+    font-size:10px;
+}
+.honey{
+    background-color:#f4f4f4;
+    color:#333;
+    font-size:20px;
+    height:40vh;
+    width:100vw;
+    
+}
+*{
+   margin:0; 
+   font-family:"Roboto";
+   }

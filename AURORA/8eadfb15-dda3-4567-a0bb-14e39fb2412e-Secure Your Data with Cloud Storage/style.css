@@ -1,0 +1,90 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.hedu {
+    color: #FFFFFF;
+
+}
+
+.paraa {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.par {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.bluee {
+    padding: 40px;
+}
+
+.heh {
+    color: #000000;
+    font-size: 30px;
+}
+
+.para {
+    color: #000000;
+
+}
+
+.colll {
+    color: #FFFFFF;
+    width: 143px;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 9px;
+}
+
+.bro {
+
+
+
+    width: 143px;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 9px;
+
+}
+
+.where {
+    width: 143px;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 9px;
+    color: #000000;
+}
+
+.how {
+    width: 143px;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 9px;
+    color: #FFFFFF;
+}
+
+.hloo {
+    height: 40px;
+
+}
+
+.yy {
+    text-align: center;
+    color: #FFFFFF;
+    padding: 7px;
+    margin: 9px;
+
+}
+
+.hiii {
+    height: 700px;
+}

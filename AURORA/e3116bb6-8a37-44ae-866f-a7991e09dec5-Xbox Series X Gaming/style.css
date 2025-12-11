@@ -1,0 +1,76 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.ba {
+    background-color: lightblue;
+    height: 100vh;
+    background-size: cover;
+}
+
+.h {
+    text-align: center;
+    color: #000000;
+}
+.card{
+    height: 25vh;
+    width: 90vw;
+    border-width: 2px;
+    border-color: #0071e3;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 5px;
+}
+.he1{
+    color: #007bff;
+    font-weight: bold;
+}
+.he2{
+    color: #28a745;
+    font-weight: bold;
+}
+.he3{
+    color: #dc3545;
+    font-weight: bold;
+}
+.pa{
+    color: #000000;
+}
+.bu1{
+    color: #FFFFFF;
+    background-color: #007bff;
+    width: 180px;
+    margin-left: 500px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+}
+.bu2{
+    color: #FFFFFF;
+    background-color: #28a745;
+    width: 180px;
+    margin-left: 500px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+}
+.bu3{
+    color: #FFFFFF;
+    background-color: #dc3535;
+    width: 180px;
+    margin-left: 500px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+}

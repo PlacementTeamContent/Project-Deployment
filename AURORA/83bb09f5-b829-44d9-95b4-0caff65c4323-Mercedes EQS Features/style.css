@@ -1,0 +1,93 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.div1{
+    text-align: center;
+}
+.card{
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    border-color: #0071e3;
+    border-width: 3px;
+    height: 180px;
+    width: 120vw;
+    
+    
+  
+}
+.div{
+    text-align: center;
+}
+
+.btn3{
+    height: 30px;
+    width: 200px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    background-color: #dc3545;
+}
+.btn2{
+    height: 30px;
+    width: 200px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    background-color: #28a745;
+}
+.btn1{
+    height: 30px;
+    width: 200px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    background-color: #007bff;
+}
+.para1{
+    font-size: 11px;
+    text-align: center;
+}
+.para2{
+    font-size: 11px;
+    text-align: center;
+}
+.head3{
+    font-size: 20px;
+    text-align: center;
+    color: #dc3545;
+    font-weight: bold;
+    padding: 10px;
+}
+.head2{
+    font-size: 20px;
+    text-align: center;
+    color: #28a745;
+    font-weight: bold;
+    padding: 10px;
+}
+.head1{
+    font-size: 20px;
+    text-align: center;
+    color: #007bff;
+    font-weight: bold;
+    padding: 10px;
+}
+.bg1{
+    background-color: lightblue;
+    background-size: cover;
+    height: 100vh;
+    width: 160vw;
+    padding: 35px;
+}
+.head{
+   font-family: "Caveat";
+   padding: 20px;
+   color:#00000;
+   font-size: 35px;
+   text-align: center;
+}

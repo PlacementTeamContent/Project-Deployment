@@ -1,0 +1,64 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-container{
+    background-color:#E3F2FD;
+    height:100vh;
+    overflow:auto;
+}
+.nav-bar{
+    color:#FFFFFF;
+    
+}
+.anc{
+    color:#FFFFFF;
+    font-family:Roboto;
+}
+.card1{
+    text-align:center;
+    background-color:#FFFFFF;
+    height:200px;
+    border-radius:10px;
+}
+.card2{
+    text-align:center;
+    background-color:#FFFFFF;
+    height:280px;
+    border-radius:10px;
+}
+.para{
+    font-size:15px;
+    
+    font-weight:bold;
+}
+.head{
+    font-size:20px;
+    font-family:Roboto;
+}
+.image{
+    height:100px;
+    width:100px;
+    border-radius:10px;
+}
+.foot{
+    background-color:#FFFFFF;
+    border-radius:10px;
+}
+.sub-card{
+    background-color:#f9f9f9;
+}
+.sub-head{
+    text-decoration:underline;
+    text-align:left;
+    font-size:20px;
+}
+.sub-para{
+    font-size:10px;
+    text-align:left;
+}

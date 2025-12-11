@@ -1,0 +1,71 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.bg-container{
+    height: 100vh;
+    width: 100vw;
+    
+}
+.box{
+    text-align: center;
+    background-color: #0018f9;
+    padding: 63px;
+}
+.box2{
+    background-color: #f4f4f4;
+    padding: 22px;
+}
+.heading{
+    color: #FFFFFF;
+}
+.paragraph{
+    color:#FFFFFF ;
+}
+.why{
+    color: #000000;
+   
+    font-weight: bold;
+}
+.para{
+    color: #000000;
+}
+.button1{
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 5px;
+    
+    
+}
+.button2{
+    
+    border-radius: 4px;
+    padding: 5px;
+   
+    
+}
+.button3{
+    color: #000000;
+    border-radius: 4px;
+    padding: 5px;
+    
+}
+.button4{
+    
+    border-radius: 4px;
+    padding: 5px;
+    
+}
+.footer{
+    height:100%;
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+/*Write your CSS code below and don't modify anything above*/

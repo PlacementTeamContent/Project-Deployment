@@ -1,0 +1,81 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    margin: 0;
+    font-family: "Roboto";
+    background-color: lightblue;
+    margin-bottom:20px;
+}
+
+.container1 {
+    background-color: #ffffff;
+    border-color: #3b3b3b;
+    margin: 10px;
+    border-radius: 10px;
+    padding:8px;
+}
+
+.container2 {
+    background-color: #ffffff;
+    border-color: #3b3b3b;
+    margin: 10px;
+    border-radius: 10px;
+    padding:8px;
+}
+
+.container3 {
+    background-color: #ffffff;
+    border-color: #3b3b3b;
+    margin: 10px;
+    border-radius:10px;
+    padding:8px;
+}
+
+.container4 {
+    background-color: #ffffff;
+    border-color: #3b3b3b;
+    margin: 10px;
+    border-radius:10px;
+    padding:8px;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.head2 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.head3 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.head4 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.para2 {
+    list-style-type: upper-roman;
+    margin: 15px;
+}
+
+.para3 {
+    list-style-type: disc;
+}
+
+.para4 {
+    list-style-type: upper-alpha;
+}
+
+.head {
+    text-align: center;
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,87 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-card{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png');
+    height: 720px;
+    width: 1280px;
+    background-size:cover;
+}
+.we{
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+}
+.wer{
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+}
+.zx{
+    padding: 50px;
+    margin-top:0px;
+}
+.card{
+    background-color: #f4f4f4;
+    height:50vh;
+    margin-top:200px;
+}
+.ram{
+    color:red;
+    font-family: Roboto;
+    
+}
+.ramm{
+    color:#333333;
+}
+.wsx{
+    padding: 20px;
+}
+.by{
+    background-color: blue;
+    color: #ffffff;
+    padding: 2px;
+    border:0px;
+    border-radius:5px;
+}
+.byy{
+    background-color: #f4f4f4;
+    color: green;
+    padding: 2px;
+    border-color:green;
+    border-radius:5px;
+}
+.bx{
+    background-color:yellow;
+    color: #333333;
+    padding: 2px;
+    border:0px;
+    border-radius:5px;
+}
+.bxx{
+    background-color:#333333;
+    color: white;
+    padding: 2px;
+    border:0px;
+    border-radius:5px;
+}
+.asd{
+    background-color: #333333;
+    height:10vh;
+    padding: 2px;
+    margin-top: 40px;
+    margin-bottom:10px;
+}
+.mru{
+    text-align: center;
+    color: #ffffff;
+    padding: 5px;
+    margin-top: 8px;
+}

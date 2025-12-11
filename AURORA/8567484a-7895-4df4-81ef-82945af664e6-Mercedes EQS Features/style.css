@@ -1,0 +1,94 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.background1{
+    background-color:lightblue;
+    height: 120vh;
+    width: 100vw;
+    padding: 12px;
+}
+.heading1{
+    color: #000000;
+    font-family: caveat;
+    text-align: center;
+    font-size: 32px;
+    
+}
+.background2{
+    background-color: #f8f9fa;
+    margin-right:120px;
+    margin-left:12px;
+   
+  
+    border: solid;
+   
+    border-color: #0071e3;
+    border-radius: 5px;
+}
+.mb{
+    color: #007bff;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+   
+}
+.para1{
+    color:#000000 ;
+    text-align: center;
+    padding: 2px;
+
+}
+.button{
+    color: #ffffff;
+    border: 0px;
+    background-color:#007bff ;
+    margin: 10px;
+    border-radius: 3px;
+}
+.btn1{
+    text-align: center;
+}
+.air{
+    color:#28a745;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+.bt2{
+    color: #ffffff;
+    border: 0px;
+    background-color:#28a745;
+    margin: 10px;
+    border-radius: 3px;
+    
+}
+.btn3{
+    color: #ffffff;
+    border: 0px;
+    background-color:#dc3545;
+    margin: 10px;
+    border-radius: 3px;
+    
+}
+.ultra{
+     color: #dc3545;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+
+
+
+/*Write your CSS code below and don't modify anything above*/

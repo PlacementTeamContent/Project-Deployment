@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.cont1 {
+    background-color: lightblue;
+    height: 95vh;
+    width: 100vw;
+}
+
+.main-head {
+    text-align: center;
+    font-size: 40px;
+    margin: 0px;
+    padding: 20px;
+}
+
+.cont11 {
+    background-color: white;
+    height: 25vh;
+    width: 80vw;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #0071e3;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 0px;
+    border-radius: 8px;
+}
+
+.head1 {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.head2 {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.head3 {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.butt1 {
+    background-color: #007bff;
+    color: white;
+}
+
+.butt2 {
+    background-color: #28a745;
+    color: white;
+}
+
+.butt3 {
+    background-color: #dc3545;
+    color: white;
+}

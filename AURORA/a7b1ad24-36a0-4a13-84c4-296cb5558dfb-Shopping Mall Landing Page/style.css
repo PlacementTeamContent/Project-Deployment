@@ -1,0 +1,11 @@
+/* Submission 1 */
+.bg-container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css2.avif");
+    height:400px;
+    width: 500px;
+    background-size:cover;
+}
+.paragraph {
+    text-decoration:underline ;
+    font-style:italic ;
+}

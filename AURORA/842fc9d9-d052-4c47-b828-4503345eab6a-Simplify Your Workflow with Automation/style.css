@@ -1,0 +1,59 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.upper-container{
+    color: #FFFFFF;
+    background-color: #0018f9;
+    background-size: cover;
+    height: 42.5vh;
+    text-align: center;
+    padding: 45px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.mid-container{
+    background-color: #f4f4f4;
+    background-size: cover;
+    height: 43.5vh;
+    padding: 35px;
+    color: #000000;
+}
+
+.heading1{
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.para1{
+    font-size: 18px;
+}
+
+.para2{
+    font-size: 17px;
+    text-align: center;
+}
+
+.lower-container{
+    background-color: #333;
+    background-size: cover;
+    color: #FFFFFF;
+    height: 10vh;
+}
+
+.butto{
+    margin-left: 5px;
+    width: 160px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 8px;
+}

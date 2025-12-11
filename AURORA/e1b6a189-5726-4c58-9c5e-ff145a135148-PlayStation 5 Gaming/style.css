@@ -1,0 +1,29 @@
+/* Submission 1 */
+.a {
+    background-color: lightblue;
+    background-size: cover;
+    height: 100vh;
+
+}
+.b{
+    font-family: "caveat";
+}
+.c{
+    background-color:white;
+    height:30vh;
+    width: 600px;
+    padding: 20px;
+    
+}
+
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,44 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.bg_{
+    background-color:#f2f4ff;
+    height:100vh;
+    
+    
+}
+.card_{
+    background-color:#ffffff;
+    height:450px;
+    width:300px;
+    margin:auto;
+}
+.card_image{
+    height:150px;
+    width:150px;
+}
+.button_1{
+    width:300px;
+    background-color:#4e73df;
+    margin-bottom:10px;
+}
+.button_2{
+    width:300px;
+    background-color:#e2e2e2;
+}
+.para{
+    color:black;
+    font-weight:bold;
+}
+.head_{
+    font-size:28px;
+}

@@ -1,0 +1,64 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background{
+    background-color: lightblue;
+    font-style: Coveat;
+    background-size:cover;
+    height: 100vh;
+    
+}
+.heading{
+     font-family: Coveat;
+     text-align: center;
+   
+     
+}
+
+.block1{
+    background-color: white;
+    height:25vh ;
+    border: 10px;
+    border-color: #007bff;
+    margin: 10px;
+    text-align: center;
+    border-width: 10px;
+    font-family: Coveat;
+}
+.h1{
+    color: blue;
+    font-family: Coveat;
+    font-size: 20px;
+    
+}
+.p1{
+   font-family: Coveat; 
+}
+.b1{
+    background-color: #007bff;
+    font-style: Coveat;
+}
+
+.block2{
+    background-color: white;
+    height:25vh ;
+    border: 10px;
+    border-color: #007bff;
+    margin: 10px;
+    text-align: center;
+    border-width: 10px;
+    font-family: Coveat;
+}
+.h2{
+    color: blue;
+    font-family: Coveat;
+    font-size: 20px;
+    
+}
+.p2{
+   font-family: Coveat; 
+}
+.b2{
+    background-color: #007bff;
+    font-style: Coveat;
+}

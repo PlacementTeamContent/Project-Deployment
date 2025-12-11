@@ -1,0 +1,88 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+ .blue{
+     background-color: #0018f9;
+     height: 32vh;
+     width: 150vh;
+ }
+ .p{
+     color: #FFFFFF;
+     padding: 12px;
+ }
+ .t{
+     text-align: center;
+ }
+ .cream{
+     background-color: #f4f4f4;
+     height: 32vh;
+     width: 150vh;
+     font-family: "Roboto";
+ }
+ 
+ 
+ 
+ 
+ .h2{
+     color: #333;
+     padding: 12px;
+      font-family: "Roboto";
+ }
+ 
+ 
+ 
+ .p2{
+     padding: 12px;
+      font-family: "Roboto"; 
+ }
+ 
+ .b1{
+     border-width:0px;
+     background-color: #333;
+     color: #FFFFFF;
+     border-radius: 3px;
+ }
+ 
+ 
+ .b2{
+     border-width:0px;
+     background-color: #f4f4f4;
+     color: grey;
+     border-radius: 3px;
+     border-style: solid;
+     border-color: grey;
+     border-width: 2px;
+     
+ }
+ 
+ 
+ .b3{
+     border-width:0px;
+     background-color:grey;
+     color: #333;
+     border-radius: 3px;
+ }
+ 
+ .b4{
+     border-width:0px;
+     background-color: red;
+     color: #FFFFFF;
+     border-radius: 3px;
+ }
+ 
+ 
+ .pad{
+     padding:6px ;
+ }
+ 
+ .las{
+     background-color: #333;
+     color: #FFFFFF;
+ }

@@ -1,0 +1,51 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-container{
+    background-color: lightblue;
+    height: 200vh;
+    width: 200vw;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.main-container1{
+    background-color: #ffffff;
+    padding:10px; 
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.main-container2{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.main-container3{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.main-container4{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.head{
+    text-align: center;
+}
+.list{
+    list-style-type: upper-roman;
+}
+.list1{
+    list-style-type: bullet;
+}
+.list2{
+    list-style-type: circle;
+}
+.list3{
+    list-style-type: upper-alpha;
+}

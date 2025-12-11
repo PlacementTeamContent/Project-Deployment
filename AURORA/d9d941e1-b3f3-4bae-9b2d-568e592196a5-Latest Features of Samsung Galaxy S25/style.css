@@ -1,0 +1,77 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.card {
+    border-color: #0071e3;
+    border-width: 2px;
+    text-align: center;
+    border-radius: 7px;
+
+}
+
+.blueheading {
+    color: #007bff;
+    font-size: 30px;
+}
+
+.greenheading {
+    color: #28a745;
+    font-size: 30px;
+}
+
+.redheading {
+    color: #dc3545;
+    font-size: 30px;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: #007bff;
+    color: #f8f9fa;
+    border-width: 0px;
+    margin: 20px;
+}
+
+.mainbg {
+    background-color: lightblue;
+    text-align: center;
+    height: 100vh;
+
+}
+
+.para {
+    color: #000000;
+}
+
+.bg {
+    margin: 50px;
+}
+
+.buttonred {
+    width: 180px;
+    height: 40px;
+    background-color: #dc3545;
+    color: #f8f9fa;
+    border-width: 0px;
+    margin: 20px;
+}
+
+.buttongreen {
+    width: 180px;
+    height: 40px;
+    background-color: #28a745;
+    color: #f8f9fa;
+    margin: 20px;
+    border-width: 0px;
+}

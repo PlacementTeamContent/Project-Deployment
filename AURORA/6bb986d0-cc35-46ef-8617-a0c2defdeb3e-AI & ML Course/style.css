@@ -1,0 +1,63 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.mainhead {
+    text-align: center;
+    color: #3b3b3b;
+    padding-top: 50px;
+}
+
+.bgcontainer {
+    background-color: lightblue;
+    height: 100vh;
+    
+}
+
+.card {
+    background-color: #ffffff;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+}
+.card4 {
+    background-color: #ffffff;
+    text-align: center;
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+}
+
+.w1 {
+    list-style-type: square;
+    text-align: left;
+}
+
+.w2 {
+    list-style-type: lower-latin;
+    text-align: left;
+}
+
+.w3 {
+    list-style-type: circle;
+    text-align: left;
+}
+
+.w4 {
+    list-style-type: upper-alpha;
+    text-align: left;
+}

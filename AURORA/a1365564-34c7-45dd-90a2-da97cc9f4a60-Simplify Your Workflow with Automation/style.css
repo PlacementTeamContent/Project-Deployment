@@ -1,0 +1,61 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.madhu{
+    background-color: #0018f9; 
+    padding: 20px;
+    height: 50vh;
+    width: 130vh;
+    
+    
+}
+.h1{
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+.p{
+    color:#ffffff ;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+.madhu2{
+    background-color:#f4f4f4 ;
+    height: 60vh;
+    width: 100vw;
+    padding: 20px;
+}
+.h2{
+    color:#333;
+}
+.p2{
+color: #000000;
+font-size: 15px;
+padding: 10px;
+}
+.madhupriya{
+    margin: 15px;
+    padding: 10px;
+}
+.madhupriya2{
+    background-color: #333;
+    color:#ffffff;
+    text-align: center;
+    height: 10vh;
+    padding: 12px;
+    width: 100vw;
+    
+}

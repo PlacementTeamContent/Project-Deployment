@@ -1,0 +1,91 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg1{
+    background-color:#0018f9;
+    height: 50vh;
+    text-align: center;
+}
+
+.heading{
+    color: #ffffff;
+    padding-top:50px ;
+}
+
+.para{
+    color: #ffffff;
+}
+
+.para1{
+    color: #ffffff;
+    padding: 15px;
+}
+.bg2{
+    background-color: #f4f4f4;
+    height: 70vh;
+    padding-left: 20px;
+}
+
+.one{
+    background-color:green;
+    color: #ffffff;
+    border-radius: 5px;
+    border-color:lightblue ;
+    height: 40px;
+    width: 130px;
+}
+
+.two{
+    background-color: #ffffff;
+    color: lightblue;
+    border-radius: 5px;
+    border-color:lightblue;
+    height: 40px;
+    width: 130px;
+}
+
+.three{
+    background-color: cyan;
+    color: black;
+    border-radius: 5px;
+    border-color:cyan ;
+    height: 40px;
+    width: 130px;
+}
+
+.four{
+    background-color:#333;
+    color: #ffffff;
+    border-radius: 5px;
+    border-color:#333;
+    height: 40px;
+    width: 130px;
+}
+
+.bg3{
+    margin-top: 100px;
+    background-color: #333;
+    height: 10vh;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.para1{
+    padding-top: 20px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+}
+
+.heading1{
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 25px;
+}

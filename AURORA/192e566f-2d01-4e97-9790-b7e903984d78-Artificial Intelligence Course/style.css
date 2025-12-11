@@ -1,0 +1,51 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.back-photo{
+    background-color: lightblue;
+    background-size: cover;
+    height: 94vh;
+}
+.head-top{
+    color: #3b3b3b;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+.white-card{
+    
+    background-color: #ffffff;
+    height: 15vh;
+    width: 80vw;
+    border-radius:12px ;
+    border-style: solid;
+    border-color:#3b3b3b ;
+    border-width: 1px;
+}
+.c-head-1{
+    font-size: 17px;
+    padding: 5px;
+}
+ul{
+    font-size:10px;
+}
+.one-list{
+    list-style-type: square;
+}
+.one-list-2{
+    list-style-type: upper-roman;
+}
+.one-list-3{
+    list-style-type: circle;
+}
+.one-list-4{
+    list-style-type: upper-alpha;
+}

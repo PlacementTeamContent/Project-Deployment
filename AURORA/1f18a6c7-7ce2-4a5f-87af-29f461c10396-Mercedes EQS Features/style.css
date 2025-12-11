@@ -1,0 +1,80 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: lightblue;
+    width: 1280px;
+    height: 728px;
+    padding-right: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.a-container{
+    background-color: white;
+    border-color: #007bff;
+    border-width: 10px;
+    border-radius: 5px;
+    width: 900px;
+    margin-bottom: 5px;
+    padding: 10px;
+     font-size: 20px;
+}
+.b-container{
+    background-color: white;
+    border-color: #007bff;
+    border: 10px;
+    border-radius: 5px;
+    width: 900px;
+    margin-bottom: 5px;
+     padding: 10px;
+      font-size: 20px;
+}
+.c-container{
+    background-color: white;
+    border-color: #007bff;
+    border: 10px;
+    border-radius: 5px;
+    width: 900px;
+     padding: 10px;
+      font-size: 20px;
+}
+.b1{
+    color: white;
+    background-color: #007bff;
+    border: 0px;
+    border-radius: 2px;
+    width: 150px;
+}
+.b2{
+    color: white;
+    background-color: #28a745;
+    border: 0px;
+    border-radius: 2px;
+}
+.b3{
+    color: white;
+    background-color: #dc3545;
+    border: 0px;
+    border-radius: 2px;
+}
+.h2{
+    color:#007bff;
+}
+.h3{
+    color: #28a745;
+}
+.h4{
+    color: #dc3545;
+}

@@ -1,0 +1,73 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.top {
+    font-family: "Roboto";
+    color: #ffffff;
+    background-color: #0018f9;
+    height: 60vh;
+    text-align: center;
+    padding-top: 60px;
+}
+.paragraph{
+    font-size:16px;
+}
+.haeding {
+    font-weight: bold;
+}
+
+.middle {
+    font-family: "Roboto";
+    color: #333;
+    height: 40vh;
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.button1 {
+    border-width: 0px;
+    margin: 2px;
+    width:135px;
+}
+
+.button2 {
+    border-color: #0018f9;
+    border-style: solid;
+    border-width: 2px;
+    margin: 2px;
+    color:#0018f9;
+    width:135px;
+}
+
+.button3 {
+    border-width: 0px;
+    margin: 2px;
+    width:135px;
+}
+.button4{
+    margin: 3px;
+}
+.heading2 {
+    font-weight: bold;
+    font-size:40px;
+}
+.paragraph2{
+    font-size:16px;
+}
+.bottom {
+    font-family: "Roboto";
+    color: #ffffff;
+    background-color: #333;
+    font-weight: bold;
+    height: 10vh;
+    text-align: center;
+    padding-top: 15px;
+}

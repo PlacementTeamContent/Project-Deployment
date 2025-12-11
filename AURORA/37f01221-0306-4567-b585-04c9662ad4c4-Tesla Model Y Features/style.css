@@ -1,0 +1,55 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+.main{
+    background-color:lightblue;
+    height: 90vh;
+    text-align: center;
+    padding-top:50px;
+}
+.submain{
+    background-color: white;
+    text-align: center;
+    margin-left: 50px;
+    border-radius:10px ;
+    border-style:solid;
+    border-width: 3px;
+    border-color: #0071e3;
+    height: 150px;
+    width:70vw;
+    padding-top:10px;
+    margin-right: 0px;
+}
+.hi{
+    color: #007bff;
+}
+.hi2{
+    color: #28a745;
+}
+.hi3{
+    color:#dc3545;
+}
+.btn{
+  color: #FFFFFF; 
+  background-color: #007bff;
+  border-radius: 5px;
+}
+.btn1{
+    color: #FFFFFF; 
+  background-color: #28a745;
+  border-radius: 5px;
+}
+.btn2{
+    color:#FFFFFF ; 
+  background-color: #dc3545;
+  border-radius: 5px;
+}
+/*Write your CSS code below and don't modify anything above*/

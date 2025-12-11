@@ -1,0 +1,62 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.first_container {
+    text-align: center;
+    background-color: #0018f9;
+    color: #FFFFFF;
+    height: 50vh;
+    font-family: Roboto;
+    padding: 50px;
+}
+
+.second_container{
+    background-color: #f4f4f4;
+    background-size: cover;
+    height: 40vh;
+    padding: 10px;
+}
+.button1{
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width:130px ;
+    margin: 5px;
+}
+.button2{
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width:145px ;
+    border-color: skyblue;
+    color: skyblue;
+    
+}
+.button3{
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width:130px ;
+    margin: 5px;
+    color: black;
+}
+.button4{
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    margin: 5px;
+}
+.third_container{
+    background-color: #333;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 25px;
+    background-size: cover;
+    height: 10vh;
+}

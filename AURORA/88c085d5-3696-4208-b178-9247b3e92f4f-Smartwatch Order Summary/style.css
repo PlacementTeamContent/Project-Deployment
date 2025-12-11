@@ -1,0 +1,93 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+.abhi {
+    background-color: white;
+    height: 80vh;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.ok {
+    background-color: #4e73df;
+    color: #FFFFFF;
+    height: 5vh;
+    border-radius: 4px;
+    border: none;
+    padding: 7px;
+    margin-bottom: 5px;
+}
+
+.p {
+    background-color: #e2e2e2;
+    color: black;
+    height: 5vh;
+    border-radius: 4px;
+    border: none;
+    padding: 7px;
+    width: 34vw;
+}
+
+.okk {
+    height: 50vh;
+    width: 50vw;
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
+.dean {
+    height: 70vh;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.done {
+    font-weight: bold;
+    margin-top: 30px;
+    transition: all;
+    text-align: center;
+}
+
+.o {
+    text-align: center;
+}
+
+#clickFun {
+    height: 100vh;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Write your CSS code below and don't modify anything above*/

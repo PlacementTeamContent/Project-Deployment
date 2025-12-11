@@ -1,0 +1,56 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.bg-container{
+    background-color: lightblue;
+    height: 95vh;
+    text-align: center;
+}
+.main-heading{
+    color: #000000;
+}
+.card{
+    height:23vh ;
+    width: 110vh;
+    padding: 10px;
+    border-color: #007bff;
+    border-width: 2px;
+    border-radius: 5px;
+}
+.button{
+    width: 20vh;
+    border-radius:2px ;
+}
+.sub-card{
+    margin: 20px;
+    text-align: center;
+}
+.button-main{
+    text-align: center;
+}
+.sub-heading-1{
+    color: #007bff;
+    font-size: 20px;
+}
+.sub-heading-2{
+    color: #28a745;
+    font-size: 20px;
+}
+.sub-heading-3{
+    color: #dc3545;
+    font-size: 20px;
+}
+.para{
+    font-size: 12px;
+}
+
+    
+    /*Write your CSS code below and don't modify anything above*/

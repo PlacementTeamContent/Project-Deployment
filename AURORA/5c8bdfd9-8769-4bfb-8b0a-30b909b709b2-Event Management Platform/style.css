@@ -1,0 +1,40 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+.blue{
+    background-color: #007bff;
+    
+}
+.a{
+    color:#FFFFFF;
+    font-size: 15px;
+}
+.lightblue{
+    background-color: #E3F2FD;
+    height: 100vh;
+    background-size: cover;
+    
+}
+.container1{
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.img1{
+    height: 20vh;
+    width: 30vw;
+}
+.learnmore{
+    color: lightblue;
+}
+.full{
+    margin: 30px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

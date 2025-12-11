@@ -1,0 +1,83 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.blue{
+    background-color: #0018f9;
+    height: 50vh;
+}
+.mh{
+    color: #ffffff;
+    text-align: center;
+    font-family: Roboto;
+    padding: 25px;
+}
+.pp{
+    color: #ffffff;
+    text-align: center;
+    font-family: Roboto;
+    padding: 0px;
+}
+.middle{
+    height: 40vh;
+}
+.last{
+    height: 10vh;
+    background-color: #333;
+}
+.lp{
+    color: #ffffff;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 10px;
+}
+.middlehd{
+    padding: 10px;
+}
+.bun1{
+    background-color: darkgreen;
+    height: 50px;
+    border-radius: 10px;
+    color: #ffffff;
+    border-width: 0px;
+    width: 18vw;
+    margin: 10px;
+}
+.bun2{
+    background-color: #f4f4f4;
+    height: 50px;
+    border-radius: 10px;
+    color: #0018f9;
+    border-color: #0018f9;
+    width: 18vw;
+    margin: 10px;
+    
+}
+.bun3{
+    background-color: lightblue;
+    height: 50px;
+    border-radius: 10px;
+    color: #000000;
+    border-width: 0px;
+    width: 18vw;
+    margin: 10px;
+    
+}
+.bun4{
+    background-color: #333;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 50px;
+    border-width: 0px;
+    width: 18vw;
+    margin: 10px;
+}
+.midp{
+    padding: 10px;
+}

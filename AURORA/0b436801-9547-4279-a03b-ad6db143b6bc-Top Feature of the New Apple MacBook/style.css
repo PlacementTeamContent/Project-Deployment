@@ -1,0 +1,66 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+.bg-container{
+    background-color:lightblue;
+    height:100vh;
+    margin:10px;
+    padding:30px;
+}
+.box-1{
+    border-style:solid;
+    border-color:#0071e3;
+    padding:5px;
+    background-color:#f8f9fa;
+    text-align:center;
+}
+.h1{
+    color:#007bff;
+}
+.but-1{
+    background-color:#0071e3;
+    color:white;
+    border-width:0px;
+}
+.box-2{
+    border-style:solid;
+    border-color:#0071e3;
+    padding:5px;
+    background-color:#f8f9fa;
+    text-align:center;
+}
+.h2{
+    color:#28a745;
+}
+.but-2{
+    background-color:#28a745;
+    color:white;
+    border-width:0px;
+}
+.box-3{
+    border-style:solid;
+    border-color:#0071e3;
+    padding:5px;
+    background-color:#f8f9fa;
+    text-align:center;
+}
+.h3{
+    color:#dc3545;
+}
+.but-3{
+    background-color:#dc3545;
+    color:white;
+    border-width:0px;
+}
+.m-h{
+    text-align:center;
+}

@@ -1,0 +1,53 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.pool{
+     height:678px;
+    width:1280px;
+    background-size:cover;
+}
+/*Write your CSS code below and don't modify anything above*/
+.card1{
+    background-color:#0018f9;
+    color:#FFFFFF;
+    padding:100px;
+    font-family:Roboto;
+    text-align:center;
+    height:40vh;
+   
+   
+}
+.card2{
+    background-color:#f4f4f4;
+   /*  color:#FFFFFF; */
+    padding:20px;
+    font-family:Roboto;
+   
+}
+.card3{
+     background-color:#333;
+    color:#FFFFFF;
+    padding:20px;
+    text-align:center;
+    margin-bottom: 15px;
+    font-family:Roboto;
+}
+.fun{
+    border-radius:5px;
+    border-style:solid;
+    border-width:0px;
+    height:50px;
+    width:170px;
+}
+.gun{
+   background-color:transparent ;
+   color:red;
+   border-color:red;
+   border-style:solid;
+   border-width:1px;
+}

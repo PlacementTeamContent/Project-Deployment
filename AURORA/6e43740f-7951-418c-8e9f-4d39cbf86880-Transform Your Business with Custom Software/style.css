@@ -1,0 +1,73 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.l{
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    width:100vw;
+    height: 70px;
+}
+.h{
+    height: 678px;
+    width: 1280px;
+}
+.p1{
+    padding-top: 20px;
+}
+.z{
+    font-weight: bold;
+    padding-left:20px;
+}
+.y{
+    padding-left: 20px;
+}
+.k{
+    background-color: #f4f4f4;
+    padding:25px;
+    height: 60vh;
+}
+.a{
+    background-color: #0018f9;
+    height: 40vh;
+    text-align: center;
+    padding: 35px;
+    color: #ffffff;
+}
+.b1{
+    width: 15%;
+    height: 50px;
+}
+.b2{
+    width: 15%;
+    margin-left: 3px;
+    height: 50px;
+}
+.b3{
+    width: 15%;
+    color: black;
+    height: 50px;
+    
+}
+.b4{
+   width: 15%; 
+   margin-left: 3px;
+   height: 50px;
+   
+}
+.butt{
+    padding-bottom: 7px;
+    padding-left: 25px;
+}
+.butt2{
+    padding-bottom: 7px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+}

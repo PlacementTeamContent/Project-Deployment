@@ -1,0 +1,65 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{background-color:lightblue ;
+
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.main-bg{
+    background-color: lightblue;
+    background-size:cover ;
+    text-align: center;
+}
+
+
+
+.Rajesh{
+    color: #007bff;
+    text-align: center;
+}
+.A{
+    background-color: #007bff;
+    border: none;
+    color:#FFFFFF;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px ;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius:5px ;
+}
+.B{
+    color: #28a745;
+    text-align: center;
+    
+}
+.c{
+    background-color: #28a745;
+    border: none;
+    color:#FFFFFF ;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px ;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius:5px ;
+    
+}
+.Ammu{
+    color:#dc3545 ;
+    text-align: center;
+    
+}
+.Leela{
+    background-color:#dc3545 ;
+    color: #FFFFFF;
+    border: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px ;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius:5px ;
+}
+/*Write your CSS code below and don't modify anything above*/

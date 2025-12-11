@@ -1,0 +1,95 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.contanier{
+    background-color:lightblue;
+    text-align:left;
+  
+    background-size:cover;
+    height:100vh;
+/*     margin-top:20px; */
+}
+.hea{
+    font-family:caveat;
+    text-align:center;
+    padding:20px;
+  /*   font-size:20px; */
+    /* margin-top:20px; */
+}
+.box1{
+    border-color:#0071e3;
+    background-color:white;
+    text-align:center;
+    border-radius:10px;
+    border-style:solid;
+    margin-right:30px;
+     margin-left:30px;
+    
+}
+.box2{
+    border-color:#0071e3;
+    background-color:white;
+    text-align:center;
+    border-radius:10px;
+    border-style:solid;
+    margin-right:30px;
+    padding:10px;
+     margin-left:30px;
+    
+    
+}
+.box3{
+    border-color:#0071e3;
+    background-color:white;
+    text-align:center;
+    border-radius:10px;
+    border-style:solid;
+ margin-right:30px;
+ margin-left:30px;
+    padding:10px;
+}
+.h1{
+    color:#007bff;
+}
+.h2{
+    color:#28a745;
+}
+.h3{
+    color:#dc3545;
+}
+.p1{
+    font-style:italic;
+}
+.btn1{
+    background-color:#007bff;
+    padding:10px;
+    width:100px;
+    padding-bottom:10px;
+     font-family:caveat;
+    
+    /* height:60px; */
+}
+.btn2{
+    background-color:#28a745;
+    padding:10px;
+    width:100px;
+     padding-bottom:10px;
+      font-family:caveat;
+}
+.btn3{
+    background-color:#dc3545;
+    padding:10px;
+    width:100px;
+     padding-bottom:10px;
+      font-family:caveat;
+}

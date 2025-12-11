@@ -1,0 +1,52 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+.bg-container{
+    background-color: lightblue;
+    height: 95vh;
+}
+
+.heading{
+    color: #000000;
+    text-align: center;
+    padding-top: 34px;
+}
+
+.card{
+    background-color: #f8f9fa;
+    border-color: #0071e3;
+    border-width: 4px;
+    border-radius: 10px;
+    padding: 28px;
+    
+    margin-left: 25px;
+    text-align: center;
+    margin-right: 150px;
+}
+.first-heading{
+    color: #007bff;
+    font-size: 28px;
+    font-weight: bold;
+}
+.first-description{
+    color: #000000;
+}
+.second-heading{
+    color: #28a745;
+    font-size: 28px;
+    font-weight: bold;
+}
+.third-heading{
+    color: #dc3545;
+    font-size: 28px;
+    font-weight: bold;
+}

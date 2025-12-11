@@ -1,0 +1,30 @@
+/* Submission 1 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+    font-family: "roboto" Sans-Serif;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image:url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css3.avif');
+    background-size: cover;
+    background-position: center;
+    
+    color: black;
+    text-align: center;
+}
+.continer h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.subtitle {
+    font-size: 20px;
+    font-style:  italic;
+    margin_top 10px
+}

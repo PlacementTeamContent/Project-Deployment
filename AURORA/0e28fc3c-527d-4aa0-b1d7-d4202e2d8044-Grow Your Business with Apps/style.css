@@ -1,0 +1,74 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png');
+    background-size: cover;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.heading {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 32px;
+    padding: 10px;
+
+}
+
+.paragraph {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 0px;
+}
+
+.paragraph1 {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 16px;
+    padding: 10px;
+    padding-bottom:60px ;
+}
+
+.bg-container-1 {
+    background-color: #ffffff;
+    margin: 0px;
+
+}
+
+.heading-1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.paragraph-1 {
+    color: #333333;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding: 10px;
+}
+
+.para-1 {
+    color: #FFFFFF;
+    padding: 15px;
+    font-size: 14px;
+
+}
+
+.button {
+    margin: 1px;
+    width: 150px;
+
+}

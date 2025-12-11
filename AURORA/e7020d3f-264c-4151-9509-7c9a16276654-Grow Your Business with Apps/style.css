@@ -1,0 +1,73 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    
+    font-family: "Roboto";
+}
+
+.bg {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/app.png");
+    height: 720px;
+    width: 1280px;
+    background-size: cover;
+    padding: 10px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    text-align: center;
+}
+
+.h {
+    margin-top: 10px;
+}
+
+.text-container {
+    background-color: #f4f4f4;
+    height: 270px;
+    text-align: left;
+    margin: 10px;
+    padding:10px;
+    width:1280px;
+}
+
+.h2 {
+    color: red;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.p1 {
+    color: #333333;
+    font-family: Roboto;
+}
+.button1 {
+    margin:1px;
+    height:35px;
+    width:130px;
+}
+.button3 {
+    margin:1px;
+    height:35px;
+    width:130px;
+}
+.button2 {
+    margin:1px;
+    height:35px;
+    width:130px;
+}
+.button {
+    margin:1px;
+   
+}
+.black-container {
+    background-color:#333333;
+    height:35px;
+    background-size:cover;
+    margin-top:10px;
+    text-align:center;
+    padding:10px;
+}
+.p3 {
+    font-size:10px;
+}

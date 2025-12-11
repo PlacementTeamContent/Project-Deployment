@@ -1,0 +1,61 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.ramd{
+    background-color:lightblue ;
+    height: 720px;
+    width: 1280px;
+    text-align: center;
+}
+.ram1{
+    background-color:#f8f9fa;
+    border-radius: 5px;
+    border-width: 50px;
+    border-color: #0071e3;
+    padding: 5px;
+    font-family: Caveat;
+    margin-inline-start:40px;
+    margin-inline-end:60px ;
+    
+    
+}
+.ram2{
+    background-color:#f8f9fa;
+    border-width: 5px;
+    border-color:#0071e3;
+    font-family: Caveat;
+     padding: 5px;
+   margin-inline-start:40px;
+    margin-inline-end:60px ;
+        border-radius: 5px;
+    
+}
+.ram3{
+    background-color:#f8f9fa;
+    border-color: #0071e3;
+    font-family: Caveat;
+     padding: 5px;
+
+        border-radius: 5px;
+        margin-inline-start:40px;
+    margin-inline-end:60px ;
+}
+.hed1{
+    color: #007bff;
+}
+.hed2{
+    color: #28a745;
+}
+.hed3{
+    color: #dc3545;
+}

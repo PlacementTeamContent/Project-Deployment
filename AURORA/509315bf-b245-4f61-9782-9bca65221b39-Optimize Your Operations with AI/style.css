@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.card1{
+    background-color: #0018f9;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 50px;
+}
+
+
+
+.card2{
+    padding: 20px;
+}
+bbb{
+    margin-left: 20px;
+    border-radius: 0px;
+}
+
+.b1{
+    border-radius: 0px;
+    border-width: 0px;
+    color: white;
+    background-color: red;
+      padding: 5px;
+        margin-bottom: 5px;
+}
+
+.b2{
+     border-radius: 0px;
+    border-width: 0px;
+    color: red;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-color: red;
+}
+.b3{
+     border-radius: 0px;
+    border-width: 0px;
+    color: black;
+    background-color: red;
+      padding: 5px;
+        margin-bottom: 5px;
+}
+.b4{
+     border-radius: 0px;
+    border-width: 0px;
+    background-color: yellow;
+    margin-bottom: 5px;
+}
+
+.ppp{
+    background-color: #333333;
+}
+
+.ppp{
+    padding: 10px;
+}

@@ -1,0 +1,56 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.background{
+    background-color:#0018f9 ;
+    height:100vh;
+    width:150vw;
+    font-family:"Roboto";
+    margin:20px;
+    padding:5px;
+}
+.first{
+    text-align:center ;
+     color:#FFFFFF;
+}
+.background2{
+    background-color:#f4f4f4 ;
+    color:black;
+    background-size:cover ;
+    height:100vh;
+    width:150vw;
+}
+.background3{
+    background-color:#333 ;
+    color:white;
+    height:100px;
+    width:150vw;
+    text-align:center ;
+}
+.button1{
+    background-color:yellow ;
+    color:black;
+    border-radius:9px;
+}
+.button3{
+    background-color:blue ;
+    color:black;
+    border-radius:9px;
+}
+.button4{
+    background-color: red;
+    color:black;
+    border-radius:9px;
+}
+.button2{
+    background-color:white ;
+    color:blue;
+    border-radius:9px ;
+}

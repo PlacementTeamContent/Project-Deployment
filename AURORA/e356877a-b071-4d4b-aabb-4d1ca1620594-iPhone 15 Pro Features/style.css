@@ -1,0 +1,78 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+.body {
+    font-family: "Caveat";
+    background-color: lightblue;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    color: #000000;
+    text-align: center;
+    margin-left:20px;
+}
+
+.card1 {
+    background-color: #f8f9fa;
+    height: 25vh;
+    width: 90vw;
+    background-size: cover;
+    text-align: center;
+    font-family: "Caveat";
+
+    border-radius: 10px;
+    border: 2px solid #0071e3;
+
+}
+
+.head {
+    color: #007bff;
+}
+
+.para {
+    color: #000000;
+}
+
+.button {
+    background-color: #007bff;
+    border-color: #0071e3;
+    height: 30px;
+    width: 100px;
+}
+
+.head2 {
+    color: #28a745;
+}
+
+.para2 {
+    color: #000000;
+}
+
+.button2 {
+    background-color: #28a745;
+
+    height: 30px;
+    width: 150px;
+}
+
+.head3 {
+    color: #dc3545;
+}
+
+.para3 {
+    color: #000000;
+}
+
+.button3 {
+    background-color: #dc3545;
+
+    height: 30px;
+    width: 150px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,57 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+.a1{
+    color: #ffffff;
+    font-size: 50px;
+    margin: 10px;
+}
+.total{
+    background-color: #E3F2FD;
+    height: 140vh;
+    width: 100vw;
+    padding: 10px;
+}
+#Navcontainer{
+    background-color: #007bff;
+    height: 100px;
+    width: 100%;
+}
+#products{
+    background-color: #FFFFFF;
+    height:50vh;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.img1{
+    height: 500px;
+    width: 500px;
+}
+#places{
+     background-color: #FFFFFF;
+    height:60vh;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.h1{
+    font-weight: bold;
+}
+.h2{
+    text-decoration: underline;
+}
+#place1{
+    background-color: #f9f9f9;
+}
+#contact{
+     background-color: #FFFFFF;
+     height:10vh;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}

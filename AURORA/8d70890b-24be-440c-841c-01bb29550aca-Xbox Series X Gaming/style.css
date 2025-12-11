@@ -1,0 +1,90 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.back{
+    background-color: lightblue;
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 35px;
+    
+}
+.white{
+    background-color: #f8f9fa;
+    border: solid ;
+    border-width: 2px;
+    border-color: #0071e3;
+    border-radius: 15px;
+    margin-left: 40px;
+    margin-right: 60px;
+    padding: 10px;
+    width: 75vw;
+}
+.button{
+    margin: 10px;
+    height: 35px;
+    width: 150px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    
+}
+.h22{
+    color: #007bff;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.button1{
+    margin: 10px;
+    height: 35px;
+    width: 150px;
+    background-color: #28a745;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    
+}
+.button2{
+    margin: 10px;
+    height: 35px;
+    width: 150px;
+    background-color: #dc3545;
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    
+}
+.h23{
+    color: #28a745;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.h24{
+    color: #dc3545;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+p{
+    color: #000000;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 14px;
+}

@@ -1,0 +1,37 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+.h1{
+    text-align: center;
+    padding: 8px;
+    margin: 4px;
+
+}
+.img{
+    height: 200px;
+    width: 200px;
+}
+.card2{
+    text-align: center;
+    
+}
+.xy{
+    background-color: #e2e2e2;
+}
+p{
+  color: #8a8a8a;
+  font-size: 12px;
+  text-align: center;
+  padding: 18px;
+  margin: 8px;
+}
+x{
+    padding:18px ;
+    margin: 18px;
+}

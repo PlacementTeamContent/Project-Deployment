@@ -1,0 +1,64 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.background {
+    background-color: lightblue;
+    background-size: cover;
+    height: 150vh;
+}
+
+.head {
+    text-align: center;
+
+
+}
+
+.ordered {
+    list-style-type: square;
+    color: black;
+
+}
+
+.card1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-color: #3b3b3b;
+    margin: 10px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 15px;
+
+}
+
+.ordered1 {
+    list-style-type: upper-roman;
+    color: black;
+
+}
+
+.ordered2 {
+    list-style-type: circle;
+    color: black;
+
+}
+
+.ordered3 {
+    list-style-type: upper-alpha;
+    color: black;
+
+}
+
+.heading {
+    font-size: 20px;
+}
+
+.H {
+    padding-top: 30px;
+}

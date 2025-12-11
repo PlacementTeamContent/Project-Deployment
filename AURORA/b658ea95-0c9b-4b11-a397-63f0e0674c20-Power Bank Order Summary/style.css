@@ -1,0 +1,48 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+body{
+    background-color: #f2f4ff;
+    font-family:"Roboto",Sans-Serif;
+    height:100vh;
+}
+.page-container{
+    width:350px;
+    position: relative;
+}
+.card-box{
+    background: white;
+    padding:25px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.15);
+    width:100%;
+    position:absolute;
+    top:0;
+    
+}
+.product-img{
+    width:120px;
+    border-radius: 8px;
+    
+}
+.amount-box{
+    background-color: #4e73df;
+    padding: 10px;
+    border-radius:8px;
+    
+}
+.text-muted{
+    color:#8a8384;
+}
+#section2{
+    opacity:0;
+    pointer-events: none;
+    
+}
+:target#section2{
+    opacity:1;
+    pointer-events: auto;
+}
+:target#section2  #section1{
+    opacity: 0;
+    pointer-events: none;
+}
+/*Write your CSS code below and don't modify anything above*/

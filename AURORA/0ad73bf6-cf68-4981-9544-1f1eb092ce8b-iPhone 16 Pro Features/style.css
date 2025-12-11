@@ -1,0 +1,104 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.main-bg-container{
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px;
+}
+.blue-container{
+    padding: 14px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #0071e3;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+}
+.green-container{
+    padding: 14px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #0071e3;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+}
+.main-heading{
+    color: #000000;
+    font-family: "Caveat";
+    font-size: 24px;
+}
+.red-container{
+    padding: 14px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #0071e3;
+    border-radius: 4px;
+    background-color: #f8f9fa;
+}
+.heading1{
+    color: #007bff;
+    font-family: "Caveat";
+    font-size: 18px;
+}
+.heading2{
+    color: #28a745;
+    font-family: "Caveat";
+    font-size: 18px;
+}
+.heading3{
+    color: #dc3545;
+    font-family: "Caveat";
+    font-size: 18px;
+}
+.button1{
+    background-color: #007bff;
+    color: #FFFFFF;
+    font-family: "Caveat";
+    height: 35px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 2px;
+}
+.button2{
+    background-color: #28a745;
+    color: #FFFFFF;
+    font-family: "Caveat";
+    border-width: 0px;
+    height: 35px;
+    width: 100px;
+    border-radius: 2px;
+}
+.button3{
+    background-color: #dc3545;
+    color: #FFFFFF;
+    font-family: "Caveat";
+    height: 35px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 2px;
+}
+.paragraph1{
+    font-family: "Caveat";
+    font-size: 16px;
+}
+.paragraph2{
+    font-family: "Caveat";
+    font-size: 16px;
+}
+.paragraph3{
+    font-family: "Caveat";
+    font-size: 16px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

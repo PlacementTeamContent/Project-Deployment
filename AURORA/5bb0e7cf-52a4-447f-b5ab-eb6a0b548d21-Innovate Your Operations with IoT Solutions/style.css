@@ -1,0 +1,57 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.con-1{
+    background-color: #0018f9;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top:30px ;
+    padding-bottom: 100px;
+}
+.con-2{
+    background-color: #f4f4f4;
+    padding-left: 15px;
+    padding-bottom: 45px;
+    padding-top: 12px;
+    
+}
+.con-3{
+    background-color: #333;
+    text-align: center;
+    color: #FFFFFF;
+}
+.bt-1{
+    height: 38px;
+    width: 136px;
+    border-radius: 12px;
+    background-color: yellow;
+    color: black;
+}
+.bt-2{
+    height: 38px;
+    width: 136px;
+    border-radius: 12px;
+    border-color:blue;
+    color:blue;
+}
+.bt-3{
+    height: 38px;
+    width: 136px;
+    border-radius: 12px;
+    background-color: blue;
+}
+.bt-4{
+    height: 38px;
+    width: 136px;
+    border-radius: 12px;
+    background-color: red;
+    color: white;
+}
+    
+    
+    /*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,28 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.car-bg{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css1.avif");
+    background-size: cover;
+    height: 100vh;
+}
+.h{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 50px;
+    color: #EFEFEF;
+}
+.p1{
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    color: #EFEFEF;
+}
+.b{
+    height: 35px;
+    width: 100px;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 0px;
+    border-width: 0px;
+}

@@ -1,0 +1,57 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+    background-color: lightblue;
+    text-align: center;
+}
+
+body{
+    font-family: "Caveat";
+}
+.cl{
+    text-align: center;
+    border: 20px;
+    border-color: #0071e3;
+    background-color:#f8f9fa;
+    margin:10px;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.cla{
+     text-align: center;
+    border: 20px;
+    background-color:#f8f9fa;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.bt{
+    background-color: #28a745;
+    color: white;
+}
+.l{
+    background-color: #dc3454;
+    color: white;
+}
+.head1{
+    color: #007bff;
+}
+.clas{
+    text-align: center;
+    background-color:#f8f9fa;
+    margin: 10px;
+    border-radius:5px ;
+    padding: 20px;
+}
+.b{
+    background-color:#007bff;
+    color: white;
+    border-color: #0071e3;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

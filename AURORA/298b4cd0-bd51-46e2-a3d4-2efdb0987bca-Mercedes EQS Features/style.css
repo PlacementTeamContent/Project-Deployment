@@ -1,0 +1,53 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-container{
+    background-color: lightblue;
+    height: 100vh;
+    padding:50px;
+}
+.min-container{
+    text-align: center;
+    border: solid #0071e3 3px ;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    height: 185px;
+    width: 75vw;
+}
+.header{
+    color: #007bff;
+    font-size: 24px;
+}
+.button{
+    background-color: #007bff;
+}
+.header1{
+    color: #28a745;
+    font-size: 24px;
+}
+.button1{
+    background-color: #28a745;
+    width: 140px;
+}
+.header2{
+    color: #dc3545;
+    font-size: 24px;
+}
+.button2{
+    background-color: #dc3545;
+    width: 140px;
+}
+.head{
+    scale: 20px;
+}

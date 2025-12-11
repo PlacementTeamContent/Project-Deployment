@@ -1,0 +1,52 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.c1{
+   background-color: lightblue;
+   text-align: center;
+   height: 680px;
+   width: 1280px;
+   padding: 5px;
+}
+.c11{
+    background-color: white ;
+    margin: 20px;
+    border-radius: 5px;
+    border-color: #0071e3;
+    border: 5px;
+}
+.c22{
+    background-color: white ;
+    margin: 20px;
+    border-radius: 5px;
+    border-color: #0071e3;
+    
+}
+.c33{
+    background-color: white ;
+    margin: 20px;
+    border-radius: 5px;
+    border-color: #0071e3;
+}
+.cc{
+    padding: 10px;
+}
+.a1{
+    color: #007bff;
+}
+.a2{
+    color: #28a745;
+}
+.a3{
+    color: #dc3545;
+}

@@ -1,0 +1,80 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: lightblue;
+    height: 100vh;
+}
+.heading{
+    font-family: Caveat;
+    color:#000000;
+    text-align: center;
+}
+.box{
+    margin-left: 60px;
+    margin-right: 300px;
+}
+.box-1{
+    background-color: #FFF;
+   
+    border-style:solid;
+    border-width:3px;
+    border-color:#0071e3;
+    text-align: center;
+    border-radius:7px;
+    padding:25px;
+}
+.a{
+    color:#007bff;
+    font-family: Caveat;
+    font-weight: bold;
+}
+.b{
+    font-family: Caveat;
+}
+.c{
+    font-family: Caveat;
+    color:#FFF;
+    background-color:#007bff;
+    border-color:#007bff;
+    border-radius: 3px;
+    width:100px;
+    border-width: 0px;
+}
+.box-2-heading{
+    color:#28a745;
+    font-weight: bold;
+}
+.box-2-button{
+        font-family: Caveat;
+    color:#FFF;
+    background-color:#28a745;
+    border-color:#28a745;
+    border-radius: 3px;
+    width:100px;
+    border-width: 0px;
+    
+}
+.box-3-heading{
+    color:#dc3545;
+    font-weight: bold;
+}
+.box-3-button{
+    font-family: Caveat;
+    color:#FFF;
+    background-color:#dc3545;
+    border-color:#dc3545;
+    border-radius: 3px;
+    width:100px;
+    border-width: 0px;
+}

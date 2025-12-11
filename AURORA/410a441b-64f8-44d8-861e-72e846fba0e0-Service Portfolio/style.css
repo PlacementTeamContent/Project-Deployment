@@ -1,0 +1,60 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+
+.page{
+    background-color: #E3F2FD;
+    padding:2vh;
+}
+.nav{
+    background-color: #007bff;
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+.nav-items{
+    margin: 10px;
+    color: #FFFFFF;
+}
+
+.card{
+    text-align: center;
+    margin: 1vh;
+    padding: 15px;
+}
+.card-head{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card-image{
+    height:20vh;
+    width:25vw;
+    border-radius:5px;
+}
+
+.card-para-2{
+    color:#007bff;
+}
+
+.card-about{
+    background-color: #f9f9f9;
+    text-align: start;
+    padding: 5px;
+    border-radius:10px;
+    margin: 2vh;
+    
+    
+    
+}
+.card-about-head{
+    text-decoration: underline;
+    font-size: 20px;
+}

@@ -1,0 +1,92 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+    padding: 5px;
+}
+
+.container {
+    background-color: #0018f9;
+    background-size: cover;
+    height: 50vh;
+}
+
+.head {
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+
+.pad {
+    padding-bottom: 10px;
+}
+
+.pad1{
+    padding-left: 10px;
+}
+
+.pad
+.containerss{
+    background-color: #001859;
+    background-size: cover;
+    
+}
+.para {
+    color: #ffffff;
+    font-famiily: "Roboto";
+    text-align: center;
+}
+
+.paras {
+    padding-left: 10px;
+}
+
+.b1 {
+    background-color: skyblue;
+    color: white;
+    width: 120px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.b2 {
+    background-color: #f4f4f4;
+    color: yellow;
+    width: 120px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+    border-color: yellow;
+    border-radius: 5px;
+}
+
+.b3 {
+    background-color: skyblue;
+    color: white;
+    width: 120px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.b4 {
+    background-color: skyblue;
+    color: white;
+    width: 120px;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.reserved {
+    background-color: #333;
+    text-align: center;
+    color: #ffffff;
+    background-size: cover;
+}
+
+/*Write your CSS code below and don't modify anything above*/

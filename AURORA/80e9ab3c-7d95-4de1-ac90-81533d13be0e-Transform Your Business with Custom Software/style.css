@@ -1,0 +1,44 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: #0018f9;
+    text-align: center;
+    padding: 7px;
+    height: 250px;
+    color: #FFFFFF;
+}
+.head {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.btn1{
+    background-color: yellow;
+    font-family: "Roboto";
+    margin: yellow;
+}
+.btn2 {
+    color: ornage;
+    margin: 10px;
+}
+.btn3 {
+    background-color: red;
+}
+.btn4 {
+    background-color: blue;
+    color: #FFFFFF;
+    
+}
+.king {
+    background-color: #333;
+    text-align: center;
+    color: #FFFFFF;
+
+}

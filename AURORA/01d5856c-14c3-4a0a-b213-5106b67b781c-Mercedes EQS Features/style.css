@@ -1,0 +1,83 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.heading{
+    font-family: "Caveat";
+    font-size: 25px;
+    color: #000000;
+}
+.cart{
+    background-color: lightblue;
+    height:728px;
+    width: 1280px;
+    padding: 20px;
+    
+}
+.part{
+    background-color:#f8f9fa ;
+    margin: 5px;
+    width: 900px;
+    border-color: #0071e3;
+    border-style: solid;
+    border-width: 3px;
+    margin-left: 10px;
+    border-radius: 7px;
+    padding: 5px;
+}
+.main{
+    color: #007bff;
+    font-family: "Caveat";
+   
+}
+.para{
+    color: #000000;
+    font-family: "Caveat";
+}
+.button{
+    background-color: #007bff;
+    color: #FFFFFF;
+    border-width: 0px;
+    margin-bottom: 6px;
+    width: 100px;
+    border-radius: 5px;
+}
+.h-center{
+    text-align: center;
+}
+.main2{
+    color: #28a745;
+    font-family: "Caveat";
+    
+}
+.button2{
+    background-color: #28a745;
+    color: #FFFFFF;
+    border-width: 0px;
+     margin-bottom: 6px;
+     width: 100px;
+     border-radius: 5px;
+    
+}
+.main3{
+    color: #dc3545;
+    font-family: "Caveat";
+    
+}
+.button3{
+    background-color: #dc3545;
+    color: #FFFFFF;
+    border-width: 0px;
+     margin-bottom: 6px;
+     width: 100px;
+     border-radius: 5px;
+    
+}
+/*Write your CSS code below and don't modify anything above*/

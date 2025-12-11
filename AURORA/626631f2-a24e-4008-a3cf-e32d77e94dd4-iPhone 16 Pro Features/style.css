@@ -1,0 +1,94 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body {
+    font-family: "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.total-page {
+    background-color: lightblue;
+    height: 100vh;
+    padding:20px;
+    padding-top:48px;
+    padding-left:40px;
+}
+
+.main-head{
+    color:#000000;
+    font-size:37px;
+    text-align:center;
+    width:910px;
+}
+
+.card{
+    background-color:#f8f9fa;
+    border-style:solid;
+    border-width:3px;
+    border-radius:8px;
+    border-color:#0071e3;
+    text-align:center;
+    padding:20px;
+    width:900px;
+    height:180px;
+}
+
+.btn-align{
+    text-align:center;
+}
+
+.card1-head{
+    color:#007bff;
+    font-size:25px;
+    font-weight: bold;
+}
+
+.card1-btn{
+    color:#ffffff;
+    font-size:15px;
+    width:140px;
+    padding:7px;
+    background-color:#007bff;
+    border-width:0px;
+    border-radius:6px;
+}
+
+
+.card2-head{
+    color:#28a745;
+    font-size:25px;
+    font-weight: bold;
+}
+
+.card2-btn{
+    color:#ffffff;
+    font-size:15px;
+    width:140px;
+    padding:7px;
+    background-color:#28a745;
+    border-width:0px;
+    border-radius:6px;
+}
+
+
+.card3-head{
+    color:#dc3545;
+    font-size:25px;
+    font-weight: bold;
+}
+
+.card3-btn{
+    color:#ffffff;
+    font-size:15px;
+    width:140px;
+    padding:7px;
+    background-color:#dc3545;
+    border-width:0px;
+    border-radius:6px;
+}

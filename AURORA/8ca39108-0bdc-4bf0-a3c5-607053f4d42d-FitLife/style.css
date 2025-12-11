@@ -1,0 +1,40 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+.bgcolor{
+    background-color: #3338A0;
+    height: 200vh;
+}
+.bro{
+    background-color: #C59560;
+    width: 200vh;
+    height: 40vh;
+    
+}
+.h{
+    color: white;
+}
+.p{
+    color: white;
+}
+.img{
+    height: 170px;
+    width: 200px;
+}
+.sub{
+    background-color: white;
+    height: 250px;
+    width: 450px;
+    border-radius: 20px;
+    text-align: center;
+}
+.img1{
+    height: 100px;
+    width: 100px;
+}

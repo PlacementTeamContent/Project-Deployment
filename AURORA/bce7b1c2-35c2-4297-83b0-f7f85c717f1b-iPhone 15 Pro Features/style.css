@@ -1,0 +1,77 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: lightblue;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.div_1{
+    height: 100vh;
+    width: 100vw;
+    background-color:lightblue;
+
+}
+.h1{
+    padding-top: 30px;
+    text-align: center;
+    font-size:40px;
+    /* padding-left: 20px; */
+}
+.Div_in{
+    border:solid;
+    border-color: #0071e3;
+    border-radius: 10px;
+    height: 24vh;
+    width:80vw;
+    margin-left: 20px;
+    background-color: #f8f9fa;
+    margin-left: 45px;
+    padding-top: 30px;
+    
+}
+.h1_1{
+    color: #007bff;
+    font-size: 30px;
+}
+.h2{
+    color: #28a745;
+    font-size: 30px;
+}
+.h3{
+    color:#dc3545;
+    font-size: 30px;
+}
+.btn_1{
+    border:none;
+    background-color: #007bff;
+    color: #FFF;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+}
+.btn_2{
+    border:none;
+    background-color: #28a745;
+    color: #FFF;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
+.btn_3{
+    border:none;
+    background-color: #dc3545;
+    color: #FFF;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
