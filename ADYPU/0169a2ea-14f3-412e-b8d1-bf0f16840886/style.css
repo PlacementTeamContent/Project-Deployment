@@ -1,0 +1,202 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+.cont {
+    text-align: center;
+    background-color:white;
+    margin:40px;
+    margin-top:40px;
+    border-radius:20px;
+
+}
+
+.h {
+    padding: 20px;
+}
+
+.p{
+    color:#8a8384;
+}
+.h{
+  font-weight:bold;  
+}
+.k{
+ color:white; 
+ background-color:#4e73df;
+ height:60px;
+ margin-left:20px;
+ margin-right:20px;
+ margin-bottom:20px;
+border:none;
+}
+.j{
+    color:#8a8384; 
+ background-color:#e2e2e2;
+ height:60px;
+ margin-left:20px;
+ margin-right:20px;
+ margin-bottom:20px;
+ border:none;
+ font-weight:bold;
+}
+.i{
+    background-color:#f2f4ff;
+    height:100vh;
+}
+/*Write your CSS code below and don't modify anything above*/
+
+/* Submission 2 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.container{
+    background-color:#FAA533;
+    HEIGHT:50VH;
+    width:100vw;
+}
+.navbar{
+    width:120vw;}
+
+/* Submission 3 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+.cont{
+    background-color:#E3F2FD;
+    HEIGHT:100VH;
+    width:100vw;
+    
+}
+.conta{
+    background-color:#007bff;
+    height:80px;
+    margin:20px;
+}
+.x{
+    color:white;
+    padding:30px;
+}
+.card{
+    background-color:white;
+    height:70vh;
+    margin:20px;
+}
+
+/* Submission 4 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Caveat";
+}
+
+body{
+    font-family: "Caveat";
+}
+.bg{
+    background-color:lightblue;
+    height:150vh;
+    width:100vw;
+}
+.h{
+    text-align:center;
+    padding:30px;
+    color:#000000;
+}
+.card1{
+    background-color:#f8f9fa;
+    height:200px;
+    margin-left:20px;
+    margin-right:120px;
+     border-radius:10px;
+     border-color:#007bff;
+     border-style:solid;
+     text-align:center;
+}
+.he{
+    text-align:center;
+    color:#007bff;
+    padding:10px;
+    font-size:20px;
+    font-weight:bold;
+ 
+}
+.bts{
+    color:white;
+    background-color:#007bff;
+    border:none;
+    width:150px;
+    border-radius:5px;
+    height:40px;
+    
+}
+.ha{
+   text-align:center;
+    color:#28a745;
+    padding:10px;
+    font-size:20px;
+    font-weight:bold; 
+}
+.btd{
+    color:white;
+    background-color:#28a745;
+    border:none;
+    width:150px;
+    border-radius:5px;
+    height:40px;
+}
+.hs{
+    text-align:center;
+    color:#dc3545;
+    padding:10px;
+    font-size:20px;
+    font-weight:bold; 
+}
+.btc{
+   color:white;
+    background-color:#dc3545;
+    border:none;
+    width:150px;
+    border-radius:5px;
+    height:40px; 
+}
+/*Write your CSS code below and don't modify anything above*/
+
+/* Submission 5 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+.card{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/intro+to+css3.avif");
+    background-size:cover;
+    height:100vh;
+
+}
+.head{
+    font-size:50px;
+    font-weight:bold;
+    font-style:"Roboto";
+}
+.p{
+    text-decoration:underline;
+    font-size:20px;
+    font-style:italic;
+}
+/*Write your CSS code below and don't modify anything above*/
