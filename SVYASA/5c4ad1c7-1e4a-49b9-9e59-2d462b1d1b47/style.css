@@ -1,0 +1,64 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto';
+}
+/*Write your CSS code below and don't modify anything above*/
+.background-image{
+    background-color: #176b74;
+    height:100vh;
+}
+.heading{
+    color:#ffaf45;
+    font-size:30px;
+    font-weight: bold;
+    padding:10px;
+}
+.bg-full{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/langing-page-movie-web.jpg");
+    background-size: cover;
+    height:45vh;
+}
+.card01{
+    padding-top:170px;
+    padding-left:30px;
+}
+.head-01{
+    color:white;
+    font-weight: bold;
+    font-size:35px;
+}
+.para-01{
+    color:white;
+}
+.button-01{
+    color:black;
+    background-color: #ffaf45;
+    padding:10px;
+    font-size:15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.head-02{
+    color:white;
+    text-align: center;
+    font-size:20px;
+    font-weight: bold;
+    padding:30px;
+}
+.cards{
+    height:40vh;
+    width:45vh;
+}
+
+.head-02{
+    
+}
+.para-2{
+    
+}
+.button-02{
+    
+}

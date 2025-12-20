@@ -1,0 +1,92 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+   margin: 0;
+    font-family: "Roboto";
+}
+.bg-container{
+    background-color: #34656D;
+    width: 1280px;
+    text-align: center;
+    
+}
+h1{
+    color: #ffffff;
+}
+p{
+    color: #ffffff;
+}
+span{
+    color: #FFC10A;
+}
+
+.imm{
+    height: 100px;
+    width: 150px;
+}
+.sub-card{
+    background-color: #ffffff;
+    width: 150px;
+}
+.box:hover{
+   transform:scale(1.05);
+}
+.main-card2{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.recent-box:hover{
+    transform: translate(5px);
+}
+.car-1{
+    background-color: #334443;
+    height:500px;
+    width: 700px;
+    margin: 10px;
+}
+.car-2{
+    background-color: #334443;
+    height:350px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+.hed{
+    font-size: 20px;
+}
+.hed1{
+    color: #000000;
+}
+.bg-con{
+    background-color: #ffffff;
+}
+.par{
+    color: #000000;
+    font-size:10px;
+}
+.main-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+}
+.parr{
+    color: #FFC10A;
+}
+.btt{
+    background-color: purple;
+    color: #ffffff;
+}
+.q{
+    color: white;
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+}
+.footer{
+    background-color: #334443;
+}
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,80 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+   margin: 0;
+    font-family: "Roboto";
+    
+}
+.bg{
+    background-color: #334443;
+}
+.text{
+    color: #FFFFFF;
+}
+.background{
+    background-color: #34656D;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.heading{
+    text-align: center;
+}
+#playlistSection{
+    background-color: #334443;
+    height: 50vh;
+    width: 70vw;
+    display: grid;
+    
+    
+}
+.image{
+    height: 30vh;
+    width: 70vw;
+}
+.background1{
+    background-color: #FFFFFf;
+    height: 12vh;
+    width: 70vw;
+}
+.recent-box{
+    background-color: #334443;
+    height: 60vh;
+    width:40vw;
+}
+.background2{
+    background-color: #FFFFFF;
+    height: 10VH;
+    width:40VW;
+    gap: 20px;
+    border-radius: 10px;
+    
+}
+.bg-blue{
+    background-color: #007BFF;
+    color: #FFFFFF;
+}
+.c{
+    color: #FFC10A;
+    text-align: center;
+}
+.d{
+    background-color: #DC3545;
+    color: #FFFFFF;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.color{
+    color: #FFFFFF;
+}
+.bg-b{
+    background-color: #334443;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

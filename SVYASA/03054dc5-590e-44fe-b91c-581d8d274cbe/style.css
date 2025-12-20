@@ -1,0 +1,129 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.top-section {
+    display: flex;
+    flex-direction: row;
+    background-color: #333333;
+    justify-content: space-between;
+}
+
+.top-section-right {
+    display: flex;
+    gap: 10px;
+    color: white;
+    margin: 10px;
+    font-size: 10px;
+}
+
+.top-section-head {
+    font-size: 15px;
+    color: white;
+    margin: 5px;
+}
+
+.middle-section {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/Aseop_8u98jknjkfvj.jpg");
+    background-size: cover;
+    
+}
+
+.middle-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+   min-height: 250px;
+}
+
+.middle-section-para {
+    color: white;
+    font-size: 12px;
+    padding: 3px;
+}
+
+.middle-section-head {
+    font-size: 20px;
+    font-family: 'Roboto';
+    color: white;
+    padding: 4px;
+}
+
+.middle-section-button {
+    padding: 5px;
+    margin: 5px;
+}
+.bottom-section{
+    display: flex;
+    
+}
+.bottom-section-image-one{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/side1.jpg");
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    justify-content: end;
+    padding: 20px;
+    background-size: cover;
+    min-height: 300px;
+    align-content: start;
+}
+.bottom-section-image-one-para{
+    font-size: 10px;
+    color: white;
+    padding: 5px;
+}
+.bottom-section-image-one-head{
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+}
+.bottom-section-image-one-button{
+    padding: 1px;
+    margin: 5px;
+}
+
+.bottom-section-image-two{
+  background-color: #ed6a5a; 
+  display: flex;
+    flex-direction: column;
+    
+    padding: 20px;
+    background-size: cover;
+    min-height: 300px;
+}
+.bottom-section-image-two-head{
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.bottom-section-image-two-para{
+    font-size: 10px;
+}
+.header{
+    color: white;
+    font-size: 10px;
+    color: white;
+    
+}
+.footer{
+    background-color: #333333;
+}
+.foot{
+    font-size: 15px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+}
+@media (max-width:572px) {
+    .bottom-section{
+        display: flex;
+        flex-direction: column;
+    }
+}

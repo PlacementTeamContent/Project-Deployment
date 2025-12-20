@@ -1,0 +1,113 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color:#000000;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.navbarh{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.navbarb{
+    background-color: #FFA500;
+    color:white;
+    border-radius: 5px;
+    border-width:0px;
+    width: 100px;
+    padding: 10px;
+}
+.body1{
+    background-color:#5c3d2e;
+    text-align: center;
+    padding: 10px;
+}
+.body1content{
+    padding: 20px;
+    margin: 10px;
+}
+.body1h{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size:30px ;
+    margin: 5px;
+}
+.body1p{
+    color: #FFFFFF;
+    font-size:15px;
+    margin: 5px;
+}
+.body1img{
+    width: 40%;
+}
+.body2{
+    background-color:#f5e6d3;
+    text-align: center;
+    padding: 10px;
+}
+.body2h{
+    text-align: center;
+    margin-top:10px;
+    padding: 10px;
+}
+.card1{
+    background-color: #e5989b;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.card1img{
+    width: 95%;
+    border-radius: 10px;
+}
+.card1h{
+    padding: 10px;
+    text-align: center;
+}
+.card1p{
+    padding: 10px;
+    text-align: center;
+}
+.body3{
+    background-color: #5c3d2e;
+}
+.body3h{
+    text-align: center;
+    color:white;
+    margin-top: 30px;
+}
+.card2{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.card2img{
+    width: 30%;
+    border-radius: 50px;
+}
+.card2h{
+    color: white;
+    padding: 10px;
+}
+.card2p{
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+.footer{
+    background-color:#000000;
+}
+.footerp{
+    display: flex;
+    color: white;
+    padding: 5px;
+}

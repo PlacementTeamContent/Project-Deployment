@@ -1,0 +1,100 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container {
+    background-color: #32656D;
+    background-size: cover;
+    height:1300px;
+    width:1280px;
+
+}
+
+.card-13 {
+    color: white;
+}
+
+#playlistSection {
+    background-color: #334443;
+    height: 300px;
+    width: 600px;
+    border-radius: 5px;
+}
+
+box::hover {}
+
+.image-1 {
+    height:130px;
+}
+
+.card-new {
+    height: 700px;
+    width: 700px;
+    background-color: #334443;
+}
+.card-2{
+    background-color:white;
+    height:280px;
+    width:220px;
+    margin:10px;
+}
+.Head{
+    text-align:center;
+    color:white;
+    margin:40px;
+}
+.head2{
+    color:white;
+    font-size:30px;
+    padding:20px;
+}
+.recent-box{
+    transform:scale(1.05);
+}
+.New-head{
+    text-align:center;
+    color:#FFC10A;
+    font-family:"Roboto";
+    font-size:30px;
+    margin:50px;
+}
+.button{
+    height:50px;
+    width:140px;
+    background-color:pink;
+    font-size:25px;
+    color:white;
+}
+.new-4{
+    text-align:center;
+    color:white;
+    margin:50px;
+}
+.new-one2{
+    height:150px;
+    width:1280px;
+    background-color:#334443;
+    color:white;
+    text-align:center;
+    font-size:10px;
+}
+.last-one{
+    font-size:20px;
+    padding:15px;
+}
+.spas{
+    color:#FFC10A;
+}
+.para-2{
+    color:white;
+    text-align:center;
+}
+.box:hover{
+    transform:scale(1.05);
+}

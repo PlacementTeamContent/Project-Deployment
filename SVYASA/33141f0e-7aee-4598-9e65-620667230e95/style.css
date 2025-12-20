@@ -1,0 +1,53 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.container {
+    background-color: #34656D;
+}
+
+.navbar {
+    background-color: #334443;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+}
+
+.heading1 {
+    color: #FFC10A;
+    text-align: center;
+}
+
+.popularplaylists {
+    background-color: #334443;
+    color: #334443;
+}
+
+.Playlists1st {
+    background-color: white;
+}
+
+.header {
+    color: white;
+}
+.box:hover{max width 1280px{
+    transform: 1.05;
+}
+}
+.premium selector{
+    animation:;
+    
+}
+.recent-box:hover{max width 1280px{
+    transform: bounce;
+    translate(5px)
+    
+}

@@ -1,0 +1,82 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+    background-color: #34656d;
+}
+
+.n {
+    color: white;
+}
+
+.back {
+    background-color: #334443;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+.back1 {
+    background-color: #334443;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+.i {
+    height: 180px;
+    width: 250px;
+}
+
+.pad{
+    padding: 60px;
+}
+
+.pad1{
+    padding: 60px;
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+}
+
+.p1 {
+    color: white;
+    text-align: center;
+}
+
+.recent-box{
+    margin: 10px;
+    padding: 10px;
+}
+
+.q {
+    background-color: white;
+    margin: 10px;
+}
+.p{
+  padding: 30px;  
+}
+.bbb{
+    padding: 10px;
+    margin: 30px;
+}
+
+
+.box:hover {
+    transform: sclae(1.05);
+}
+
+.recent-box:hover {
+    transform: translate(5px);
+}
+
+b.premium {
+    transform: sclae(1.05);
+    background-color: blue;
+}
+
+/*Write your CSS code below and don't modify anything above*/

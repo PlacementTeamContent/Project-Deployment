@@ -1,0 +1,67 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar {
+    background-color: #334443;
+    color: #FFFFFF;
+}
+
+.container {
+    background-color: #34656D;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.heading {
+    font-size: 30px;
+    color: white;
+}
+
+.span {
+    font-size: 30px;
+    color: #FFC10A !important;
+}
+
+.container1 {
+    background-color: #334443;
+    height: 70vh;
+    width: 80vh;
+    padding: 10px;
+    margin: 30px;
+    color: #FFFFFF;
+
+}
+
+.image {
+    height: 100px;
+    width: 120px;
+}
+
+.main1 {
+    background-color: #FFFFFF;
+    height: 150PX;
+    width: 140px;
+    color: #000000;
+    font-size: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+
+}
+
+.container2 {
+    background-color: #334443;
+    padding: 10px;
+    margin: 30px;
+}
+
+.main2 {
+    background-color: #FFFFFF;
+}

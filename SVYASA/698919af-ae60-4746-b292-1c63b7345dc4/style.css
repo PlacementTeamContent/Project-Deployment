@@ -1,0 +1,70 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.navbar{
+        background-color: #000000;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+}
+.cont1{
+        background-color: #5c3d2e;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+}
+.cont2{
+        background-color: #f5e6d3;
+        align-items: center;
+}
+.leftgo{
+        display: grid;
+        grid-template-columns: repeat(4,23%);
+        gap: 10px;
+        grid-template-rows: 10% 10% ;
+}
+.cont4{
+        background-color: #5c3d2e;
+}
+.masus{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+}
+.navbar1{
+        background-color: #000000;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+}
+.heading1{
+        color: #FFFFFF;
+        font-size: 15px;
+}
+.para1{
+        color: #FFFFFF;
+        font-size: 9px;
+}
+.img1{
+      height: 150px;
+      width: 100px;
+        
+}
+.www{
+        padding: 20px;
+}
+.button{
+        color: #FFFFFF;
+        background-color: #FFA500;
+        border-radius: 10px;
+}
+.img2{
+        height: 100px;
+        width: 100px;
+}
+/*Write your CSS code below and don't modify anything above*/

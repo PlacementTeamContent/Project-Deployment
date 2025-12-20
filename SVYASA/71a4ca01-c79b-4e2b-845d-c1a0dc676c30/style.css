@@ -1,0 +1,66 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.bg-section-one {
+    background-color: #000000 ;
+}
+.section-one-heading {
+    color: #FFFFFF;
+    width: bold;
+}    
+.button-1 {
+   
+    color: #FFFFFF;
+    background-color: #FFA500;
+} 
+.bg-section-two {
+    background-color: #5c3d2e;
+}
+.section-two-heading {
+    color: #FFFFFF;
+    width: bold;
+    font-weight: 40px;
+    font-family: "Roboto";
+}
+.paragraph-section-two {
+    color: #FFFFFF;
+}
+.button-2 {
+    color: #FFFFFF;
+    background-color: #FFA500;
+}
+.bg-section-three {
+    text-align: center;
+    background-color: #f5e6d3;
+    
+}
+.section-three-heading {
+    color: #000000;
+}
+.card-one {
+    background-color: #e5989b;
+    margin: 40px;
+} 
+.card-two {
+    background-color: ##e5989b;
+    margin: 40px;
+}
+.card-two-heading {
+    color: #000000;
+    width: bold;
+    
+}
+.bg-section-four {
+    background-color: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/happy-man-ai-generated-portrait-user-profile_1119669-1.jp");
+    text-align: center;
+    background-color: #5c3d2e;
+}
+.section-four-heading {
+    color: #FFFFFF;
+    width: bold;
+}

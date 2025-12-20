@@ -1,0 +1,138 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+nav {
+    display: flex;
+    font-size: 10px;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #000000;
+    color: #FFFFFF;
+    height: 45px;
+}
+
+.sign-up {
+    background-color: #FFA500;
+    border: 0px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.sec1 {
+    background-color: #5c3d2e;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 25px;
+    
+    height: 600px;
+    
+}
+.sec1 h1 {
+    font-size: 35px;
+}
+.student-img {
+    width: 250px;
+}
+.sec2 {
+    background-color: #f5e6d3;
+    padding: 10px;
+    text-align: center;
+    height: 1800px;
+    padding: 25px;
+}
+
+.card {
+    background-color: #e5989b;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    
+}
+.card img {
+    width: 150px;
+    border-radius: 10px;
+}
+.card h1 {
+    font-size: 20px;
+}
+.card p {
+    font-size: 10px;
+}
+.card-container {
+    display: grid;
+    /* grid-template-columns: repeat(4, 1fr); */
+    gap: 10px;
+}
+
+
+/* sec3 */
+.sec3 {
+    background-color: #5c3d2e;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+    padding: 25px;
+    height: 1200px;
+}
+.sec3>h1 {
+    font-size: 15px;
+    margin: 16px;
+}
+.profile-container {
+    display: grid;
+    
+}
+.profile-card {
+    font-size: 8px;
+}
+.profile-card img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 10px;
+    gap: 5px;
+}
+
+@media (min-width: 1280px) {
+    .sec1 {
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    height: 375px;
+    }
+    .card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    }
+    .profile-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    }
+    .sec2 {
+        height: 500px;
+    }
+    .sec3 {
+        height: 350px;
+    }
+}

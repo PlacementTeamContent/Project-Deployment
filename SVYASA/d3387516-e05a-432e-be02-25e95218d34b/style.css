@@ -1,0 +1,144 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar {
+    background-color: #334443;
+}
+
+.navbar-toggler {
+    background-color: #334443;
+}
+
+#nav1 {
+    color: white;
+}
+
+#nav2 {
+    color: white;
+}
+
+#nav3 {
+    color: white;
+}
+
+.bg-cont {
+    height: 100vh;
+    background-color: #34656D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+
+
+.top-text-cont {
+    color: white;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.span {
+    font-weight: 900;
+    color: #FFC10A;
+}
+
+.popular-playlist-cont {
+    margin: 15px;
+    padding: 45px;
+    background-color: #334443;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.popular-playlist-head {
+    color: white;
+}
+
+.popular-playlist-img-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+.popular-playlist-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    background-color: white;
+}
+
+.img {
+    height: 200px;
+    width: 400px;
+
+
+}
+
+.box {
+    transition: all 1s ease;
+}
+
+.box:hover {
+    transform: scale(1.05);
+}
+
+.recent-list-cont {
+    margin: 15px;
+    padding: 45px;
+    background-color: #334443;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.recent-box:hover {
+    transform: translate(5px);
+}
+
+.premium {
+    animation: bgColor 1s alternate infinite;
+}
+
+@keyframes bgColor {
+    0% {
+        background-color: #FFC10A;
+    }
+
+    20% {
+        background-color: #007BFF;
+    }
+
+    40% {
+        background-color: #DC3545;
+    }
+
+    60% {
+        background-color: #FFC10A;
+    }
+
+    80% {
+        background-color: #007BFF;
+    }
+
+    100% {
+        background-color: #DC3545;
+    }
+}

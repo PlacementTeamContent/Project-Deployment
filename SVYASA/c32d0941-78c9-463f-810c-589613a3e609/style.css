@@ -1,0 +1,91 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.TravelTopicdiv{
+    color: #FFFFFF;
+    background-color: #000000;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+.btn{
+    background-color: #FFA500;
+    color: #FFFFFF;
+}
+.Tropicaldiv{
+    background-color: #5c3d2e;
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.Tropicalimg{
+    height: 50vh;
+    width: 50vh;
+    border-radius: 90px;
+}
+.ourdiv{
+    background-color: #f5e6d3;
+    padding: 10px;
+   
+}
+.cardimg{
+    height: 30vh;
+    width: 40vh;
+    border-radius: 10px;
+}
+.card1{
+    background-color: #e5989b;
+    text-align: center;
+    font-family: "Roboto";
+    padding: 5px;
+    border-radius: 10px;
+}
+.div2{
+    padding: 10px;
+    margin: 20px;
+}
+.profileimg{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+}
+#h1{
+    text-align: center;
+}
+.footer{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.testdiv{
+    background-color: #5c3d2e;
+    color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.footerp{
+    padding: 5px;
+    display: flex;
+    color: #FFFFFF;
+}
+@media screen and (width:1200px){
+    .body1{
+        background-color: #f5e6d3;
+        display: flex;
+        text-align: center;
+        padding: 10px;
+        display: flex;
+        }
+}
+.body2{
+    background-color: #f5e6d3;
+        display: flex;
+        text-align: center;
+        padding: 10px;
+        display: flex;
+}

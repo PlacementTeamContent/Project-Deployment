@@ -1,0 +1,68 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto';
+}
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: #123b3f;
+    height: 100vh;
+    background-size: cove;
+}
+.first{
+    color: #ffaf45;
+    font-size: 20px;
+}
+.bg-image{
+    height: 50vh;
+    background-size: cover;
+    width: 100vw;
+    padding: 10px;
+}
+.movie-card{
+    background-color: #123b3f;
+}
+#box-1{
+    height: 20vh;
+    width: 40vw;
+    padding: 10px;
+    border-radius: 20px;
+}
+#box-2{
+    height: 20vh;
+    width: 40vw;
+    padding: 10px;
+    border-radius: 20px;
+}
+#box-3{
+    height: 20vh;
+    width: 40vw;
+    padding: 10px;
+    border-radius: 20px;
+}
+#box-4{
+    height: 20vh;
+    width: 40vw;
+    padding: 10px;
+    border-radius: 20px;
+}
+#box-5{
+    height: 20vh;
+    width: 40vw;
+    padding: 10px;
+    border-radius: 20px;
+}
+#box-6{
+    height: 20vh;
+    width: 40vw;
+    padding: 10px;
+    border-radius: 20px;
+}
+.img{
+    color: #ffaf45;
+}
+.img-2{
+    color: white;
+}

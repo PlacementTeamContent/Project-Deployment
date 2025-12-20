@@ -1,0 +1,65 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+
+.first {
+    background-color: #000000;
+    height: 50px;
+    width: 1280px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.head1 {
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+    
+}
+
+.para1 {
+    color: #ffffff;
+    font-size: 15px;
+     font-family: "Roboto";
+    font-weight: bold;
+}
+.head2{
+    color: #ffffff;
+    font-size: 24px;
+    
+}
+.image1{
+    height:600px ;
+    width: 1280px;
+}
+.para2{
+    color: #ffffff;
+    font-size: 8px;    
+}
+.button1{
+    color: #000000;
+    background-color: #ffffff;
+}
+.image2{
+    height: 650px;
+    width:640px;
+}
+.image3{
+    height: 650px;
+    width:640px;
+}
+.last-card{
+    display: flex;
+    flex-direction: row;
+}
+.last-bar{
+    height: 100px;
+    text-align: center;
+    background-color: #000000;
+}

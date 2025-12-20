@@ -1,0 +1,81 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto';
+}
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: #123b3f;
+}
+.head{
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    margin:5px;
+    padding:5px;
+}
+.hed1{
+    color: #ffaf45;
+}
+.btn1{
+    background-color: #ffffff;
+    border-radius: 10px;
+    justify-content: flex-end;
+    padding-right: 80px;
+}
+.btn2{
+    background-color: #ffaf45;
+    border-radius: 10px;
+    padding:10px;
+}
+.bg21{
+    height:550px;
+    width: 100vw;
+    padding:5px;
+    border-color: #0ea5a6;
+    border-style: solid;
+}
+.hov1{
+    color:#ffffff;
+}
+.hov1:hover{
+    color:blue;
+    text-decoration:underline ;
+}
+.hed2{
+    color:#ffffff;
+    text-align: center;
+}
+.card{
+    background-color:#176b74;
+    
+    width: 250px;
+}
+.img{
+    height: 180px;
+    margin:5px;
+
+}
+.h3{
+    color:#ffaf45;
+}
+.h4{
+    color:#ffffff;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.img:hover{
+    transform: scale(1.1);
+}
+.row1{
+    display:flex;
+    flex-direction: row;
+}
+.row2{
+    display:flex;
+    flex-direction: row;
+    
+}

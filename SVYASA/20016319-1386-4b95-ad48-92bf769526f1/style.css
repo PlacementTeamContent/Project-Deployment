@@ -1,0 +1,67 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+   margin: 0;
+    font-family: "Roboto";
+    background-color:#34656D;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.box{
+    background-color:#34656D;
+    
+    text-align:center;
+}
+.bg{
+    background-color:#334443;
+    color:white;
+}
+.h1{
+    color:white;
+}
+.sp{
+    color:#FFC10A;
+}
+
+
+.w{
+    color:white;
+}
+.card{
+    width:750px;
+    height:600px;
+    background-color:#334443;
+    text-align:left;
+    margin-top:75px;
+    margin-right:45px;
+    margin-bottom:75px;
+    margin-left:15px;
+    border-radius:08px;
+}
+.img{
+    height: 150px;
+    width:200px;
+}
+.small-card{
+    margin:25px;
+}
+.aside{
+    width:400px;
+    height: 450px;
+    background-color:#34656D;
+}
+.beside{
+    width:400px;
+    height: 450px;
+    background-color:#334443;
+    margin-top:155px;
+    border-radius:08px;
+}
+.sm-card{
+    width:365px;
+    height: 70px;
+    background-color:white;
+    margin:13px;
+}

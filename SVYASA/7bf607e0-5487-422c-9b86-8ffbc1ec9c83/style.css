@@ -1,0 +1,61 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.t {
+    background-color: #334443;
+    border-radius: 10px;
+    width: 70vw;
+}
+.s{
+    height: 50px;
+}
+.r{
+    background-color: #334443;
+    border-radius: 10px;
+    width: 30vw;
+    
+}
+.size2{
+    height: 50px;
+    width: 50px;
+}
+.bg {
+    background-color: #34656D;
+    width: 100vw;
+    height: ;
+}
+
+.size {
+    height: 150px;
+    width: 280px;
+}
+.b{
+    height: 50px;
+    background-color: #334443;
+}
+.box:hover{
+    transform: scale(1.05);
+}
+.recent-box:hover{
+    transform: translate(5px);
+}
+.premium{
+    animation-name: bounce;
+}
+.l {
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.t1 {
+    background-color: white;
+    border-radius: 10px;
+    width: 280px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

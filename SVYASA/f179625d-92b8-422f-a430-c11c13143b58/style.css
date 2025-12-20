@@ -1,0 +1,89 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto';
+}
+/*Write your CSS code below and don't modify anything above*/
+
+.movies{
+    display: flex;
+    flex-direction: column;
+       background-color: #123b3f;
+}
+.navbar{
+ 
+}
+.nav-p{
+    color: #ffaf45;
+}
+.nav-end{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.mid-page{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/langing-page-movie-web.jpg');
+    height: 65vh;
+    background-size: cover;
+    align-content: center;
+}
+.mid-heading{
+    color: white;
+}
+.mid-para{
+    color: white;
+}
+.mid-button{
+    background-color: #ffaf45;
+}
+.mid-content{
+    margin: 20px;
+    align-content: center;
+}
+.bottom-movies{
+    flex-direction: row;
+}
+.bottom-heading{
+    color: white;
+    text-align: center;
+    margin: 20px;
+    font-size: 24px;
+}
+.img{
+    height: 250px;
+    width: 350px;
+    margin: auto;
+}
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: #176b74;
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 8px;
+    border-color: #0ea5a6;
+}
+.card-button{
+    background-color: #ffaf45;
+    color: black;
+}
+.card:hover{
+    transform: scaleY(1.2);
+}
+.p1{
+    color: #ffaf45;
+}
+.p2{
+    color: white;
+}

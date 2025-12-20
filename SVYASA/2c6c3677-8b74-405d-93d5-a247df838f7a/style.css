@@ -1,0 +1,99 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.navbar {
+    background-color: #334443;
+}
+
+.center-container {
+    background-color: #34656D;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.span {
+    color: yellow;
+}
+
+.para1 {
+    color: white;
+}
+
+.head1 {
+    color: white;
+}
+
+.bottom-top-section {
+    background-color: #334443;
+    height: 70vh;
+    margin: 10px;
+    width: 90vh;
+}
+
+.para2 {
+    margin-right: 450px;
+    color: white;
+    padding: 10px;
+}
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.img-1 {
+    height: 27vh;
+    width: 24vh;
+    background-color: white;
+    color: black;
+    margin: 10px;
+
+}
+
+.img {
+    height: 20vh;
+    width: 24vh;
+}
+
+.img-para {
+    margin-right: 200px;
+}
+
+.img-b {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn {
+    background-color: purple;
+    width: 100px;
+    height: 30px;
+}
+.card{
+    width: 80vh;
+    height: 13vh;
+    margin: 10px;
+    background-color: white;
+}
+.nho{
+    height: 60vh;
+    width: 50vh;
+    background-color: #334443;
+}
+.iodfjs{
+    display: flex;
+    flex-direction: row;
+}

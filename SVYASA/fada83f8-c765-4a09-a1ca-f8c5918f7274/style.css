@@ -1,0 +1,80 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto';
+}
+.aa{
+    color:#ffaf45;
+    mar
+    
+}
+.ss{
+    background-color: #123b3f;
+    height: 150vh;
+    width: 100vw;
+    
+}
+.card{
+   
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/langing-page-movie-web.jpg ");
+    height: 50vh;
+    width: 100vw;
+}
+.heading{
+    color: white;
+    
+}
+.para{
+    color: white;
+}
+.zz{
+    padding: 20px;
+    margin-top: 100px;
+    
+}
+.but{
+    background-color:#ffaf45;
+    border-radius: 7px;
+}
+.head{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.cards{
+    margin-left: 30px;
+    background-color: #176b74;
+    width:35vw;
+    height:45vh;
+    border-radius: 10px;
+}
+.img{
+    padding:20px;
+    height:30vh;
+    width: 35vw;
+    border-radius: 10px;
+}
+.sss{
+    margin-left: 10px;
+    color:#ffaf45;
+}
+.ppp{
+    color: white;
+     margin-left: 10px;
+}
+.butt{
+    text-align: center;
+    width: 30vw;
+    margin-left: 20px;
+    background-color: #ffaf45;
+    
+}
+.carda{
+    justify-content: center;
+     background-color: #176b74;
+    width:35vw;
+    height:45vh;
+    border-radius: 10px;
+}

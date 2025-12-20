@@ -1,0 +1,65 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.background {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/langing-page-movie-web.jpg");
+    height: 500px;
+    padding:40px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading {
+    text-align: center;
+
+    color: #ffffff;
+}
+
+.first {
+    color: #ffffff;
+}
+
+.image {
+    height: 200px;
+    width:250px;
+}
+
+.button {
+    background-color: #ffaf45;
+    padding: 10px;
+}
+
+.conatiner {
+    width: 150px;
+    height:100px;
+    padding:10px;
+    background-color: #176b74;
+    border-color:#0ea5a6;
+}
+
+.second {
+    background-color: #123b3f;
+    height:900px;
+}
+
+.para {
+    color: #ffaf45;
+}
+.button_2{
+    width:100px;
+    background-color: #ffaf45;
+}
+.containers{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding:10px;
+    margin:20px;
+}

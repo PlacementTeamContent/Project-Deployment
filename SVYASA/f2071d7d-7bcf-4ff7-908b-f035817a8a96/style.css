@@ -1,0 +1,54 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    width: 1280px;
+    font-family: "roboto";
+}
+.heading{
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 5px;
+}
+.container1{
+    background-color: #000000;
+}
+.container2{
+    background-color: #5c3d2e;
+    height: 200px;
+    padding: 10px;
+}
+.heading1{
+    color: #FFFFFF;
+    font-size: 24px;
+    padding-top: 40px;
+    
+}
+.para{
+    color: #FFFFFF;
+}
+.button{
+    background-color: #FFA500;
+    border-width: 0px;
+    height: 24px;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+.container3{
+    background-color: #f5e6d3;
+    height: 200px;
+}
+.heading2{
+    color:#000000;
+    text-align: center;
+    padding-top: 20px;
+}
+.card-container{
+    text-align: center;
+}
+.card{
+    background-color: #e5989b;
+    width: 300px;
+}
+.image{
+    height: 80px;
+}

@@ -1,0 +1,72 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.back {
+    background-color: #000000;
+}
+
+.h {
+    color: white;
+    padding: 8px;
+}
+
+.b {
+    background-color: #FFA500;
+    color: white;
+    border-style: solid;
+    border-radius: 5px;
+    justify-content: flex-end;
+}
+
+.back1 {
+    background-color: #5c3d2e;
+    height: 300px;
+}
+
+.b2 {
+    background-color: #FFA500;
+    color: white;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.heading {
+    color: white;
+    margin: 15px;
+    padding: 15px;
+}
+
+.P1 {
+    color: white;
+    margin: 15px;
+}
+
+.back2 {
+    background-color: #f5e6d3;
+    height: 350px;
+}
+
+.head2 {
+    text-align: center;
+    color: #000000;
+}
+
+.back3 {
+    background-color: #5c3d2e;
+    height: 300px;
+}
+
+.head3 {
+    color: white;
+}
+.pink{
+    background-color: #e5989b;
+}

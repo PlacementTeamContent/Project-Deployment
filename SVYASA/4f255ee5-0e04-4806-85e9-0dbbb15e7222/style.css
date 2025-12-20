@@ -1,0 +1,85 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: #333333;
+    text-align: end;
+    color:#ffffff;
+}
+.bg1{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/Aseop_8u98jknjkfvj.jpg");
+    height:40vh;
+    width:100vw;
+    background-size: cover;
+    padding-bottom: 10px;
+    margin:10px;
+}
+.hh{
+    font-family: "Roboto";
+    text-align: center;
+    color:#ffffff;
+    font-size:10px;
+    padding: 10px;
+    margin:10px;
+}
+.bb{
+    background-color: #ffffff;
+    color:#0000000;
+    padding: 10px;
+    margin:10px;
+    border-radius:0px;
+    border-width:0px;
+}
+.bg2{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/side1.jpg");
+    background-size: cover;
+    height:50vh;
+    width:100vw;
+    padding: 10px;
+    margin:10px;
+    
+}
+.hhh{
+    font-size: 5px;
+    color:#ffffff;
+    font-family:"Roboto";
+    padding: 10px;
+    margin:10px;
+}
+.bg3{
+    background-color: #ed6a5a;
+    height:50vh;
+    width:50vw;
+    text-align: center;
+    padding:10px;
+    margin:10px;
+    font-size: 10px;
+}
+.ii{
+    height:30vh;
+    width:50vw;
+    padding: 10px;
+    margin:10px;
+}
+.bbbb{
+    text-align: center;
+    background-color: #333333;
+    font-family: "Roboto";
+    font-size: 10px;
+    color:#ffffff;
+    padding: 10px;
+    margin:10px;
+}
+.hh4{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size: 10px;
+    padding: 10px;
+    margin:10px;
+}

@@ -1,0 +1,104 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.head-bg {
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-head {
+    color: white;
+    font-size: 20px;
+}
+
+.head-but {
+    background-color: #FFA500;
+    color: white;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+   
+}
+
+.section2-body {
+    background-color: #5c3d2e;
+    padding: 20px;
+    display: flex;
+    flex-direction: ;
+    align-items: center;
+}
+
+.section2-head {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.section2-para {
+    color: white;
+    padding-top: 10px;
+    font-size: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.section2-img {}
+
+.head-bg1 {
+    background-color: #f5e6d3;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-head1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.card {
+    background-color: #e5989b;
+}
+
+.img1 {
+    text-align: center;
+    justify-content: center;
+}
+
+.header-head2 {
+    color: white;
+    text-align: center;
+}
+
+.head-bg2 {
+    background-color: #5c3d2e;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    text-align: center;
+}
+
+.header-head4 {
+    color: white;
+    justify-content: center;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.t {
+    color: white;
+    font-size: 5px;
+}

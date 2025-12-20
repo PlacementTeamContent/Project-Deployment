@@ -1,0 +1,54 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+   margin: 0;
+    font-family: "Roboto";
+}
+.card{
+    background-color:#34656D;
+    width:100vw;
+    height:100vh;
+    background-size:cover;
+}
+.elementh1style{
+    color:#FFC10A;
+}
+.container1{
+    background-color:#334443;
+    width:58vw;
+    height:58vh;
+  
+}
+.incard{
+    height:150px;
+    width:210px;
+    background-color:white;
+    margin:10px;
+   
+}
+.img{
+    width:209px;
+    height:100px;
+}
+.incard:hover{
+    transform:scale(1.05);
+}
+.container2{
+    background-color:#334443;
+    width:28vw;
+    height:48vh;
+    margin:30px;
+  }
+ .incard1{
+     background-color:white;
+ } 
+.parag{
+    border-radius:25px;
+}
+.button1{
+    background-color:lightblue;
+    margin:10px;
+    width:100px;
+     border-radius:25px;
+}

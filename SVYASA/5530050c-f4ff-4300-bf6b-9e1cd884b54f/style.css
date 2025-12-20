@@ -1,0 +1,82 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-container{
+    background-color: #5c3d2e;
+    height:100vh;
+}
+.heading{
+    color:#FFFFFF;
+    padding:7px;
+    font-family: Roboto;
+    font-size:25px;
+    margin:5px;
+}
+.frst-container{
+    background-color: #000000;
+    
+}
+.heading_frst{
+    color:#FFFFFF;
+    font-family: "Roboto";
+    font-size: 28px;
+    text-align: left;
+    padding:7px;
+    width:10px;
+}
+.para{
+    font-family: "Roboto";
+    font-size: 15px;
+    color:#FFFFFF;
+}
+.second-container{
+    text-align: left;
+    padding: 25px;
+}
+.button{
+    background-color: #FFA500;
+    color:#FFFFFF;
+    padding: 10px;
+}
+.image{
+    height:250px;
+    width:180px;
+    border-radius: 5px;
+}
+.pic{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.third_container{
+    background-color: #f5e6d3;
+    
+}
+.card_head{
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: center;
+}
+.card_container{
+    background-color: #e5989b;
+    height: 70px;
+    width:70px;
+}
+.image_a{
+    height:40px;
+    width:60px;
+}
+.last_head{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    font-family: "Roboto";
+}

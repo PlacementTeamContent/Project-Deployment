@@ -1,0 +1,98 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.panel {
+    display: flex;
+    flex: column;
+    justify-content: right;
+}
+
+.hh {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.pa {
+    color: #ffffff;
+}
+
+.middle {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/Aseop_8u98jknjkfvj.jpg");
+    height: 80vh;
+    display:flex;
+    align-items:center;
+    align-content: center;
+
+}
+
+.he {
+    color: #ffffff;
+}
+
+.para {
+    color: #ffffff;
+}
+
+.btn {
+    color: #000000;
+    background-color: #ffffff;
+    height: 37px;
+    padding: 5px;
+}
+
+
+.up {
+    background-color: #333333;
+}
+
+.panel {
+    background-color: #333333;
+}
+
+.purfumes {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-mp4videos-april28/side1.jpg");
+    height: 80vh;
+    width: 45vw;
+    align-content: end;
+}
+
+.bottles {
+    background-color: #ed6a5a;
+    width: 70vw;
+    justify-content: center;
+    align-content: center;
+}
+
+.img {
+    height: 30vh;
+}
+
+.ends {
+    color: #ffffff;
+}
+
+.end {
+    background-color: #333333;
+    align-content: center
+}
+
+.down {
+    display: flex;
+    flex: row;
+
+}
+
+.aa {
+    color: black;
+}
+
+.pp {
+    color: black;
+}

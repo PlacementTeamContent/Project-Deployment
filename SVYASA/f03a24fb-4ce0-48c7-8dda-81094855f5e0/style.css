@@ -1,0 +1,188 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+
+.head-bg {
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-head {
+    color: white;
+    font-size: 26px;
+}
+
+.head-but {
+    background-color: #FFa500;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.section2-body {
+    background-color: #5c3d2e;
+    padding: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section2-head {
+    color: white;
+    text-align: center;
+    font-size: 37px;
+}
+
+.section2-para {
+    color: white;
+    font-size: 12px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.section2-but {
+    background-color: #FFa500;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.section2-image {
+    width: 250px;
+    padding-top: 10px;
+}
+
+.but-cent {
+    text-align: center;
+}
+
+.section3-body {
+    background-color: #f5e6d3;
+    padding: 20px;
+}
+
+.section3-head {
+    text-align: center;
+    font-size: 32px;
+    padding-bottom: 20px;
+}
+
+.section3-cards-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section3-card {
+    background-color: #e5989b;
+    padding: 16px;
+    border-radius: 11px;
+    margin: 10px;
+    max-width: 250px;
+}
+
+.section3-card-image {
+    height: 200px;
+    width: 230px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.section3-card-head {
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+}
+
+.section3-card-para {
+    text-align: center;
+    font-size: 15px;
+}
+
+.section4-body {
+    background-color: #5c3d2e;
+    padding: 20px;
+}
+
+.section4-head {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.section4-cards-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section4-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+}
+
+.section4-card-image {
+    height: 120px;
+    border-radius: 100%;
+    padding-top: 10px;
+}
+
+.section4-card-head {
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.section4-card-para {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.footer-background {
+    background-color: black;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.footer-para {
+    color: white;
+    padding-right: 18px;
+    padding: 7px;
+    text-align: center;
+}
+
+@media (min-width: 1200px) {
+    .section2-body {
+        background-color: #5c3d2e;
+        padding: 45px;
+
+    }
+
+    .section2-head {
+        color: white;
+        font-size: 37px;
+    }
+
+    .section3-cards-section {
+        display: flex;
+        flex-
+    }
+}

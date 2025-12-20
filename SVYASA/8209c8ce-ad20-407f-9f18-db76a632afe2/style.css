@@ -1,0 +1,80 @@
+/* Submission 1 */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+   margin: 0;
+    font-family: "Roboto";
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.nav{
+    color: #FFFFFF;
+}
+.container{
+    background-color: #34656D;
+    height: 980px;
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+}
+.head1{
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.head2{
+    color: #FFC10A;
+}
+.para{
+    color: #FFFFFF;
+}
+.playlist{
+    background-color: #334443;
+    height: 430px;
+    width: 320px;
+    padding: 2px;
+    margin: 2px;
+}
+.playlist_box{
+    height: 210px;
+    width: 190px;
+    background-color: #FFFFFF;
+}
+.img{
+    height: 140px;
+    width: 190px;
+}
+.box_text{
+    padding: 2px;
+    font-size: 20px;
+}
+.box:hover{
+    transform: scale(1.05);
+}
+.recent{
+    background-color: #334443;
+    height: 290px;
+    width: 230px;
+    padding: 2px;
+    margin: 2px;
+}
+.recent-box:hover{
+    transform: translate(5px);
+}
+.premium{
+    animation: ;
+}
+.recent-box{
+    background-color: #FFFFFF;
+    height: 50px;
+    width: 220px;
+    padding: 2px;
+    margin: 2px;
+}
+.ending{
+    text-align: center;
+}
+.end{
+    color: #FFC10A
+}
