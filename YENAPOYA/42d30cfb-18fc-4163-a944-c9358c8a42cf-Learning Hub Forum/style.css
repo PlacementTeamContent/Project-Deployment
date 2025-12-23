@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.vamshi{
+    display:grid;
+    grid-template-columns:1fr 1fr ;
+    grid-template-rows:1fr 1fr;
+    grid-template-areas: 
+    header header
+    sidbar blog;
+}
+.header{
+    background-color: #000000;
+    height:20px;
+    display:flex;
+    flex-direction:row;
+    font-size:3px;
+    color:#fff;
+    justify-content: space-around;
+    align-items: center;
+}
+.hj{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.sidbar{
+    background-color: #343A40;
+    background-size:cover;
+    width:20vh;
+    height:60vh;
+}
+.bgf{
+    color:#fff;
+    font-family: "Roboto";
+    font-size: 10px;
+    padding: 5px;
+}
+.imf{
+    height: 20px;
+    border-radius: 100px;
+}
+.blog{
+    background-color: #c9cba3;
+    height:60vh;
+    padding:10px;
+}
+.s{
+    font-size:20px;
+    padding:3px;
+}
+.but{
+    color:#fff;
+    background-color: #386641;
+    border:0px;
+    padding:3px;
+    height:20px;
+    border-radius:5px;
+}
+.btu{
+    color:#fff;
+    background-color: #e7ad99;
+    border:0px;
+    padding:3px;
+    height:20px;
+    border-radius:5px;
+}
+.tub{
+    color:#fff;
+    background-color: #9bc53d;
+    border:0px;
+    padding:3px;
+    height:20px;
+    border-radius:5px;
+}
+.git{
+    background-color: #e26d5c;
+    background-size:cover;
+    padding: 8px;
+}
+.ifm{
+    height: 100px;
+    width:200px;
+}
+.vb{
+    height: 20px;
+    border-radius:100px;
+}
+.fd{
+    font-size:10px;
+}
+.re{
+    background-color: #386641;
+    color:#fff;
+    border: 0px;
+    height: 25px;
+    padding:2px;
+    border-radius:5px;
+}
+.hjk{
+    background-color: #e26d5c;
+    background-size:cover;
+    padding:8px;
+}

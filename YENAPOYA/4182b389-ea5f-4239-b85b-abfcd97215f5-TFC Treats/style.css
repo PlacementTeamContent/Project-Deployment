@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.bg1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    height: 50vh;
+    width: 100vh;
+    padding: 25px;
+}
+
+.hed1 {
+    color: white;
+    font-family: Caveat;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.pa1 {
+    color: white;
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+.button1 {
+    color: white;
+    background-color: #0ec930;
+    font-family: Roboto;
+    font-size: 10px;
+    padding: 5px;
+    border-width: 0px;
+    text-align: center;
+}
+
+.bg2 {
+    background-color: #9BFAA9;
+    background-size: cover;
+    height: 50vh;
+    width: 100;
+    text-align: center;
+}
+
+.hed2 {
+    color: black;
+    font-family: Caveat;
+    font-size: 30px;
+}
+
+.pa2 {
+    color: black;
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: center;
+}
+
+.hed3 {
+    color: black;
+    font-family: Caveat;
+    font-size: 20px;
+}
+
+.bg3 {
+    background-color: #52FA6C;
+    background-size: cover;
+    height: 50vh;
+    width: 100;
+    text-align: center;
+    padding: 70px;
+}
+
+.img1 {
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+
+.bg4 {
+    background-color: white;
+    background-size: cover;
+    height: 30vh;
+    width: 20vh;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.hed4 {
+    color: black;
+    font-family: Roboto;
+    font-size: 10px;
+}
+
+.pa4 {
+    color: #0ec930;
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: center;
+    padding: 60px;
+}
+
+.img2 {
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+}
+
+.bg5 {
+    background-color: #9BFAA9;
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+    text-align: center;
+    padding: 5px;
+}

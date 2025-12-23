@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.nigga{
+    background-color: #faf0ca;
+}
+.tt{
+    color: #0d3b66;
+}
+.nn{
+    background-color:#0d3b66 ;
+    height: 400px;
+}
+.h1{
+    color: #ffffff;
+    font-family:Roboto ;
+    
+}
+.text{
+    text-align: center;
+    margin: 20px;
+}
+.p{
+    color: white;
+}
+.but{
+    background-color: #ee964b;
+    color: #0b3b66;
+    border-radius: 10px;
+}
+.mm{
+    background-color:  #faf0ca;
+    height: 100%;
+    padding: 20px;
+}
+.h2{
+    color: #0b3b66;
+}
+.card1{
+    height:200px;
+    width: 260px;
+    background-color: #f4d35e;
+    border-radius: 12px;
+    margin: 20px;
+}
+.img{
+    height: 50%;
+    width: 70%;
+    border-radius: 12px;
+}
+.pi{
+    font-family: Roboto;
+    color: #0b3b66;
+    font-size: 30px;
+}
+.ii{
+    color: #0b3b66;
+    font-family: Roboto;
+}
+.t2{
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer{
+    width: 100vw;
+    background-color: #343a40;
+    text-align: center;
+    color: #ffffff;
+    margin-top:30px ;
+}

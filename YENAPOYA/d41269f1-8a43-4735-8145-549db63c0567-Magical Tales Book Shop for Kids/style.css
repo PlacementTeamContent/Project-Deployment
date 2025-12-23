@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.bg-container{
+    background-color: #0d3b66;
+    height:35vh;
+}
+.hea{
+    color:white;
+    font-family:Roboto;
+    font-size:35px;
+}
+.parag{
+    color:white;
+}
+.text-container{
+    text-align: center;
+}
+.but{
+    height:45px;
+    width:160px;
+    border-width:0px;
+    border-radius:8px;
+    color:#0d3b66;
+    background-color:orange ;
+}
+.bottom-section{
+    background-color: #faf0ca;
+    height:50vh;
+    width:100vw;
+    
+}
+.head{
+    text-align: center;
+}
+.para{
+    text-align:center;
+}
+.card-contaier{
+    background-color: #f4d35e;
+    height:20vh;
+   width:100vw;
+    margin:10px;
+    
+}
+.img-1{
+    height:260px;
+    width:300px;
+    padding: 30px;
+}
+.end-container{
+    background-color: #343a40;
+    height:13vh;
+}
+.p{
+    color:white;
+}

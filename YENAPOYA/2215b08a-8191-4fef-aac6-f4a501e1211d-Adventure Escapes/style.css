@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a {
+    display: flex;
+    justify-content: space-between;
+    background-color: #c9182c;
+    color: white;
+}
+
+.b {
+    background-color: #23362b;
+    color: white;
+}
+
+.c {
+    display: flex;
+    background-color: #8bc28c;
+}
+
+.f {
+    height: 50px;
+    width: 90px;
+    padding: 30px;
+}
+
+.d {
+    color: white;
+}
+
+.m {
+    height: 120px;
+    width: 120px;
+
+    border-radius: 100px;
+}
+
+.e {
+    background-color: #782832;
+    text-align: center;
+    color: white;
+}
+
+.r {
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+
+.n {
+    height: 120px;
+    width: 190px;
+}
+
+.t {
+    background-color: #797d62;
+}
+
+.h {
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.v {
+    margin: 10px;
+    background-color: #c5dbf0;
+}
+.k{
+    text-align: center;
+    background-color: #a7c957;
+}

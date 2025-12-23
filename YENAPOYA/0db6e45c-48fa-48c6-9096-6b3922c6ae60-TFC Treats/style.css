@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.j {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    text-align: center;
+    width: 100vw;
+    height: 80vh;
+}
+
+.q {
+    text-align: center;
+    font-family: "Caveat";
+    color: #FFFFFF;
+}
+
+.w {
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.e {
+    background-color: #0ec930;
+    border-width: 2px;
+}
+
+.card {
+    background-color: #9BFAA9;
+    height: 40vh;
+}
+
+.Z {
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.x {
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.c {
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.cc {
+    text-align: center;
+    font-family: "Caveat";
+}
+
+.card2 {
+    height: 70vh;
+    background-color: #0ec930;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/fried+image.jpeg");
+    background-size: cover;
+}
+
+.v {
+    text-align: center;
+
+}
+.card3{
+    height:70vh ;
+    background-color:#9BFAA9 ;
+    
+}
+.card4{
+    background-color:#0ec930 ;
+    height:70vh ;
+    
+}
+.qq{
+    text-align: center;
+    font-family:"Caveat" ;
+    
+}
+.ww{
+    text-align: center;
+    font-family:"Roboto" ;
+}
+.ee{
+    text-align: center;
+    background:#FFFFFF ;
+    
+}

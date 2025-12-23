@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.welcome-box{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg") ;
+    background-size:cover;
+    height: 50vh;
+    text-align: center;
+    padding: 20px;
+    
+    }
+
+.welcome-page{
+    font-family: "Caveat"; 
+    color:white ;
+    padding-top: 50px;
+}
+.p1{
+  color:white ;  
+  font-family:"Roboto" ;
+    
+}
+.btn1{
+ background-color: #0ec930; 
+ color:white ;
+ font-family:"Roboto";
+ border-radius: 8px;
+}
+.Box{
+   background-color:#9BFAA9 ; 
+   background-size: cover;
+   text-align: center;
+   padding: 20px;
+}
+.second-page{
+    color: black;
+ font-family: "Caveat";   
+}
+.p2{
+     font-family:"Roboto";
+}
+.h3{
+    font-family: "Caveat";   
+}
+.Box2{
+    background-color:#52FA6C ;
+    background-size: cover;
+    text-align: center;
+     padding: 20px;
+}
+.third-page{
+    font-family: "Caveat";
+}
+.menuimage{
+    height: 150px;
+    width: 250px;
+    
+}
+.Text{
+    text-align: center;
+}
+.menu1{
+    background-color: white;
+        
+    
+}
+.head1{
+    font-size: 30px;
+}
+.menuh1{
+    color:#52FA6C ;
+    font-size: 20px;
+}
+.Box5{
+    background-color:#52FA6C ;
+    background-size: cover;
+    text-align: center;
+     padding: 20px;
+}
+.Box4{
+    background-color:#9BFAA9 ;
+    background-size: cover;
+    text-align: center;
+     padding: 20px;
+}
+.box5h{
+   font-family: "Caveat"; 
+}
+.box5p{
+   font-family:"Roboto";  
+}
+.box5btn{
+    background-color:white ;
+    color:black;
+    height:40px;
+    width: 100px;
+}

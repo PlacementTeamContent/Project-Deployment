@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.red1 {
+    background-color: #c9182c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bvc {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.rdw {
+    color: white;
+    padding: 10px;
+}
+
+.bg-reddy {
+    background-color: #8bc28c;
+
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+
+.danger {
+    background-color: Black;
+    color: white;
+    height: 42px;
+    width: 125px;
+
+}
+
+.redwr {
+    color: white;
+    font-family: "roboto";
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+
+}
+
+.funk {
+    height: 100px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: flex-start;
+}
+
+.fun {
+    height: 100px;
+    width: 200px;
+}
+
+.fg-container {
+    background-color: #a7c957;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.range {
+    height: 150px;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.fucg {
+    height: 300px;
+    width: 270px;
+    background-color: #c5dbf0;
+}
+
+.op {
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.fgt {
+    padding-top: 20px;
+    font-family: "Roboto";
+}
+
+.part {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.fear {
+    background-color: #797d62;
+    height: 100vh;
+    width: 100vw;
+}
+
+.redwa {
+    text-align: center;
+    color: white;
+    padding-
+}
+
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+.section1{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size:cover;
+    text-align:center;
+    padding:20px;
+    
+}
+.h1{
+    color:White;
+    font-family:"Caveat";
+}
+.button{
+    background-color:#0ec930;
+}
+.section2{
+    background-color:#9BFAA9;
+    text-align:center;
+    padding:12px;
+    color:black;
+}
+.h2{
+    color:black;
+    font-family:"Caveat";
+}
+.section3{
+    background-color:#0ec930;
+    text-align:center;
+}
+.imge{
+    width:200px;
+    height:200px;
+    border-radius:10px;
+    margin:10px;
+}
+.mid{
+    background-color:#ffffff;
+    border-radius:10px;
+    margin:10px;
+} 
+.section4{
+    background-color:#52FA6C;
+}
+.image{
+    width:300px;
+    height:250px;
+    margin:20px;
+}
+.section5{
+    background-color:#0ec930;
+    text-align:center;
+}
+.ckk{
+    background-color:#343A40;
+    color:#ffffff;
+}

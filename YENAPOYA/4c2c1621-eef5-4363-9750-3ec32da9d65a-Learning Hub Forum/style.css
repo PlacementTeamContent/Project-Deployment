@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+    background-color: #000000;
+    background-size: cover;
+    height: 6vh;
+    
+}
+.bg1{
+    background-color: #343A40;
+    background-size: cover;
+    height: 94vh;
+    width: 20vw;
+}
+.bg2{
+    
+    background-size: cover;
+    height: 94vh;
+    width: 80vw;
+}

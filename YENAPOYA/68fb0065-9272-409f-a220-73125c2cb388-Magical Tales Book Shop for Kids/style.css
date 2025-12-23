@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.main {
+    background-color: #faf0ca;
+    background-size: cover;
+    height: 97vh;
+}
+
+.p1 {
+    display: flex;
+    flex: row;
+    justify-content: end;
+    align-items: end;
+
+}
+
+.para {
+    display: flex;
+    flex: row;
+
+    padding: 20px;
+}
+
+.blue {
+    background-color: #0d3b66;
+    color: #ffffff;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn {
+    background-color: #ee964b;
+    height: 45px;
+    border-radius: 8px;
+}
+
+.yy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: end;
+
+}
+
+.yell {
+    background-color: #f4d35e;
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+}
+
+.last {
+    background-color: #343a40;
+    height: 50px;
+    color:#ffffff;
+    display: flex;
+   justify-content: center;
+   align-align: center;
+}
+
+.books {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    padding: 30px;
+}
+
+.h1 {
+    font-size: 20px;
+    color: #0d3b66;
+
+}

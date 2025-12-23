@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #c9182c;
+    height: 30px;
+}
+.p1{
+    color: white;
+    margin-top: 2px;
+}
+.btn{
+    color: white;
+    background-color: #23362b;
+    border-radius: 10px;
+    margin: 2px;
+}
+.bottom {
+    display: flex;
+    background-color:#8bc28c;
+    height: auto;
+    padding: 30px;
+}
+.img{
+    height: 100px;
+    padding: 10px;
+}
+.head{
+    text-align: center;
+    font-family: Roboto;
+}
+.bottom2{
+    height: auto;
+    background-color: #a7c957;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top:50px;
+    padding-bottom:15px ;
+}
+.collections{
+    display: flex;
+}
+.card1{
+    height: 290px;
+    width:250px;
+    background-color:#c5dbf0;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.img1{
+    height: 50%;
+    width: 80%;
+    margin-top: 10px;
+    align-self: center;
+    border-radius: 10px;
+}
+.bottom3{
+    background-color: #797d62;
+    display: flex;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top:50px;
+    padding-bottom:15px ;
+} 
+.card2{
+    background-color:#797d62 ;
+    display:flex;
+    flex-direction: column;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.img2{
+    height:90px;
+    width: 20%;
+    border-radius: 100px;
+    align-self: center;
+}
+.bb{
+    background-color: #782832;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.q{
+    padding: 2px;
+    text-align: center;
+}
+.btn1{
+    color: white;
+    background-color: #23362b;
+    border-radius:5px;
+}
+.h1{
+    color: #FFFFFF;
+}
+.p2{
+    color: #FFFFFF;
+}
+@media screen and (max-width:360px){
+    .bottom{
+    display: flex;
+    background-color:#8bc28c;
+    height: auto;
+    padding: 30px;
+    flex-direction: column;
+    text-align: center;
+    }
+    .img{
+        order: 1;
+        height: 100px;
+    }
+    .collections{
+    display: flex;
+    flex-direction: column;
+}
+   
+   .bb{
+       display: flex;
+       flex-wrap: wrap;
+   } 
+}

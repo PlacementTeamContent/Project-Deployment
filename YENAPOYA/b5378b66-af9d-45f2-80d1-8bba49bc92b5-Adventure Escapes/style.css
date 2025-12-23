@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.card1{
+    background-color: #c9182c;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
+.h1{
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.btn1{
+    color: #FFFFFF;
+    background-color: #000000;
+    border-radius: 10px;
+}
+.card2{
+    background-color: #8bc28c;
+    padding: 63px;
+    display: flex;
+    flex-direction: row;
+}
+.h2{
+    color: #FFFFFF;
+    text-align: left;
+    font-weight: bold;
+}
+.p2{
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+.btn2{
+    background-color: #23362b;
+    padding: 10px;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.img{
+    height: 120px;
+    width: 250px;
+}
+.card3{
+    background-color: #a7c957;
+    padding: 80px;
+    
+}
+.h3{
+    color: #000000;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.hh{
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    font-weight: bold;
+}
+.card4{
+    display: flex;
+    flex-direction: row;
+}
+.card5{
+    background-color: #c5dbf0;
+    border-radius: 10px;
+    height: 300px;
+    width: 250px;
+    margin-left: 15px;
+}
+.img2{
+    height: 150px;
+    width: 220px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.h3{
+    text-align: center;
+    color: #000000;
+    padding: 10px;
+}
+
+.p3{
+    text-align: center;
+    color: #000000;
+}
+.card6{
+    background-color: #797d62;
+    background-size: cover;
+    padding: 60px;
+}
+.h5{
+    color: #FFFFFF;
+    text-align: center;
+}
+.card7{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+}
+.img3{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 70px;
+}
+.h6{
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+.p6{
+    color: #FFFFFF;
+    text-align: center;
+}
+.card8{
+    background-color: #782832;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.list{
+    color: #FFFFFF;
+    margin-left: 20px;
+}

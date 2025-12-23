@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.bg1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 70vh;
+}
+
+
+
+.head1 {
+    color: white;
+    font-family: Caveat;
+}
+
+.p1 {
+    color: white;
+}
+
+.bg2 {
+    background-color: #9BFAA9;
+    text-align: center;
+    height: 40vh;
+    padding-top: 60px;
+}
+
+.head2 {
+    font-weight: bold;
+    font-family: Caveat;
+}
+
+.p3 {
+    font-family: Caveat;
+}
+
+.bg3 {
+    background-color: #52FA6C;
+    background-size: cover;
+    text-align: center;
+    height: 75vh;
+}
+
+.bg-in {
+    background-color: white;
+
+    padding: 10px;
+    text-align: center;
+}
+
+.img {
+    background-size: cover;
+    padding: 50px;
+
+    width: 34vh;
+}
+
+.head-4 {
+    text-align: center;
+}
+
+.p5 {
+    color: #52FA6C;
+}
+
+.head4 {
+
+    font-family: Caveat;
+}
+
+.bg6 {
+    background-color: #9BFAA9;
+    height: 75vh;
+    padding-top: 50px;
+
+
+}
+
+.head5 {
+    font-family: Caveat;
+    font-weight: bold;
+}
+
+.button {
+    border-width: 0px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.bg8 {
+    background-color: #52FA6C;
+    text-align: center;
+    height: 55vh;
+    padding-top: 165px;
+
+}
+
+.head7 {
+    font-family: Caveat;
+    font-weight: bold;
+}
+
+.black {
+    background-color: black;
+    text-align: center;
+    height: 5vh;
+}
+
+.para {
+    color: white;
+}
+
+/*Write your CSS code below and don't modify anything above*/

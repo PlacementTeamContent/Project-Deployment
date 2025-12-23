@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.container-fluid {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.intro {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 200px;
+    background-size: cover;
+    padding: 20px;
+}
+
+.text {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 10px;
+    padding: 20px;
+
+}
+
+.h-type {
+    font-size: 25px;
+    font-family: Caveat;
+}
+
+.btn {
+    font-size: 10px;
+
+}
+
+.secpart {
+    background-color: #9BFAA9;
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    height: 150px;
+}
+
+.sech1 {
+    font-size: 25px;
+    font-family: Caveat;
+    text-decoration-line: bold;
+}
+
+.sec {
+    font-family: Caveat;
+}
+
+.third {
+    background-color: #52FA6C;
+    height: 150px;
+}
+
+.hone {
+    text-align: center;
+    font-size: 20px;
+    font-family: Caveat;
+    padding: 10px;
+}
+
+.imgo {
+    height: 50px;
+}
+
+.imgfi {
+    height: 100px;
+}
+
+.fourth {
+    background-color: #9BFAA9;
+}
+
+.fifth {
+    background-color: #52FA6C;
+    text-align: cen;
+}
+
+/*Write your CSS code below and don't modify anything above*/

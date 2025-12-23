@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.m{
+    background-color: #c9182c;
+}
+.n{
+    color: #FFFFFF;
+    text-align: center;
+}
+.b{
+    background-color: #8bc28c;
+    padding: 5px;
+}
+.v{
+    color: #FFFFFF;
+}
+.c{
+    background-color: #23362b;
+}
+.x{
+    text-align: center;
+}
+.w{
+    height: 25vh;
+    width: 35vw;
+}
+.l{
+    background-color: #a7c957;
+    text-align: center;
+}
+.k{
+    background-color: #797d62;
+}
+.f{
+    border-radius: 100px;
+    height: 15vh;
+}
+.a{ 
+    text-align: center;
+    padding: 20px;
+    
+}
+.r{
+    background-color: #782832;
+    color: #FFFFFF;
+    font-family: Roboto;
+}

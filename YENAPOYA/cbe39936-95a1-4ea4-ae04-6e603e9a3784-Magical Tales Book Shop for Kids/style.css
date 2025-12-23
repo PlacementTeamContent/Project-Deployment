@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+
+/*Write your CSS code below and don't modify anything above*/
+.cont-1 {
+    background-color: #faf0ca;
+    padding: 10px;
+}
+.pr{
+      background-color: #faf0ca;
+}
+.trrr{
+    color:black;
+}
+.cont-2 {
+    background-color: #0d3b66;
+    padding: 20px;
+    text-align: center;
+}
+
+.cont-3 {
+    background-color: #faf0ca;
+
+    padding: 20px;
+    text-align: center;
+    height: 44vh;
+   
+}
+
+.cont-4 {
+    background-color: #343a40;
+
+    padding: 13px;
+    text-align: center;
+    height: 4vh;
+
+}
+
+.cont-5 {
+    background-color: #782832;
+
+    padding: 20px;
+    text-align: center;
+    height: 1vh;
+
+}
+
+.cont-1-head-dec {
+    color: ;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight:bold;
+}
+
+.cont-2-head-dec {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.cont-2-para-dec {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 8px;
+}
+
+.button-1 {
+    color: #0d3b66;
+    background-color: #ee964b;
+    border-radius: 2px;
+    border-width: 0px;
+    font-family: "Roboto";
+    height: 30px;
+    width: 140px;
+}
+
+
+.button-2 {
+    color: #ffffff;
+    background-color: #23362b;
+    border-radius: 7px;
+    border-width: 0px;
+    font-family: "Roboto";
+    height: 30px;
+    width: 100px;
+}
+
+.cont-2-img {
+    height: 30vh;
+}
+
+.mini-con {
+    background-color: #f4d35e;
+    border-radius: 7px;
+    height: 23vh;
+    width: 31vh;
+    padding: 8px;
+    text-align: center;
+}
+
+.mini-card-img-dec {
+    height: 14vh;
+    width: 20vh;
+    border-radius: 3px;
+}
+.mini-head{
+  color: #0d3b66; 
+  font-family: "Roboto";
+    font-size: 17px;
+    font-weight:bold;
+}
+.mini-para{
+  color: #0d3b66; 
+  font-family: "Roboto";
+    font-size: 17px;
+    /* font-weight:bold; */
+}
+.cont-4-img-dec {
+    height: 10vh;
+    width: 10vh;
+    border-radius: 40px;
+}
+
+
+
+.extra{
+    margin-right:20px;
+}

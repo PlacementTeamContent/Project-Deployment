@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+.na{
+    display: flex;
+    flex-direction: row;
+    background-color: #000000;
+    height: 20px;
+    width: 100vh;
+    color: #00ff00;
+    justify-content:   space-around;
+}
+.ap{
+    color:#ff4d4d ;
+}
+.bg1{
+    background-color:#343a40 ;
+    color:#fff ;
+    height: 100vh;
+    padding: 20px;
+    
+}
+.img1{
+    height: 40px;
+}
+.img2{
+    height: 25vh;
+    border-radius: 15px;
+    
+    
+    
+    
+}
+.subbg1{
+    display: flex;
+    margin-bottom: 20px;
+}
+.bg2{
+    background-color: #c9cba3;
+    height: 100vh;
+    
+    
+}
+.btn1{
+    background-color: #386641;
+    margin-left: 20px;
+}
+.btn2{
+    background-color: #e7ad99;
+}
+.btn3{
+    background-color: #9bc53d;
+}
+.subbtn{
+    height: 5vh;
+    width: 110px;
+    border-radius: 8px;
+    border-width: 0px;
+    color: #fff;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+h1{
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.card1{
+    background-color: #e26d5c;
+    height: 60vh;
+    text-align: center;
+    width: 60vh;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: 15px;
+}
+.btni{
+    background-color: #386641;
+    height: 4vh;
+    width: 110px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-left: 10px;
+    
+}
+.btnj{
+    display: flex;
+    justify-content: space-around;
+}
+.bgcard2{
+    background-color: #e26d5c;
+    height: 22vh;
+    text-align: center;
+    width: 60vh;
+    padding: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 15px;
+}
+.main{
+    display: flex;
+}
+/*Write your CSS code below and don't modify anything above*/

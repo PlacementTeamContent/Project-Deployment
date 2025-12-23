@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a{
+    background-color:#000000;
+}
+.b{
+    color:#00ff00;
+}
+.c{
+    color:#ff4d4d;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.size{
+    height:30px;
+    width:30px;
+    border-radius: 50px;
+}
+.king{
+    color:#fff;
+    font-family: "Roboto";
+}
+.viratkohili{
+    background-color:#343A40 ;
+}
+.HardhikPandya{
+    height:120px;
+    width:250px;
+}
+.Krunal-Pandya{
+    background-color:#e26d5c;
+    margin-top:30px;
+    border-radius:10px;
+    padding:10px;
+}
+.Tim-David{
+    background-color:#386641;
+    color:#fff;
+    border-width:0px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    height:30px;
+    width:65px;
+}
+.Rajat-Patidar{
+    background-color:#386641;
+    color:#fff;
+    border-width:0px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    height:30px;
+    width:65px;
+}
+.Virat-Kohili{
+    background-color:#e7ad99;
+    color:#fff;
+    border-width:0px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    height:30px;
+    width:65px;
+}
+.Jitesh-Sharma{
+     background-color:#9bc53d;
+    color:#fff;
+    border-width:0px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    height:30px;
+    width:65px;
+}
+.Dinesh-Kartik{
+    background-color:#c9cba3;
+    padding:30px;
+}
+.Bhuvaneshwar-Kumar{
+    color:#777;
+    font-size:10px;
+}
+.Nuvan-Tushara{
+    display:flex;
+    flex-direction: row;
+}
+.Yash-Dayal{
+    display: flex;
+    flex-direction:row;
+}
+.Romario-Shepard{
+    margin-top:20px;
+}

@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.fi {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    height: 55vh;
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.h1 {
+    color: #FFFFFF;
+
+    font-size: 40px;
+    font-family: Caveat;
+}
+
+.p1 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.bt {
+    background-color: #0ec930;
+    padding: 10px;
+    color: #FFFFFF;
+    border-width: 0px;
+    width: 180px;
+}
+
+.se {
+    background-color: #9BFAA9;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 50px;
+}
+
+.h2 {
+    color: #000000;
+    font-family: Caveat;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.p2 {
+    color: #000000;
+    font-family: Roboto;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.p3 {
+    color: #000000;
+    font-family: Caveat;
+
+    font-size: 15px;
+}
+
+.th {
+    background-color: #52FA6C;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+
+}
+
+.gr {
+    display: flex;
+    justify-content: center;
+
+}
+
+.card {
+    background-color: #FFFFFF;
+    padding: 8px;
+    width: 250px;
+    margin-right: 30px;
+}
+
+.img {
+    height: 150px;
+    width: 230px;
+    margin-bottom: 10px;
+}
+
+.h5 {
+    color: #000000;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.p5 {
+    color: #343A40;
+
+    font-family: Roboto;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.p6 {
+    color: #0ec930;
+
+    font-family: Roboto;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.bi {
+    font-size: 10px;
+}
+
+.fo {
+    background-color: #9BFAA9;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img2 {
+    height: 320px;
+    width: 500px;
+    margin-right: 30px;
+}
+
+.bt2 {
+    background-color: #FFFFFF;
+    color: #000000;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.co {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.fif {
+    background-color: #52FA6C;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bt3 {
+    background-color: #FFFFFF;
+    color: #000000;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 4px;
+    width: 130px;
+}
+
+.six {
+    background-color: #343A40;
+    padding: 10px;
+}
+
+.p10 {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+@media (max-width:575px) {
+    .gr {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+
+
+    }
+
+    .img {
+        height: 120px;
+        width: 230px;
+    }
+
+    .card {
+        margin-bottom: 10px;
+        margin-left: 30px;
+        height: 350px;
+
+    }
+
+    .fo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 20px;
+    }
+
+    .img2 {
+        height: 200px;
+        width: 260px;
+        padding-bottom: 10px;
+    }
+}

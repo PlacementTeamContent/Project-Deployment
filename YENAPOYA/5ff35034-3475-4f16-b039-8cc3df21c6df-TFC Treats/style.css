@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+.center{
+    padding-top:100px;
+}
+
+
+.background_1{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size:cover;
+    height:30vh;
+   
+}
+
+
+.button{
+    background-color: #0ec930;
+    border-width:0px;
+    border-style:solid;
+    margin-left:490px;
+    color:#ffffff;
+    border-radius:3px;
+    height:40px;
+    width:150px;
+    
+}
+
+
+.main_heading{
+    font-family:Caveat;
+    text-align:center;
+    color:#ffffff;
+}
+.main_para{
+    font-family:Roboto;
+    text-align:center;
+    color:#ffffff;
+}
+
+.bg-2{
+    background-color:#9BFAA9;
+    height:20vh;
+    background-size:cover;
+}
+
+.heading-1{
+    text-align:center;
+    font-family:Caveat;
+    
+}
+
+.para-1{
+    text-align:center;
+    font-family:Roboto;
+    
+}
+.para-2{
+    text-align:center;
+    font-family:Roboto;
+    padding:10px;
+}
+
+.bg-3{
+    background-color: #0ec930;
+    height:40vh;
+    background-size:cover;
+    margin-top:0px;
+}
+
+.container-1{
+    background-color:#ffffff;
+    border-style:solid;
+    border-width:0px;
+    border-radius:3px;
+    height:280px;
+    width:300px;
+    margin:20px;
+}
+
+.heading-2{
+    font-family:Caveat;
+    font-weight:bold;
+    text-align:center;
+}
+
+.img-1{
+    height:150px;
+    width:295px;
+    padding:10px;
+}
+
+.heading-3{
+    font-family:Roboto;
+    font-weight:bold;
+    text-align:center;
+    padding:5px;
+    font-size:20px;
+}
+
+.para-3{
+    font-family:Roboto;
+    text-align:center;
+    
+}
+.para-4{
+    font-family:Roboto;
+    text-align:center;
+    color:#0ec930;
+}
+
+.bg-4{
+    background-color: #9BFAA9;
+    height:35vh;
+    background-size:cover;
+    padding-left:200px;
+    padding-top:100px;
+}
+
+.img-2{
+    height:400px;
+    width:300px;
+    padding-bottom:200px;
+}
+.heading-4{
+    font-family:Caveat;
+    font-weight:bold;
+    padding-left:30px;
+    
+}
+
+.para-5{
+    font-family:Roboto;
+    text-align:center;
+    padding-left:30px;
+}
+.button-2{
+    font-family:Roboto;
+    border-width:0px;
+    border-radius:3px;
+    padding:3px;
+    margin-left:100px;
+}
+
+.heading-5{
+    font-family:Caveat;
+    text-align:center;
+    
+}
+.para-6{
+    font-family: Roboto;
+    text-align: center;
+    
+}
+.button-3{
+    border-radius:3px;
+    border-width:0px;
+    border-style:solid;
+    margin-left:550px;
+}
+
+.bg-5{
+    background-color: #52FA6C;
+    height:20vh;
+    background-size:cover;
+}
+
+.footer{
+    background-color:#343A40;
+    height:5vh;
+    background-size:cover;
+}
+
+.para-7{
+    font-family:Roboto;
+    text-align:center;
+    color:#ffffff;
+    padding:3px;
+}

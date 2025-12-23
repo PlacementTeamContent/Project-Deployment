@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.header{
+    background-color: #c9182c;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn{
+    border-width: 0px;
+    border-radius: 2px;
+    background-color: #23362b;
+    color:#ffffff;
+    padding: 10px;
+    margin:10px;
+}
+.para{
+    color:#ffffff;
+    padding:10px;
+    font-size:30px;
+    font-weight: 500;
+    
+}
+.img1{
+    width:200px;
+    margin-top:15px
+    
+    
+}
+.sec1{
+    background-color: #8bc28c;
+    padding:10px;
+}
+.c1{
+    color:#ffffff;
+}
+.sec2{
+    background-color: #a7c957;
+    max-height:120vh;
+}
+.card-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+   
+   
+}
+.cards{
+    background-color: #c5dbf0;
+    width:30%;
+    margin:15px;
+    border-radius: 15px;
+    height:300px;
+   
+  
+    
+}
+.img2{
+    max-width:220px;
+    min-height: 120px;
+    margin-left:30px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+.hh{
+    text-align: center;
+}
+.h1{
+    padding:30px;
+  text-align: center;
+
+}
+.sec3{
+   background-color:  #797d62;
+    max-height: 120vh;
+}
+.h11{
+    color:#FFFFFF;
+    text-align: center;
+    padding:20px;
+    margin-bottom: 10px;
+}
+.card-container1{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.img3{
+    border-radius:100px;
+    height:100px;
+    margin-left:30px;
+    margin-top:30px;
+}
+.dd{
+    color:#FFFFFF;
+    padding:30px;
+}
+.foot{
+    background-color: #782832;
+    display:flex;
+    justify-content: space-around;
+    
+    
+}
+.link{
+    color:#FFFFFF;
+}

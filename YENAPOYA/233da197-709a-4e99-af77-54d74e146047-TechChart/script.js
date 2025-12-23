@@ -1,0 +1,7 @@
+let emailE1=document.getElementById("email")
+ let ErrMsg=document.getElementById("errorMsg")
+ let SighnInbtn=document.getElementById("submitBtn")
+ let MobileNo=document.getElementById("mobile")
+ let pass=document.getElementById("password")
+ let conpass=document.getElementById("conformPassword")
+ let captha=document.getElementById("capthaEnter")

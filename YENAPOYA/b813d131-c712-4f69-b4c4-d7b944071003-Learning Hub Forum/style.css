@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.head {
+    background-color: #000000;
+}
+
+.a1 {
+    color: #00ff00;
+    padding: 100px;
+}
+
+.a2 {
+    color: #ff4d4d;
+    padding: 100px;
+}
+
+.i1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    margin-bottom: 30px;
+}
+
+.bg {
+    display: flex;
+}
+
+
+.bg1 {
+    background-color: #343A40;
+    color: #fff;
+    height: 1200px;
+    padding: 20px;
+}
+
+.ui {
+    list-style-type: none;
+}
+
+.bg2 {
+    background-color: #c9cba3;
+    height: 1200px;
+    width: 100%;
+    padding: 20px;
+}
+
+.cont1 {
+    padding: 20px;
+    display: flex;
+    background-color: #e26d5c;
+    flex-direction: column;
+    width:80%;
+    margin:20px;
+}
+button {
+    background-color: #386641;
+    color:#fff;
+    height:40px;
+    width:100px;
+    margin:35px;
+}
+.cont2 {
+    height:250px;
+}
+
+.i2 {
+    width:100%;
+    margin: 10px;
+}

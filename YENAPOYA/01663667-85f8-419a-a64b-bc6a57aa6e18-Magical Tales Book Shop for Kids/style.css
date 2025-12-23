@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.container-fluid{
+    color: #faf0ca;
+}
+.card-1{
+    background-color: #0d3b66;
+}
+.h1{
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+}
+.para{
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+}
+.button{
+    background-color: #ee964b;
+    text-align: center;
+}
+.card-2{
+    background-color: #faf0ca;
+    padding: 90px;
+}
+.h2{
+    color: #343a40;
+    text-align: center;
+    font-family: "Roboto";
+
+}
+.para-1{
+    color: #343a40;
+    text-align: center;
+    font-family: "Roboto";
+}
+.card-container{
+     background-color: #f4d35e;   
+}
+
+.image{
+    height: 40px;
+    width: 60px;
+    align-items: center;
+
+}
+.heading{
+    text-align: end;
+    text-align: center;
+    color: #0d3b66;
+    font-family: "Roboto";
+}
+.paragraph{
+     text-align: end;
+    text-align: center;
+    color: #0d3b66;
+    font-family: "Roboto";
+}
+.container{
+    background-color: #343a40;
+    padding: 30px;
+}
+.h3{
+    text-align: center;
+    color: #ffffff;
+}

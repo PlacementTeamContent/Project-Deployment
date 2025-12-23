@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+@media (min-width:1200px){
+    .sai{
+    background-color: #0d3b66;
+    height: 38vh;
+    text-align: center;
+}
+.saicard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rahul{
+    background-color: #faf0ca;
+    height: 73vh;
+    text-align: center;
+}
+.image{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    margin: 10px;
+    align-self:center;
+}
+.card{
+    background-color: #f4d35e;
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    font-size: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.head2{
+    font-size: 20px;
+}
+.bottom{
+    background-color: #343a40;
+    height: 8vh;
+    text-align: center;
+    color: white;
+}
+}
+@media (max-width:360px){
+    .sai{
+    background-color: #0d3b66;
+    height: 38vh;
+    text-align: center;
+}
+.rahul{
+    background-color: #faf0ca;
+    height: 100vh;
+    text-align: center;
+}
+.image{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    margin: 10px;
+    align-self:center;
+}
+.saicard{
+   
+}
+.card{
+    background-color: #f4d35e;
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    font-size: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.head2{
+    font-size: 20px;
+}
+.bottom{
+    background-color: #343a40;
+    height: 8vh;
+    text-align: center;
+    color: white;
+}
+}

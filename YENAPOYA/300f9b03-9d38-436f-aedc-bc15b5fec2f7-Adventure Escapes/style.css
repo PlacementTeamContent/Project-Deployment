@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nature-bg{
+    background-color: #8bc28c;
+}
+.head{
+    color:#FFFFFF;
+}
+.para{
+    color:#FFFFFF;
+}
+.button{
+  background-color:#000000;  
+  color:#FFFFFF;
+}
+.image{
+    height:45px;
+    width:75px;
+}
+.top-bg{
+    background-color: #a7c957;
+}
+.image-1{
+    
+    height:90px;
+    width:100px;
+}
+.card-container{
+    background-color: #c5dbf0;
+    background-size:cover;
+    text-align: center;
+}
+.image-2{
+    height:25px;
+    width:25px;
+}
+.Traveller-bg{
+    background-color:#797d62 ;
+}
+.traveller-head{
+    text-align: center;
+    color:#FFFFFF;
+}
+.card{
+    
+}

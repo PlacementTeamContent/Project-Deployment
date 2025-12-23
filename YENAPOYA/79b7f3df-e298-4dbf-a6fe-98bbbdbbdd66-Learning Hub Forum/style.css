@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.top {
+    background-color: #000000;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.toppo {
+    color: #00ff00;
+}
+
+.topne {
+    color: #ff4d4d;
+}
+
+.aa {
+    display: flex;
+    flex-direction: row;
+}
+
+.bio {
+    background-color: #343A40;
+    height: 100vh;
+    width: 25%;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.col {
+    background-color: #c9cba3;
+    width: 75%;
+}
+
+.biowar {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+
+.biowarcard {
+    display: flex;
+    flex-direction: column;
+}
+
+.biowarcard1 {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.buttondiv {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+}
+
+.Topic2 {
+    background-color: #386641;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    margin: 5px;
+    color: #fff;
+}
+
+.Topic1 {
+    background-color: #9bc53d;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    margin: 5px;
+    color: #fff;
+}
+
+.likebutton {
+    display: flex;
+    flex-direction: row;
+
+    margin: 10px;
+}
+
+.like {
+    background-color: #386641;
+    color: #fff;
+    border: 0px;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.bigpicsmall {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.bigpic {
+    background-color: #e26d5c;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+
+.Topic3 {
+    background-color: #e7ad99;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    margin: 5px;
+    color: #fff;
+}
+
+.LEARNING {
+    margin-left: 10px;
+}
+
+.lastdiv {
+    margin: 10px;
+    background-color: #e26d5c;
+    display: flex;
+    flex-direction: column;
+}

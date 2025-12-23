@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.bg-container{
+    background-color: #faf0ca;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    
+}
+.blue-container{
+     background-color:#0d3b66;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+}
+.red1{
+    font-family: "Roboto";
+    color: #ffffff;
+    text-align: center;
+}
+.red2{
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+.buttton{
+    background-color: #ee964b;
+    padding: 10px;
+    color: #0d3b66;
+}
+.cards-container{
+background-color: #faf0ca;
+height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 50px;
+}
+.card1{
+    background-color: #f4d35e;
+    height: 365px;
+    width: 350px;
+    display: flex;
+ flex-direction: column;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    padding-left:50px ;
+    padding-top: 10px;
+    border-radius: 20px;
+   
+    
+}
+.redwq{
+    color: #0d3b66;
+    text-align: center;
+    font-size: 20px;
+}
+.rend{
+    text-align: center;
+     color: #0d3b66;
+     padding-bottom: 10px;
+}
+.regid{
+    display: flex;
+    gap: 30px;
+}
+.redwanted{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}

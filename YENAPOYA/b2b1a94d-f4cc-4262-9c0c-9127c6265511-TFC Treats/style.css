@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.m {
+    text-align: center;
+    padding: 50px;
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    color: white;
+    font-family:"Roboto";
+}
+
+.o {
+    height: 50px;
+    width: 120px;
+    background-color: #0ec930;
+    color: white;
+    border-radius: 0px;
+}
+
+.b {
+    text-align: center;
+    padding: 40px;
+    background-color: #9BFAA9;
+}
+
+.n {
+    text-align: center;
+    background-color: #0ec930;
+    padding: 60px;
+    font-family:"Roboto";
+}
+
+.n1 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/fried+image.jpeg');
+    background-size: cover;
+    padding: 50px;
+}
+
+.n2 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/images+(1).jpeg');
+    background-size: cover;
+    padding: 50px;
+}
+
+.n3 {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/loaded.webp');
+    background-size: cover;
+    padding: 50px;
+}
+
+.k {
+    background-color: #9BFAA9;
+    text-align: center;
+    padding: 60px;
+    font-family:"Roboto";
+}
+
+.k1 {
+    background-image:url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+poster.jpg https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+poster.jpg');
+
+    padding:60px;
+    background-size:cover;
+}
+.g{
+    text-align:center;
+    background-color:#52fa6c;
+    font-family:"Roboto";
+}
+.mh{
+    font-family:"Caveat";
+}
+.bh{
+     font-family:"Caveat";
+}
+.nh{
+    font-family:"Caveat";
+}
+.kh{
+    font-family:"Caveat";
+}
+.gh{
+    font-family:"Caveat";
+}

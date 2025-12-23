@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+.navbar {
+  background-color:#343A40 ;
+  height: 50px;
+
+}
+.nav {
+    color: #FFFFFF;
+}
+.navb {
+    color: #FFFFFF;
+}
+.fightground  {
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg") ;
+    height:400px;
+    
+}
+.h {
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    
+}
+.p {
+   color: #FFFFFF;
+    display: flex;
+    align-items: center; 
+}
+.b {
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    background-color:#52FA6C ;
+    height: 40px;
+}
+.ourstory{
+    background-color: #9BFAA9;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+.menu{
+    background-color: #0ec930;
+    height: 400px;
+}
+.img{
+    height: 200px;
+    
+}
+.photo{
+    background-color: #FFFFFF;
+    height: 250px;
+    width:200px;
+    border-radius: 10px;
+}
+.k{
+    font-size:20px;
+    color: #000000;
+    
+}
+.po {
+    font-size: 20px;
+}
+.discover {
+    background-color: #9BFAA9;
+}
+.back {
+    background-color: #52FA6C;
+    height: 400px;
+    display:flex;
+    align-items: center;
+}
+.under{
+    background-color: #343A40;
+    display:flex;
+    align-items: center;
+}
+.h1{
+    color: #FFFFFF;
+}
+.bu {
+    background-color:  #FFFFFF;
+}

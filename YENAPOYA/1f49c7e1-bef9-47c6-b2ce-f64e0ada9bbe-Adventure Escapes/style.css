@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color: #c9182c;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+  color: #FFFFFF;
+  padding : 10px;
+  border: none;
+  background-color: #23362b;
+}
+.navtext{
+    color:#FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+}
+.greenCont{
+    display: flex;
+    background-color: #8bc28c;
+    color: white;
+    height: 250px;
+    place-items: center;
+}
+.step{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.subcont{
+    margin: 20px;
+}
+.img1{
+    height : 150px;
+    padding: 20px;
+}
+
+.sabz{
+    background-color: #a7c957;
+    place-items: center;
+    padding: 50px;
+}
+.make{
+    color:#000000;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
+.idhar{
+    display: flex;
+    flex-direction: column;
+    background-color: #c5dbf0;
+    width: 250px;
+    height: 350px;
+    place-items: center;
+    border-radius:20px;
+    margin: 10px;
+}
+.elements-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.insd{
+    width:220px;
+    height: 150px;
+    margin:10px;
+    border-radius: 15px;
+}
+.sec{
+    background-color: #797d62;
+    height: 500px;
+}
+.foot{
+    background-color: #782832;
+    height: 50px;
+}

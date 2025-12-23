@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+.second{
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+     display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     
+}
+.doo {
+    font-family: "Caveat";
+}
+/*Write your CSS code below and don't modify anything above*/
+p{
+    font-family: Roboto;
+    
+}
+.ek {
+    font-family: Caveat;
+}
+button{
+     background-color: #0EC930;
+     border-style: solid;
+     border-width: 0px;
+     color: white;
+     align-self: center;
+}
+.sec3{
+    background-color: #9BFAA9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sec4{
+    background-color: #52FA60    ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.er {
+   padding: 5px;
+    margin: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.iaa {
+    height: 100px;
+    width: 150px;
+}
+.io {
+    display: flex;
+    flex-direction: row;
+    
+}
+.df {
+    height: 300px;
+    width: 300px;
+}
+.sexy {
+    border-width: 0px;
+    background-color: white;
+    color: #000000;
+}
+.dc {
+    display: flex;
+    flex-direction: column;
+}
+.sec5 {
+    
+  background-color: #9BFAA9;
+}
+.dr{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    padding: 20px;
+}
+.sec6 {
+    background-color: #52FA60    ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sec7 {
+    background-color: #343A40;
+}
+.last{
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

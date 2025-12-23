@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.Welcome-Box {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    height: 40vh;
+    background-size: cover;
+    text-align: center;
+    padding: 200px;
+
+}
+
+.Welcome-Box-Heading {
+    color: white;
+    font-family: "Caveat";
+}
+
+.Welcome-Box-text {
+    color: white;
+    font-family: "Roboto";
+}
+
+.btnn {
+    background-color: #0ec930;
+    color: white;
+}
+
+.Box {
+    background-color: #9BFAA9;
+    text-align: center;
+    padding: 50px;
+}
+
+.story-heading {
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.story {
+    font-family: "Caveat";
+    font-size: 24px;
+}
+
+.story-line {
+    font-size: 20px;
+}
+
+.Third {
+    background-color: #53FA6C;
+    text-align: center;
+    padding: 50px;
+}
+
+.first-box {
+    width: 320px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.first-image {
+    height: 200px;
+    width: 300px;
+    padding: 2px;
+    padding-top: 8px;
+}
+
+.Text {
+    padding: 12px;
+
+}
+
+.Head {
+    font-weight: bold;
+}
+
+.View {
+    color: #0ec930;
+}
+
+.today {
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.sec {
+    height: 300px;
+    width: 450px;
+    padding: 4px;
+}
+
+.fourth {
+    background-color: #9BFAA9;
+}
+
+.no {
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.tnt {
+    text-align: center;
+}

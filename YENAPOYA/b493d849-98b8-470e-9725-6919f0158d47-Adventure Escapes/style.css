@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.main-one {
+    background-color: #c9182c;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.main-headh {
+    color: #ffffff;
+}
+
+.main-button1 {
+    background-color: #23362b;
+    color: #ffffff;
+
+}
+
+.second-m {
+    background-color: #8bc28c;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image1 {
+    height: 120px;
+}
+
+.third-kk {
+    background-color: #a7c957;
+}
+
+.gridsss {
+    grid-template-columns: 1fr, 1fr, 1fr, 1fr;
+    display: flex;
+
+}
+
+.ll {
+    background-color: #c5dbf0;
+
+    padding: 10px;
+    margin: 10px;
+}
+
+.image2 {
+    height: 150px;
+}
+
+.aa {
+    background-color: #797d62;
+}
+
+.rrr {
+    border-radius: 20px;
+    height: 90px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.ddd {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lasttt {
+    background-color: #782832;
+    padding: 20px;
+    padding-bottom: 18px;
+}
+
+.h222 {
+    color: #ffffff;
+}
+
+.main-button2 {
+    background-color: #23362b;
+    color: #ffffff;
+    padding: 20px;
+    width: 160px;
+}
+
+.oo {
+    text-align: center;
+    padding: 20px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

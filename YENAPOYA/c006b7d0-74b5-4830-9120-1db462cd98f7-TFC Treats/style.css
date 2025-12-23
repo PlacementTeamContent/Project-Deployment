@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-image {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    height: 40vh;
+    width: 100%;
+    color: white;
+}
+
+.bg-image-button {
+    background-color: #0ec930;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-width: 0px;
+    border-radius: 5px;
+    padding:5px;
+}
+
+.align {
+    text-align: center;
+}
+
+.font {
+    font-family: "Caveat";
+}
+
+.second-div {
+    background-color: #9BFAA9;
+    padding:20px;
+}
+
+.second-div-text {
+    font-family: 'Caveat';
+    font-weight: bold;
+    color: black;
+}
+
+.second-div-para {
+    font-family: 'Roboto';
+    color: black;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.third-div-text {
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: black;
+}
+
+.menu {
+    color: #0ec930;
+}
+
+.third-menu{
+    background-color:#52FA6C;
+    padding:20px;
+}
+.card{
+    background-color:white;
+    padding:2px;
+    margin:5px;
+}
+.fourth-div{
+    background-color:#9BFAA9;
+}
+.fourth-div-button{
+    height:40px;
+    width:100px;
+    background-color:white;
+    border-width:0px;
+    border-radius:5px;
+    color:#000000;
+}
+.image2{
+    height:500px;
+    width:500px;
+    padding:20px;
+}
+.card-text{
+    font-size:5px;
+}
+.padding{
+    padding-top:150px;
+}
+.white-button{
+    height:40px;
+    width:100px;
+    background-color:white;
+    border-width:0px;
+    border-radius:5px;
+    color:#000000;
+}
+.navbar-bg{
+    
+    
+}

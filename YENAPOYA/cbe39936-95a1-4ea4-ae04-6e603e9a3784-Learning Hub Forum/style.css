@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-cont {
+    background-color: #c9cba3;
+    height: 100vh;
+    padding: 30px;
+}
+
+.button-1 {
+    color: #ffffff;
+    background-color: #386641;
+    border-radius: 7px;
+    border-width: 0px;
+    font-family: "Roboto";
+    height: 30px;
+    width: 90px;
+}
+
+.button-2 {
+    color: #ffffff;
+    background-color: #e7ad99;
+    border-radius: 7px;
+    border-width: 0px;
+    font-family: "Roboto";
+    height: 30px;
+    width: 90px;
+}
+
+.button-3 {
+    color: #ffffff;
+    background-color: #9bc53d;
+    border-radius: 7px;
+    border-width: 0px;
+    font-family: "Roboto";
+    height: 30px;
+    width: 90px;
+}
+
+.cont-2 {
+    background-color: #e26d5c;
+    border-radius: 9px;
+    height: 60vh;
+    width: 80vh;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.img-costum {
+    height: 38vh;
+    text-align: center;
+    width: 66vh;
+}
+
+.img-2-dec {
+    border-radius: 50px;
+    height: 25px;
+    width: 25px;
+}
+
+.
+
+/* con-2-btn{
+    color:#ffffff;
+    background-color: #386641;
+    border-radius:7px;
+    border-width:0px;
+    font-family: "Roboto";
+    height:30px;
+    width:90px;    
+}
+ */
+.cont-2-head {
+    font-size: 10px;
+
+}
+
+.cont-2-para {
+    font-size: 10px;
+
+}
+
+.cont-3 {
+    background-color: #e26d5c;
+    border-radius: 9px;
+    height: 20vh;
+    width: 80vh;
+    margin-top: 20px;
+    padding: 30px;
+}

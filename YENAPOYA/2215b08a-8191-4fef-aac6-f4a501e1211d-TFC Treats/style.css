@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.a {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: Caveat;
+    padding: 50px;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.b {
+    background-color: #9BFAA9;
+    color: #343A40;
+    text-align: center;
+    font-family: Caveat;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.c {
+    height: 80px;
+    width: 140px;
+}
+
+.d {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.aa {
+    background-color: #52FA6C;
+    text-align: center;
+
+}
+
+.cc {
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+.ad {
+    font-size: 20px;
+}
+
+.bg {
+    color: #0ec930;
+    background-color: white;
+}
+
+.k {
+    font-family: Caveat;
+}
+
+.aw {
+    display: flex;
+    background-color: #9BFAA9;
+    justify-content: center;
+
+
+}
+
+.af {
+    height: 180px;
+    width: 200px;
+}
+
+.az {
+    margin: 20px;
+}
+
+.v {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #52FA6C;
+    padding: 40px;
+}
+
+h1 {
+    font-family: Caveat;
+}
+
+.w {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

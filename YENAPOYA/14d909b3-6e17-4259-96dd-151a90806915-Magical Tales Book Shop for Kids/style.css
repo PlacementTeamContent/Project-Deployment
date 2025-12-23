@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.first {
+    background-color: #0d3b66;
+    text-align: center;
+    color: white;
+    padding: 53px;
+}
+
+.button {
+    background-color: #ee964b;
+    color: #0d3b66;
+    border-radius: 5px;
+}
+
+.second {
+    background-color: #faf0ca;
+    height: 35vh;
+    text-align: center;
+    color: #0d3b66;
+    font-size: 13px;
+    padding-top: 23px;
+    padding-bottom: 12px;
+}
+
+.card {
+    background-color: #f4d35e;
+    height: 20vh;
+    width: 40vw;
+    margin: 42px;
+}
+
+.img {
+    height: 15vh;
+    width: 25vw;
+    padding: 22px;
+}
+
+.lol {
+    font-size: 23px;
+}
+
+.mal {
+    background-color: #343a40;
+    text-align: center;
+    color: white;
+}

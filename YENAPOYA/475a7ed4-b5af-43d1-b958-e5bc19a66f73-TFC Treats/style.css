@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.img {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.h {
+    color: #FFFFFF;
+    font-family: Caveat;
+}
+
+.p {
+    color: #FFFFFF;
+    font-family: Roboto;
+}
+
+.btn {
+    background-color: #0ec930;
+    border-color: #0ec930;
+    color: #FFFFFF;
+    font-family: Roboto;
+}
+
+.bg {
+    background-color: #9BFAA9;
+    text-align: center;
+    padding: 10px;
+}
+
+.h1 {
+    font-family: Caveat;
+}
+
+.p1 {
+    font-family: Roboto;
+}
+
+.paraa {
+    font-family: Caveat;
+}
+.image{
+    height: 40px;
+    width: 30px;
+}
+.bga{
+    background-color: #9BFAA9;
+}
+.images{
+    height: 40px;
+}
+/*Write your CSS code below and don't modify anything above*/

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.vi{
+    background-color: #0d3b66;
+    text-align: center;
+}
+.sa{
+    color:#ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+}
+.ks{
+    color:#ffffff;
+    font-family: Roboto;
+    font-size: 10px;
+}
+.hi{
+    color:#0d3b66;
+    background-color: #ee964b;
+}
+.ke{
+    background-color: #faf0ca;
+    height:100vh;
+}
+.lo{
+    background-color: #f4d35e;
+    width:160px;
+    height:140px;
+    padding-right:10px;
+}
+.im{
+    height:100px;
+    width:140px;
+    padding-left:20px;
+    border-radius: 10px;
+    padding-top:10px;
+}
+.ga{
+    text-align: center;
+}
+.hh{
+    font-family: Roboto;
+    color:#343a40;
+    font-size:20px;
+}
+.pp{
+    font-family: Roboto;
+    color:#343a40;
+    font-size:10px;
+}
+.hhhh{
+    font-family: Roboto;
+    font-size: 10px;
+    color:#0d3b66;
+}
+.pppp{
+    font-family: Roboto;
+    font-size: 10px;
+    color:#0d3b66;
+}
+.vina{
+    font-family: Roboto;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+}
+.vinsa{
+    background-color: #343a40;
+}

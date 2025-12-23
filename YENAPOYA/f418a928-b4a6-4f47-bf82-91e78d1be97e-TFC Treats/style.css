@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+.bg1{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    width:100%;
+    padding:16px;
+    height:300px;
+}
+.bg6{
+    color:white;
+    background-color: black;
+    text-align: center;
+    padding:5px;
+}
+.bg5{
+    background-color: #0ec930;
+    padding:12px;
+    text-align: center;
+}
+.btn2{
+    display: flex;
+    align-self: flex-start;
+}
+.bg2{
+    background-color: #9BFAA9;
+    padding:8px;
+}
+.bg3{
+    background-color: #0ec930;
+    padding:12px;
+}
+.bg4{
+    background-color: #9BFAA9;
+    padding:12px;
+}
+
+.card{
+    background-color: white;
+    padding:8px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:12px;
+    margin-bottom:30px;
+}
+grid{
+    margin:12px;
+}
+@media (min-width:1280px){
+    grid{
+    display: flex;
+    margin:12px;
+}
+}
+.h3{
+    font-weight: bold;
+    text-align: center;
+    font-family: "Roboto";
+}
+.p3{
+    text-align: center;
+    color:#0ec930;
+}
+.h2{
+    font-family: "Caveat";
+    color:black;
+    text-align: center;
+}
+.p2{
+    color:black;
+    text-align: center;
+}
+.btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1{
+    color :white;
+    font-family:"Caveat";
+    text-align: center;
+}
+.p1{
+    color:white;
+    text-align: center;
+    padding:8px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

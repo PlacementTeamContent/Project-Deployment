@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg-clr1{
+    background-color: #c9182c;
+    color: #FFFFFF;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+.button1{
+    background-color: #23362b;
+    color: #FFFFFF;
+    padding: 5px;
+    border-width: 0px;
+    border-radius: 2px;
+}
+.bg-clr2{
+    background-color: #8bc28c;
+    color: #FFFFFF;
+    padding: 5px;
+}
+.ft-wgt{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+}
+.ft-wgt1{
+    font-size: 10px;
+    padding: 5px;
+}
+.sort{
+    display: flex;
+    flex-direction: row;
+}
+.bg-clr3{
+    background-color: #a7c957;
+    padding: 20px;
+}
+.arrange{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+.image{
+    height: 100px;
+    width: 80px;
+}
+.image1{
+    height: 100px;
+    width: 80px;
+}
+.card{
+    background-color: #c5dbf0;
+    height: 200px;
+    width: 120px;
+    padding: 5px;
+    margin: 5px;
+}
+.image2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.arrange1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}

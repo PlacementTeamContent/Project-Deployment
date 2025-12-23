@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+.headbar{
+    height:2%;
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+}
+.sidebar{
+    background-color:#343A40;
+    height:99vh;
+    width:25vh;
+
+    
+}
+.hello{
+    position:relative;
+    top:40px;
+    left:20px;
+    display: flex;
+    
+}
+.image1{
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    
+}
+.items{
+    position: relative;
+    top:100px;
+    left:20px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+.mainbbar{
+    display:flex;
+}
+.another{
+    background-color:#c9cba3;
+    height:100vh;
+    width:160vh;
+}
+.fi{
+    position:relative;
+    left:40px;
+    top:10px;
+}
+.tasks{
+    display:flex;
+    gap:14px;
+}
+.bo{
+    height:500px;
+    width:780px;
+    position:relative;
+   border:30px #e26d5c solid ;
+}
+.image2{
+    height:440px;
+    width:720px;
+}
+.heeeelloo{
+    height:180px;
+    background-color:#e26d5c;
+    border:20px #e26d5c solid;
+    display: flex;
+}

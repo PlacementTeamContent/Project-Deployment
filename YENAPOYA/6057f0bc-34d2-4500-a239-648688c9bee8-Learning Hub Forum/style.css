@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+.main-div{
+    background-color:#c9cba3 ;
+}
+.a{
+    color: black;
+   font-weight: bold;
+   margin: 20px;
+}
+.e{border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+     margin: 20px;
+}
+.A{
+    background-color: #386641;
+    border-radius: 5px;
+    color: white;
+}
+.B{
+    background-color: #e7ad99;
+    border-radius: 5px;
+     color: white;
+     border-color:#e7ad99;
+}
+.C{border-radius: 5px;
+    background-color: #9bc53d;
+     color: white;
+}
+.card{
+    background-color: #e26d5c;
+    border-radius: 20px;
+    margin: 20px;
+}
+.imag{
+    height: 245px;
+    width: 250px;
+    margin-left: 90px;
+    margin-right: 150px;
+}
+
+.image2{
+    height: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.W{
+    font-size: 10px;
+    margin: 20px;
+}
+.i{
+    font-size: 10px; 
+     margin: 20px;
+}
+.ooo{
+    background-color:#386641 ;
+    border-radius: 5px;
+    width: 50px;
+    color: white;
+}
+.y{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin: 45px;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.card-2{
+    background-color: #e26d5c;
+    margin: 20px;
+    height: 45px;
+    border-radius: 10px;
+}

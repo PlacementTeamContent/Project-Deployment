@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.h1 {
+    font-size: 10px;
+    color: #ffffff;
+}
+
+.bg-color {
+    background-color: #343A40;
+}
+.container {}
+.a {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    height: 200px;
+}
+.title {
+    color: #FFFFFF;
+    font-family: "Caveat";
+    text-align: center;
+}
+.para {
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.btn {
+    background-color: #0ec930;
+    color: #FFFFFF;
+    font-family: "Roboto";
+}
+.b {
+    background-color: #9BFAA9;
+    padding:10px;
+    text-align: center;
+}
+.title2 {
+    color: #000000;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.para2 {
+    color: #000000;
+    font-family: "Roboto";
+}
+.p {
+    color: #000000;
+    font-family: "Roboto";
+    
+}
+.subt {
+    font-family: "Caveat";
+    color: #000000;
+    
+}
+.c {
+    background-color: #0ec930;
+    padding: 10px;
+    margin: 10px;
+}
+.card {
+    background-color: #FFFFFF;
+    padding: 5px;
+}
+.name {
+    color: #000000;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.price {
+    color: #343A40;
+    font-size: 10px;
+    padding: 10px;
+}
+.more {
+    color: #0ec930;
+    padding: 10px;
+}
+.image {
+    height: 100px;
+    width: 100px;
+}
+.d {
+    padding: 10px;
+    margin: 10px;
+}
+.image2 {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    
+
+}
+.disc {
+    background-color: #9BFAA9;
+    
+}
+.ab {
+    text-align: center;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}

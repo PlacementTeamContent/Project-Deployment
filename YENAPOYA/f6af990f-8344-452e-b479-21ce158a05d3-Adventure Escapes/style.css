@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.h {
+    color: white;
+    font-family: "Roboto";
+    padding-top: 16px;
+}
+
+.cv {
+    background-color: #c9182c;
+
+
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    text-align: right;
+    margin-bottom: 16px;
+    padding: 8px;
+
+
+}
+
+.cvv {
+    background-color: #8bc28c;
+
+}
+
+.p {
+    color: white;
+    padding: 10px;
+    ;
+}
+
+.cv1 {
+    background-color: #a7c957;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.img1 {
+    height: 70px;
+    width: 150px;
+    text-align: right;
+}
+
+.img2 {
+    height: 70px;
+    width: 150px;
+    text-align: right;
+    border-radius: 12px;
+    padding-top: 9px;
+}
+
+.vcv {
+    background-color: #c5dbf0;
+    width: 200px;
+    height: 150px;
+    border-radius: 12px;
+    font-weight: 200px;
+}
+
+.cv2 {
+    background-color: #797d62;
+    padding-top: 25px;
+}
+
+.h3 {
+    color: white;
+    font-family: "Roboto";
+}
+.pic1{
+    border-radius: 250px;
+    height: 10vh;
+}
+.y{
+    color:white;
+        font-family: "Roboto";
+}
+.x{
+    color:white;
+        font-family: "Roboto";
+}
+.xyz{
+    background-color: #782832;
+    background-size: cover;
+    height: 10vh;
+}
+.m{
+    color:white;
+    font-family: "Roboto";
+}

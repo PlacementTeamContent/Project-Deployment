@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yashwanth Gowda K N</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 16px; }
+    .submission { border: 1px solid #ccc; padding: 12px; margin-bottom: 16px; }
+  </style>
+</head>
+<body>
+<h1>Yashwanth Gowda K N</h1>
+<div class="submission">
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        roboto: ["Roboto", "sans-serif"],
+                    },
+                },
+            },
+        };
+    </script>
+</head>
+
+<body>
+    <div id="mainContainer" class="main-container">
+        <div class="section-1">
+            <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/123459uiximd99394334899308431.png" class="company-logo" />
+        </div>
+
+        <div class="section-2">
+            <h1 class="title">
+                Welcome to <span class="highlight-text">TechCart</span>
+            </h1>
+            <p class="title-description">Register Now to Unlock Exclusive Tech Deals</p>
+
+            <div class="register-container">
+                <p class="form-title">Create Your Account</p>
+                <div class="form-container">
+
+                    <div class="mb-6">
+                        <label for="name" class="label">Name</label><br />
+                        <input type="text" id="name" placeholder="Enter Your Name" class="input-ele" />
+                    </div>
+
+                    <div class="mb-6">
+                        <label for="email" class="label">Email</label><br />
+                        <input type="text" id="email" placeholder="*Please Enter Valid Email" class="input-ele" id="*Please Enter Valid Email"/>
+                    </div>
+
+                    <div class="mb-6">
+                        <label for="country" class="label">Country</label>
+                        <select id="country" class="input-ele">
+                            <option value="India">India</option>
+                            <option value="America">America</option>
+                            <option value="Brazil">Brazil</option>
+                            <option value="Russia">Russia</option>
+                            <option value="China">China</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-6">
+                        <label for="mobile" class="label">Mobile No.</label><br />
+                        <input type="text" id="mobile" placeholder="Enter Your Number" class="input-ele" />
+                    </div>
+
+                    <div class="mb-6">
+                        <label class="label">Gender</label>
+                        <div class="mt-3 ml-2">
+                            <input type="radio" name="gender" id="genderMale" value="Male" class="radio-input-ele mr-3" checked />
+                            <label for="genderMale" class="radio-label">Male</label>
+                            <input type="radio" name="gender" id="genderFemale" value="Female" class="radio-input-ele mr-4 ml-6" />
+                            <label for="genderFemale" class="radio-label">Female</label>
+                        </div>
+                    </div>
+
+                    <div class="mb-6">
+                        <label for="password" class="label">Password</label><br />
+                        <input type="text" id="password" placeholder="Enter Your Password" class="input-ele" />
+                    </div>
+
+                    <div class="mb-6">
+                        <label for="conformPassword" class="label">Confirm Password</label><br />
+                        <input type="text" id="conformPassword" placeholder="Confirm Your Password" class="input-ele" />
+                    </div>
+
+                    <div class="capcha-section">
+                        <div class="capcha-display-area">
+                            <p id="capchaNumber"></p>
+                        </div>
+                        <button class="capcha-btn" onclick="captchaBtn()">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-arrow-clockwise" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2z" />
+                                <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466" />
+                            </svg>
+                        </button>
+                    </div>
+
+                    <div class="mb-6">
+                        <label for="capchaEnterArea" class="label">Enter Captcha</label><br />
+                        <input type="text" id="capchaEnterArea" placeholder="Enter Captcha" class="input-ele" />
+                    </div>
+
+                    <button id="submitBtn" class="register-btn">Sign Up</button>
+                    <p id="errorMsg" class="error-msg"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="successContainer">
+        <div class="success-container">
+            <p class="successMsg">Congrats! </p>
+            <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/party_images-removebg-preview.png" class="party-image" />
+        </div>
+        <p class="sucess-greeting">You are successfully registered into TechCart</p>
+    </div>
+</body>
+
+</html>
+</div>
+  <script src="script.js"></script>
+</body>
+</html>

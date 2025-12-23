@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+.navbar{
+    background-color:#c9182c;
+    background-size: cover;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding:10px;
+}
+.para{
+    font-size:15px;
+    color:white;
+}
+.button{
+    font-size:13px;
+    background-color:black;
+    color:white;
+    height:25px;
+    width:100px;
+}
+.heading{
+    color:white;
+    font-size:20px;
+}
+.back{
+    background-color:#8bc28c;
+    height:60vh;
+}
+.image{
+    height:100px;
+    width:80%;
+    margin-left:30px;
+    margin-top:20px;
+}
+.cart1{
+    background-color:#c5dbf0;
+}
+.contain{
+    background-color:#a7c957;
+    background-size:cover;
+    height:130vh;
+}
+.what{
+    text-align:center;
+}
+.background{
+    background-color: #797d62;
+    height:160vh;
+}
+.whate{
+    text-align:center;
+}
+.image1{
+    height:150px;
+    width:150px;
+    border-radius:75px;
+}
+.ma{
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+.red{
+    background-color:#782832;
+    background-size:cover;
+    color:white;
+    font-size:12px;
+    text-align:center;
+}
+/*Write your CSS code below and don't modify anything above*/

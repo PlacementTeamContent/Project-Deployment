@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.text-color {
+    color: #ffffff;
+}
+
+#nav-link1 {
+    color: #ffffff;
+    
+}
+
+#nav-link2 {
+    color: #ffffff;
+}
+
+#nav-link3 {
+    color: #ffffff;
+}
+
+#nav-link4 {
+    color: #ffffff;
+}
+
+#nav-link5 {
+    color: #ffffff;
+}
+
+.bg-container1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    padding: 3px;
+    margin: 3px;
+
+}
+.text-center{
+    text-align: center;
+}
+.h{
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "Caveat";
+}
+.p{
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.b{
+    color: #ffffff;
+    background-color: #0ec930;
+    border-color: #0ec930;
+    border-style: solid;
+    border-radius: 6px;
+    text-align: center;
+    
+}
+.bg-container2{
+    background-color: #9bfaa9;
+    background-size: cover;
+    padding: 3px;
+    margin: 3px;
+}
+.h1{
+    color: #343140;
+    font-size: 23px;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.p1{
+    color: #343140;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+.p2{
+    color: #343140;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+.p3{
+    color: #343140;
+    font-size: 17px;
+    font-family: "Caveat";
+}
+.bg-container3{
+    background-color: #0ec930;
+    background-size: cover;
+    padding: 3px;
+    margin: 3px;
+}
+.card{
+    background-color: #ffffff;
+    height: 105px;
+    width: 110px;
+    padding: 8px;
+    margin: 7px;
+    
+}
+.img1{
+    height: 70px;
+    width: 75px;
+}
+.h3{
+    font-size: 9px;
+    font-weight: bold;
+    text-align: center;
+}
+.p4{
+    font-size: 8px;
+    
+    text-align: center;
+}
+.a{
+    color: #0ec930;
+    font-size:9px;
+}
+.bg-container4{
+    background-color: #9bfaa9;
+     padding: 3px;
+    margin: 3px;
+    
+}
+.img2{
+    height: 65px;
+    width: 110px;
+}
+.card2{
+    height: 90px;
+    width:140px;
+}
+.bg-container5{
+    background-color: #0ec930;
+     padding: 3px;
+    margin: 3px;
+}
+.footer{
+    background-color: #000000;
+    color:white;
+    text-align: center;
+    font-size: 9px;
+    
+}
+/*W
+rite your CSS code below and don't modify anything above*/

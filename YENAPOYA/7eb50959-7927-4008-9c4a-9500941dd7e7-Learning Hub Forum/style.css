@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto";
+}
+.madannn{
+    display: grid;
+    grid-template-columns:1fr 3fr;
+}
+.navbarr {
+    background-color: #000000;
+    height: 50px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.p1 {
+    color: #00ff00;
+    font-size: 20px;
+}
+
+.p2 {
+    color: #ff4d4d;
+    font-size: 20px;
+}
+
+.image {
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+}
+
+.h1 {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 300;
+    padding-left: 10px;
+}
+
+.navvvv {
+    background-color: #343A40;
+    padding: 25px;
+     height: 210vh;
+}
+
+.madan {
+    display: flex;
+     padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.listt {}
+
+.lll {
+    color: #FFFFFF;
+    font-size: 20px;
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+.containerr {
+    background-color: #e9cba3;
+    height: 210vh;
+    padding: 30px;
+}
+
+.heading {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.b1 {
+    background-color: #386641;
+    height: 45px;
+    width: 120px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    border-width: 0px;
+    font-weight: bold;
+}
+
+.b2 {
+    margin-left: 20px;
+    background-color: #e7ad99;
+    height: 45px;
+    width: 120px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    border-width: 0px;
+    font-weight: bold;
+}
+
+.b3 {
+    margin-left: 20px;
+    background-color: #9bc53d;
+    height: 45px;
+    width: 120px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    border-width: 0px;
+    font-weight: bold;
+}
+
+.mkk {
+    padding-top: 20px;
+}
+
+.imageeee {
+    height: 60vh;
+    width: 90vw;
+}
+
+.h8 {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 300;
+    padding-left: 10px;
+}
+
+.boxx {
+    background-color: #e26d5c;
+    padding: 30px;
+    border-radius: 8px;
+    margin-top: 35px;
+}
+.b18{
+    margin-left: 20px;
+    background-color: #386641;
+    height: 45px;
+    width: 120px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    border-width: 0px;
+    font-weight: bold;
+}
+.p18{
+    color: #000000;
+    font-size: 25px;
+}
+.butoonnn{
+   display: flex;
+   padding-top: 25px;
+   flex-direction: row;
+   justify-content: space-around;
+}
+
+.kav {
+    margin-top: 35px;
+    border-radius: 8px;
+    background-color: #e26d5c;
+    padding: 25px;
+    
+   
+}
+/*Write your CSS code below and don't modify anything above*/

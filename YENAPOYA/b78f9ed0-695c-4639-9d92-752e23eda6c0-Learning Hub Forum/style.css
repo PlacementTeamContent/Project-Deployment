@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.div1 {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+}
+
+.logo {
+    height: 30px;
+    margin-top: 0px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.sidebar {
+    padding: 20px;
+    background-color: #343A40;
+}
+
+.list-item {
+    padding: 5px;
+    color: white;
+    list-style-type: none;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.div2 {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1;
+}
+
+.content {
+    background-color: #c9cba3;
+    padding: 20px;
+}
+
+.button-div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn1 {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #386641;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.btn2 {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #e7ad99;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    margin-right: 10px;
+}
+
+.btn3 {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #9bc53d;
+    color: white;
+    padding: 10px;
+    width: 80px;
+}
+
+.Learninghub {
+    height: 400px;
+    width: 700px;
+    padding: 10px;
+}
+
+.orange-div {
+    background-color: #e26d5c;
+    width: 740px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.name {
+    display: flex;
+    flex-direction: row;
+}
+
+.percentage-green {
+    color: #00ff00;
+}
+
+.percentage-red {
+    color: #ff4d4d;
+}
+
+.chat {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.para {
+    color: #777;
+}
+
+.btns {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

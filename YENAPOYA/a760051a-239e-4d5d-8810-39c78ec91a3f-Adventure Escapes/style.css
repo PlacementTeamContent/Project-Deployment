@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.div0 {
+    background-color: #c9182c;
+    padding: 10px;
+}
+
+.p0 {
+    color: white;
+    font-weight: bold;
+}
+
+.bt0 {
+    color: #FFFFFF;
+    background-color: #000000;
+    text-align: right;
+}
+
+.div1 {
+    background-color: #8bc28c;
+}
+
+.h1 {
+    color: #FFFFFF;
+    padding: 10px;
+
+}
+
+.p1 {
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.bt1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.i_paradise {
+    height: 100px;
+    width: 150px;
+}
+.bg2{
+    background-color: #a7c957;
+    background-size: cover;
+    height: 400px;
+}
+.bg3{
+    background-color: #797d62;
+    background-size: cover;
+    height: 400px;
+}
+.bg4{
+        background-color: #782832;
+    background-size: cover;
+    height: 50px
+}

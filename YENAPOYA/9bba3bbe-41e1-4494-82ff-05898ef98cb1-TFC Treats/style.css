@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.card{
+    text-align: center;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 300px;
+    background-size: cover;
+    
+}
+.h{
+    color: white;
+    padding-top: 75px;
+   
+   
+}
+.p{
+     color: white;
+    
+}
+.btn{
+    background-color: #0ec930;
+    background-size: cover;
+    color: white;
+    
+}
+.card1{
+   
+    text-align: center;
+    background-color:#9BFAA9;
+    background-size: cover;
+}
+.h1{
+    font-size:30px;
+     padding-top: 15px;
+     font-family: "Caveat";
+}
+.p1{
+    font-family: "Caveat";
+}
+.card2{
+    text-align: center;
+    background-color:#52FA6C;
+    background-size: cover; 
+}
+.h2{
+    font-family: "Caveat";
+    padding-top: 15px;
+    
+}
+.card4{
+    background-color:white;
+    border-style: solid;
+    border-color: white;
+    margin: 10px;
+    width: 150px;
+}
+.p5{
+    color: #0ec930;
+}
+.card5{
+    background-color:#9BFAA9;
+    background-size: cover; 
+}
+.l{
+    margin: 10px;
+    font-family: "Caveat";
+}
+.j{
+     margin: 10px;
+}
+.bg{
+    border-color: white;
+    color: Black;
+    margin: 10px;
+    border-radius: 8px;
+    
+}
+.card6{
+    text-align: center;
+    background-color:#52FA6C;
+    background-size: cover; 
+}
+.h7{
+     padding-top: 35px;
+    font-family: "Caveat";
+}
+.p7{
+    
+}
+.card8{
+    text-align: center;
+    background-color:#343A40;
+    color: white;
+}
+.h8{
+    font-size: 20px;
+}
+
+/*Write your CSS code below and don't modify anything above*/

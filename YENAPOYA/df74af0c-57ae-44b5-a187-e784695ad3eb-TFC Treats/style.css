@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.hero {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    height: 33vh;
+    color: #fff;
+    flex-direction: column;
+}
+
+.inside-hero {
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+
+.inside-hero button {
+    background-color: #0ec930;
+    border-radius: 3px;
+    color: #fff;
+    padding: 7px 15px;
+    border: none;
+}
+
+.after-hero {
+    background-color: #9BFAA9;
+    background-size: cover;
+    height: 27vh;
+    color: #000;
+    flex-direction: column;
+    padding: 10px 20px 15px;
+}
+
+.after-inside-hero {
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+
+.menu {
+    flex-direction: column;
+    background-color: #0ec930;
+}
+
+.cards{
+    justify-content: space-around;
+    gap: 30px;
+    margin: 30px;
+}
+
+.card{
+    justify-content: center;
+    padding: 7px;
+}
+
+.discount {
+    justify-content: space-around;
+    align-items: center;
+    background-color: #9bfaa9;
+}
+
+.inside-discount{
+    text-align: left;
+    margin: 27px;
+    height: 100%;
+}
+
+.inside-discount button{
+    border: none;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.book-a-table{
+    background-color: #0ec930;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    height: 27vh;
+}
+
+.book-a-table button{
+    padding: 6px 20px;
+    border: none;
+    border-radius: 7px;
+}
+
+footer{
+    padding: 24px;
+    background-color: #343a40;
+    color: #fff;
+}

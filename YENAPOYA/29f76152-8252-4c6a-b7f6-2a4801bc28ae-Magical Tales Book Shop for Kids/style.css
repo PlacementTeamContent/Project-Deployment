@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.background {
+    background-color: #0d3b66;
+    height: 150px;
+}
+.background2{
+    background-color:#faf0ca;
+    height: 450px;
+}
+.para{
+    color:white;
+    text-align:center;
+    font-size:16px;
+}
+.head{
+    color:white;
+    text-align:center;
+    font-size:25px;
+    
+}
+.button{
+    background-color: #ee964b;
+    border-radius:5px;
+    border-style:solid;
+    border-width:0px;
+    height:40px;
+    text-align:center;
+    justify-content:center;
+    
+    
+    
+}
+.middle{
+    text-align:center;
+}
+.back1{
+    background-color:#f4d35e;
+    height:250px;
+    width:240px;
+    margin-top:-320px;
+}
+.image1{
+    height:140px;
+    width:180px;
+    margin-top:20px;
+    margin-left:30px;
+}
+.hea{
+    color:#0d3b66;
+    font-size:20px;
+    text-align:center;
+}
+.par{
+     color:#0d3b66;
+    font-size:17px;
+    text-align:center;
+}
+
+.back2{
+    background-color:#f4d35e;
+    height:250px;
+    width:240px;
+    margin-top:-320px;
+    margin-left:20px;
+}
+.back3{
+    background-color:#f4d35e;
+    height:250px;
+    width:240px;
+    margin-top:-320px;
+    margin-left:30px;
+    
+    
+}
+.black{
+    background-color: #343a40;
+    height:35px;
+    width:3000px;
+    color:white;
+    margin-top:-40px;
+    margin-left:-800px;
+}
+.magical{
+    color:white;
+    font-size:15px;
+    text-align:center;
+    margin-right:-80px;
+    margin-top:11px;
+}

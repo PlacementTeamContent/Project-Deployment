@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.sec1 {
+    background-image: URL(https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg);
+}
+
+.first {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.btn1 {
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #0ec930;
+    font-family: Roboto;
+    border-color: #0ec930;
+}
+
+.h1 {
+    font-family: Caveat;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container {
+    background-color: #9BFAA9;
+    width: 10000vw;
+    height: 20vh;
+}
+
+.h2 {
+    font-family: Caveat;
+    color: #000000;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+.p2 {
+    color: #343A40;
+    text-align: center;
+}
+
+.container2 {
+    background-color: #52FA6C;
+}
+
+.thirdh1 {
+    color: #000000;
+    text-align: center;
+    font-size: 30px;
+}
+
+.thirdp {
+    color: grey;
+    text-align: center;
+    font-size: 25px;
+}
+
+.thirds {
+    color: #0ec930;
+    text-align: center;
+    font-size: 25px;
+}
+
+.btn2 {
+    background-color: #FFFFFF;
+    color: #000000;
+    border-color: #FFFFFF;
+    text-align: center;
+}
+
+.container3 {
+    background-color: #9BFAA9;
+    text-align: center;
+}
+
+.container4 {
+    background-color: #343A40;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
+
+.imgP {
+    width: 10px;
+    height: 10px;
+}
+
+.h4 {
+    font-family: Caveat;
+    color: #000000;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: right;
+}

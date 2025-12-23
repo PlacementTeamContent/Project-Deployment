@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+
+.card1{
+    background-color:#0d3b66;
+    height:30vh;
+    background-size:cover;
+}
+.h12{
+    color:#ffffff;
+    
+    font-weight:normal;
+    text-align: center;
+    
+}
+.p1{
+    color:#ffffff;
+    font-size:15px;
+    font-weight:normal;
+    text-align: center;
+    
+}
+.button{
+    background-color: #ee964b;
+    color:#0d3b66;
+    font-weight:bold;
+    border-radius:4px;
+}
+.card2{
+    background-color: #faf0ca;
+    height:50vh;
+    background-size:cover;
+}
+.h2{
+    color:#343a40;
+    font-weight:600;
+    text-align: center;
+    padding:5px;
+    
+}
+.p2{
+    color:#343a40;
+    text-align: center;
+    font-size:15px;
+    padding:5px;
+}
+.card3{
+    background-color:#f4d35e;
+    height:250px;
+    width:280px;
+    padding:20px;
+    border-radius:10px;
+    box-sizing:border-box;
+    
+}
+.img{
+    height:160px;
+    width:240px;
+    border-radius:10px;
+}
+.h3{
+    color:#0d3b66;
+    font-weight:bold;
+    font-size:20px;
+    padding:5px;
+    text-align: center;
+}
+.p3{
+    color:#0d3b66;
+    font-weight: normal;
+    text-align: center;
+}
+.card4{
+    background-color:#343a40;
+    height:8vh;
+    background-size:cover;
+}
+.h4{
+    
+    color:white;
+    text-align: center;
+    padding:5px;
+}

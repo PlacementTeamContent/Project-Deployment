@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.container {
+    width: 100vw;
+    margin-left: 0px;
+   
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.top {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    background-size: cover;
+    text-align: center;
+    width: 1280px;
+    color: #ffffff;
+    font-family: "Caveat";
+    padding: 150px;
+}
+
+.top2 {
+    background-color: #9BFAA9;
+    background-size: cover;
+    text-align: center;
+    width: 1280px;
+    font-family: "Caveat";
+    padding: 70px;
+}
+
+.mid {
+    background-color: #52FA6C;
+    background-size: cover;
+    text-align: center;
+    width: 1280px;
+    font-family: "Caveat";
+    padding: 30px;
+}
+.card_1{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+    margin-left: 90px;
+    border-radius: 20px;
+} 
+.dis{
+    background-color: #9BFAA9;
+    background-size: cover;
+    text-align: center;
+    width: 1280px;
+    font-family: "Caveat";
+    padding: 30px;
+}
+.txt{
+    padding: 20px;
+    margin-top: 100px;
+    text-align: left;
+}
+.lst{
+    background-color: #52FA6C;
+    background-size: cover;
+    text-align: center;
+    width: 1280px;
+    font-family: "Caveat";
+    padding: 80px;
+}
+.botm{
+    background-color: #343a40;
+    text-align: center;
+    color: #ffffff;
+    width: 1208px;
+    padding: 30px;
+}
+.navbar{
+    background-color: #343A40;
+    width: 1280px;
+    color: #ffffff;
+}
+.pa{
+    color: #0ec930;
+    font-family: "Roboto";
+}
+.ab{
+    font-weight: bold;
+}
+.butn{
+    background-color: #0ec930;
+    color: #ffffff;
+    padding: 5px;
+    border-width: 0px;
+   
+}
+.btn{
+    padding: 5px;
+    border-width: 0px;
+    background-color: #ffffff;
+    border-radius: 3px;
+     font-family: "Roboto";
+    
+}

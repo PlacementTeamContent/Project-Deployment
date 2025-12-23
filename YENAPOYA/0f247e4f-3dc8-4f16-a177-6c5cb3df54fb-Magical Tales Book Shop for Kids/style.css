@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*
+.nav{
+    background-color: #faf0ca;
+}
+/*write your code below*/
+.welcon{
+    background-color: #0d3b66;
+    text-align: center;
+    color: white;
+      padding: 30px;
+}
+.bth1{
+    font-size: 10px;
+    background-color: #ee964b;
+    padding: 10px;
+    border-radius: 5px;
+}
+.wekha{
+       font-size: 20px;
+}
+.wekha1{
+     font-size: 10px;
+    
+}
+.cole{
+    
+    font-size: 20px;
+   
+}
+.coller{
+   
+    background-color: #faf0ca;
+    text-align: center;
+     padding: 20px;;
+}
+
+
+.cardcontext1{
+    font-size: 10px;
+}
+.card1{
+    background-color: #f4d35e;
+}
+.cardhead{
+    font-size: 10px;
+}
+.fot{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    flex: wrap;
+}

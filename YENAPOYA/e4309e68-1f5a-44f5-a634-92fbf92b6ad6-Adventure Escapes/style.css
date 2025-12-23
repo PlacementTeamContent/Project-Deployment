@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.upper {
+    background-color: #c9182c;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+
+}
+.middle1{
+    background-color: #8bc28c;
+    height: 200px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.img1{
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    margin-top: 5%;
+    
+}
+.btn1{
+    margin: 5px;
+    background-color: #23362b;
+    border-radius: 5px;
+    border-width: 0px;
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 35px;
+    
+}
+.middle2{
+    background-color: #a7c957;
+    height: 400px;
+    padding: 20px;
+    width:100%;
+}
+.head1{
+    color: #ffffff;
+    margin: 5px;
+}
+.img2{
+    height: 120px;
+    width: 170px;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 10px;
+    
+}
+.a2{
+    text-align: center;
+    
+}
+.card{
+    background-color: #c5dbf0;
+    width: 220px;
+    text-align: center;
+    border-radius: 10px;
+    height: 270px;
+    margin: 10px;
+    
+}
+.d{
+    display: flex;
+}
+.div{
+    max-width: 290px;
+    text-align: center;
+}
+.pl{
+    display: flex;
+}
+@media (width:360px){
+    .pl{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.pp{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.a1{
+    margin: 10px;
+}
+.foot{
+    background-color: #782832;
+    height: 5vh;
+    margin-bottom: 20px;
+    display: flex;
+    color: white;
+    font-size: 10px;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+.profile{
+    background-color: #797d62;
+    height: 300px;
+    padding: 20px;
+}
+.k{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}

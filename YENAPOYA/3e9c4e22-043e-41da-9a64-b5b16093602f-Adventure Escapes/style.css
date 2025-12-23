@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.b {
+    background-color: #c9182c;
+}
+
+.but {
+    background-color: #000000;
+    color: white;
+    border-radius: 0px;
+    text-align: right;
+    margin: 10px;
+    height: 40px;
+    width: 80px;
+}
+
+.t1 {
+    color: white;
+    font-size: 20px;
+
+
+
+}
+
+.t2 {
+    color: white;
+    font-size: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.bgg {
+    background-color: #8bc28c;
+}
+
+.bg {
+    background-color: #a7c957;
+
+}
+
+.m {
+    font-size: 20px;
+    color: white;
+}
+
+.h {
+    font-size: 15px;
+    text-align: center;
+}
+
+.j1 {
+    font-size: 10px;
+    text-align: center;
+}
+
+.m1 {
+    font-size: 10px;
+    color: white;
+}
+
+.container {
+    Display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.container3 {
+    Display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.container1 {
+    Display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: #c5dbf0;
+    height: 20vh;
+    width: 80px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.image2 {
+    height: 70px;
+    width: 80px;
+}
+
+.bg1 {
+    background-color: #797d62;
+}
+
+.card1 {
+    background-color: #797d62;
+    height: 100px;
+}
+
+.image3 {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.image {
+    height: 50px;
+    width: 60px;
+}
+
+.main1 {
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.main2 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.para1 {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 5px;
+    color: white;
+    padding: 10px;
+}
+
+.b1 {
+    background-color: #782832;
+}
+
+/*Write your CSS code below and don't modify anything above*/

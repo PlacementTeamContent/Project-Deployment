@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a1{
+    background-color: #343A40;
+    color: #FFFFFF;
+}
+.a2{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+}
+.a3{
+    color: #FFFFFF;
+    padding: 40px;
+    text-align: center;
+}
+.a4{
+    font-family: "Caveat";
+    font-style: italic;
+}
+.a5{
+    margin-left: 490px;
+    color: #FFFFFF;
+    background-color: #0ec930;
+    height: 40px;
+    width: 150px;
+}
+
+.b2{
+    background-color: #9BFAA9;
+    height: 30vh;
+    width: 100vw;
+    text-align: center;
+}
+.ak{
+    font-family: "Caveat";
+    font-style: italic;
+    font-weight: bold;
+}
+.sp{
+    font-family: "Caveat";
+}
+.b3{
+    background-color: #52FA6C;
+    height: 80vh;
+    text-align: center;
+}
+.card1{
+    margin-left: 50px;
+    background-color: #FFFFFF;
+    height: 320px;
+    width: 320px;
+    padding: 10px;
+}
+.card1image{
+    align-items: center;
+    height: 150px;
+    width: 300px;
+}
+.aaa{
+    color: #0ec930;
+}
+.pop{
+    font-size: 25px;
+    font-weight: bold;
+}
+.b4{
+    background-color: #9BFAA9;
+    height: 50vh;
+}
+.img2{
+    margin: 22px;
+    padding-left: 40px;
+    height: 250px;
+    width: 400px;
+}
+.q1{
+    margin-top: 90px;
+}
+.b5{
+    background-color: #52FA6C;
+    height: 50vh;
+    text-align: center;
+}
+.q2{
+    padding-top: 80px;
+}
+.fixed{
+    position: fixed;
+}

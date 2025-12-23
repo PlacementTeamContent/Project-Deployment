@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.bg{
+    background-color:#0d3b66;
+    text-align: center;
+    padding: 40px;
+   
+}
+.h1{
+    color: white;
+    padding-top: 10px; font-size: 35px;
+}
+.p1{
+    color: white;
+    padding: 10px;
+}
+.bt1{
+    background-color:#ee964b;
+    padding: 15px;
+    border-radius: 5px;
+    color: #0d3b66;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+.bg2{
+    background-color: #faf0ca;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card{
+    background-color: #f4d35e;
+    margin: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    
+}
+.card1{
+    background-color: #f4d35e;
+    margin-left: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    margin-top:20px;
+}
+.bg-c{
+    background-color: #343a40;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}

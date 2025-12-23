@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.image1{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    width: 500px;
+    height: 400px;
+}
+.main{
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+.head{
+    font-family:Caveat;
+}
+.para{
+    font-family:Roboto;
+}
+.k{
+    background-color: #343A40;
+}
+.second{
+    background-color:#FFFFFF;
+    text-align:center ;
+}
+.h{
+    font-family:Caveat;
+    font-size: 50px;
+}
+.p{
+    font-family:Roboto;
+}
+.k{
+   font-family:Caveat; 
+}
+.s{
+    font-family:Roboto;
+}
+.y{
+    background-color:#000000;
+    text-align: center;
+    font-family:Caveat; 
+}
+.g{
+    height: 100px;
+}
+.v{
+   font-family:Caveat;  
+}
+.more{
+    width: 300px;
+    height: 300px;
+}
+
+.d{
+    
+}

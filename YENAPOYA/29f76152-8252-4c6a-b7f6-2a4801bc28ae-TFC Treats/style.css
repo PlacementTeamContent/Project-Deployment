@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.image{
+    height:370px;
+    width:1000px;
+}
+.color{
+    color:white;
+}
+.bi{
+    color:white;
+    height:40px;
+    width:40px;
+}
+.head1{
+    font-family:"Caveat";
+    color:white;
+    text-align:center;
+    font-size:40px;
+    
+}
+.para1{
+    font-family:"Roboto";
+    color:white;
+    font-size:23px;
+}
+.button1{
+    background-color:#0ec930 ;
+    height:30px;
+    width:150px;
+    color:white;
+    border-width:0px;
+    margin-left:400px;
+    
+    
+}
+.all{
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    margin-top:-200px;
+}
+.background{
+    background-color:#9BFAA9;
+    height:20vh;
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    padding-top:20px;
+}
+.head2{
+    color:black;
+    font-family:"Caveat";
+    font-weight:bold;
+    
+}
+.head2222{
+    color:black;
+    font-family:"Caveat";
+    font-weight:bold;
+    margin-left:-220px;
+    
+}
+.para2{
+    color:black;
+    font-family:"Roboto";
+    font-size:12px;
+}
+.para2222{
+    color:black;
+    font-family:"Roboto";
+    font-size:17px;
+    margin-top:100px;
+    margin-left:-240px;
+}
+.para22{
+    color:black;
+    font-family:"Roboto";
+    font-size:16px;
+}
+.para222{
+    color:black;
+    font-family:"Caveat";
+    font-size:20px;
+}
+.background2{
+    background-color:#0ec930;
+    height:55vh;
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    padding-top:20px;
+    
+}
+.headd{
+    color:black;
+    font-family:"Caveat";
+    font-weight:bold;
+    margin-top:-60px;
+    
+    
+}
+.back{
+    background-color: white;
+    height:250px;
+    width:230px;
+     margin-left:40px;
+     margin-bottom:-190px;
+}
+
+.back1{
+    background-color: white;
+    height:250px;
+    width:230px;
+     margin-left:320px;
+     margin-top:-190px;
+     
+}
+.back2{
+    background-color: white;
+    height:250px;
+    width:230px;
+     margin-left:300px;
+     margin-top:-260px;
+}
+.image1{
+    height:150px;
+    width:200px;
+    margin-top:12px;
+}
+
+.head3{
+    color:black;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:20px;
+    
+}
+.para3{
+    color:black;
+    font-family:"Roboto";
+    font-size:12px;
+}
+.para33{
+    color:green;
+    font-family:"Roboto";
+    font-size:16px;
+    margin-top:-20px;
+   
+    
+}
+.bii{
+    height:20px;
+}
+.greenback{
+    background-color:#9BFAA9;
+    height:2000px;
+    margin-top:300px;
+}
+.img{
+    height:220px;
+    width:280px;
+    margin-right:350px;
+    margin-top:30px;
+    margin-bottom:30px;
+   
+}
+.b{
+    background-color:white ;
+    height:30px;
+    width:150px;
+    color:black;
+    border-width:0px;
+    border-radius:5px;
+    margin-left:390px;
+}
+.ba{
+    background-color: #343a40;
+    color:white;
+    height:60px;
+    font-size:18px;
+}

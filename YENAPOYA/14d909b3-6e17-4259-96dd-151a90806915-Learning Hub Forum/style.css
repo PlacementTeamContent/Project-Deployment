@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+
+.don{
+   
+    
+}
+.man{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-evenly;
+}
+.hal{
+    color: #00ff00;
+}
+.mal{
+    color: #ff4d4d;
+}
+.side{
+    background-color: #343A40;
+    height: 100vh;
+    width: 30vw;
+    color: white;
+    grid-area: side-bar ;
+}
+.img{
+    height: 16px;
+    width: 18px;
+    border-radius: 45px;
+    margin: 14px;
+}
+.bali{
+    padding-top: 23px;
+    color: #ffffff;
+}
+.thai{
+    background-color: #c9cba3;
+    height: 100vh;
+   grid-area: content;
+}
+.doli{
+    margin-left: 123px;
+    color: white;
+}
+.maria{
+    background-color: #e26d5c;
+    height: 50vh;
+    width: 62vw;
+    border-radius: 7px;
+    margin: 26px;
+}
+.img3{
+    height: 20vh;
+    width: 54vw;
+    margin: 22px;
+    
+}
+.lan{
+    background-color: #e26d5c;
+    margin-top: 122px;
+    padding: 23px;
+}
+.style{
+    background-color: #386641;
+    color: white;
+    padding: 8px;
+}
+/*Write your CSS code below and don't modify anything above*/

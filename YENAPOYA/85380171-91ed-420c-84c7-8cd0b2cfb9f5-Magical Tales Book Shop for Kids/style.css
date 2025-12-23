@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.navi {
+    background-color: #faf0ca;
+}
+
+.h {
+    font-family: "Roboto";
+    font-weight: 300;
+    color: #0d3b66;
+}
+
+.bg {
+    display: flex;
+    background-color: #0d3b66;
+    color: #ffffff;
+    padding: 40px;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Roboto";
+}
+
+.btn {
+    background-color: #ee964b;
+    color: #343a40;
+    height: 50px;
+    font-family: "Roboto";
+    border-radius: 10px;
+}
+
+.card {
+    background-color: #faf0ca;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    overflow: auto;
+    overflow-x: visible;
+}
+
+.card-1 {
+    background-color: #f4d35e;
+    display: flex;
+    padding: 10px;
+
+    flex-direction: column;
+
+}
+
+.m {
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-1 {
+    background-color: #343a40;
+    color: #ffffff;
+    height: 5vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    height: 100px;
+    width: 100px;
+}
+
+.c {
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+}

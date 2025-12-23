@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.navbar {
+    background-color: #faf0ca;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.gold {
+    background-color: #0d3b66;
+    height: 200px;
+    width: 100vw;
+    text-align: center;
+}
+
+.head {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    padding-top: 20px;
+
+}
+
+.para {
+    color: white;
+    font-weight: normal;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.but {
+    background-color: #ee964b;
+    color: #0d3b66;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+
+}
+
+.silver {
+    background-color: #faf0ca;
+    height: 350px;
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+}
+
+.h2 {
+    color: black;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.p2 {
+    color: black;
+    font-size: 14px;
+    font-family: Roboto;
+}
+
+.dream {
+    display: flex;
+    flex-direction: row;
+}
+
+.dark {
+    background-color: #f4d35e;
+    height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+
+
+}
+
+.img {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.h3 {
+    color: #0d3b66;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.p3 {
+    color: #0d3b66;
+    font-weight: normal;
+    font-size: 15px;
+
+}
+.lam{
+    background-color: #0d3b66;
+    height: 50px;
+    width: 100vw;
+    
+}
+.h9{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 9px;
+}

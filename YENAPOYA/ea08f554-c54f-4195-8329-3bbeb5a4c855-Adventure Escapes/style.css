@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a{
+    background-color: #c9182c;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+}
+.b{
+    background-color: #23362b;
+    color: white;
+    width: 100px;
+    border-radius: 10px;
+}
+.c{
+    background-color: #8bc28c;
+    height: 20vh;
+    color: white;
+    padding: 20px;
+    display: flex;
+}
+.e{
+    height: 20vh;
+    width: 40vw;
+}
+.aa{
+    background-color: #a7c957;
+     height: 40vh;
+}
+.bb{
+    background-color: #c5dbf0;
+    height: 25vh;
+    width: 25vw;
+    border-radius: 10px;
+}
+.dd{
+    height: 14vh;
+    width:23vw;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+.cc{
+    display: flex;
+    gap: 10px;
+}
+.ee{
+    background-color: #797d62;
+    height: 30vh;
+}
+.gee{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}

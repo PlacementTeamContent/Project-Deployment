@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg1{
+    background-color:#c9182c;
+    height:7vh;
+    background-size:cover;
+}
+.button{
+    background-color:#23362b;
+    border-radius:4px;
+    color:white;
+    justify-content: flex-end;
+}
+.h1{
+    color:#FFFFFF;
+    font-size:22px;
+    font-weight:bold;
+    padding:5px;
+}
+.bg2{
+    background-color:#8bc28c;
+    height:30vh;
+    background-size:cover;
+}
+.h2{
+    color:#FFFFFF;
+    padding:10px;
+    font-size:30px;
+}
+.p1{
+    color:#FFFFFF;
+    padding:10px;
+    font-size:15px;
+}
+.button1{
+    background-color:#23362b;
+    border-radius:4px;
+    color:white;
+    justify-content: flex-end;
+}
+.img{
+    height:100px;
+    width:150px;
+}
+.bg3{
+    background-color:#a7c957;
+    height:40vh;
+    background-size:cover;
+}
+.bg4{
+    background-color:#797d62;
+    height:40vh;
+    background-size:cover;
+}
+.bg5{
+    background-color:#782832;
+    height:7vh;
+    background-size:cover;
+}
+.last{
+    color:#FFFFFF;
+    padding :5px;
+    text-align: center;
+    font-weight:normal;
+    font-size:30px;
+}
+.card5{
+    background-color:#c5dbf0;
+    height:300px;
+    width:250px;
+    padding:10px;
+}
+.h3{
+    color:black;
+    text-align:center;
+}
+.img1{
+    height:200px;
+    width:240px;
+}

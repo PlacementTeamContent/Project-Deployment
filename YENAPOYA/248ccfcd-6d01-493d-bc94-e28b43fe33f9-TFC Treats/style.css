@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a {
+    background-image: url('https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg');
+    height: 50vh;
+    width: 750px;
+    background-size: cover;
+    color: #ffffff;
+
+    text-align: center;
+    padding-top: 125px;
+
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Caveat;
+
+}
+
+p {
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.b {
+    background-color: #0ec930;
+    height: 50px;
+    width: 175px;
+    color: #ffffff;
+    border-width: 0px;
+
+
+}
+
+.c {
+    text-align: center;
+    padding-top: 50px;
+    background-color: #9bfaa9;
+    height: 400px;
+    width: 750px;
+}
+
+.d {
+    font-weight: bold;
+}
+
+.e {
+    text-align: center;
+    padding-top: 50px;
+    background-color: #52fa6c;
+    height: 600px;
+    width: 750px;
+}
+
+.f {
+    background-color: #ffffff;
+    height: 400px;
+    width: 300px;
+
+}
+.j{
+    
+
+text-align:center;
+padding-top:50px;
+background-color:#52fa6c;
+
+height:400px;
+width:750px;
+}
+
+.g {
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.h {
+    color: #52fa6c;
+}
+.i{
+    background-color: #ffffff;
+    height:50px;
+    width:100px;
+    padding: 10px;
+    border-width:0px;
+    
+}

@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.i {
+    color: #FFFFFF;
+}
+
+.m {
+    background-color: #343A40;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Roboto";
+    
+
+}
+
+.card {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+.h1 {
+    color: #FFFFFF;
+    font-family: "Caveat";
+    font-size: 30px;
+}
+
+.p {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.bu {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 20px;
+    background-color: #0ec930;
+
+}
+
+.v {
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+.h2 {
+    font-family: "Caveat";
+    font-size: 50px;
+    color: #343A40;
+    text-align: center;
+    font-weight: bold;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #343A40;
+    text-align: center;
+}
+
+.p2 {
+    font-family: "Robotot";
+    font-size: 30px;
+    color: #343A40;
+    text-align: center;
+}
+
+.p3 {
+    font-family: "Caveat";
+    font-size: 30px;
+    color: #343A40;
+    text-align: center;
+}
+
+.bb {
+    background-color: #9BFAA9;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.bbb {
+    background-color: #0ec930;
+    height: 200px;
+}
+
+.img {
+    width: 85px;
+    height: 50px;
+    text-align: center;
+}
+
+.cont {
+    background-color: #FFFFFF;
+    width: 90px;
+    height: 120px;
+    text-align: center;
+    margin: 20px;
+}
+
+.hh {
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    color: #343A40;
+}
+
+.pp {
+    font-size: 05px;
+    text-align: center;
+    color: #343A40;
+}
+
+.i {
+    font-size: 2px;
+    text-align: center;
+    color: #343A40;
+}
+
+.ppp {
+    font-size: 5px;
+    text-align: center;
+    color: #0ec930;
+}
+.img2{
+    width:100px;
+    height:90px;
+    text-align:center;
+}
+.con{
+    background-color:#9BFAA9;
+    height:150px;
+  
+ 
+}
+.hei{
+    font-family: "Caveat";
+    font-size:20px;
+    color: #343A40;
+    text-align: center;
+    font-weight: bold;
+    margin:10px;
+}
+.pa{
+    font-family: "Roboto";
+    font-size:20px;
+    color: #343A40;
+    text-align: center;
+    margin:10px;
+}
+.bbu{
+    background-color:#FFFFFF;
+    border:none;
+        text-align: center;
+}
+.cco{
+    background-color:#0ec930;
+    height:100px;
+}
+.last{
+    background-color:#000000;
+}
+.pppa{
+    color:#FFFFFF;
+    text-align: center;
+    font-size:10px;
+}

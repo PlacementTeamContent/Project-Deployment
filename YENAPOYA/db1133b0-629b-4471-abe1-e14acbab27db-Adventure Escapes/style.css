@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav{
+    display: flex;
+    direction:row;
+    justify-content:space-between;
+    background-color:#c9182c ;
+}
+.mo-h{
+    padding: 10px;
+    font-size: 24px;
+    color: white;
+}
+.mo-btn{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
+.fo-img{
+    height: 150px;
+    width: 200px;
+ padding: 10px;
+}
+.fo-card{
+    background-color:#8bc28c;
+    padding: 20px;
+    color: white;
+}
+.write{
+    padding: 1px;
+    
+}
+button{
+    background-color: black;
+    border-radius: 3px;
+    color: white;
+    border: none;
+    padding: 10PX;
+    margin: 5px;
+}

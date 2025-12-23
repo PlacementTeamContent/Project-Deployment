@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.all{
+    width: 100%;
+    height: 100%;
+}
+.bi{
+    color: white;
+}
+.bg{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    text-align: center;
+    align-content: center;
+    color: #FFFFFF;
+    height: 300px;
+}
+.a{
+   background-color: #0ec930; 
+   color: #FFFFFF;
+   border-radius: 3px;
+   border-width: 0px;
+}
+.aa{
+    color: #FFFFFF;
+    padding: 5px;
+}
+.b{
+    font-family: "Caveat";
+}
+.bg1{
+    background-color: #9BFAA9;
+    text-align: center;
+    align-content: center;
+    font-weight: bold;
+}
+.bb{
+    font-family: "Caveat";
+    color: #000000;
+}
+.bg2{
+    background-color: #52FA6C;
+    text-align: center;
+    align-content: center;
+}
+.h1{
+    font-weight: bold;
+    font-family: "Caveat";
+    padding-top: 30px;
+    
+}
+.bgc{
+   background-color: #FFFFFF;
+   margin: 20px;
+    text-align: center;
+    align-content: center;
+}
+.img{
+    width: 100%;
+    height: 70%;
+    padding: 5px;
+}
+.BG{
+    color:  #52FA6C;
+}
+.im{
+    font-weight: bold;
+    font-size: 20px;
+}
+.bg4{
+    background-color: #9BFAA9;
+    
+}
+.img1{
+    width: 50%;
+    height: 90%;
+    margin: 30px;
+}
+.xx{
+   margin-top:30px; 
+}
+.y{
+    border-width: 0px;
+}
+.bg5{
+    background-color: #52FA6C;
+    text-align: center;
+    align-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+.xy{
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.bg6{
+    background-color: #000000;
+    text-align: center;
+    align-content: center;
+}
+.n{
+    color: #FFFFFF;
+}

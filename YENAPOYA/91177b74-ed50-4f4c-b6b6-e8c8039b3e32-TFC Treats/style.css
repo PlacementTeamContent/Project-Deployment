@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#head1{
+    color:white;
+    font-size:15px;
+}
+#head2{
+    color:white;
+    font-size:15px;
+}
+#head3{
+    color:white;
+    font-size:15px;
+}
+#head4{
+    color:white;
+    font-size:15px;
+}
+#head5{
+    color:white;
+    font-size:15px;
+}
+.main{
+    color:white;
+    font-size:17px;
+}
+.main-conatiner{
+    background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    width:100%;
+    height:480px;
+    background-size:cover;
+    text-align: center;
+}
+.head1{
+    color:#FFFFFF;
+    font-size:35px;
+    font-family:"Caveat";
+}
+.para1{
+      color:#FFFFFF;
+    font-size:15px;
+    font-family:"Roboto";
+}
+.button1{
+    background-color: #0ec930;
+    color:white;
+    height:40px;
+    width:150px;
+}
+.main-conatiner2{
+    background-color:#9BFAA9;
+    height:280px;
+    width:100%;
+}
+.head2{
+    color:#000000;
+    font-family: "Caveat";
+    font-size:35px;
+    font-weight:bold;
+}
+.head3{
+    color:#000000;
+    font-family: "Caveat";
+    font-size:20px;
+}
+.main-conatiner3{
+    background-color:#52FA6C;
+    height:400px;
+    width:100%;
+}
+.card-1{
+    background-color:#FFFFFF;
+    height:320px;
+    width:300px;
+    margin:25px;
+}
+.height{
+    height:170px;
+    width:280px;
+    margin:10px;
+}
+.head6{
+    color:#000000;
+    font-family: "Roboto";
+    font-size:25px;
+    font-weight:bold;
+}
+.head13{
+    color:#000000;
+    font-family: "Caveat";
+    font-size:35px;
+    font-weight:bold;
+}
+.para6{
+    color:#000000;
+    font-family: "Roboto";
+    font-size:15px;
+  
+}
+.main{
+    color:#52FA6C;
+}
+.headd{
+    color:black;
+    font-size:30px;
+    font-family: "Caveat";
+    text-align: center;
+    font-weight:bold;
+    padding:5px;
+}
+.container123{
+      background-color:#9BFAA9;
+    height:450px;
+    width:100%;
+}
+.height2{
+    height:300px;
+    width:400px;
+    margin:10px;
+}
+.buttonn{
+    height:40px;
+    width:120px;
+}
+.cont23{
+    background-color:#52FA6C;
+    height:350px;
+    width:100%;
+}
+.contttt{
+    background-color: #343A40;
+    height:80px;
+    width:100%;
+}
+.paragra{
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight:bold;
+    font-family: "Roboto";
+    text-align: center;
+
+}

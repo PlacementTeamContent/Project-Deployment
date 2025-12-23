@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color: #343A40;
+}
+.bi{
+    color:#FFFFFF;
+}
+.navbar{
+    color:#FFFFFF;
+    font-size:15px;
+}
+.navbar11{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 60vh;
+    background-size:cover;
+}
+.h{
+    color:#FFFFFF;
+    font-family: "Caveat";
+    font-size:38px;
+}
+.p{
+    color:#FFFFFF;
+    font-family: "Roboto";
+    font-size:18px;
+}
+.btn{
+    width:150px;
+}
+.sub{
+    text-align: center;
+}
+.sub1{
+    background-color:#9BFAA9;
+    padding:40px;
+}
+.h1{
+    font-family: "Caveat";
+    font-weight: bold;
+    
+}
+.p2{
+    font-family: "Caveat";
+}
+.p1{
+    font-family: "Roboto";
+}
+.food{
+    background-color: #52FA6C;
+    padding:30px;
+}
+.ii{
+    height:180px;
+    width:280px;
+}
+.another{
+    background-color: #FFFFFF;
+  height: 300px;
+   width: 294px;
+    text-align: center;
+    padding:6px;
+}
+.hh{
+    font-family: "Roboto";
+    font-weight:bold;
+    font-size:20px;
+    padding-top:8px ;
+}
+.para{
+    color:#0ec930;
+    padding-bottom: 20px;
+}
+.h1{
+    text-align: center;
+}
+.iiii{
+    height:370px;
+    width:500px;
+}
+.o{
+    background-color: #9BFAA9;
+    padding:50px;
+}
+.h0{
+    font-family: "Caveat";
+    font-weight: bold;
+    color:#000000;
+}
+.bb{
+    width:100px;
+    border-width:0px;
+    background-color: #FFFFFF;
+    color:#000000;
+}
+.ppp{
+    font-size:20px;
+}
+.k{
+    background-color: #52FA6C;
+    padding:100px;
+}
+.n{
+    width:120px;
+    background-color: #FFFFFF;
+    color:#000000;
+    border-width:0px;
+}
+.s{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Roboto";
+}
+.footer{
+    background-color: #000000;
+    padding:20px;
+    color:#FFFFFF;
+    text-align: center;
+}

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.card-container {
+    background-color: #0d3b66;
+    height: 25vh;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: "Roboto";
+}
+
+.para1 {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: #ee964b;
+    border-radius: 4px;
+    height: 50px;
+    width: 200px;
+    font-weight: bold;
+    ;
+}
+
+.card {
+    background-color: #faf0ca;
+    height: 60vh;
+    text-align: center;
+    padding: 20px;
+}
+
+.heading-1 {
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.para2 {
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card-1 {
+    background-color: #f4d35e;
+    width: 250px;
+    height: 300px;
+}
+
+.image {
+    height: 20vh;
+    width: 20vw;
+}
+
+.p1 {
+    color: #0d3b66;
+    font-weight: bold;
+}
+
+.card-4 {
+    background-color: #343a40;
+    height: 8vh;
+    text-align: center;
+    padding: 20px;
+}
+
+.p-2 {
+    color: #ffffff;
+    font-family: "Roboto";
+
+}

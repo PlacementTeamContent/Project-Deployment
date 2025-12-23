@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.imgs{background-image:url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg")
+; background-size:cover;
+color: white;
+font-family:Caveat;
+text-align: center;
+}
+.head{ font-family: Roboto;}
+h1 {font-family:Caveat;}
+.bg2{ text-align:center;
+background-color:#9BFFA9 ;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.font{font-family:Caveat;}
+.imgg{width: 200px;
+height: 150px;}
+.cards{background-color:#52FA6C;
+text-align: center;
+
+}
+.rc{background-color: white;
+width: 250px;
+height: 250px;
+margin: 15px;
+    padding: 1px;
+    text-align: center;
+}
+.g{color:#0ec930;}
+.iii{ height: 300px;
+width: 500px;}
+.gg{background-color: white;}
+.ls{background-color:#0ec930;
+text-align: center;}
+.cg{background-color: black;
+color: white;
+    text-align: center;
+}

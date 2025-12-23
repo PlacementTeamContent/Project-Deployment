@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.naco {
+    background-color: #faf0ca;
+}
+
+.but {
+    background-color: #ee964b;
+}
+
+.main {
+    background-color: #0d3b66;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.pa {
+    margin-left: 30%;
+}
+
+.paa {
+    margin-left: 35%;
+}
+
+.paaa {
+    margin-left: 40%;
+}
+
+.pad {
+    padding: 40px;
+}
+
+.carbg {
+    background-color: #f4d35e;
+    height: 300px;
+    width: 300px;
+}
+
+.imsi {
+    height: 200px;
+    width: 275px;
+    padding: 10px;
+    padding-right: 10px;
+}
+
+.menu {
+    grid-template-rows: 1fr;
+    grid-template-columns: 33% 33% 33%;
+    gap: 20px;
+
+}
+
+.cos {
+    background-color: #faf0ca;
+
+}

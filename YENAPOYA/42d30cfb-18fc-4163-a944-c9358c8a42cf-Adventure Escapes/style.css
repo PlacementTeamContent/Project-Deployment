@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg1{
+    background-color: #c9182c;
+    background-size:cover;
+    display:flex;
+    justify-content:space-between;
+    padding:10px;
+}
+.hel{
+    color:#FFFFFF;
+    font-size:15px;
+}
+.but{
+   background-color:#8bc28c;
+   display: flex;
+   flex-direction: column;
+}
+.bg2{
+    background-color:#8bc28c;
+    padding:10px;
+    display:flex;
+}
+.fel{
+    color:#FFFFFF;
+}
+.bt{
+    background-color: #23362b;
+    color:#FFFFFF;
+    border-radius:5px;
+}
+.imf1{
+    height: 50px;
+}
+.bg3{
+    background-color: #a7c957;
+    padding: 10px;
+}
+.git{
+    text-align: center;
+}
+.bg6{
+    background-color: #c5dbf0;
+    padding:10px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap:5px;
+    
+}
+.inf1{
+    height: 30px;
+}
+.df{
+    font-size:10px;
+}
+.bg9{
+    background-color: #797d62;
+    background-size:cover;
+}
+.gtu{
+    text-align: center;
+    color:#FFFFFF;
+}
+.fel{
+    margin-left:20px;
+}
+.mgr{
+  height:100px;
+}
+.bg10{
+    background-color: #782832;
+    display: flex;
+    justify-content: space-around;
+}
+.vel{
+    color:#FFFFFF;
+    font-size:10px;
+}

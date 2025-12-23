@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 50vh;
+    width: 100vw;
+}
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.heading {
+    font-family: "Caveat";
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.button {
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+    background-color: #0ec930;
+    border-width: 0px;
+}
+
+.background {
+    background-color: #9BFAA9;
+}
+
+.background1 {
+    background-color: #0EC930;
+
+
+}
+
+.heading1 {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    text-align: center;
+}
+
+.para1 {
+    color: black;
+    font-family: "Robot";
+    font-size: 10px;
+    text-align: center;
+}
+
+.para2 {
+    color: black;
+    font-family: "Robot";
+    font-size: 10px;
+    text-align: center;
+}
+
+.para3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 10px;
+    text-align: center;
+}
+
+.card {
+    color: white;
+    height: 80px;
+    width: 60px;
+    margin: 10px;
+    padding: 5px;
+
+
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+}
+
+.para4 {
+    font-size: 4px;
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.para5 {
+    font-family: "Roboto";
+    color: black;
+    font-size: 3px;
+    text-align: center;
+}
+
+.sp {
+    color: green;
+    font-size: 2px;
+    text-align: center;
+}
+
+.bg {
+    background-color: #52FA6C;
+}
+
+.image2 {
+    height: 100px;
+    width: 140px;
+    margin: 10px;
+}
+
+.p {
+    font-family: "Caveat";
+    font-size: 20px;
+    color: black;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: black;
+}
+
+.text {
+    text-align: center;
+}
+
+/*Write your CSS code below and don't modify anything above*/

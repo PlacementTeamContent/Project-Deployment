@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #c9182c;
+    justify-content: space-between;
+}
+.h{
+    font-size: 15px;
+    color: #FFFFFF;
+    padding: 10px;
+}
+.butt1{
+    background-color:#23362b;
+    color: #FFFFFF;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.card1{
+  display: flex;
+  flex-direction:row;
+  background-color: #8bc28c;
+  padding: 10px;
+  height: 170px;
+}
+
+.h1{
+     color: #FFFFFF;
+     padding: 10px;
+}
+.p1{
+     color: #FFFFFF;
+     padding: 10px;
+}
+.b1{
+     color: #FFFFFF;
+     background-color:#23362b;
+     padding: 10px;
+     margin: 5px;
+}
+
+.imge1{
+    height: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.card2{
+    background-color: #a7c957;
+    height:400px;
+    display: flex;
+    flex-direction: column;
+   
+}
+.rowwn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.subcard{
+    background-color: #c5dbf0;
+    margin:10px;
+    height:290px;
+    border-radius: 5px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+}
+.imge2{
+    height: 130px;
+    width: 190px;;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+.kyaji{
+    display: flex;
+    justify-content:center;
+}
+.ahem{
+    text-align: center;
+    padding: 20px;
+}
+
+
+.card3{
+      background-color: #797d62;
+      color: #FFFFFF;
+      display: flex;
+      flex-direction: column;
+      height: 300px;
+}
+.cc{
+     display: flex;
+      flex-direction:row;
+}
+.subcard2{
+    background-color: #797d62;
+    padding: 10px;
+    text-align: center;
+   
+}
+.imgera{
+    height: 80px;
+    border-radius: 50px;
+}
+.kya{
+    padding: 10px;
+}
+.broo{
+    text-align: center;padding: 20px;
+}
+.footer{
+    height: 20px;
+    background-color: #782832;
+}
+.page{
+    height: 100vh;
+}

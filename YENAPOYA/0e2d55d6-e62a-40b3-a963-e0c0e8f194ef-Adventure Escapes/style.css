@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.red {
+    background-color: #c9182c;
+    height: 40px;
+
+}
+
+.p {
+    color: #FFFFFF;
+}
+
+.b {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.img {
+    height: 80px;
+    width: 80px;
+}
+
+.back {
+    background-color: #8bc28c;
+    height: 200px;
+}
+
+.h1 {
+    color: #FFFFFF;
+
+}
+
+.pp {
+    color: #FFFFFF;
+}
+
+.button {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.green {
+    background-color: #a7c957;
+    height: 300px;
+    padding: 20px;
+}
+
+.img1 {
+    height: 180px;
+    width: 190px;
+}
+
+.h1 {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.con {
+
+    background-color: #c5dbf0;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+}
+
+.pro {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}

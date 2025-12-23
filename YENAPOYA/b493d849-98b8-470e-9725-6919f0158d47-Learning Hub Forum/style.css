@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+.akas{
+    background-color:#000000;
+}
+.ppp{
+    color:#00ff00;
+}
+.aa{
+    background-color:#343a40;
+    height:200vh;
+     
+    grid-column:1/2;
+}
+.akash{
+    height:100px;
+    border-radius:20px;
+    padding:30px;
+}
+.cc{
+    color:#ffffff;
+    padding:10px;
+    margin:10px;
+}
+.fff{
+    background-color:#c9cba3;
+    height:200vh;
+    width:90%;
+    grid-column:2/3;
+}
+.aaaa{
+    background-color:#386641;
+    padding:10px;
+    margin:20px;
+    color:#ffffff;
+}
+.bb{
+    background-color:#e7ad99;
+    padding:10px;
+    margin:20px;
+    color:#ffffff;
+}
+.ccc{
+    background-color:#9bc53d;
+    padding:10px;
+    margin:20px;
+    color:#ffffff;
+}
+.kk{
+    background-color:#e26d5c;
+    height:800px;
+    margin:30px;
+}
+.iii{
+    height:400px;
+    width:93%;
+    margin:30px;
+}
+.ss{
+    background-color:#386641;
+    padding:20px;
+    color:#ffffff;
+    margin:20px;
+}
+.jj{
+    display:flex;
+    justify-content:space-between;
+}
+.pp{
+    background-color:#e26d5c;
+    margin:190px;
+    width:90%;
+}
+.tttt{
+    display:grid;
+    grid-template-columns:1fr,2fr;
+}
+
+/*Write your CSS code below and don't modify anything above*/

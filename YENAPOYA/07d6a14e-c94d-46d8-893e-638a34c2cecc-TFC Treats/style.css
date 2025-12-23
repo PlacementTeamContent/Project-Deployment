@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.container {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 300px;
+    text-align: center;
+    padding: 10vh;
+}
+
+.heading {
+    color: #FFFFFF;
+    font-family: Caveat;
+}
+
+.para {
+    color: #FFFFFF;
+    font-family: Roboto;
+}
+
+.btn {
+    background-color: #0ec930;
+}
+
+.cont {
+    background-color: #9BFAA9;
+    text-align: center;
+    padding: 10px;
+}
+
+.heading-1 {
+    font-family: Caveat;
+}
+
+.para-1 {
+    font-family: Roboto;
+}
+
+.p {
+    font-family: Roboto;
+}
+
+.pa {
+    font-family: Caveat;
+}
+
+.image-1 {
+    height: 150px;
+    border: 10px;
+    
+    
+}
+
+.image-2 {
+    height: 150px;
+    padding: 10px;
+}
+.image-3{
+    height: 150px;
+}
+.col{
+    border: 40px;
+    border-color: #FFFFFF;
+}
+.heading-3{
+    font-family: Caveat;
+    text-align: center;
+}
+.h{
+    font-family: Roboto;
+    font-size: 20px;
+}
+.button{
+    font-size: 20px;
+}
+.parag{
+    font-size: 20px;
+}
+.conta{
+    background-color: #52FA6C;
+}
+.col-1{
+    border: 10px;
+    border-color: #FFFFFF;
+    width: 10px;
+}
+.h-1{
+    font-size:20px;
+}
+.parag-2{
+    font-size: 20px;
+}
+.button-1{
+    font-size: 20px;
+}
+.h-2{
+    font-size: 20px;
+}
+.parag-3{
+    font-size: 20px;
+}
+.button-2{
+    font-size:20px;
+}
+.image-4{
+    height: 30vh;
+    padding: 10px;
+}
+.head{
+    font-family: Caveat;
+}
+.paraa{
+    font-family: Roboto;
+}
+.bbn{
+    font-family: Roboto;
+    background-color: #FFFFFF;
+}
+.min{
+    background-color: #9BFAA9;
+}
+.last{
+    background-color: #52FA6C;
+    text-align: center;
+}
+.la{
+    font-family: Caveat;
+}
+.paa{
+    font-family: Roboto;
+}
+.n{
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+}

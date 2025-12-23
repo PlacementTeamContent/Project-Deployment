@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.main-section{
+    height:600px;
+    width:100vw;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:#FFFFFF;
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size:cover;
+}
+.head{
+    font-size:26px;
+    font-family:Caveat;
+    margin-bottom:5px;
+}
+.para{
+    font-size:20px;
+    text-align:center;
+}
+.buttn{
+    height:40px;
+    width:200px;
+    border-radius:2px;
+    text-align:center;
+    
+}
+.ourstory{
+    
+    width:100vw;
+    text-align:center;
+    background-color:#9BFAA9;
+    padding:40px 50px 40px 50px ;
+}
+.head1{
+    color:#000000;
+    font-family:Caveat;
+    margin-bottom:4px;
+}
+.para1{
+    font-size:20px;
+    color:#000000;
+    margin-bottom:4px;
+}
+.cavpara{
+    font-family:Caveat;
+    font-size:20px;
+    color:#000000;
+}
+.menu-section{
+    background-color:#0ec930;
+    min-height:200px;
+    padding:20px 40px 20px 40px;
+    text-align:center;
+}
+@media (min-width:760px){
+    .menus{
+        display:flex;
+        flex-direction:row;
+        justify-content:center;
+        align-items:center;
+    }
+}
+.innerdiv{
+    border-color:#FFFFFF;
+    border-width:4px;
+    border-style:solid;
+    padding-bottom:10px;
+    text-align:center;
+    background-color:#FFFFFF;
+    min-height:300px;
+    width:300px;
+    margin-bottom:15px;
+    border-radius:4px;
+    margin-right:40px;
+}
+.paragreen{
+    color:#0ec930;
+    font-size:18px;
+}
+@media (min-width:767px){
+    .back2{
+        display:flex;
+        flex-direction:row;
+        height:340px;
+        width:100vw;
+        
+    }
+    .img2{
+        height:250px;
+        width:380px;
+        margin-right:20px;
+    }
+}
+
+
+.back2{
+    background-color:#9BFAA9;
+    padding:50px 80px 20px 40px;
+    
+}
+.back3{
+    height:300px;
+    width:100vw;
+    text-align:center;
+    background-color:#0ec930;
+    padding:140px 45px 20px 40px;
+    
+}
+.book{
+    background-color:#FFFFFF;
+    color:#0000000;
+    height: 30px;
+    width:146px;
+    padding:0 0 10px 0;
+    border-color:#FFFFFF;
+}
+.footer{
+    background-color:#343A40;
+    color:#FFFFFF;
+    padding:20px 0 20px 0;
+    text-align:center;
+}
+.img{
+    height:200px;
+    margin-bottom:10px;
+    width:270px;
+}
+@media (max-width:767px){
+    .img2{
+        height:200px;
+        width:230px;
+        margin-bottom:20px;
+    }
+    .img{
+        width:230px;
+        height:250px;
+    }
+    .innerdiv{
+    border-color:#FFFFFF;
+    border-width:4px;
+    border-style:solid;
+    padding-bottom:10px;
+    padding-right:10px;
+    text-align:center;
+    background-color:#FFFFFF;
+    min-height:300px;
+    width:250px;
+    margin-bottom:15px;
+    border-radius:4px;
+    margin-right:40px;
+}
+    
+
+button{
+    padding:7px;
+    border-radius:7px;
+    border-color:#FFFFFF;
+}
+.h1{
+    font-size:20px;
+}

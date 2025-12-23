@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto";
+}
+
+.image {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: "caveat";
+
+
+}
+
+.button {
+    background-color: #0ec930;
+    color: white;
+    height: 36px;
+    width: 150px;
+    border-radius: 3px;
+}
+
+.first {
+    background-color: #9BFAA9;
+    text-align: center;
+    font-family: "caveat";
+    padding:10px;
+    margin:2px;
+}
+
+.second {
+    background-color: #52FA6C;
+
+
+}
+
+.one {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+
+}
+
+.two {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+
+}
+
+https: //nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/code-preview-desktop-1760355065617.pnghttps://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/code-preview-desktop-1760355065617.png
+
+.three {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+
+    https: //nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/code-preview-desktop-1760355065617.png
+}
+
+.third {}
+
+.fourth {}
+
+
+
+.all {}
+
+.image1 {
+    height: 50px;
+    width: 50px;
+}
+
+.bg-bottom1 {}
+
+/*Write your CSS code below and don't modify anything above*/

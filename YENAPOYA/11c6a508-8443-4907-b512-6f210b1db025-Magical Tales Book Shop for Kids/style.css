@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.bgcolornav{
+    background-color: #faf0ca;
+}
+.bg{
+    background-color: #0d3b66;
+    height:300px;
+    width:1150px;
+    text-align: center;
+    
+}
+.h1bgfont{
+    font-family:Roboto;
+    color: #ffffff;
+}
+.pfont1{
+    font-family: Roboto;
+    font-size: 25px;
+    color:#ffffff;
+}
+.btn1{
+    background-color: #ee964b;
+    color:#0d3b66;
+    font-weight: bold;
+    
+    border-radius: 8px;
+    width: 200px;
+    height:65px;
+}
+.card2{
+    background-color: #faf0ca;
+    height: 80%;
+    width:105%;
+    padding: 10px;
+    
+    
+}
+.card2font{
+    font-family: Roboto;
+    
+}
+.card2p{
+    font-family: Roboto;
+    font-size:15px;
+}
+.carda{
+    background-color: #f4d35e;
+    width:400px;
+    height:300px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+.cardb{
+    background-color: #f4d35e;
+    width:400px;
+    height:300px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+.cardc{
+    background-color: #f4d35e;
+    width:400px;
+    height:300px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+.asrc{
+    height: 200px;
+    width:200px;
+}
+.cardafont{
+    font-family: Roboto;
+    color:#0d3b66;
+    font-size:30px ;
+}

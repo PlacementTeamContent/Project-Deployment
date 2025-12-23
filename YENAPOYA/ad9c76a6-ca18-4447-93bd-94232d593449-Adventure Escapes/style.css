@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.card1 {
+    height: 4vh;
+    width: 100vw;
+    background-color: #c9182c;
+    padding: 10px;
+}
+
+.h1 {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.card2 {
+    height: 20vh;
+    width: 100vw;
+    background-color: #8bc28c;
+}
+
+.h2 {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: white;
+}
+
+.image {
+    height: 10vh;
+    width: 10vw;
+}
+
+.button {
+    height: 3vh;
+    width: 40vw;
+    background-color: black;
+    color: white;
+}

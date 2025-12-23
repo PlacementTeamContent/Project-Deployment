@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+.navbar{
+    background-color: #faf0ca;
+}
+/*write your code below*/
+.bg{
+    height:30vh;
+    background-color: #0d3b66;
+    justify-content: center;
+}
+.he{
+    text-align: center;
+    font-size:33px;
+    color:white;
+    padding:25px;
+   
+}
+.pr{
+    font-size:18px;
+    color:white;
+    text-align: center;
+}
+.but{
+    height:38px;
+    width:190px;
+    background-color: #ee964b;
+    color:#343a40;
+    border-radius:10px;
+    font-weight:bold;
+    font-size:15px;
+   
+    
+}
+.u{
+    text-align: center;
+     padding:20px
+}
+.bg-cont{
+    height:50vh;
+    background-color: #faf0ca;
+}
+.head{
+    text-align: center;
+    padding-top:25px;
+}
+.par{
+    text-align:center;
+    font-size:20px;
+}
+.cont1{
+    height:300px;
+    width:320px;
+    background-color:#f4d35e;
+    margin-left:70px;
+    margin-right:10px;
+    
+}
+.img1{
+    height:180px;
+    width:220px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+     border-radius: 10px;
+     margin-top:10px;
+ 
+}
+.head1{
+    font-size:22px;
+    color:#0d3b66;
+    text-align: center;
+}
+.c1{
+    text-align: center;
+    margin-left:40px;
+    padding:8px;
+}
+.par1{
+    font-size:18px;
+     color:#0d3b66;
+    text-align: center;
+    
+}
+.nav{
+    justify-content: space-between;
+}
+.black{
+    background-color: #343a40;
+    height:8vh;
+    font-size:25px;
+    color:white;
+    text-align: center;
+    padding:10px;
+    
+}
+.container{
+    background-color: #faf0ca;
+}

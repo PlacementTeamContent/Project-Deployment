@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+
+.top{
+    background-color: black;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: 5px;
+    
+}
+button{
+    color:white;
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+}
+.color-me{
+    background-color: #343A40;
+    height: 1280px;
+    width: 200px;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+.top-move{
+    margin-top: 40px;
+}
+.ij{
+    padding: 5px;
+}
+.color-he{
+    background-color: #c9cba3;
+    width:1080px;
+    height: 1280px;
+    padding: 30px;
+}
+.fleex{
+    display: flex;
+}
+.pinky-2{
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: #e26d5c;
+    height: 200px;
+    width: 800px;
+}
+img{
+    margin: 20px;
+    height: 424px;
+}
+.pinky{
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: #e26d5c;
+    height: 700px;
+    width: 800px;
+}

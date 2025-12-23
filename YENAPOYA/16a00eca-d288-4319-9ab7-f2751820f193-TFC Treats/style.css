@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+#section1{
+    color: white;
+}
+#section2{
+    color: white;
+}
+#section3{
+    color: white;
+}
+#section4{
+    color: white;
+}
+#section5{
+    color: white;
+}
+
+.bg{
+    background-color: #9BFAA9;
+    background-size: cover;
+   
+}
+
+.top-section{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 500px;
+    width: 100%;
+}
+.top-section-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.top-section-heading{
+    font-family: 'Caveat';
+    color: #FFFFFF;
+}
+.top-section-para{
+    font-family: Roboto;
+    color: #FFFFFF;
+}
+.top-section-button{
+    background-color: #0ec930;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+
+
+.story-content{
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.ourstory{
+    font-family: 'Caveat';
+    color: #000000;
+    font-weight: bold;
+}
+.content-para{
+    font-family: Roboto;
+    color: #000000;
+    font-size: 12px;
+}
+.burgerbarns{
+    font-family: Roboto;
+    color: #000000;
+}
+.nitesh{
+    font-family: 'Caveat';
+    color: #000000;
+}
+
+.todaysmenue{
+    background-color: #0ec930;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    
+   
+}
+.todaysmenue-heading{
+    font-family: 'Caveat';
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 10px;
+    
+}
+.card{
+    background-color: #FFFFFF;
+    
+    width:80px ;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+.image1{
+    height: 200px;
+    width: 100%;
+}
+.card-heading{
+    color: #343A40;
+    font-weight: bold;
+    font-size: 25px;
+}
+.card-para{
+    color: #343A40;
+    font-weight: bold;
+}
+.card-view{
+    color: #0ec930;
+    font-weight: bold;
+}
+.color{
+    color: #0ec930;
+    font-weight: bold;
+}
+
+
+.discount-section{
+    background-color: #9BFAA9;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 30px;
+}
+.image2{
+    height: 400px;
+    width: 600px;
+}
+.discount-content{
+    padding: 20px;
+}
+.discount-heading{
+    font-family: 'Caveat';
+    color: #000000;
+    font-weight: bold;
+}
+.discountbutton{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.bookatable{
+    background-color: #0ec930;
+    height: 90%;
+    width: 100%;
+    padding: 50px;
+}
+.bottom-section{
+    background-color: #343A40;
+    color: #FFFFFF;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+.tar {
+    background-color: #c9182c;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.hero {
+    padding: 20px;
+    text-align: left;
+    background-color: #8bc28c;
+    color: #FFFFFF;
+}
+
+.g {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.q {
+    text-align: right;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.e {
+    width: 105px;
+    text-align: right;
+}
+.m{
+    text-align: center;
+    padding:10px;
+    padding-top:20px;
+}
+.d{
+    background-color: #a7c957;
+    height:30vh;
+}
+.c{
+    background-color: #797d62;
+    height:35vh;
+}
+.j{
+    background-color: #782832;
+    height:10vh;
+}
+.k{
+      text-align: center;
+    padding:10px;
+    padding-top:45px;
+    color:#FFFFFF;
+}
+.n{
+    width:55px;
+    padding-left: 45px;
+    padding-top:35px;
+}
+.l{
+  color:#FFFFFF; 
+   padding-left: 45px;
+}
+.o{
+    width:105px;
+    padding-left:45px;
+}
+/*Write your CSS code below and don't modify anything above*/

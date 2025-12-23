@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.a {
+    background-color: #343A40;
+
+}
+
+.b {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 400px;
+    background-size: cover;
+    color: #FFFFFF;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    align-items: center;
+}
+
+.c {
+    font-family: Caveat;
+}
+
+.d {
+    background-color: #0ec930;
+    color: white;
+    height: 40px;
+    width: 140px;
+}
+
+.e {
+    background-color: #9BFAA9;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.f {
+    font-size: 14px;
+}
+
+.g {
+    background-color: #52FA6C;
+    height: 30vh;
+
+}
+
+.h {
+    font-weight: bold;
+}
+
+.i {
+    background-color: #FFFFFF;
+    height: 24vh;
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.j {
+    height: 14vh;
+    width: 23vw;
+    margin: 10px;
+}
+
+.k {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.aa {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.l {
+    background-color: #9BFAA9;
+    height: 25vh;
+    display: flex;
+}
+
+.m {
+    height: 18vh;
+    margin: 10px;
+}
+
+.bb {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.w {
+    background-color: #52FA6c;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cc {
+    background-color: #343A40;
+    height: 45px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

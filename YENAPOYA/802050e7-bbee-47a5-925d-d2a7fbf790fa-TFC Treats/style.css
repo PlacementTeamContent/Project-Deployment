@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.pop{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.head{
+    font-family: "Roboto";
+    color: #FFFFFF;
+}
+.para{
+    color: #FFFFFF;
+}
+.btn{
+    border: none;
+    background-color: #52FA6C;
+    width: 20vw;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 500px;
+}
+.opo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 30vh;
+    flex-direction: column;
+    background-color: #9BFAA9;
+}
+.head1{
+    font-family: Caveat;
+    font-weight: bold;
+}
+.para3{
+    font-family: Caveat;
+}
+.image{
+    height: 250px;
+}
+.menu1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin: 5px;
+}
+.Menu{
+    padding: 3px;
+}
+.center{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.sus{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #0ec930;
+}
+.he{
+    display: flex;
+    flex-direction: row;
+}
+.todaytext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    padding: 5px;
+}
+.poop{
+    background-color: #52FA6C;
+    padding: 3px;
+}
+.head4{
+    font-family: Caveat;
+}
+.btn1{
+    width: 100px;
+    border: none 10px;
+}
+.last{
+    background-color: #0ec930;
+    padding: 5px;
+    height: 30vh;
+}
+.pee{
+    display: flex;
+    height: 30vh;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+.head5{
+    font-family: Caveat;
+    font-weight: bold;
+}
+.btn2{
+    border: none 10px;
+}
+/*Write your CSS code below and don't modify anything above*/

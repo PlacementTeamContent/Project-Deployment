@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.co {
+    background-color: red;
+    height: 40px;
+
+}
+
+.h1w {
+    color: white;
+    font-size: 17px;
+    padding: 10px;
+}
+
+.c2 {
+    height: 70vh;
+    background-color: #8bc28c;
+}
+
+.h23 {
+    color: white;
+    font-size: 22px;
+    justify-content: center;
+    text-align: center;
+    padding: 18px;
+
+}
+
+.o9 {
+    color: white;
+    font-size: 16px;
+    justify-content: center;
+    text-align: center;
+    padding: 12px;
+}
+
+.img {
+    height: 90px;
+    width: 129px;
+    text-align: center;
+}
+
+.c {
+    text-align: center;
+}
+
+.c25 {
+    text-align: center;
+    padding: 10px;
+}
+
+.but {
+    background-color: black;
+    border-radius: 10px;
+    height: 35px;
+    width: 110px;
+    color: white;
+
+}
+
+.cl {
+    height: 200vh;
+    background-color: #a7c957;
+    display:grid;
+
+}
+
+.clp {
+    text-align: center;
+    font-size: 19px;
+    padding: 10px;
+
+}
+
+.empty {
+    height: 210px;
+    width: 160px;
+    background-color: #c5dbf0;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 70px;
+    margin-bottom: 15px;
+
+}
+
+.imgs {
+    height: 110px;
+    width: 150px;
+    border-radius: 10px;
+    padding-top: 10px;
+
+}
+
+.on {
+    text-align: center;
+    align-items: center;
+}
+
+.cos {
+    background-color: #797d62;
+    height: 110vh;
+}
+
+.ios {
+    border-radius: 50%;
+    height: 70px;
+    width: 80px;
+    text-align: center;
+    padding: 10px;
+}
+
+.na {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.pa {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.n14 {
+    height: 8vh;
+    background-color: #782832;
+    color: white;
+    text-align: center;
+}
+
+.i {
+    text-align: center;
+}

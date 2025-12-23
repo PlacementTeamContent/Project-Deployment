@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.container_1{
+    background-color: #faf0ca;
+    border-radius: 10px;
+    align-items: center;
+    background-size: cover;
+    
+    
+    
+}
+.top{
+    background-color: #0d3b66;
+    text-align: center;
+    color: #ffffff;
+    padding: 50px;
+    height: 260px;
+}
+.btn{
+    background-color: #ee964b;
+    color: #0d3b66;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.h2{
+   text-align: center;
+   padding: 50px;;
+}
+.card_1{
+    background-color: #f4d35e;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 20px;
+    margin-left: 70px;
+    margin-bottom: 90px;
+    
+}
+.btm{
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+}
+.img{
+    border-radius: 20px;
+    height: 250px;
+    
+}
+ .navbar{
+     background-color: #faf0ca;
+     color: #343a40;
+ }
+ .head{
+     color: #343a40;
+     font-weight: bold;
+ }
+ .ab{
+     font-weight: bold;
+ }

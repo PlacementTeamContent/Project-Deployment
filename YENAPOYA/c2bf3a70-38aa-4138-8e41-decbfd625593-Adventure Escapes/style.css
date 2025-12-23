@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.h1{
+    color: #FFFFFF;
+    background-color: #c9182c;
+    text-align: left;
+}
+.btn{
+    color: #FFFFFF;
+    background-color: #000000;
+    border-color: #000000;
+    text-align: center;
+    width: 10vw;
+    height: 3vh;
+    border-radius: 0px;
+}
+.h2{
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 40px;
+}
+.con{
+    background-color: #8bc28c;
+}
+.p2{
+    color: #FFFFFF;
+    text-align: left;
+}
+.h3{
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.con2{
+    background-color: #a7c957;
+}
+.h4{
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.con3{
+    background-color: #797d62;
+}
+.p4{
+    color: #FFFFFF;
+    text-align: center;
+}
+.con4{
+    color: #FFFFFF;
+    background-color: #782832;
+    text-align: center;
+    padding: 1px;
+}

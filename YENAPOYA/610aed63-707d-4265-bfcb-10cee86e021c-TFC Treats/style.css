@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+   box-sizing: border-box;
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.nav-link{
+    color:#FFFFFF;
+}
+#navbarNavAltMarkup{
+    color: #FFFFFF;
+}
+#Ab{
+   color: #FFFFFF; 
+}
+#Ac{
+   color: #FFFFFF; 
+}
+#Ad{
+   color: #FFFFFF; 
+}
+#Ae{
+   color: #FFFFFF; 
+}
+#Af{
+   color: #FFFFFF; 
+}
+
+.welcomebg{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height:75vh ;
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 30px;
+}
+
+.Welcomehead{
+    font-family: "Caveat";
+    font-size: 60px;
+    margin-top: 100px;
+}
+.Welcomepara{
+    font-family: "Roboto";
+}
+.btn{
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+}
+.Ourstory{
+    background-color: #9BFAA9;
+    padding: 50px;
+    text-align: center;
+}
+.Ourstoryhead{
+    font-family: "Caveat";
+    font-weight: bold;
+    text-align: center;
+}
+.Ourstoryhpara{
+    font-family: Roboto;
+}
+.Ourstoryhparagraph{
+    font-family: "Caveat";
+}
+.todaysmenu{
+    background-color: #52FA6C;
+    padding: 30px;
+}
+.cardcontainer{
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.ancor{
+    color: #0ec930;
+}
+
+.head{
+    font-weight: bold;
+    font-size: 20px;
+}
+.discount{
+    background-color: #9BFAA9;
+    padding: 30px;
+}
+.image{
+    height: 300px;
+    width: 320px;
+    padding: 20px;
+}
+
+.Ourstoryheada{
+    font-family: "Caveat";
+    font-weight: bold;
+    
+}
+.offer{
+    margin: 20px;
+}
+.book{
+    padding: 80px;
+    background-color: #52FA6C;
+    text-align: center;
+}
+.last{
+    background-color: #343A40;
+    padding: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.btnn{
+    padding: 5px;
+    text-align: center;
+    border-width:0px ;
+    border-radius: 7px;
+}
+.img{
+    height: 200px;
+    width: 200px;
+}

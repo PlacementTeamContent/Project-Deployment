@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.bg {
+    height:100%;
+    width:100%;
+    text-align:center;
+}
+.navbar {
+    background-color:#faf0ca;
+    font-weight:bold;
+}
+.bg1 {
+    padding:60px;
+    color:#ffffff;
+    background-color:#0d3b66;
+    width:100%;
+    font-weight:bold;
+}
+.but {
+    background-color:#ee964b;
+    color:#0d3b66;
+    height:70px;
+    font-size:20px;
+    font-weight:bold;
+}
+.bg2 {
+    padding:40px;
+    background-color:#faf0ca;
+    width:100%;
+}
+
+
+.cont {
+    background-color:#f4d35e;
+    padding:10px;
+    width:95%;
+    color:#0d3b66;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+}
+.pa {
+    font-size:20px;
+    font-weight:bold;
+}
+.i-style {
+    height:200px;
+    width:250px;
+    border-radius:10px;
+}
+.foot {
+    background-color:#343a40;
+    color:#ffffff;
+    font-size:20px;
+    padding:5px;
+}

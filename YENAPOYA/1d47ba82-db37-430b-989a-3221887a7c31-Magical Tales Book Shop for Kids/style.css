@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.first-page {
+    background-color: #0d3b66;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+
+.second-page {
+    text-align: center;
+    background-color: #faf0ca;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.pp {
+    font-size: 32px;
+}
+
+.back {
+    background-color: #faf0ca;
+}
+
+.ll {
+    font-size: 20px;
+    padding-top: 5px;
+    color: #0d3b66;
+    font-family: "Roboto";
+}
+
+.op {
+    color: #0d3b66;
+}
+
+.io {
+    font-size: 12px;
+}
+
+.nnn {
+    background-color: #ee964b;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 5px;
+}
+
+.shek {
+    height: 220px;
+    width: 220px;
+    border-radius: 8px;
+}
+
+.third-section {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.first-card {
+    background-color: #f4d35e;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 15px;
+}

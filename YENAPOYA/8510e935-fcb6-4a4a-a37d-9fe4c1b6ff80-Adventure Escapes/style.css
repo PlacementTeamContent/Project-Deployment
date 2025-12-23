@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.bg{
+     background-color:#c9182c;
+     height:5vh;
+     justify-content:space-between;
+}
+.head{
+    font-family:"Roboto";
+    font-size:15px;
+    color:#FFFFFF;
+    font-weight:normal;
+    padding-top:5px;
+     padding-left:5px;
+}
+.bg-container{
+    background-color:#8bc28c;
+    background-size:cover;
+    padding:10px;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:25px;
+    color:#FFFFFF;
+}
+.paragraph{
+    font-size:10px;
+    font-family:"Roboto";
+    color:#FFFFFF;
+}
+.button{
+    background-color:#23362b;
+      color:#FFFFFF;
+      border-width:0px;
+      border-radius:3px;
+      font-size:8px;
+      padding-top:5px;
+       padding-left:5px;
+        padding-right:5px;
+         padding-bottom:5px;
+}
+.image{
+    width:150px;
+    text-align:right;
+}
+.bg-container1{
+    background-color:#a7c957;
+    background-size:cover;
+    height:25vh;
+}
+.heading1{
+     font-family:"Roboto";
+    font-size:20px;
+    text-align:center;
+}
+.image1{
+    width:100px;
+}
+.card-container{
+    background-color:#c5dbf0;
+}
+.bg-container2{
+    background-color:#797d62;
+    height:50vh;
+}
+.heading4{
+     font-family:"Roboto";
+    font-size:15px;
+    text-align:center;
+    color:#FFFFFF;
+}
+.image2{
+    width:50px;
+    border-radius:200px;
+}
+.image3{
+    width:50px;
+    height:50px;
+    border-radius:200px;
+}
+.bg-container3{
+    background-color:#782832;
+   
+}

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+.top{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: #0d3b66;
+    color: #FFFFFF;
+}
+.btn{
+    background-color: #ee964b;
+}
+.mid{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #faf0ca;
+    padding: 5px;
+}
+.midbtm{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+}
+.midtop{
+    margin-top: 30px;
+}
+.image{
+    height: 200px;
+    width: 250px;
+}
+.btm1{
+    background-color: #f4d35e;
+    margin: 10px;
+    padding: 15px;
+}
+.head1{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.bottom{
+    height: 4vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #343a40;
+    color: #fff;
+}
+/*write your code below*/

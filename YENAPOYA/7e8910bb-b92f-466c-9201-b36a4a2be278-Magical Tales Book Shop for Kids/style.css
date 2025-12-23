@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*write your code below*/
+.Welcometab {
+    background-color: #0d3b66;
+    text-align: center;
+    color: white;
+}
+
+.btn1 {
+    background-color: #ee964b;
+    font-style: bold;
+
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    ;
+}
+
+.a {
+    background-color: #faf0ca;
+    color: #343a40;
+}
+
+.b {
+    background-color: #faf0ca;
+    text-align: center;
+}
+}
+
+.card {
+    background-color: #faf0ca;
+    margin: 25px;
+    padding: 25px;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+.main {
+    height: 200vh;
+}

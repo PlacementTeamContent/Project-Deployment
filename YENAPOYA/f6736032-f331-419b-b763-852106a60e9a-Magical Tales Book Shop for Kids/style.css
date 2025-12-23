@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.nav{
+    background-color: #faf0ca;
+}
+.text{
+    color:#343a40;
+}
+.main{
+    background-color: #0d3b66;
+    text-align: center;
+    height: 280px;
+    padding: 30px;
+}
+.k{
+    text-align: center;
+    padding: 10px;
+}
+.card{
+    background-color: #faf0ca;
+    height: 550px;
+}
+.head{
+    color:white;
+}
+.para{
+   color:white; 
+}
+.btn{
+    background-color: #ee964b;
+    color:#0d3b66;
+}
+.h{
+    color:#0d3b66;
+    font-weight: bold;
+}
+.p{
+     color:#0d3b66;
+}
+.last{
+    background-color: #343a40;
+}
+.para{
+    color:white;
+    text-align: center;
+    padding:10px;
+}
+.image{
+    height: 200px;
+    width:250px;
+    padding: 20px;
+}
+.sub{
+    background-color: #f4d35e;
+    height: 350px;
+    width: 370px;
+    margin:20px;
+    border-radius: 10px;
+}

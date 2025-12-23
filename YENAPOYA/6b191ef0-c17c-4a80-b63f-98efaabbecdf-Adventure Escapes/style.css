@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+*{
+   margin:0;
+   font-family: "Roboto";
+}
+#navhead{
+    color: #ffffff;
+    margin-top: 7px;
+}
+/*Write your CSS code below and don't modify anything above*/
+.navbar{
+    background-color: #c9182c;
+    height: 30px;
+    width: 100vw;
+}
+.nav-button{
+    background-color: #23362b;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+}
+.first-section{
+    background-color: #8bc28c;
+    padding: 2px;
+    color: #ffffff;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+.second-section{
+    background-color: #a7c957;
+    height: 30vh;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.card1{
+    background-color: #c5dbf0;
+    height: 160px;
+    width: 100px;
+    margin-right: 5px;
+    border-radius: 7px;
+}
+.imgcard{
+    height: 90px;
+    width:  70px;
+    border-radius: 7px;
+}
+.cardimg1{
+    height: 60px;
+    width: 60px;
+    border-radius: 7px;
+}
+.story{
+    background-color: #797d62;
+    font-size: 10px;
+    color: #ffffff;
+}
+.profileimage{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 20px;
+    
+}
+.profiles{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bottom{
+    color: #ffffff;
+    background-color: #782832;
+    display:flex;
+    justify-content: center;
+    font-size: 8px;
+    text-align: center;
+}
+#privacy{
+    color: #ffffff;
+}

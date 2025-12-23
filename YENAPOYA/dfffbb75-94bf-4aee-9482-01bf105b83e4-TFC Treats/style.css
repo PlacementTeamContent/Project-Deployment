@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+   font-family: "Roboto", "Caveat";
+}
+.shad{
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    height: 400px;
+    
+}
+.bi{
+    width: 10px;
+}
+.navbar{
+    background-color: #343A40;
+    color: white;
+}
+.navbar-nav{
+    color: #ffffff;
+}
+.main{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+.main2{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #9BFAA9;
+}
+.main3{
+    
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #0ec930;
+    
+}
+.main4{
+    background-color: #9BFAA9;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+.main5{
+    
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color:#52FA6C ;
+    
+    
+}
+.bbb{
+    color: #ffffff;
+    background-color: #343A40;
+    height: 60px;
+    text-align: center;
+}
+.btn-2{
+    border:2px solid white;
+    border-radius: 4px;
+}
+
+.p12n{
+    font-family:Caveat;
+}
+.h12{
+    color:#000000 ;
+    font-family:Caveat;
+    font-weight: bold;
+}
+.h11{
+    color:#ffffff ;
+     font-family:Caveat;
+}
+.p11{
+    color:#ffffff ;
+    
+}
+.btn1{
+    color:#ffffff ;
+    background-color:#0ec930;
+    border-radius: 5px;
+    
+}
+.imm{
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+}
+.iii{
+    background-color: #ffffff;
+    border-radius: 4px;
+    height: 200px;
+}
+.ttt{
+    color: #000000;
+    font-weight: bold;
+}
+.kkk{
+    background-size: cover;
+    height: 150px;
+}
+
+
+/*Write your CSS code below and don't modify anything above*/

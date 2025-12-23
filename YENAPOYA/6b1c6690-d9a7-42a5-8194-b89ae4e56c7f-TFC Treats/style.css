@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+.back {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    background-size: cover;
+    height: 70vh;
+    padding: 20px;
+}
+
+.head1 {
+    font-family: "Caveat";
+    font-size: 25px;
+    text-align: center;
+}
+
+.para1 {
+    font-family: "Roboto";
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.but1 {
+    padding: 10px;
+    color: white;
+    border-radius: 7px;
+    border-width: 0;
+    background-color: #0ec930;
+}
+
+.back2 {
+    background-color: #9BFAA9;
+    font-family: "Caveat";
+    text-align: center;
+    padding: 20px;
+}
+
+.back3 {
+    background-color: #0ec930;
+    padding: 20px;
+}
+
+.head3 {
+    font-family: "Caveat";
+    text-align: center;
+}
+
+.card1 {
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 10px;
+}
+
+.ima1 {
+    height: 100px;
+    width: 150px;
+}
+
+.btn {
+    color: #0ec930;
+}
+
+.head4 {
+    font-size: 25px;
+}
+
+.ima2 {
+    height: 100px;
+}
+
+.back4 {
+    background-color: #9BFAA9;
+    font-family: "Caveat";
+    text-align: center;
+    padding: 20px;
+}
+
+.but2 {
+    border-width: 0;
+    font-family: "Roboto";
+    padding: 6px;
+}
+
+.back5 {
+    background-color: #0ec930;
+    text-align: center;
+    padding: 10px;
+    font-family: "Caveat";
+}
+
+.foot {
+    background-color: #343A;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+/*Write your CSS code below and don't modify anything above*/

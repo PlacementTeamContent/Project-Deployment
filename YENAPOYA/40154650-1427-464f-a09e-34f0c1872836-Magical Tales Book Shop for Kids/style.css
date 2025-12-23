@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+a{
+    color:#0d3b66;
+}
+.bg{
+    border-radius: 20px;
+}
+.bg-1{
+    background-color: #0d3b66;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.hd-1{
+    color:#ffffff;
+    padding: 20px;
+}
+.p{
+    color: #ffffff;
+}
+.btn{
+    background-color: #ee964b;
+    color:#0d3b66;
+    font-weight: bold;
+}
+.bg-3{
+    background-color: #faf0ca;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.s-1{
+    background-color: #f4d35e;
+    text-align: center;
+    border-radius: 3px;
+    margin:10px;
+}
+.i-1{
+    height:70px;
+    width:90px;
+    border-radius: 6px;
+    padding:5px;
+}
+.h{
+    color:#0d3b66;
+    font-size: 15px;
+}
+.p-1{
+    color:#0d3b66;
+    font-size:5px;
+}
+.p-3{
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+}

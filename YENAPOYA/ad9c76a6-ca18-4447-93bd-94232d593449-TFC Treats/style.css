@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: "Roboto", "Caveat";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.home-page {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/webcoding-gif/tfc+banner.jpg");
+    height: 20vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+    padding: 2px;
+}
+
+.h1 {
+    font-family: "Caveat";
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: white;
+}
+
+.button {
+    color: white;
+    background-color: #0ec930;
+    height: 4vh;
+    width: 10vw;
+    font-size: 10px;
+}
+
+.card1 {
+    background-color: #9BFAA9;
+    height: 14vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.h2 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.p2 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.p3 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+}
+
+.todaymenu {
+    background-color: #52FA6C;
+    height: 30vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.card2 {
+    height: 20vh;
+    width: 15vw;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+}
+
+.image {
+    height: 10vh;
+    width: 15vw;
+    padding: 5px;
+}
+
+.h3 {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.p4 {
+    font-size: 15px;
+    color: black;
+}
+
+.p5 {
+    font-size: 15px;
+    color: #0ec930;
+}
+
+.card3 {
+    height: 15vh;
+    width: 100vw;
+    background-color: #9BFAA9;
+    text-align: center;
+}
+
+.img {
+    height: 15vh;
+    width: 15vw;
+    margin: 10px;
+}
+
+.card4 {
+    height: 8vh;
+    width: 100vw;
+    background-color: #0ec930;
+    text-align: center;
+    padding: 60px;
+}
+
+.card5 {
+    height: 3vh;
+    width: 100vw;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.h4 {
+    font-size: 15px;
+    color: white;
+}
+
+.button1 {
+    color: black;
+    background-color: white;
+    height: 4vh;
+    width: 10vw;
+    font-size: 10px;
+}

@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: "Roboto";
+}
+
+/*Write your CSS code below and don't modify anything above*/
+.he {
+    background-color: #c9182c;
+    padding: 10px;
+}
+
+.cs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.h1 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.bt {
+    background-color: #000000;
+    color: #FFFFFF;
+    border-width: 0px;
+    border-radius: 3px;
+    padding: 5px;
+    font-size: 10px;
+}
+
+.se {
+    background-color: #8bc28c;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cs2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h2 {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: Roboto;
+    padding-bottom: 8px;
+    font-weight: 700;
+}
+
+.p2 {
+    color: #FFFFFF;
+    font-size: 10px;
+    font-family: Roboto;
+    padding-bottom: 8px;
+    font-weight: 500;
+}
+
+.img {
+    height: 100px;
+    width: 150px;
+}
+
+.th {
+    background-color: #a7c957;
+    padding: 20px;
+}
+
+.cs3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gr {
+    display: grid;
+    grid-template-columns: repeat(4, 130px);
+    gap: 8px;
+}
+
+.card {
+    background-color: #c5dbf0;
+    text-align: center;
+    padding: 5px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 140px;
+}
+
+.img2 {
+    height: 70px;
+    width: 120px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.h3 {
+    color: #000000;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-bottom: 10px;
+
+}
+
+.h4 {
+    color: #000000;
+    font-weight: bolder;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-bottom: 5px;
+
+}
+
+.p4 {
+    color: #000000;
+    margin-bottom: 25px;
+
+    font-family: Roboto;
+    font-size: 8px;
+}
+
+.fo {
+    background-color: #797D62;
+    padding:10px;
+}
+
+.cs4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.h5 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.gr2 {
+    display: grid;
+    grid-template-columns: repeat(3, 170px);
+    gap: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.h6 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.p6 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 10px;
+    
+    margin-bottom: 10px;
+}
+
+.img3 {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+}
+.fi{
+    background-color: #782832;
+    text-align: center;
+    margin:auto;
+    padding:10px;
+}
+.p7{
+    color:#FFFFFF;
+    font-family: Roboto;
+    font-size:10px;
+    
+}
+@media (max-width:575px) {
+    .cs2 {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: space-between;
+
+    }
+
+    .img {
+        margin-top: 10px;
+    }
+
+    .gr {
+        display: grid;
+        grid-template-columns: repeat(1, 130px);
+        gap: 8px;
+    }
+    .gr2 {
+    display: grid;
+    grid-template-columns: repeat(1, 170px);
+    gap: 30px;
+    margin-bottom: 10px;
+    
+}
+
+}

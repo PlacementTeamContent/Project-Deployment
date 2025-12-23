@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+}
+/*write your code below*/
+.bg1{
+    background-color: #faf0ca;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+.bg5{
+    background-color: #0d3b66;
+    padding:5px;
+}
+.bgr{
+    text-align: center;
+     font-size: 10px;
+    color:#ffffff;
+}
+.ght{
+    background-color: #343a40;
+}
+.but{
+    text-align: center;
+    background-color: #ee964b;
+    color:#0d3b66;
+    border:0px;
+}
+.hgf{
+    
+    text-align: center;
+
+    color:#ffffff;
+}
+.ru{
+    text-align: center;
+    font-size:20px;
+}
+.bge{
+    margin-left:20px;
+}
+.bgt{
+    background-color: #f4d35e;
+    background-size:cover;
+    padding:10px;
+    width: 90px;
+}
+.imf{
+    height: 70px;
+    width: 70px;
+}
